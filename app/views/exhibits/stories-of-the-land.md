@@ -1,4 +1,4 @@
-# *Stories of the Land: Diverse Agricultural Histories in the U.S.*
+# Stories of the Land: Diverse Agricultural Histories in the U.S.
 
 1
 
@@ -18,7 +18,7 @@ As you go through the pages, you’ll notice linked words that serve as pathways
 
 ## Authors
 
-- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/marsden_mariah_cropped.jpg"/>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/marsden_mariah_cropped.jpeg"/>
   <a class="name"> Mariah E. Marsden</a>
   <a class="title">2022 Library of Congress Junior Fellow, folklorist, and graduate student at Ohio Sate University</a>
 
@@ -37,7 +37,7 @@ As you go through the pages, you’ll notice linked words that serve as pathways
 
 ### Agriculture in the Twentieth Century: A Brief Introduction
 
-By the 1900s, agricultural practice in the United States was undergoing a transformation. The last half of the nineteenth century saw the formation of [land grant colleges and universities]( https://www.nea.org/sites/default/files/2022-03/Land%20Grant%20Institutions%20-%20An%20Overview.pdf) dedicated to agricultural advancement and research. The period also marked the beginning of the [sharecropping system](https://www.pbs.org/tpt/slavery-by-another-name/themes/sharecropping/) under which many formerly enslaved people and poor whites worked as tenants under contract on large farm properties with little hope for economic advancement or acquiring their own land due to the oppressive credit system that also developed.[<sup>1</sup>](/exhibits/stories-of-the-land/notes#1) Contract farming, often identified as characteristic of developing nations, later would [dominate the U.S. pork and chicken industries](https://americanarchive.org/catalog/cpb-aacip-43-47rn927z?start=2316.99&end=2363.49).<sup>2</sup>(/exhibits/stories-of-the-land/notes#1) This dichotomy of progress and repression carried over into the next century as industrial agriculture became a force to be reckoned with and farming movements such as [the Grange](https://www.gilderlehrman.org/history-resources/spotlight-primary-source/grange-movement-1875) gained political clout as they collectively explored the potential of new advancements in technology and scientific study. 
+By the 1900s, agricultural practice in the United States was undergoing a transformation. The last half of the nineteenth century saw the formation of [land grant colleges and universities]( https://www.nea.org/sites/default/files/2022-03/Land%20Grant%20Institutions%20-%20An%20Overview.pdf) dedicated to agricultural advancement and research. The period also marked the beginning of the [sharecropping system](https://www.pbs.org/tpt/slavery-by-another-name/themes/sharecropping/) under which many formerly enslaved people and poor whites worked as tenants under contract on large farm properties with little hope for economic advancement or acquiring their own land due to the oppressive credit system that also developed.[<sup>1</sup>](/exhibits/stories-of-the-land/notes#1) Contract farming, often identified as characteristic of developing nations, later would [dominate the U.S. pork and chicken industries](https://americanarchive.org/catalog/cpb-aacip-43-47rn927z?start=2316.99&end=2363.49).<sup>2</sup>(/exhibits/stories-of-the-land/notes#2) This dichotomy of progress and repression carried over into the next century as industrial agriculture became a force to be reckoned with and farming movements such as [the Grange](https://www.gilderlehrman.org/history-resources/spotlight-primary-source/grange-movement-1875) gained political clout as they collectively explored the potential of new advancements in technology and scientific study. 
 
 Historian Deborah Fitzgerald analyzes the origins of the industrial mindset in *Every Farm a Factory: The Industrial Ideal in American Agriculture*, noting how attitudes about farming were shaped by the ideals of productivity and efficiency:
 
@@ -47,7 +47,7 @@ On many farms in the 1920s, industrialization took hold. New, affordable tractor
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Fig 1. Russell Lee. Day laborer pumping up tire on tractor on large farm near Ralls, Texas. Nine tractors were used on this farm of four thousand nine hundred acres, 1939. Prints and Photographs Collection, Library of Congress. LC-USF33-012216-M1.</caption>
-<tr><td><a href="" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/stories_of-the_land_intro_image1.jpg" class="big-image" alt="Fig 1. Black-and-white photograph of a farmer leaning over an old-fashioned tractor while hand-pumping air into the tire."/></a></td></tr>
+<tr><td><a href="" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/stories_of_the_land_intro_image1.jpg" class="big-image" alt="Fig 1. Black-and-white photograph of a farmer leaning over an old-fashioned tractor while hand-pumping air into the tire."/></a></td></tr>
 </table>
 
 However, the economic and environmental crises of the 1930s would challenge industrial optimism in fundamental ways.[The Great Depression]( https://www.iowapbs.org/iowapathways/mypath/2591/great-depression-hits-farms-and-cities-1930s) and [Dust Bowl]( https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/great-depression-and-world-war-ii-1929-1945/dust-bowl/) indelibly changed the country’s agrarian landscape as hundreds migrated from failing farms to urban cities in hopes of new opportunities. At the same time, New Deal-era programs aimed to settle the instability of agricultural markets through subsidies and land deals to farmers even as vulnerable sharecroppers and tenants were overlooked and even harmed by policies that favored landowners.<sup>5</sup>(/exhibits/stories-of-the-land/notes#\5) Even in the midst of this turbulence, the industrial mindset continued to gain traction as more and more rural areas acquired access to electricity through the [Rural Electrification Administration](https://www.usda.gov/media/blog/2016/05/20/celebrating-80th-anniversary-rural-electrification-administration). 
@@ -58,7 +58,7 @@ The final decades of the twentieth century hearkened seismic shifts in both the 
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Fig 2. ASIrobots. Autonomous compact tractors in a Texas vineyard, Nov 2012, 2012. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Autonomous_compact_tractors_in_a_Texas_vineyard,_Nov_2012.jpg.</caption>
-<tr><td><a href="" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/stories_of-the_land_intro_image2.jpg" class="big-image" alt="Fig 2. A small red tractor and a small blue tractor drive down a vineyard row without occupants in the cab."/></a></td></tr>
+<tr><td><a href="" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/stories_of_the_land_intro_image2.jpg" class="big-image" alt="Fig 2. A small red tractor and a small blue tractor drive down a vineyard row without occupants in the cab."/></a></td></tr>
 </table>
 
 A new logic now competes with the industrial mindset cultivated in the previous century: sustainability. Sustainable agriculture prioritizes the environmental effects of farming, emphasizing the importance of conservation and preservation. Water, soil, and other natural resources are understood to be limited and significantly impacted by climate change. The long-term effects of chemical applicants continue to come under scrutiny. New advancements in biotechnology, GPS coordination, and robotic systems have changed the day-to-day labor of farming. But the broader decline of small farming in favor of large, consolidated agribusiness is not a new trend. It continues to impact communities, especially affecting [Black and indigenous farmers and agricultural workers of color]( https://www.soulfirefarm.org/get-involved/reparations/) in the process.
@@ -83,14 +83,10 @@ While wide-ranging, this exhibit does not purport to offer a comprehensive accou
 ## Cover
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption"> Russell Lee. New Madrid County, Missouri. Sharecropper woman filing hoe in cotton field, 1938. Prints and Photographs Division, Library of Congress. LC-DIG-fsa-8a23251. https://www.loc.gov/pictures/item/2017737007/</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/sotl+exhibit_title_image.jpg" alt="Russell Lee. New Madrid County, Missouri. Sharecropper woman filing hoe in cotton field, 1938. Prints and Photographs Division, Library of Congress. LC-DIG-fsa-8a23251."/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/sotl_exhibit_title_image.jpg" alt="Russell Lee. New Madrid County, Missouri. Sharecropper woman filing hoe in cotton field, 1938. Prints and Photographs Division, Library of Congress. LC-DIG-fsa-8a23251."/></td></tr>
 </table>
 
 ## Gallery
-
-- <a class="type">image</a>
-  <img alt="" src=https://s3.amazonaws.com/americanarchive.org/ exhibits/sotl+exhibit_title_image.jpg>
-  <a class="caption-text"> Russell Lee. New Madrid County, Missouri. Sharecropper woman filing hoe in cotton field, 1938. Prints and Photographs Division, Library of Congress. LC-DIG-fsa-8a23251. https://www.loc.gov/pictures/item/2017737007/</a>
 
 ## Records
 
