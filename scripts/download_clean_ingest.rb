@@ -49,7 +49,7 @@ class DownloadCleanIngest
 
     unrecognized_flags = args.select { |arg| arg =~ /^-/ }
     raise("Unrecognized flags: #{unrecognized_flags.join(', ')}") unless unrecognized_flags.empty?
-    raise("#{JUST_REINDEX} should only be used with #{IDS}, #{ID_FILES} or #{QUERY} modes") if @is_just_reindex && ![IDS, ID_FILES, QUERY].include?(mode)
+    raise("#{JUST_REINDEX} should only be used with #{IDS}, #{ID_FILES}, #{EXHIBITS}, or #{QUERY} modes") if @is_just_reindex && ![IDS, ID_FILES, EXHIBITS, QUERY].include?(mode)
 
     log_init(orig)
     $LOG.info("START: Process ##{Process.pid}: #{__FILE__} #{orig.join(' ')}")
