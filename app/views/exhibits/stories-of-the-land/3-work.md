@@ -83,7 +83,7 @@ This television program follows Jack and Lynne Stoddart as they recount their hi
 [***ViewFinder***, **“Los Braceros: Strong Arms to Aid the USA”**](https://americanarchive.org/catalog/cpb-aacip-86-50gthzqh) **(KVIE, Sacramento, CA, July 26, 2006).** 
 This television documentary features interviews with workers who participated in the [Bracero Program](https://guides.loc.gov/latinx-civil-rights/bracero-program) a work agreement between the United States and Mexico that permitted laborers to migrate across the border to fulfill short-term labor contracts on farms, ranches, canneries, and railroads in the wake of a workforce shortage during World War II. Braceros were required to return to Mexico after their work permits expired, and the program lasted from 1942 to 1964. This documentary calls attention to the labor of the braceros, which has been downplayed in historical accounts of the period, as well as the discrimination and harsh living conditions they were subjected to. By focusing on individual braceros—interviewing them, giving them space to tell their <f>Stories—this program seeks to emphasize the human dimension of this government <f>Policy.
 
-## Additional Broadcasts Relating to “Work”
+### Additional Broadcasts Relating to “Work”
 
 - [An Interview with Cesar Chavez](https://americanarchive.org/catalog/cpb-aacip-28-w950g3hk5x) (KPFA, Berkeley, CA, July 15, 1970)
 - [“Interview with Baldemar Velasquez”](https://americanarchive.org/catalog/cpb-aacip_27-g15t727s9t) (WYSO, Yellow Springs, OH, May 19, 1973).
@@ -111,12 +111,9 @@ This television documentary features interviews with workers who participated in
 
 ## Additional Resources
 
-- [Televising Black Politics in the Black Power Era: *Black Journal* and *Soul!*, AAPB exhibit](https://americanarchive.org/exhibits/black-power/)
-- [*In Black America*, AAPB collection](https://americanarchive.org/special_collections/kut-in-black-america/)
-- [*Black Journal*, AAPB collection](https://americanarchive.org/special_collections/black-journal/)
-- [African American Studies: Foundations and Key Concepts, *JSTOR Daily*](https://daily.jstor.org/african-american-studies-foundations-and-key-concepts/)
-- [National Council for Black Studies](https://ncbsonline.org/)
-- [The Black Power Movement, Digital Public Library of America](https://dp.la/primary-source-sets/the-black-power-movement/)
+- [History of the United Farm Workers](https://ufw.org/research/history/ufw-history/)
+- [*The Farmer’s Wife*: a 1998 documentary (dir. David Sutherland)](https://www.pbs.org/wgbh/pages/frontline/shows/farmerswife/)
+- [40 maps that explain food in America (Vox)](https://www.vox.com/a/explain-food-america)
 
 ## Cover
   <img title="Cover Image" alt="The marquee for the African American Institute at Northeastern University." src="https://s3.amazonaws.com/americanarchive.org/exhibits/africanamericaninstitute_square.png">
