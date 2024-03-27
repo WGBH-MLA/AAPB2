@@ -64,7 +64,7 @@ This radio broadcast features an interview with Pat Sackrey, director of the New
  
 [***Black Journal***, **episode 26**](https://americanarchive.org/catalog/cpb-aacip-62-dz02z1335r)  **(Thirteen WNET, New York, October 26, 1970).** 
 
-The first segment in this television magazine program explores connections with the land through the story of Soul City, North Carolina: a former plantation that later became an experimental Black community. Here, land is discussed as both a resource and a site in need of resources; city planners and leaders express the need for development, both materially and socially, through self-sufficient economic and educational opportunities. The segment also connects with issues of [Stewardship](#Stewardship) and [Labor](#Labor) as locals discuss what it means to live and harvest tobacco on land intimately connected to the legacies of slavery. Scholar-activist Annalena Hope Hassberg further underscores this point in her introduction to *We Are Each Other’s Harvest: Celebrating African American Farmers, Land, and Legacy.* “There has been an unshakeable conviction among Black people,” she writes, “that true liberation requires landownership.”[<sup>12<sup/>(/exhibits/stories-of-the-land/notes#12)  
+The first segment in this television magazine program explores connections with the land through the story of Soul City, North Carolina: a former plantation that later became an experimental Black community. Here, land is discussed as both a resource and a site in need of resources; city planners and leaders express the need for development, both materially and socially, through self-sufficient economic and educational opportunities. The segment also connects with issues of [Stewardship](#Stewardship) and [Labor](#Labor) as locals discuss what it means to live and harvest tobacco on land intimately connected to the legacies of slavery. Scholar-activist Annalena Hope Hassberg further underscores this point in her introduction to *We Are Each Other’s Harvest: Celebrating African American Farmers, Land, and Legacy.* “There has been an unshakeable conviction among Black people,” she writes, “that true liberation requires landownership.”[<sup>12<sup/>](/exhibits/stories-of-the-land/notes#12)  
 
 [**“The Urban Farming Movement”**](https://americanarchive.org/catalog/cpb-aacip_514-sx6445jd86) **(Commonwealth Club of California, Hoover Institution & Archives, Stanford, CA, May 12, 2010).**
 
@@ -78,18 +78,54 @@ Filmed over four years beginning in 2011, *Farmsteaders* presents an intimate lo
 
 ### Resources
 
+[***National Native News Special Features***](https://americanarchive.org/catalog/cpb-aacip-206-343r25ph) **(Koahnic Broadcast Corporation, Anchorage, AK, September 18, 1990).** 
+
+What happens when there’s a dispute about which resource should take priority? The first news segment in this radio broadcast examines those impacted by the development of hydroelectric dams along the Columbia and Snake Rivers in the Pacific Northwest—particularly local tribes, who sought legal intervention to protect their land and fishing treaty rights. Wilson Lumia (Yakima) expresses his frustration, discussing his experience as a fisherman and the devastating effects of the dams on the Chinook salmon population: “They killed 90 percent to 80 [percent] of the juvenile fish going over the dams. We got to do something about the dams to save the fish.”
+
+[***The MacNeil/Lehrer Report***, **“Family Farmer”**](https://americanarchive.org/catalog/cpb-aacip_507-513tt4gb5h) **(WNET/WETA, New York/Washington, March 9, 1978).**
+
+This national broadcast considers the decline of the idealized “family farm” [Philosophy](#Philosophy) and approach to agriculture. The struggles are couched both as issues of [Weather](#Weather)—droughts, freezes, and storms—as well as a strain on resources that makes it more difficult to retain their land. Of particular anxiety is the issue of inheritance: passing resources from one generation to the next. Here, there are echoes of the patriarchal farming approach as “sons” and “sons-in-law” are exclusively discussed as the heirs of farmland. But with a lack of prospective successors, family farms around the country continue to be absorbed into larger agribusiness [Industry](#Industry).
+
+[***Oregon Story***, **“Harvesting the Wild”**](https://americanarchive.org/catalog/cpb-aacip-153-84mkm5c3) **(Oregon Public Broadcasting, Portland, October 2, 2003).**
+[Screenshot at 7:09]
+This special program from Oregon Public Broadcasting discusses those involved in the [Harvest](#Harvest) of non-timber forest products: berries, mushrooms, moss, echinacea, and more. But as outsiders trespass into the Warm Springs Reservation in search of the surprisingly lucrative huckleberry, pushback from Native foragers start conversations about [Stewardship](#Stewardship) and land loss. Who retains access to these natural resources? How are land boundaries navigated and negotiated? Those interviewed tackle these questions from a variety of perspectives, from local hobbyists to forest service workers.
+
+[***Midday,*** **“When Farmers Took a Holiday”**]( https://americanarchive.org/catalog/cpb-aacip_43-72b8h6p2) **(prod. Mark Heistad, Minnesota Public Radio, St. Paul, February 18, 1985).** 
+This radio documentary looks back at the experiences of farmers during the early years of the Great Depression, with interviews from farmers and historians who look back on the Midwest populism of the Farmers’ Holiday Association movement. During that time, farmers Collectively(#Collectivity) withheld products and resources from the market—and sometimes resorted to violence and “hellraising”—in order to effect Policy(#Policy) changes. The broadcast incorporates a bit of art too, in the performance of Ernest V. Stoneman’s song from that time called “All I Got’s Gone”: “Whole lot of people own nice little farms. Doin’ pretty well, didn’t do no harm. Sold their farm, bought an auto or two. Now it’s come due, they had to skid-doo. All they got’s gone, all they got’s gone.”
+
+[***Louisiana Public Square***, **“Louisiana Grown: Agriculture Across the State”**]( https://americanarchive.org/catalog/cpb-aacip_17-46d25zzh) **(Louisiana Public Broadcasting, Baton Rouge, July 28, 2010).**
+This broadcast shows the continued discussion of “family farmer” ideal and Philosophy(#Philosophy) nearly four decades after The MacNeil/Lehrer Report broadcast (see above). How do farmers pass on their resources and land? Panelists on this local program discuss why young people haven’t been getting into farming. Justin DeKeyzer, a fourth-generation Louisiana farmer interviewed for the segment, suggests that land and high expenses are the primary factors: “Hard to get the land to farm, unless you own it, you know. A lot of people—this land gets passed down, or any land gets passed on to their kids, and most of them sell. And most of that is either sold too high a farmer can’t buy it, or it gets put to housing.”
+
+### Additional Broadcasts Related to Land
+
+- [*Promise City*](https://americanarchive.org/catalog/cpb-aacip_37-010p2nvv) (dir. John Beyer, Iowa Public Television, Johnston, October 14, 1969).
+- [*This Land is Your Land*, episode 18, “Maurice Franz”](https://americanarchive.org/catalog/cpb-aacip-528-6w96689p8m) (WRVR, New York, June 2, 1971).
+- [*This Land is Your Land*, “Dr. Teply”](https://americanarchive.org/catalog/cpb-aacip-528-v11vd6qf8x) (WRVR, New York, March 31, 1972). 
+- [*MPR News Feature*, “Soundscape features sounds of the harvest on the norther plains”](https://americanarchive.org/catalog/cpb-aacip_43-c824b2xh3d) (Minnesota Public Radio, St. Paul, October 10, 1975). 
+- [“Interview with Farmers in the Miami Valley Area of Ohio”](https://americanarchive.org/catalog/cpb-aacip_27-gb1xd0r80k) (WYSO, Yellow Springs, OH, ca. 1970s).
+- [“National Center for Audio Experimentation: Old MacDonald Sold His Farm”](https://americanarchive.org/catalog/cpb-aacip_30-11kh1zss) (Wisconsin Public Radio, ca. 1970s).
+- [*New Jersey Nightly News*, “Farms – Closer Look”](https://americanarchive.org/catalog/cpb-aacip-259-2n4zk740) (New Jersey Network, Trenton, ca. 1980).
+- [*U.S. Chronicle*, episode 223, “The Last Crop”](https://americanarchive.org/catalog/cpb-aacip-55-d79571819x) (KQED-TV, San Francisco, CA, 1981).
+- [*Stay on the Farm: Reflections of Three Generations*, “Part 1”](https://americanarchive.org/catalog/cpb-aacip-c232587485e) (Woodsmoke Productions, Vermont Public Radio, 1984).
+- [*Legacies of the Land*] https://americanarchive.org/catalog/cpb-aacip-526-445h990b9z) (dir. Ginny Martin, KERA, Dallas, TX, January 27, 1985)
+- [*Journal*, “Black Owned Land”](https://americanarchive.org/catalog/cpb-aacip_41-10jsz266) (South Carolina ETV, Columbia, December 3, 1987).
+•	[*Midday*, “A look at the differences between rural and urban Minnesota”](https://americanarchive.org/catalog/cpb-aacip_43-87pnwc9m) (Minnesota Public Radio, St. Paul, March 27, 1990).
+- [*North Carolina Now*](https://americanarchive.org/catalog/cpb-aacip_129-49g4fdkq) (UNC-TV, Research Triangle Park, NC, January 8, 1997).
+- [*New Mexico in Focus*, episode 625, “The Future of New Mexico: Crops, Cattle and Continuation”](https://americanarchive.org/catalog/cpb-aacip-191-96wwq8dh) (KNME-TV, Albuquerque, NM, May 23, 2003). 
+- [Vado: The Unspoken History”](https://americanarchive.org/catalog/cpb-aacip-79e43ae2f15) (prod. Thomas Williams, KRWG, Las Cruces, NM, March 2004).
+- [*Aggie Almanac*, episode 184, “Onions Without Borders”](https://americanarchive.org/catalog/cpb-aacip-d1d5c032a93) (KRWG, Las Cruces, NM, September 5, 2008).
+- [“The New Ruralism: Smart Growth and Local Food”](https://americanarchive.org/catalog/cpb-aacip_514-5m6251gb99) (Commonwealth Club of California, San Francisco, May 20, 2010).
+- [*Forsaken Fields*](https://americanarchive.org/catalog/cpb-aacip_86-741rnj5s) (prod. Midori Sperandeo, KVIE, Sacramento, CA, October 27, 2017).
+- [“Farmer’s Market”]( https://americanarchive.org/catalog/cpb-aacip-207-46d258fd) (KUNM, Albuquerque, NM, August 17, 2019). 
+- [*Preserving Oklahoma History*, episode 104](https://americanarchive.org/catalog/cpb-aacip_521-319s17tk0c) (OETA, Oklahoma City, date unknown).
+
 #### Next: [Work](/exhibits/stories-of-the-land/3-work)
 
-## Resources
+## Additional Resources
 
-- [*Le Show* Special Collection, AAPB](https://americanarchive.org/special_collections/le-show-collection)
-- [*Le Show* at HarryShearer.com](https://harryshearer.com/le-show/)
-- [WWNO 89.9 New Orleans Public Radio](https://www.wwno.org/)
-- [KCRW “Harry Shearer”](https://www.kcrw.com/@@search?q=%22harry%20shearer%22)
-- [Interview with Harry Shearer by Kenneth Plume](https://www.ign.com/articles/2000/02/10/interview-with-harry-shearer-part-2-of-4)
-- [*WTF with Marc Maron*](https://www.wtfpod.com/podcast/episodes/episode_578_-_harry_shearer)
-- [*Behind Closed Doors* with Harry Shearer](https://www.youtube.com/watch?v=jC_2tl7XhhQ)
-- [National Press Club Luncheon with Harry Shearer](https://www.press.org/newsroom/video/npc-luncheon-harry-shearer)
+- [Information on tribal governance (National Congress of American Indians)](https://www.ncai.org/section/policy)
+- [2021 report on Black farmer exclusion (*PBS NewsHour*)](https://www.youtube.com/watch?v=w1mh0wk5Fc8)
+- [AAPB Special Collection on Great Depression Interviews](https://americanarchive.org/special_collections/the-great-depression)
 
 ## Cover
   <img title="Cover Image" alt="The *Le Show* control board." src="https://s3.amazonaws.com/americanarchive.org/exhibits/LeShowBoard.jpg">
