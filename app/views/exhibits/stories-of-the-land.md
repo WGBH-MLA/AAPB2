@@ -2,7 +2,7 @@
 
 1
 
-<iframe src="https://www.google.com/maps/d/edit?mid=1zmflxpjGaNeBRAoT8lTWZJiE5v4xom4&ll=35.57977808310777%2C-120.35441470314015&z=4" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/edit?mid=1IDwAcp7n1_R8zufsmABfllrb2oEl2P4&ll=41.192423321107086%2C-120.35441470314015&z=4" width="640" height="480"></iframe>
 
 ## Summary
 
