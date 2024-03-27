@@ -5,6 +5,8 @@ require 'geo_location'
 class User
   DARTMOUTH_HOST_RE = /^(.+\.)?meptest\.dartmouth\.edu$/
   DARTMOUTH_HOST_2_RE = /^(.+\.)?pub\.dartmouth\.edu$/
+  GITHUB_IO = /^(.+\.)?github\.io$/
+  AVIARY_PLATFORM = /^(.+\.)?iiif\.aviaryplatform\.com$/
   POPUP_HOST_RE = /^(.+\.)?popuparchive\.com$/
   AAPB_HOST_RE = /^(.+\.)?americanarchive\.org$/
   AWS_HOST_RE = /^(.+\.)?wgbh-mla\.org$/
@@ -64,7 +66,7 @@ class User
   end
 
   def authorized_referer_regexes
-    [DARTMOUTH_HOST_RE, DARTMOUTH_HOST_2_RE]
+    [DARTMOUTH_HOST_RE, DARTMOUTH_HOST_2_RE, GITHUB_IO, AVIARY_PLATFORM]
   end
 
   def onsite_ip_ranges
