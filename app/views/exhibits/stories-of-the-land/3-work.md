@@ -26,8 +26,6 @@ At first, we may think of agricultural work as fixed in place—in fields or bar
 
 ### Harvest
 
-In May 1979, [the WGBH program *Say Brother* covered the Black Studies programs at colleges within the Boston area](https://americanarchive.org/catalog/cpb-aacip-15-9s17ss5w): Harvard University, Boston University, and Northeastern University. Journalist George Rivera went inside the programs to “establish a case delineating some of the perpetual, institutional obstacles placed on Afro Studies programs from their inception” and with the hope to “present information that would spur continued support for the expansion and enrichment of university-subsidized, Third World heritage programs.” When speaking with Black faculty at Northeastern University, Rivera noted that the school itself had an “African American Institute” that had preceded the school’s Black Studies program, where community members and students could take coursework on Black culture free of charge. Despite this access and support, Black students at Northeastern who attended these classes could not receive actual college credit for them. Dean Gregory Hicks revealed to Rivera that a group of twenty-five minority students—backed by the Ford Foundation to diversify the student body—had demanded racial equity from the university administration in 1968 and saw their plans for the institute realized after the assassination of Martin Luther King Jr. In 1973, the Department of African American Studies was founded, only five years after Northeastern’s African American Institute was established. Dr. Virgil Wood, the institute’s director, described his responsibility to “plan and implement a range of academic and support programs, both cultural and social for Black students at Northeastern.” Wood stated that many Black students at universities were subjected to a “revolving door” where they were recruited, but not retained through graduation, and he believed that his institute could bridge the retention gap Black students faced. Dr. Holly Carter, who served as the chairwoman of Northeastern’s African American Studies program during its early years, spoke for the importance of the institute and the department working as a unit in order to service the marginalized Black students. 
-
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Workers feed alligators in a temperature-controlled farm building as featured in this episode of Louisiana Conservationist Magazine (1991).</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/work_image1_harvest.jpg.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/work_image1_harvest.jpg" class="big-image" alt="A shirtless worker tosses food from buckets along a row of enclosed alligator pens with warm, bright light bulbs."/></a></td></tr>
@@ -36,7 +34,7 @@ In May 1979, [the WGBH program *Say Brother* covered the Black Studies programs 
 [**“Just a Small Fishery” (KYUK, Bethel, AK, September 20, 1984)**](https://americanarchive.org/catalog/cpb-aacip-127-98mcvsx7).
 This television program explores commercial and subsistence aquaculture in western Alaska. The fishery featured here represents the commercial interest in herring along the coastline. In the broadcast, fishing cooperative members discuss prices and the impacts of overfishing this aquatic [Resource](#resources), locals follow the herring migration runs in their small fishing boats, and larger, [Industrial](#industry) processing vessels collect their hauls for sale on the market. The program expands definitions of agriculture, emphasizing that harvest can occur far from the dirt and soil of conventional farm land.
 
-[***Louisiana Conservationist Magazine***, **episode 208, “Larto Saline Complex and Alligator Farming”**] (https://americanarchive.org/catalog/cpb-aacip_17-90rr5zt9) **(Louisiana Public Broadcasting, Baton Rouge, January 3, 1991).** 
+[***Louisiana Conservationist Magazine***, **episode 208, “Larto Saline Complex and Alligator Farming”**](https://americanarchive.org/catalog/cpb-aacip_17-90rr5zt9) **(Louisiana Public Broadcasting, Baton Rouge, January 3, 1991).** 
 One of the segments in this newsmagazine examines alligator farming: an industrial approach to raising gators for leather and meat production that began to gain traction in the 1970s. The journalists tour one of the facilities in 1990 where the animals were incubated and raised with carefully managed temperature chambers to control growth and development. By employing the [Rhetoric](#rhetoric) of [Industry](#industry)—“conversion” to describe butchering, “food intake” to describe feeding, and “renewable [Resource](#resources)” to describe propagation—proponents of this approach frame alligator farming as an industry worth cultivating.
 
 [***WPLN News Archive***, **“Tennessee Mussels”**](https://americanarchive.org/catalog/cpb-aacip-50c34997d95) **(WPLN/Nashville Public Radio, July 1, 2003).** 
@@ -49,9 +47,69 @@ This short documentary, broadcast on the PBS series *POV*, considers the <f>Cult
 
 ### Labor
 
-#### Next: [Black Studies at 50](/exhibits/odyssey-of-black-studies-in-public-broadcasting/4-black-studies-at-50)
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption"> Inmates of one of the New Jersey prison farms work and discuss their experiences in this feature on “Jones Farm” from the 1970s.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/work_image2_labor.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/work_image2_labor.jpg" class="big-image" alt="Three workers clean dairy milking instruments in black barrels."/></a></td></tr>
+</table>
 
-## Resources
+[**“Jones Farm”**](https://americanarchive.org/catalog/cpb-aacip-259-x05x9g5t)(New Jersey Network, Trenton, ca. 1970s), 
+In this news segment, journalists visit one of the fourteen prison farms in New Jersey in the 1970s, which supplied a significant percentage of the food for other prisons around the state. Those serving their sentences at Jones Farm worked with hogs and dairy cattle and received reduced sentences, though they saw very little monetary payment for what was very profitable labor, as outlined in the program. Difficult working conditions and cuts to work-release and furlough programs also take their toll. “Well, it’s nice for the visits,” says inmate Ken Carter of the prison farm. “You know, when your people come—your grandkids, your wife, friends—it’s nice, that’s all. Other than that, it’s just a work camp.”
+
+[***Friends on the Road***, **“Three Farmers”**](https://americanarchive.org/catalog/cpb-aacip_29-8380gkrz) **(Wisconsin Public Television, WHA-TV, Madison, February 23, 1979).**
+This episode of the television series *Friends on the Road* visits three farmers in their homes. They discuss their daily chores while raising hogs and sheep, dealing with the realities of harsh Wisconsin winter <f>Weather, and working as women in a male-dominated industry. “I believe that in the future you may see more women operating farms,” says Alice Carroll, “because after one or two have pioneered out and done it, there may be others that will follow and not feel out of place doing it.” The three featured farmers emphasize the amount of labor required in the industry but also the rewards that go along with good planning and recordkeeping. 
+
+[**“What the Future Holds for Farm Workers and Hispanics”**](https://americanarchive.org/catalog/cpb-aacip_514-s756d5qc89) **(Commonwealth Club of California, Hoover Institution Library & Archives, Stanford, CA, November 9, 1984).** 
+This radio broadcast covers a meeting of the Commonwealth Club of California, the nation’s oldest public affairs program. At this meeting, César Chávez—a labor leader and civil rights activist—speaks to attendees about coordinating boycotts, the “savage conditions” under which farm workers must toil, his work through the United Farm Workers labor union, and <f>Collective action in farming. “All my life I have been driven by one dream, one goal, one vision,” says Chávez, “to overthrow a farm labor system in this nation that treats farm workers as if they were not important human beings. Farm workers are not agricultural implements. They are not beasts of burden to be used and discarded.”
+
+[***Crisis in Agriculture***, **“Farm Rally in Ames”**](https://americanarchive.org/catalog/cpb-aacip_37-01pg4hq7) **(Iowa Public Television, Johnston, IA, February 27, 1985).** 
+This is the second in a two-part series covering a 1985 rally in Ames, Iowa, where speakers discuss the devastating effects of the farm crisis on the physical and mental health of farmers. Joan Blundall is among those who share stories about farmer depression, violence, and suicide, broaching topics that do not often receive attention in political and economic discussions about agriculture. In a 2022 article from *The Journal of Rural Health*, researchers found that “other countries have discovered that farmers have higher rates of suicide than individuals in other occupations.” Australian researchers, for example, identified the <f>Environmental impacts of climate change as potential stressors, while Indian studies identified “government apathy” as a contributing factor.[<sup>16</sup>](/exhibits/stories-of-the-land/notes#16)  The speakers featured in the program utilize impassioned <f>Rhetorical appeals to push for <f>Policy changes, demonstrating the emotional labor of farming that can go unacknowledged. 
+
+<a id="Movement"></a>
+
+### Movement
+
+**EMBEDED VIDEO SEGMENT - FIX:** Link: https://americanarchive.org/catalog/cpb-aacip-86-50gthzqh?proxy_start_time=470.63 
+Caption: Jose Ramirez Delgado reflects on how family’s his farming background impacted his experience in the 2006 program Braceros Program in "Los Braceros: Strong Arms to Aid the USA” (item below).
+
+[***NET Journal***, **episode 172, “What Harvest for the Reaper?”**](https://americanarchive.org/catalog/cpb-aacip-75-074tmqqp) **(dir. Morton Silverstein, National Educational Television and Radio Center, January 29, 1968).** 
+Nearly ten years after Edward R. Murrow’s investigative coverage of migrant agricultural workers in *Harvest of Shame* (1960), this documentary from National Educational Television highlights the cruel and exploitative conditions of a farm labor camp in Long Island, as well as the vitriol and racism that Black workers faced from farm owners and processors. The program follows the laborers as they are bussed from Arkansas to New York to harvest strawberries, string beans, cauliflower, and potatoes under a <f>Labor system deeply entrenched in the “economics of exploitation.”
+
+[***The Oregon Story***, **“Agricultural Workers”**](https://americanarchive.org/catalog/cpb-aacip-153-655dvcgs) **(Oregon Public Broadcasting, July 12, 2001).** 
+“Agriculture is very, very important to who we are as a country,” says Erasmo Gamboa, historian at the University of Washington. “Unfortunately, the public understands the importance of the farmer but not the farm worker.” Through commentary and interviews, this broadcast aims to center the stories of forgotten workers like Richard Salinas of Hubbard, Oregon, who began as a farm worker in Texas before moving with his family for the agricultural opportunities in the northwest. Ultimately, the broadcast considers how the migration of Latino farm workers has shaped the <f>Cultural landscape of Oregon even as workers reflect on how communities in different states have reacted to their presence with varying degrees of prejudice and welcome.
+
+[**“Hippie Jack and Friends”**](https://americanarchive.org/catalog/cpb-aacip_23-106wwrhk) **(WCTE, Cookeville, Tennessee, 2005)** 
+This television program follows Jack and Lynne Stoddart as they recount their history in the Upper Cumberland region of Tennessee. The Stoddarts were a part of the Back to the Land countercultural movement of the 1970s and moved to the area from Miami, Florida. “It was a time when moving to the country, living off the land, and pursuing an alternate lifestyle was a reality,” says Jack. “It wasn’t something that people just dreamed about or, you know, thought about when they were tired.” The couple reflects on their experiences integrating into the neighborhood, the labor required after their move, and the locals who offered mentorship and knowledge about subsistence farming.
+
+[***ViewFinder***, **“Los Braceros: Strong Arms to Aid the USA”**](https://americanarchive.org/catalog/cpb-aacip-86-50gthzqh) **(KVIE, Sacramento, CA, July 26, 2006).** 
+This television documentary features interviews with workers who participated in the [Bracero Program](https://guides.loc.gov/latinx-civil-rights/bracero-program) a work agreement between the United States and Mexico that permitted laborers to migrate across the border to fulfill short-term labor contracts on farms, ranches, canneries, and railroads in the wake of a workforce shortage during World War II. Braceros were required to return to Mexico after their work permits expired, and the program lasted from 1942 to 1964. This documentary calls attention to the labor of the braceros, which has been downplayed in historical accounts of the period, as well as the discrimination and harsh living conditions they were subjected to. By focusing on individual braceros—interviewing them, giving them space to tell their <f>Stories—this program seeks to emphasize the human dimension of this government <f>Policy.
+
+## Additional Broadcasts Relating to “Work”
+
+- [An Interview with Cesar Chavez](https://americanarchive.org/catalog/cpb-aacip-28-w950g3hk5x) (KPFA, Berkeley, CA, July 15, 1970)
+- [“Interview with Baldemar Velasquez”](https://americanarchive.org/catalog/cpb-aacip_27-g15t727s9t) (WYSO, Yellow Springs, OH, May 19, 1973).
+- [MPR News Feature, “Farm Machinery May Replace Migrant Workers”](https://americanarchive.org/catalog/cpb-aacip_43-5t3fx7450c) (Minnesota Public Radio, St. Paul, MN, June 20, 1975).
+- [MacNeil/Lehrer Report, “Migrant Workers”](https://americanarchive.org/catalog/cpb-aacip_507-n872v2d61s) (WNET and WETA, November 25, 1976).
+- [MacNeil/Lehrer Report, “Illinois Farmers Visit China”](https://americanarchive.org/catalog/cpb-aacip_507-hm52f7kj9j) (WNET and WETA, April 21, 1978).
+- [Spectrum Hawaii, “Kauai”](https://americanarchive.org/catalog/cpb-aacip-225-504xh2zn) (KHET, Honolulu, HI, November 7, 1983).
+- [*Kansas City Illustrated*, “Newcomers”](https://americanarchive.org/catalog/cpb-aacip-384-12z34wtq?start=123.71&end=1083.71) (KCPT, Kansas City, MO, June 19, 1984).
+- [*Carolina Journal*, “Farm Crisis”](https://americanarchive.org/catalog/cpb-aacip_41-22v41r56) (South Carolina Educational Television Network, January 6, 1986).
+- [“Farm Worker Series”](https://americanarchive.org/catalog/cpb-aacip-207-773txjh8) (KUNM, Albuquerque, NM, September 1, 1986).
+- [*Midday*, “Migrant Farm Workers”](https://americanarchive.org/catalog/cpb-aacip_43-62f7mjcv) (Minnesota Public Radio, St. Paul, MN, October 17, 1988.)
+- [*We Came to Grow: Japanese Americans in the Central Valley, 1869-1941*](https://americanarchive.org/catalog/cpb-aacip_86-02c8679g) (KVIE, Sacramento, CA, 1999).
+- [*Michigan at Risk*, “Farming on the Edge”](https://americanarchive.org/catalog/cpb-aacip_217-45cc2kwx) (WKAR, Michigan State University, East Lansing, MI, May 31, 2000).
+- [“The Farm Workers’ Movement”](https://americanarchive.org/catalog/cpb-aacip-514-416sx64z1w) (Commonwealth Club of California, April 9, 2003).
+- [*Return to the Valley*](https://americanarchive.org/catalog/cpb-aacip_426-07gqnm60) (KEET, Eureka, CA, 2003).
+- [WPLN News Archive, “Tennessee Pearls”](https://americanarchive.org/catalog/cpb-aacip-dcb61c00e61) (WPLN News, Nashville, TN, June 30, 2003).
+- [*Here and Now*](https://americanarchive.org/catalog/cpb-aacip-29-89d51q0k) (Wisconsin Public Television, April 30, 2010).
+- [*African Americans in California Heartland*, footage #1](https://americanarchive.org/catalog/cpb-aacip_86-07gqnmqw) (KVIE, Sacramento, CA, June 17, 2013).
+- [*African Americans in California Heartland*, footage #2](https://americanarchive.org/catalog/cpb-aacip_86-60cvdvc6) (KVIE, Sacramento, CA, June 17, 2013).
+- [*Viewfinder*, “Little Manila: Filipinos in California’s Heartland,” footage #1](https://americanarchive.org/catalog/cpb-aacip-86-569324xw) (KVIE, Sacramento, CA, June 17, 2013).
+- [*Viewfinder*, “Little Manila: Filipinos in California’s Heartland,” footage #2](https://americanarchive.org/catalog/cpb-aacip-86-032281fk) (KVIE, Sacramento, CA, June 17, 2013).
+- [*Viewfinder*, “Little Manila: Filipinos in California’s Heartland,” footage #3](https://americanarchive.org/catalog/cpb-aacip-86-06g1jxmm) (KVIE, Sacramento, CA, June 17, 2013),
+ 
+#### Next: [Environment](/exhibits/stories-of-the-land/4-environment)
+
+## Additional Resources
 
 - [Televising Black Politics in the Black Power Era: *Black Journal* and *Soul!*, AAPB exhibit](https://americanarchive.org/exhibits/black-power/)
 - [*In Black America*, AAPB collection](https://americanarchive.org/special_collections/kut-in-black-america/)
