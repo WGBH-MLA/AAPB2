@@ -76,8 +76,7 @@ This is the second in a two-part series covering a 1985 rally in Ames, Iowa, whe
 
 ### Movement
 
-**EMBEDED VIDEO SEGMENT - FIX:** Link: https://americanarchive.org/catalog/cpb-aacip-86-50gthzqh?proxy_start_time=470.63 
-Caption: Jose Ramirez Delgado reflects on how family’s his farming background impacted his experience in the 2006 program Braceros Program in "Los Braceros: Strong Arms to Aid the USA” (item below).
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-86-50gthzqh?proxy_start_time=470.63'></iframe>
 
 [***NET Journal***, **episode 172, “What Harvest for the Reaper?”**](https://americanarchive.org/catalog/cpb-aacip-75-074tmqqp) **(dir. Morton Silverstein, National Educational Television and Radio Center, January 29, 1968).** 
 
