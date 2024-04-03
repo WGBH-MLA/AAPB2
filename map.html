@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Interactive Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  </head>
+  <body>
+    <div id="map" style="height: 600px; width: 100%"></div>
+
+    <script>
+      // Initialize the map and set its view to the United States
+      var map = L.map('map').setView([37.8, -96], 4)
+
+      // Set up the OSM layer
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 7,
+        minZoom: 2,
+        attribution:
+          'Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors',
+      }).addTo(map)
+
+      var geojsonPath =
+        'https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json'
+
+      function onEachFeature(feature, layer) {
+        layer.on({
+          click: function (e) {
+            console.log('Clicked on ' + feature.properties.name, e)
+            window.location.href = '#' + feature.properties.name
+          },
+        })
+      }
+
+      // Add the GeoJSON layer to the map
+      fetch(geojsonPath)
+        .then(response => response.json())
+        .then(data => {
+          L.geoJson(data, {
+            onEachFeature: onEachFeature,
+          }).addTo(map)
+        })
+    </script>
+  </body>
+</html>
