@@ -5,6 +5,13 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   </head>
+  <style>
+    .about {
+      font-size: 0.8em;
+      max-height: 10rem;
+      overflow: auto;
+    }
+  </style>
   <body>
     <div id="map" style="height: 600px; width: 100%"></div>
 
@@ -22,6 +29,8 @@
 
       var geojsonPath =
         'https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json'
+      var orgs =
+        'https://raw.githubusercontent.com/WGBH-MLA/AAPB2/map/orgs.json'
 
       function onEachFeature(feature, layer) {
         layer.on({
@@ -39,6 +48,26 @@
           L.geoJson(data, {
             onEachFeature: onEachFeature,
           }).addTo(map)
+        })
+
+      fetch(orgs)
+        .then(response => response.json())
+        .then(data => {
+          Object.keys(data).forEach(org_id => {
+            let org = data[org_id]
+            L.marker(org.location, { title: org.Name })
+              .addTo(map)
+              .bindPopup(
+                (org.Url
+                  ? `<a href="${org.Url}"><h3>${org.Name}</h3></a>`
+                  : `<h3>${org.Name}</h3><br>`) +
+                  `${org.City}, ${org.State}<br>` +
+                  (org.About && `<div class="about">${org.About}</div><br>`) +
+                  (org.Productions
+                    ? `<h4>Productions</h4><div class="about">${org.Productions}</div>`
+                    : '')
+              )
+          })
         })
     </script>
   </body>
