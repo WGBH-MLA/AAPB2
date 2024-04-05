@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![ What’s Out There for J.R? Interviews and Footage]("https://s3.amazonaws.com/americanarchive.org/special-collections/whatsoutthereforjr_mainimage.jpg" What’s Out There for J.R? Interviews and Footage")
+![ What’s Out There for J.R? Interviews and Footage](https://s3.amazonaws.com/americanarchive.org/special-collections/whatsoutthereforjr_mainimage.jpg "What’s Out There for J.R? Interviews and Footage")
 
 ## Summary
 
