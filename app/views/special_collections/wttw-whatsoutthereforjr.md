@@ -18,12 +18,12 @@ These interviews offer insights relevant to the foundational needs of inner-city
 
 ## Featured
 
-[![Father Larry Craig](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-3b6fb0f950b)
-[![James Garbarino](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-96967f68b38)
-[![J.R.](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-c4eebeded56)
-[![Joan Costello](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-1762786bac5)
-[![Jose Camacho](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-6ad597b1135)
-[![Jan Yumata](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-f0172990498)
+[![Father Larry Craig](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-f8f820b6c73.jpg)](/catalog/cpb-aacip-f8f820b6c73)
+[![James Garbarino](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-96967f68b38.jpg)](/catalog/cpb-aacip-96967f68b38)
+[![J.R.](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-c4eebeded56.jpg)](/catalog/cpb-aacip-c4eebeded56)
+[![Joan Costello](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-1762786bac5.jpg)](/catalog/cpb-aacip-1762786bac5)
+[![Jose Camacho](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-6ad597b1135.jpg)](/catalog/cpb-aacip-6ad597b1135)
+[![Madeleine Garcia](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-c4c40ba06ce.jpg)](/catalog/cpb-aacip-c4c40ba06ce)
 
 ## Resources
 
