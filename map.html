@@ -3,29 +3,105 @@
   <head>
     <title>Interactive Map</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"
+    />
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <style>
+      .about {
+        font-size: 0.8em;
+        max-height: 10rem;
+        overflow: auto;
+      }
+
+      .marker-cluster-small {
+        background-color: rgba(181, 226, 140, 0.6);
+      }
+      .marker-cluster-small div {
+        background-color: rgba(110, 204, 57, 0.6);
+      }
+
+      .marker-cluster-medium {
+        background-color: rgba(241, 211, 87, 0.6);
+      }
+      .marker-cluster-medium div {
+        background-color: rgba(240, 194, 12, 0.6);
+      }
+
+      .marker-cluster-large {
+        background-color: rgba(253, 156, 115, 0.6);
+      }
+      .marker-cluster-large div {
+        background-color: rgba(241, 128, 23, 0.6);
+      }
+
+      /* IE 6-8 fallback colors */
+      .leaflet-oldie .marker-cluster-small {
+        background-color: rgb(181, 226, 140);
+      }
+      .leaflet-oldie .marker-cluster-small div {
+        background-color: rgb(110, 204, 57);
+      }
+
+      .leaflet-oldie .marker-cluster-medium {
+        background-color: rgb(241, 211, 87);
+      }
+      .leaflet-oldie .marker-cluster-medium div {
+        background-color: rgb(240, 194, 12);
+      }
+
+      .leaflet-oldie .marker-cluster-large {
+        background-color: rgb(253, 156, 115);
+      }
+      .leaflet-oldie .marker-cluster-large div {
+        background-color: rgb(241, 128, 23);
+      }
+
+      .marker-cluster {
+        background-clip: padding-box;
+        border-radius: 20px;
+      }
+      .marker-cluster div {
+        width: 30px;
+        height: 30px;
+        margin-left: 5px;
+        margin-top: 5px;
+
+        text-align: center;
+        border-radius: 15px;
+        font: 12px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+      }
+      .marker-cluster span {
+        line-height: 30px;
+      }
+    </style>
   </head>
-  <style>
-    .about {
-      font-size: 0.8em;
-      max-height: 10rem;
-      overflow: auto;
-    }
-  </style>
+
   <body>
     <div id="map" style="height: 600px; width: 100%"></div>
 
     <script>
       // Initialize the map and set its view to the United States
-      var map = L.map('map').setView([37.8, -96], 4)
+      const map = L.map('map').setView([37.8, -96], 4)
 
       // Set up the OSM layer
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 7,
+        maxZoom: 9,
         minZoom: 2,
         attribution:
           'Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors',
       }).addTo(map)
+
+      // Add the marker cluster layer
+      const markers = L.markerClusterGroup({
+        maxClusterRadius: 7,
+        spiderfyOnMaxZoom: true,
+      }).on('clusterclick', a => {
+        a.layer.zoomToBounds({ padding: [20, 20] })
+      })
+      map.addLayer(markers)
 
       var geojsonPath =
         'https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json'
@@ -55,18 +131,21 @@
         .then(data => {
           Object.keys(data).forEach(org_id => {
             let org = data[org_id]
-            L.marker(org.location, { title: org.Name })
-              .addTo(map)
-              .bindPopup(
+            markers.addLayer(
+              L.marker(org.location, { title: org.Name }).bindPopup(
                 (org.Url
-                  ? `<a href="${org.Url}"><h3>${org.Name}</h3></a>`
+                  ? `<a href="${org.Url}" target="_blank" ><h3>${org.Name}</h3></a>`
                   : `<h3>${org.Name}</h3><br>`) +
+                  (org.Logo
+                    ? `<img src="${org.Logo}" style="map-logo"><br>`
+                    : '') +
                   `${org.City}, ${org.State}<br>` +
                   (org.About && `<div class="about">${org.About}</div><br>`) +
                   (org.Productions
                     ? `<h4>Productions</h4><div class="about">${org.Productions}</div>`
                     : '')
               )
+            )
           })
         })
     </script>
