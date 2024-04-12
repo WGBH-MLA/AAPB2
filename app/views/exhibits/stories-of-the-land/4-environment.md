@@ -1,4 +1,4 @@
-# Environment
+nvironment# Environment
 
 4
 
@@ -96,7 +96,7 @@ The first segment of this episode explores urban approaches to sustainability th
 -	[Native American farming and sustainability (*The Washington Post*)](https://www.washingtonpost.com/climate-solutions/interactive/2021/native-americans-farming-practices-may-help-feed-warming-world/)
 
 ## Cover
-  <img title="Cover Image" alt="Take Back Your Mind Part I" src="https://s3.amazonaws.com/americanarchive.org/exhibits/environment_square image.png">
+  <img title="Cover Image" alt="Environment" src="https://s3.amazonaws.com/americanarchive.org/exhibits/environment_square image.png">
 
 ## Gallery
 
