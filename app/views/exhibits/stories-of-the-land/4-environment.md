@@ -25,9 +25,25 @@ Those who work in farming, regardless of their location, know of the importance 
 ### Crisis
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption"> Farmers and scientists speculate about the next volcanic eruption in the Pacific Northwest in A Year of Ash: Mount St. Helen’s Impact on Agriculture (1981).</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/environment_image1_crisis.jpg " target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/environment_image1_crisis.jpg "class="big-image" alt="A snowcapped volcano peak with blue skies and clouds in the distance."/></a></td></tr>
+<caption align="bottom" class="exhibit-caption">Farmers and scientists speculate about the next volcanic eruption in the Pacific Northwest in A Year of Ash: Mount St. Helen’s Impact on Agriculture (1981).</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/environment_image1_crisis.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/environment_image1_crisis.jpg" class="big-image" alt="A snowcapped volcano peak with blue skies and clouds in the distance."/></a></td></tr>
 </table>
+
+[***Hold Your Breath***, **“Agricultural Problems Caused by Air Pollution”**](https://americanarchive.org/catalog/cpb-aacip_500-3t9d8r5g) **(Michigan State University WKAR, East Lansing, October 9, 1963).**
+
+“Just hold your breath,” the narrator begins in this radio series. “Hold your breath as long as you can, and you’ll soon discover how vital this natural [Resource](/exhibits/stories-of-the-land/2-land#Resources) is.” This particular episode considers the agricultural and economic costs of air pollution. The 1963 program is a part of *Hold Your Breath*, a series from Michigan State University that was devoted to discussions of the dangers of air pollution, which anticipated the major [amendments to the Clean Air Act in 1970](https://www.epa.gov/clean-air-act-overview/evolution-clean-air-act). As national concern about air quality heightened, local stations explored the multifaceted nature of this crisis. Here, for example, we learn more about how irradiated hydrocarbons (produced from vehicle exhaust) impact the [Land](/exhibits/stories-of-the-land/2-land), [Harvest](/exhibits/stories-of-the-land/3-work#Harvest), and [Soil](/exhibits/stories-of-the-land/4-environment#Soil) conditions from a county supervisor from Orange County, California.
+
+[***The MacNeil/Lehrer Report***, **“Forgotten Farms”**](https://americanarchive.org/catalog/cpb-aacip_507-rv0cv4cs8m) **(WNET/WETA, New York/Washington, April 10, 1980).**
+
+Not all environmental crises are natural. This episode of *The MacNeil/Lehrer Report* covers the 1973 contamination of cattle feed in Michigan, which resulted in human ingestion of polybrominated biphenyls (PBBs) through the consumption of meat and dairy products, causing a statewide health crisis. The crisis and coverage demonstrate how rural, agricultural issues can have devastating impacts on [Places](/exhibits/stories-of-the-land/2-land#Place) beyond the farm through interconnected food networks.
+
+[***A Year of Ash: Mount St. Helen's Impact on Agriculture***](https://americanarchive.org/catalog/cpb-aacip_296-09j3tzq8) **(prod. Alison Hansel, Northwest Public Television, 1981).**
+
+This documentary explores how farmers, feed lot managers, and scientists responded in the wake of Mount St. Helen’s eruption in 1980. With the significant ash fall and changes to the mineral composition of the soil, concern rose from scientists and farmers about high-acidity dust, starving livestock, contaminated crops, and rusting equipment. Though some effects were mild, the discussion around the aftermath demonstrates how those working in the agricultural sector mitigate risk and attempt to anticipate future crises. As the narrator concludes, “There is no ending to this story. As long as the Cascade Mountains from Washington to northern California are dormant but not dead, the chance for another eruption is there.”
+
+[***New Mexico in Focus***, **episode 323, “Gray Wolf Reintroduction”**](https://americanarchive.org/catalog/cpb-aacip-191-257d805d) **(KNME-TV, Albuquerque, NM, March 17, 2000).**
+
+Agricultural work is not only about responding to the aftereffects of disasters or crises; oftentimes it’s about anticipating them. This program considers the controversy surrounding the reintroduction of the Mexican gray wolf population into New Mexico. Environmentalists were eager to reintroduce this indigenous at-risk species and restore the natural ecosystem of the area, but local ranchers pushed back vehemently out of concerns about potential violence against livestock and families. Here, differing environmental priorities were debated between conservationists and cattle growers as they heatedly discussed wolf recovery and agriculture.
 
 #### Next: [Black Students and Faculty in Higher Education](/exhibits/odyssey-of-black-studies-in-public-broadcasting/3-black-students-and-faculty-in-higher-education)
 
