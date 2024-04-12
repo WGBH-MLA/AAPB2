@@ -126,8 +126,43 @@ This television documentary features interviews with workers who participated in
 - [40 maps that explain food in America (Vox)](https://www.vox.com/a/explain-food-america)
 
 ## Cover
-  <img title="Cover Image" alt="The marquee for the African American Institute at Northeastern University." src="https://s3.amazonaws.com/americanarchive.org/exhibits/africanamericaninstitute_square.png">
+  <img title="Cover Image" alt="Work" src="https://s3.amazonaws.com/americanarchive.org/exhibits/work_square image.png">
 
 ## Gallery
 
 ## Records
+
+- [](cpb-aacip-127-98mcvsx7)
+- [](cpb-aacip/17-90rr5zt9)
+- [](cpb-aacip-50c34997d95)
+- [](cpb-aacip/259-x05x9g5t)
+- [](cpb-aacip/29-8380gkrz)
+- [](cpb-aacip/514-s756d5qc89)
+- [](cpb-aacip/37-01pg4hq7)
+- [](cpb-aacip/75-074tmqqp)
+- [](cpb-aacip/153-655dvcgs)
+- [](cpb-aacip/23-106wwrhk)
+- [](cpb-aacip/86-50gthzqh)
+- [](cpb-aacip/27-g15t727s9t)
+- [](cpb-aacip-dcb61c00e61)
+- [](cpb-aacip/384-12z34wtq)
+- [](cpb-aacip/426-07gqnm60)
+- [](cpb-aacip/28-w950g3hk5x)
+- [](cpb-aacip-207-773txjh8)
+- [](cpb-aacip/41-22v41r56)
+- [](cpb-aacip/43-62f7mjcv)
+- [](cpb-aacip/43-5t3fx7450c)
+- [](cpb-aacip/225-504xh2zn)
+- [](cpb-aacip/514-416sx64z1w)
+- [](cpb-aacip/217-45cc2kwx)
+- [](cpb-aacip/507-n872v2d61s)
+- [](cpb-aacip/86-07gqnmqw)
+- [](cpb-aacip/86-60cvdvc6)
+- [](cpb-aacip/86-02c8679g)
+- [](cpb-aacip/86-569324xw)
+- [](cpb-aacip/86-032281fk)
+- [](cpb-aacip/86-06g1jxmm)
+- [](cpb-aacip/507-hm52f7kj9j)
+- [](cpb-aacip/29-89d51q0k)
+- [](cpb-aacip-c132bb3bd83)
+
