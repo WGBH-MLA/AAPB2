@@ -23,10 +23,14 @@ Debates about industry ultimately lead to debates about [Method](#Method): how s
 Agricultural practice is informed by [Philosophy](#Philosophy); ethical and value-driven decisions have considerably impacted how farming has evolved as an industry. The programs in this section consider a range of farming philosophies, from stewardship practices driven by a deep sense of community and tradition to ecologically conscious valuations of local resources. Philosophy also connects to the small family farm: a model often featured at the heart of agricultural debate as this way of life continues to diminish in the rural landscape.
 
 ### Industry 
-IMAGE!
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">A 1972 episode of The Advocates shows images and video from a large factory farm before debating the place of large corporations in agriculture.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/practice_image1_industry.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/practice_image1_industry.jpg" class="big-image" alt="A large, white factory building with many rounded silos."/></a></td></tr>
+</table>
+
 [***The Advocates***, **episode 98, “Should large corporations be driven out of farming?”**](https://americanarchive.org/catalog/cpb-aacip-15-6w96688q7b) **(WGBH, Boston, MA, March 28, 1972).**
 
-[The Advocates](https://openvault.wgbh.org/exhibits/advocates/article) was a public affairs television show that featured a modified debate format: a question would be argued from two sides, with advocates and witnesses testifying in favor of or against a proposal, and the viewing audience would submit their votes on the decision. This episode covers the issue of corporate agribusiness, which was fast becoming one of the dominant forces in the agricultural sector as family farmers were leaving their farms by choice or by force. “Large financial conglomerates are farming rural America for a harvest of dollars,” argues advocate Howard Miller,” “and leaving behind them enormous human costs which we all pay for.” The opposition, led by William Rusher, argues that pushing corporations out of farming would “turn back the clock of American agriculture fifty years.” In the debate that follows, senators, watchdogs, farmers, economists, and professors debate the very nature of agriculture: should we prioritize human capital or economic productivity?
+[*The Advocates*](https://openvault.wgbh.org/exhibits/advocates/article) was a public affairs television show that featured a modified debate format: a question would be argued from two sides, with advocates and witnesses testifying in favor of or against a proposal, and the viewing audience would submit their votes on the decision. This episode covers the issue of corporate agribusiness, which was fast becoming one of the dominant forces in the agricultural sector as family farmers were leaving their farms by choice or by force. “Large financial conglomerates are farming rural America for a harvest of dollars,” argues advocate Howard Miller,” “and leaving behind them enormous human costs which we all pay for.” The opposition, led by William Rusher, argues that pushing corporations out of farming would “turn back the clock of American agriculture fifty years.” In the debate that follows, senators, watchdogs, farmers, economists, and professors debate the very nature of agriculture: should we prioritize human capital or economic productivity?
 
 [***Montana Medicine Show***, **“Thomas Campbell”**](https://americanarchive.org/catalog/cpb-aacip_309-33rv18qt) **(KGLT, Bozeman, Montana, date unknown).**
 
@@ -40,7 +44,11 @@ The topic of this Champaign, Illinois, call-in radio program was the aquaculture
 This radio broadcast is a record of a 2009 Inforum meeting, which is a division of the Commonwealth Club of California that hosts events and discussions for people in their 20s and 30s. This panel presentation and Q&A focused on the issue of the marijuana industry—specifically highlighting the “fiscal aspects” of the crop rather than moral or ethical questions about marijuana use. Panelists included a local police chief, psychiatrist, and a civil liberties organizer who frame their [Rhetorical ](/exhibits/stories-of-the-land/7-politics#Rhetoric) debate around a discussion of cost standpoints, potential lawsuits, and tax revenues.
 
 ### Method
-IMAGE!
+### Industry 
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">Panelists take calls from Iowa farms requesting information on sustainable agriculture in this Alternatives in Agriculture Call-In broadcast (1989).</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/practice_image2_method.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/practice_image2_method.jpg" class="big-image" alt="Six panelists sit in a semicircle with the text “Alternatives in Agriculture” in blue and white font in the center of the shot."/></a></td></tr>
+</table>
 
 [**“Bush Farming - An Alternative”**](https://americanarchive.org/catalog/cpb-aacip-127-91fj720q) **(KYUK, Bethel, AK).**
 
