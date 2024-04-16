@@ -4,6 +4,10 @@
 
 ## Summary
 
+## Extended
+
+## Main
+
 -	Baszile, Natalie. *We Are Each Other’s Harvest: Celebrating African American Farmers, Land, and Legacy*. New York: HarperCollins, 2021.
 -	Brown, David. *Rural People and Communities in the 21st Century: Resilience and Transformation*. Medford, MA: Polity Press, 2019.
 -	Burton, Rob. *The Good Farmer: Culture and Identity in Food and Agriculture*. New York: Routledge, 2021. 
@@ -25,5 +29,15 @@
 -	Peterson, Bo. *Washing Our Hands in the Clouds: Joe Williams, His Forebears, and Black Farms in South Carolina*. Columbia: University of South Carolina Press, 2015. 
 -	Reid, Debra A., and Evan P. Bennett, editors. *Beyond Forty Acres and a Mule: African American Landowning Families Since Reconstruction*. Gainesville: University Press of Florida, 2012. 
 -	Strange, Marty. *Family Farming: A New Economic Vision*. Lincoln: University of Nebraska Press, 2008. 
--	Ward, William B. *Reporting Agriculture Through Newspapers, Magazines, Radio, Television*. Ithaca: Comstock Publishing, 1959. 
+-	Ward, William B. *Reporting Agriculture Through Newspapers, Magazines, Radio, Television*. Ithaca: Comstock Publishing, 1959.
 
+#### Next: [Notes](/exhibits/stories-of-the-land/notes)
+  
+## Additional Resources
+
+-	[National Agriculture Library (USDA)](https://www.nal.usda.gov/)
+-	[TED Talks: Agriculture](https://www.ted.com/topics/agriculture)
+-	[Harvest Public Media (KOSU-Oklahoma)](https://www.kosu.org/people/harvest-public-media)
+-	[PBS NewsHour: Agriculture](https://www.pbs.org/newshour/tag/agriculture)
+-	[Article by Liz Carlisle on Critical Agrarianism](https://www.researchgate.net/publication/271934582_Critical_agrarianism)
+-	[Article by Specht & Rutherford on media portrayals of agriculture](https://newprairiepress.org/cgi/viewcontent.cgi?article=1130&context=jac)
