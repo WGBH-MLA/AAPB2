@@ -2,17 +2,9 @@
 
 1
 
-<iframe src="https://www.google.com/maps/d/edit?mid=1IDwAcp7n1_R8zufsmABfllrb2oEl2P4&ll=41.192423321107086%2C-120.35441470314015&z=4" width="640" height="480"></iframe>
-
 ## Summary
 
 *Stories of the Land* features more than 70 public radio and television programs broadcast over 65 years – from 1954 to 2019 – that explore many aspects of agricultural life from the perspectives of diverse populations and locales in more than 30 states throughout the U.S. Links to more than 110 additional related programs also are included. The exhibit was curated by Mariah E. Marsden, a 2022 Library of Congress Junior Fellow, folklorist, and graduate student at the Ohio State University. We are grateful to Christine Fugate, Ariana Gerstein, Chad Heartwood, Shaena Mallett Heartwood, Monteith McCollum, Asad Muhammad, and to an anonymous reviewer for their help.
-
-## How to Navigate the Exhibit
-
-After a brief introductory section on U.S. agricultural history in the twentieth century, this exhibit is divided into pages called **Anchors**: broad, abstract concepts that pull together stories from of wide range of agricultural histories and practices. This thematic arrangement highlights ways the stories intersect and diverge by drawing the broadcasts into conversation with one another. The anchors assembled here—[Land](/exhibits/stories-of-the-land/2-land), [Work](/exhibits/stories-of-the-land/3-work), [Environment](/exhibits/stories-of-the-land/4-environment), [Practice](/exhibits/stories-of-the-land/5-practice), [Politics]( exhibits/stories-of-the-land/6-politics), and [Culture](/exhibits/stories-of-the-land/7-culture)—explore different dimensions of agricultural experience across a diverse array of public broadcasting programs, often centering shared issues of disenfranchisement, visibility, mobilization, and loss. Each anchor has additional concepts nested beneath it to highlight certain enduring issues. Particular broadcasts have been featured and are included in the interactive map at the top of this page, while others are listed on the anchor pages for further exploration.
-
-As you go through the pages, you’ll notice linked words that serve as pathways to other anchors in the exhibit, highlighting how these topics are interconnected. Explore them as you consider the conceptual network brought to light through these shared ideas — there’s not a single path through the exhibit. Feel free to wander.
 
 ## Extended
 
@@ -22,18 +14,24 @@ As you go through the pages, you’ll notice linked words that serve as pathways
   <a class="name"> Mariah E. Marsden</a>
   <a class="title">2022 Library of Congress Junior Fellow, folklorist, and graduate student at Ohio Sate University</a>
 
-## Resources - NONE - UPDATE
+## Additional Resources 
 
-- [*Le Show* Special Collection, AAPB](https://americanarchive.org/special_collections/le-show-collection)
-- [*Le Show* at HarryShearer.com](https://harryshearer.com/le-show/)
-- [WWNO 89.9 New Orleans Public Radio](https://www.wwno.org/)
-- [KCRW “Harry Shearer”](https://www.kcrw.com/@@search?q=%22harry%20shearer%22)
-- [Interview with Harry Shearer by Kenneth Plume](https://www.ign.com/articles/2000/02/10/interview-with-harry-shearer-part-2-of-4)
-- [*WTF with Marc Maron*](https://www.wtfpod.com/podcast/episodes/episode_578_-_harry_shearer)
-- [*Behind Closed Doors* with Harry Shearer](https://www.youtube.com/watch?v=jC_2tl7XhhQ)
-- [National Press Club Luncheon with Harry Shearer](https://www.press.org/newsroom/video/npc-luncheon-harry-shearer)
-
+-	[National Agriculture Library (USDA)](https://www.nal.usda.gov/)
+-	[TED Talks: Agriculture](https://www.ted.com/topics/agriculture)
+-	[Harvest Public Media (KOSU-Oklahoma)](https://www.kosu.org/people/harvest-public-media)
+-	[PBS NewsHour: Agriculture](https://www.pbs.org/newshour/tag/agriculture)
+-	[Article by Liz Carlisle on Critical Agrarianism](https://www.researchgate.net/publication/271934582_Critical_agrarianism)
+-	[Article by Specht & Rutherford on media portrayals of agriculture](https://newprairiepress.org/cgi/viewcontent.cgi?article=1130&context=jac)
+  
 ## Main
+
+<iframe src="https://www.google.com/maps/d/edit?mid=1IDwAcp7n1_R8zufsmABfllrb2oEl2P4&ll=41.192423321107086%2C-120.35441470314015&z=4" width="640" height="480"></iframe>
+
+### How to Navigate the Exhibit
+
+After a brief introductory section on U.S. agricultural history in the twentieth century, this exhibit is divided into pages called **Anchors**: broad, abstract concepts that pull together stories from of wide range of agricultural histories and practices. This thematic arrangement highlights ways the stories intersect and diverge by drawing the broadcasts into conversation with one another. The anchors assembled here—[Land](/exhibits/stories-of-the-land/2-land), [Work](/exhibits/stories-of-the-land/3-work), [Environment](/exhibits/stories-of-the-land/4-environment), [Practice](/exhibits/stories-of-the-land/5-practice), [Politics]( exhibits/stories-of-the-land/6-politics), and [Culture](/exhibits/stories-of-the-land/7-culture)—explore different dimensions of agricultural experience across a diverse array of public broadcasting programs, often centering shared issues of disenfranchisement, visibility, mobilization, and loss. Each anchor has additional concepts nested beneath it to highlight certain enduring issues. Particular broadcasts have been featured and are included in the interactive map at the top of this page, while others are listed on the anchor pages for further exploration.
+
+As you go through the pages, you’ll notice linked words that serve as pathways to other anchors in the exhibit, highlighting how these topics are interconnected. Explore them as you consider the conceptual network brought to light through these shared ideas — there’s not a single path through the exhibit. Feel free to wander.
 
 ### Agriculture in the Twentieth Century: A Brief Introduction
 
@@ -50,14 +48,14 @@ On many farms in the 1920s, industrialization took hold. New, affordable tractor
 <tr><td><a href="" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/stories_of_the_land_intro_image1.jpg" class="big-image" alt="Fig 1. Black-and-white photograph of a farmer leaning over an old-fashioned tractor while hand-pumping air into the tire."/></a></td></tr>
 </table>
 
-However, the economic and environmental crises of the 1930s would challenge industrial optimism in fundamental ways.[The Great Depression]( https://www.iowapbs.org/iowapathways/mypath/2591/great-depression-hits-farms-and-cities-1930s) and [Dust Bowl]( https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/great-depression-and-world-war-ii-1929-1945/dust-bowl/) indelibly changed the country’s agrarian landscape as hundreds migrated from failing farms to urban cities in hopes of new opportunities. At the same time, New Deal-era programs aimed to settle the instability of agricultural markets through subsidies and land deals to farmers even as vulnerable sharecroppers and tenants were overlooked and even harmed by policies that favored landowners.[<sup>5</sup>](/exhibits/stories-of-the-land/notes#5) Even in the midst of this turbulence, the industrial mindset continued to gain traction as more and more rural areas acquired access to electricity through the [Rural Electrification Administration](https://www.usda.gov/media/blog/2016/05/20/celebrating-80th-anniversary-rural-electrification-administration). 
+However, the economic and environmental crises of the 1930s would challenge industrial optimism in fundamental ways. [The Great Depression]( https://www.iowapbs.org/iowapathways/mypath/2591/great-depression-hits-farms-and-cities-1930s) and [Dust Bowl]( https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/great-depression-and-world-war-ii-1929-1945/dust-bowl/) indelibly changed the country’s agrarian landscape as hundreds migrated from failing farms to urban cities in hopes of new opportunities. At the same time, New Deal-era programs aimed to settle the instability of agricultural markets through subsidies and land deals to farmers even as vulnerable sharecroppers and tenants were overlooked and even harmed by policies that favored landowners.[<sup>5</sup>](/exhibits/stories-of-the-land/notes#5) Even in the midst of this turbulence, the industrial mindset continued to gain traction as more and more rural areas acquired access to electricity through the [Rural Electrification Administration](https://www.usda.gov/media/blog/2016/05/20/celebrating-80th-anniversary-rural-electrification-administration). 
 
 Mid-century agriculture was shaped by the impact and aftermath of World War II. Due to a labor shortage during the war, the U.S. government implemented the Braceros Program in 1942: a series of international agreements that allowed Mexican workers to fulfill short-term labor contracts for landowning growers and other owner-operators in the U.S. The harsh working conditions and low wages for the braceros meant that the program, which ended in 1964, left a shadowed legacy that echoes in the plight of farm workers today. Many immigrants who came to the U.S. as braceros later established their own farms in regions throughout the U.S. despite facing systemic exclusionary challenges.[<sup>6</sup>](/exhibits/stories-of-the-land/notes#6)
 
 The final decades of the twentieth century hearkened seismic shifts in both the economic and social practices of farming. The 1970s saw the implementation of [environmentally conscious legislation](https://www.epa.gov/clean-air-act-overview/evolution-clean-air-act)  as air pollution and contamination came under federal scrutiny. The Red Power civil rights movement and the years following the [1969 Occupation of Alcatraz](https://www.nps.gov/articles/000/redpower50.htm) mobilized Native American activist groups to push for the reclamation of land and water rights. [The farm crisis of the 1980s](https://ninepbs.pbslearningmedia.org/collection/the_1980s_farm_crisis/)—brought on by a combination of financial, environmental, and social conditions—rocked agricultural communities as farms were foreclosed, lenders withdrew financial support, and prices plummeted due to a production surplus after the 1970s boom. And the discriminatory practices of farm-related organizations came under fire, such as in the [*Pigford v. Glickman* (1999)](https://www.npr.org/2021/06/04/1003313657/the-usda-is-set-to-give-black-farmers-debt-relief-theyve-heard-that-one-before) class-action lawsuit leveled against the U.S. Department of Agriculture regarding systematic discrimination against Black farmers applying for aid.
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">Fig 2. ASIrobots. Autonomous compact tractors in a Texas vineyard, Nov 2012, 2012. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Autonomous_compact_tractors_in_a_Texas_vineyard,_Nov_2012.jpg.</caption>
+<caption align="bottom" class="exhibit-caption">Fig 2. ASIrobots. Autonomous compact tractors in a Texas vineyard, Nov. 2012. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Autonomous_compact_tractors_in_a_Texas_vineyard,_Nov_2012.jpg.</caption>
 <tr><td><a href="" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/stories_of_the_land_intro_image2.jpg" class="big-image" alt="Fig 2. A small red tractor and a small blue tractor drive down a vineyard row without occupants in the cab."/></a></td></tr>
 </table>
 
@@ -71,11 +69,11 @@ Public broadcasting offers us a different kind of record through which to explor
 
 This collection offers stories from local stations that sometimes are the only remaining historical record of people, places, and practices. Ultimately, this exhibit aims to explore not only the diversity of agricultural work but also to evaluate how we talk about that work: what ideals are invoked, what experiences are prioritized, what is relegated to the margins. 
 
-Embedded Audio
-Link: https://americanarchive.org/catalog/cpb-aacip-532-qv3bz62p4f
-Caption: The public radio broadcast “Green Acres: A History of Farming in America” from BackStory (2013) provides useful historical context even as the program hosts consider the political and social weight of farming in U.S. history. You can find more about this program in the <f>Politics anchor page.
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-532-qv3bz62p4f'></iframe>
+<caption align="bottom" class="exhibit-caption">The public radio broadcast “Green Acres: A History of Farming in America” from BackStory (2013) provides useful historical context even as the program hosts consider the political and social weight of farming in U.S. history. You can find more about this program in the Politcs anchor page.</caption>
 
 ### A Note on Scope
+
 While wide-ranging, this exhibit does not purport to offer a comprehensive account of American agricultural practices over the years it covers. The AAPB collection contains more than 150,000 programs and related audiovisual resources from more than 430 stations, producers, and archives, but it by no means is representative of the many millions of programs that have been broadcast by thousands of public radio and television outlets during this timeframe. The topic of ethnicity in twentieth-century American agriculture, for example, while covered in some programs profiled in the exhibit, is not fully explored. The AAPB collection continues to grow, however, and we hope in the future to collect and archive programs that will further enrich our understanding of agricultural histories and practices.
 
 #### Next: [Land](/exhibits/stories-of-the-land/2-land)
@@ -374,7 +372,4 @@ While wide-ranging, this exhibit does not purport to offer a comprehensive accou
 - [](/cpb-aacip-00ec17369dd)
 - [](/cpb-aacip-c132bb3bd83)
 - [](/cpb-aacip-359-655dvdvw)
-
-
-
-
+- 
