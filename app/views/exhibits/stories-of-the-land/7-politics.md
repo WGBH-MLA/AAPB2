@@ -1,4 +1,3 @@
-
 # Politics
 
 7
@@ -8,6 +7,8 @@
 ## Extended
 
 ## Main
+
+<img title="Banner Image" alt="An image of a microphone in the foregorund and a blurred crowd in the background. The image says Policy, Collectivity, Rhetoric." src="https://s3.amazonaws.com/americanarchive.org/exhibits/politics_banner.png">
 
 >**In the depressed 1930s, when times were even harder for farmers than they are today, American political leaders took counsel. They listened to ranchers, growers, sharecroppers, agronomists, soil experts, and marketing specialists; a few of those leaders raised questions of value. What, they asked, is agriculture for? What is the ultimate moral reason behind the pursuit of abundance, new farm technology, and an expanding economy—or is there one?**
 
@@ -19,7 +20,7 @@ Public broadcasting can provide records of how these significant changes were di
 
 Decisions about farm [**Policy**](#Policy) have been a matter of public debate since before the [first Depression-era farm bill in 1933](https://blogs.loc.gov/law/2021/03/history-of-the-united-states-farm-bill/). The broadcasts featured in this section explore the legislation, regulations, and government programs affecting the industry as well as their reception by farmers and the public. Several questions are centered in these debates: Should the government support farms during unstable times through crop insurance and/or subsidies? Should product prices and supply quotas be regulated at the federal level? And, more broadly: What should be the government’s role in supporting and overseeing an agricultural economy?
 
-Though agriculture can seem like an isolating activity—especially in rural areas—the broadcasts in the [**Collectivity**] #Collectivity) section illustrate what can be accomplished through organized political action. From protest marches to sponsored events supporting sustainable agriculture, the stories in this section mark how cooperatives, organizations, and coalitions of agricultural workers can capture attention and potentially effect change. 
+Though agriculture can seem like an isolating activity—especially in rural areas—the broadcasts in the [**Collectivity**](#Collectivity) section illustrate what can be accomplished through organized political action. From protest marches to sponsored events supporting sustainable agriculture, the stories in this section mark how cooperatives, organizations, and coalitions of agricultural workers can capture attention and potentially effect change. 
 
 In the late nineteenth century, farmers began to be imagined and discussed as a collective political force. This force continued to grow, adapt, splinter, and change in the new century—as evidenced in the [**Rhetoric**](#Rhetoric) section, with broadcasts as far back as 1957. These programs showcase political commentary and speeches that frame those working in farming as both as a voting block and as a potential political base. In doing so, the speakers reduce diverse agricultural experience into a singular vision of “the farmer,” and we can see how the effects of this mentality continue to prioritize certain visions of farmers and farming today.
 
@@ -49,6 +50,7 @@ Sponsored by the three rural activist groups, Democratic candidates—Gary Hart,
 <a id="Collectivity"></a>
 
 ### Collectivity
+
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Farm workers march for the right to unionize, as highlighted in The MacNeil/Lehrer Report on “Texas Farm Workers” (1977).</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/politics_image1_collectivity.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/politics_image1_collectivity.jpg" class="big-image" alt="A large group of farm workers marching down a city road with colorful banners and flags."/></a></td></tr>
@@ -71,7 +73,7 @@ This segment from a weekly television magazine examines how some farmers have sh
 ### Rhetoric
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">This map from The MacNeil/Lehrer NewsHour on “Farm Politics” (1985) indicates open senate seats in the upcoming election (yellow) and states with open seats and a sizeable farm population (orange).</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/politics_image2_rhetoric.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/politics)image2_rhetoric.jpg" class="big-image" alt="A brown and blue map of the U.S. states with 10 yellow states and 11 orange states."></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/politics_image2_rhetoric.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/politics_image2_rhetoric.jpg" class="big-image" alt="A brown and blue map of the U.S. states with 10 yellow states and 11 orange states."></a></td></tr>
 </table>
 
 [***Politics in the Twentieth Century***, **“Divided We Plow”**](https://americanarchive.org/catalog/cpb-aacip_500-9k45vb6d) **(San Bernadino Valley College, CA, January 1, 1957).**
@@ -99,7 +101,7 @@ This audio recording of an episode from the PBS television series *The Advocates
 -	[“Agriculture: The Need is Now”](https://americanarchive.org/catalog/cpb-aacip_75-11kh19bz) (KUON, Lincoln, NB, April 28, 1961).
 -	[“Cesar Chavez Speaks at the University of Dayton, Dayton Ohio”](https://americanarchive.org/catalog/cpb-aacip_27-4x54f1mv12) (WYSO, Yellow Springs, OH, July 1, 1973).
 -	[*MPR News Feature*, “Migrant conference interviewee talks about United Farm Workers Strike and the Teamsters”](https://americanarchive.org/catalog/cpb-aacip_43-sb3ws8j08b) (Minnesota Public Radio, April 20, 1973).
--	Realidades, “Otro Paso” (WNET, New York, September 2, 1977), https://americanarchive.org/catalog/cpb-aacip-06a9b1062aa.
+-	[*Realidades*, “Otro Paso”](https://americanarchive.org/catalog/cpb-aacip-06a9b1062aa) (WNET, New York, September 2, 1977).
 -	[*The MacNeil/Lehrer Report*, “American Agriculture”](https://americanarchive.org/catalog/cpb-aacip_507-mp4vh5d854) (WNET/WETA, New York/Washington, November 7, 1977).
 -	[*The MacNeil/Lehrer Report*, “Farmers Talk”](https://americanarchive.org/catalog/cpb-aacip_507-3f4kk94x18) (WNET/WETA, New York/Washington, March 9, 1978).
 -	[*The MacNeil/Lehrer Report*, “Farm Depression”](https://americanarchive.org/catalog/cpb-aacip_507-bc3st7fj11) (WNET/WETA, New York/Washington, May 5, 1982).
@@ -107,7 +109,7 @@ This audio recording of an episode from the PBS television series *The Advocates
 -	[*MacNeil/Lehrer NewsHour*, “Farm Crisis”](https://americanarchive.org/catalog/cpb-aacip-507-h12v40km19?start=608.53&end=2565.12) (Educational Broadcasting Corp. & GWETA, February 14, 1985).
 -	[*Iowa Press*, “Farm Crisis,”](https://americanarchive.org/catalog/cpb-aacip-37-05fbgbt3) (Iowa Public Television, Johnston, February 17, 1985).
 -	[*Firing Line with William F. Buckley, Jr.* “Are We Coddling the Farmers?”](https://americanarchive.org/catalog/cpb-aacip_514-8p5v69916t) (South Carolina Educational Television Network, February 26, 1985).
--	[*Crisis in Agriculture*, “Program on Farm Rally in Ames (Iowa)” (Iowa Public Television, Johnston, February 27, 1985), https://americanarchive.org/catalog/cpb-aacip_37-870vtg28.
+-	[*Crisis in Agriculture*, “Program on Farm Rally in Ames (Iowa)”](https://americanarchive.org/catalog/cpb-aacip_37-870vtg28) (Iowa Public Television, Johnston, February 27, 1985).
 -	[*WHA-TV Close Up*, “Farm Crisis ’85: Strategies on Survival”](https://americanarchive.org/catalog/cpb-aacip-29-ww76t0hg9n) (WHA-TV, Madison, April 18, 1985).
 -	[*MacNeil/Lehrer NewsHour*, “Anatomy of a Crisis”](https://americanarchive.org/catalog/cpb-aacip-507-vq2s46hz6t?start=2061.27&end=3453.07) (WNET/WETA & MacNeil/Lehrer Gannett Productions, November 22, 1985).
 -	[*Buenas Noches*, “Boycat de Esparrago -Centro Campesino”](https://americanarchive.org/catalog/cpb-aacip-199-7634tvhs) (KDNA, Granger WA, April 14, 1986).
@@ -127,7 +129,7 @@ This audio recording of an episode from the PBS television series *The Advocates
 - [Storymap of the U.S. Farm Bill (Library of Congress)](https://www.loc.gov/ghe/cascade/index.html?appid=1821e70c01de48ae899a7ff708d6ad8b)
 
 ## Cover
-  <img title="Cover Image" alt="Culture" src="https://s3.amazonaws.com/americanarchive.org/exhibits/politics_square image.png">
+  <img title="Cover Image" alt="An image of a microphone in the foregorund and a blurred crowd in the background." src="https://s3.amazonaws.com/americanarchive.org/exhibits/politics_square image.png">
 
 ## Gallery
 
