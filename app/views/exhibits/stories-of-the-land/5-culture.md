@@ -8,6 +8,8 @@
 
 ## Main
 
+<img title="Banner Image" alt="An image of two people exhanging produce." src="https://s3.amazonaws.com/americanarchive.org/exhibits/culture_banner.png">
+
 >**Among the first things one learns from the practice of agriculture, whether one comes to it by birthright—raised in the country—or transplanted from the city, is that farming is not a mere mechanical, scientific, or even economic enterprise, but a social and thus cultural one.**
 
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—Thomas F. Pawlick, journalist [<sup>19</sup>](/exhibits/stories-of-the-land/notes#19)
@@ -19,6 +21,8 @@ Here, we take in the cultural dimensions of agriculture: the art, the stories, a
 “[**Folklife**](#Folklife) is community life and values, artfully expressed in myriad forms and interactions,” writes folklorist Mary Hufford. “Universal, diverse, and enduring, it enriches the nation and makes us a commonwealth of cultures.”[<sup>20</sup>](/exhibits/stories-of-the-land/notes#20) In the United States, agricultural folklife is often expressed vividly through festival: state and county fairs, food-themed cooking events, seasonal harvest shows. The programs in this section come from a variety of regions across the country, but many of them highlight the financial stakes of these events, demonstrating not only their cultural significance but also their ties to tourism and local economies. 
 
 Many folklife and festival events are geared towards the younger generation, sharing knowledge through engaging cultural experiences. The [**Youth**](#Youth) section of this exhibit explores both programming for and about youth involvement in agriculture. Organizations such as 4-H clubs and Future Farmers of America (FFA) articulate their vested interest in providing for farming futures, but the realities of farm work aren’t always centered in broader conversations about youth education and development. What does opportunity mean for those families working on farms? What resources are available, and what activities are prioritized?
+
+<a id="Story"></a>
 
 ### Story
 
@@ -41,6 +45,8 @@ Stories can be shared throughout a variety of mediums—even botanical, as exemp
 
 This radio broadcast from 2019 brings together three historians and their special guests to host a discussion about the legacies and impact of [Land](/exhibits/stories-of-the-land/2-land) that is intimately connected to slavery: plantations. The first segment tells the story of Shirley Sherrod of [New Communities](https://www.newcommunitiesinc.com/) in Albany, Georgia: the struggle to acquire farmland, the [discrimination lawsuit](https://nationalaglawcenter.org/wp-content/uploads/assets/crs/RS20430.pdf) against the USDA, reclaiming an old plantation space, and reckoning with past historical violence and trauma through agricultural [Work](/exhibits/stories-of-the-land/3-work) and [Stewardship](/exhibits/stories-of-the-land/2-land#Stewardship). The second part critically evaluates how modern plantation museums historicize and tell stories of the past: what is centered, what is minimized, and the stakes of historical representation. There are over 300 plantation museums in the US, and this broadcast makes compelling points about how issues of history, heritage, and [Placemaking](/exhibits/stories-of-the-land/2-land#Place) are also issues of social justice.
 
+<a id="Folklife"></a>
+
 ### Folklife
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">A sorority sells peaches at the 1996 Ruston Peach Festival in Taste of Louisiana with Chef John Folse (item below).</caption>
@@ -62,6 +68,8 @@ John Folse’s series on the foodways and festivals of Louisiana revisits a numb
 [***Minding Your Business***, **episode 391, “Whole Enchilada Festival”**](https://americanarchive.org/catalog/cpb-aacip-f3287b3bc78) **(KRWG, Las Cruces, New Mexico, October 3, 2008).**
 
 This series examines the economic and natural [Resources](/exhibits/stories-of-the-land/2-land#Resources) of southwest New Mexico. The festival began as Vaquero Days, run by the Las Cruces Chamber of Commerce, but it evolved to “The Whole Enchilada” festival in 1980 after the event showcased the Guinness World Record-holding enchilada that was made with produce that was locally significant. “I think it’s a very prided culture,” says Fiesta Board Vice-President Gary Perez, “showing the traditions, the flavor of the food in the southwest, and certainly celebrating one of our biggest cash crops in the state: the green chile. And of course, we all know that we have the best of it down here in the state.”
+
+<a id="Youth"></a>
 
 ### Youth
 <table class="exhibit-image half-image">
@@ -100,17 +108,16 @@ The first segment of this television news program considers the migrant educatio
 - [*¡Colores!*, episode 1926, “Painter Eli Levin, ‘Art Farm,’ Playwright Terrance McNally, Child Prodigy Rachel Barton”]( https://americanarchive.org/catalog/cpb-aacip-259f8bd86a6) (KNME-TV, Albuquerque, NM, July 26, 2013).
 - [*Learning Across Kansas*, episode 105, “Middle School”](https://americanarchive.org/catalog/cpb-aacip-3ab96e4fb8a) (KPTS Channel 8, Wichita, KS, 2020).
 
-
 #### Next: [Practice](/exhibits/wtories-of-the-land/6-practice)
 
 ## Resources
 
-- [Folklore and agriculture](*AgWeek*)](https://www.agweek.com/opinion/agricultural-life-has-connections-to-folk-culture)
+- [Folklore and agriculture (*AgWeek*)](https://www.agweek.com/opinion/agricultural-life-has-connections-to-folk-culture)
 - [History of agricultural fairs (Arcadia Publishing)](https://yesterdaysamerica.com/american-traditions-a-short-history-of-agricultural-fairs/)
 - [Teaching plantation history (*National Geographic*)](https://education.nationalgeographic.org/resource/plantation-system/)
 
 ## Cover
-  <img title="Cover Image" alt="Culture" src="https://s3.amazonaws.com/americanarchive.org/exhibits/culture_square image.png">
+  <img title="Cover Image" alt="An image of two people exhanging produce." src="https://s3.amazonaws.com/americanarchive.org/exhibits/culture_square image.png">
 
 ## Gallery
 
