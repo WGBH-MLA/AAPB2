@@ -8,6 +8,8 @@
 
 ## Main
 
+<img title="Banner Image" alt="An image of a arid landscape." src="https://s3.amazonaws.com/americanarchive.org/exhibits/environment_banner.png">
+
 >**Much of the world’s best farmland is now threatened because our species lacks commitment to a spiritual and ethical vision of our interconnectedness with the land. Farmland is primary human habitat, and black winds, dark rivers are carrying it away. Our good health, the smiles on the faces of our grandchildren are being carried to places beyond our reach.** 
 
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—*Soil and Survival: Land Stewardship and the Future of American Agriculture* (1986) [<sup>17</sup>](/exhibits/stories-of-the-land/notes#17) 
@@ -21,6 +23,8 @@ But how does environmental impact vary by region? By state? What issues are cent
 Perhaps one of the most significant agricultural crises of the twentieth century—the Dust Bowl of the 1930s—has been discussed as both a weather and man-made disaster. But at its heart, it is an issue of [**Soil**](#Soil): a component of agriculture that is rich with symbolic and practical significance. In this section, the programs demonstrate how farmers and agriculturalists talk about soil conditions and conservation, often with a sustainable future in mind.
 
 Those who work in farming, regardless of their location, know of the importance of paying attention to the [**Weather**](#Weather). Whether it’s a years-long drought or a seemingly light rain shower, the effects of changing weather conditions and patterns can have significant effects on day-to-day work. The programs featured in this section explore not only atmospheric conditions but also the seasonal rhythms of farm work.
+
+<a id="Crisis"></a>
 
 ### Crisis
 
@@ -45,6 +49,8 @@ This documentary explores how farmers, feed lot managers, and scientists respond
 
 Agricultural work is not only about responding to the aftereffects of disasters or crises; oftentimes it’s about anticipating them. This program considers the controversy surrounding the reintroduction of the Mexican gray wolf population into New Mexico. Environmentalists were eager to reintroduce this indigenous at-risk species and restore the natural ecosystem of the area, but local ranchers pushed back vehemently out of concerns about potential violence against livestock and families. Here, differing environmental priorities were debated between conservationists and cattle growers as they heatedly discussed wolf recovery and agriculture.
 
+<a id="Soil"></a>
+
 ### Soil
 <iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-110-89d51nzq?start=717&end=827.55'></iframe>
 <caption align="bottom" class="exhibit-caption">The host in this 1954 Science in Sight program discusses the erosion of farmland and the “good principles” of farming.</caption>
@@ -60,6 +66,8 @@ The environmental, cultural, and psychological impacts of the Dust Bowl [Crisis]
 [***Our Kansas Heritage***](https://americanarchive.org/catalog/cpb-aacip-469076b82f0) **(High Plains Public Radio, Garden City, KS, date unknown).** 
 
 This broadcast tells the history of Kansas, called by some “the great American desert.” The host of *Our Kansas Heritage*, Leo Oliva, recounts the impact of cultivation and different agricultural [Methods](/exhibits/stories-of-the-land/6-practice#Method) on the dichotomous character the state has taken on over time: “These were all reactions to the land which is now Kansas, and the controversy continues. Kansas is a desert. Kansas is a garden. Both images continue as themes in our history, literature, and folklore.” The broadcast also connects with cultural issues such as [Storytelling](/exhibits/stories-of-the-land/5-culture#Story) and [Placemaking](/exhibits/stories-of-the-land/2-land#Place) practices, stories of [Movement](/exhibits/stories-of-the-land/3-work#Movement) and migration, and broader questions about environmental legacies.
+
+<a id="Weather"></a>
 
 ### Weather
 <table class="exhibit-image half-image">
@@ -109,7 +117,7 @@ This news program considers how farmers, gardeners, and civilians responded to t
 - [Article on industrial agriculture and climate change](https://insideclimatenews.org/news/25012019/climate-change-agriculture-farming-consolidation-corn-soybeans-meat-crop-subsidies/) 
 
 ## Cover
-  <img title="Cover Image" alt="Environment" src="https://s3.amazonaws.com/americanarchive.org/exhibits/environment_square image.png">
+  <img title="Cover Image" alt="An image of a arid landscape." src="https://s3.amazonaws.com/americanarchive.org/exhibits/environment_square image.png">
 
 ## Gallery
 
