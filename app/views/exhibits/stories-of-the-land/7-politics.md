@@ -90,7 +90,10 @@ In the second part of this national news program, Norman Ornstein of the America
 
 This audio recording of an episode from the PBS television series *The Advocates* presents a debate between those in support a national boycott of iceberg lettuce and those opposed. Those speaking in favor of the boycott represent a coalition of farm-worker support, most notably Chicano activists and leaders of the United Farm Workers. Those against it include a state senator, California lettuce growers, and a representative from the Teamsters, who continue to deny that farm workers actually want union representation. Clergy spoke on both sides of the debate. Farm workers had been excluded from the 1930s labor legislation meant to protect workers in the United States, and leaders such as César Chávez worked to organize in order to protect agricultural workers through [Collective](/exhibits/stories-of-the-land/7-politics#Collectivity) action and striking power. These debates exemplify the rhetorical appeals—specifically to public consumers—on both sides of the [Labor](/exhibits/stories-of-the-land/3-work#Labor) debate.
 
-### Additional Broadcasts Relating to “Rhetoric"
+<a id="Broadcasts"></a>
+
+### Additional Broadcasts Relating to “Politics"
+
 - [*Muni*, “VP Henry A. Wallace’s Inauguration of the School of Pan American Agriculture”](https://americanarchive.org/catalog/cpb-aacip_80-03228hdk) (WNYC, New York, October 10, 1944).
 -	[*Grassroots Voter 1960*, episode 4](https://americanarchive.org/catalog/cpb-aacip-512-kd1qf8kg92) (University of Michigan, Ann Arbor, 1960).
 -	[“Agriculture: The Need is Now”](https://americanarchive.org/catalog/cpb-aacip_75-11kh19bz) (KUON, Lincoln, NB, April 28, 1961).
