@@ -8,6 +8,8 @@
 
 ## Main
 
+<img title="Banner Image" alt="An image of women whose faces are out of frame tending to crops." src="https://s3.amazonaws.com/americanarchive.org/exhibits/work_banner.png">
+
 > It’s ironic that those who till the soil, cultivate and harvest the fruits, vegetables, and other foods that fill your tables with abundance, have nothing left for themselves.
 >
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; —César Chávez, speaking on farm workers [<sup>14</sup>](/exhibits/stories-of-the-land/notes#14)
@@ -126,7 +128,7 @@ This television documentary features interviews with workers who participated in
 - [40 maps that explain food in America (Vox)](https://www.vox.com/a/explain-food-america)
 
 ## Cover
-  <img title="Cover Image" alt="Work" src="https://s3.amazonaws.com/americanarchive.org/exhibits/work_square image.png">
+  <img title="Cover Image" alt="An image of a women whose face is out of frame tending to crops." src="https://s3.amazonaws.com/americanarchive.org/exhibits/work_square image.png">
 
 ## Gallery
 
