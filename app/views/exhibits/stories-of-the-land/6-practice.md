@@ -8,7 +8,9 @@
 
 ## Main
 
->**In the daily lives of farmers, the act of calling someone a ‘good farmer’ is an acknowledgement of appreciation and status within the community. It is not a title given lightly. Rather it bestows on the individual recognition of the cultural competences that make a farmer worthy of being sought out by others for assistance – knowledge, skills, or material assistance – the provision of which, in turn, forms bonds of mutual obligation within farming communities. It is the centre of the farming culture.**
+<img title="Banner Image" alt="An image of large containers of liquid." src="https://s3.amazonaws.com/americanarchive.org/exhibits/practice_banner.png">
+
+>**In the daily lives of farmers, the act of calling someone a "good farmer" is an acknowledgement of appreciation and status within the community. It is not a title given lightly. Rather it bestows on the individual recognition of the cultural competences that make a farmer worthy of being sought out by others for assistance – knowledge, skills, or material assistance – the provision of which, in turn, forms bonds of mutual obligation within farming communities. It is the centre of the farming culture.**
 
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—*The Good Farmer: Cultural Dimensions of Farming and Social Change* (2022)[<sup>23</sup>](/exhibits/stories-of-the-land/notes#23) 
 
@@ -22,7 +24,10 @@ Debates about industry ultimately lead to debates about [Method](#Method): how s
 
 Agricultural practice is informed by [Philosophy](#Philosophy); ethical and value-driven decisions have considerably impacted how farming has evolved as an industry. The programs in this section consider a range of farming philosophies, from stewardship practices driven by a deep sense of community and tradition to ecologically conscious valuations of local resources. Philosophy also connects to the small family farm: a model often featured at the heart of agricultural debate as this way of life continues to diminish in the rural landscape.
 
+<a id="Industry"></a>
+
 ### Industry 
+
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">A 1972 episode of The Advocates shows images and video from a large factory farm before debating the place of large corporations in agriculture.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/practice_image1_industry.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/practice_image1_industry.jpg" class="big-image" alt="A large, white factory building with many rounded silos."/></a></td></tr>
@@ -43,8 +48,10 @@ The topic of this Champaign, Illinois, call-in radio program was the aquaculture
 
 This radio broadcast is a record of a 2009 Inforum meeting, which is a division of the Commonwealth Club of California that hosts events and discussions for people in their 20s and 30s. This panel presentation and Q&A focused on the issue of the marijuana industry—specifically highlighting the “fiscal aspects” of the crop rather than moral or ethical questions about marijuana use. Panelists included a local police chief, psychiatrist, and a civil liberties organizer who frame their [Rhetorical ](/exhibits/stories-of-the-land/7-politics#Rhetoric) debate around a discussion of cost standpoints, potential lawsuits, and tax revenues.
 
+<a id="Method"></a>
+
 ### Method
-### Industry 
+
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Panelists take calls from Iowa farms requesting information on sustainable agriculture in this Alternatives in Agriculture Call-In broadcast (1989).</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/practice_image2_method.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/practice_image2_method.jpg" class="big-image" alt="Six panelists sit in a semicircle with the text “Alternatives in Agriculture” in blue and white font in the center of the shot."/></a></td></tr>
@@ -65,6 +72,8 @@ In this television broadcast, viewers from around Iowa call in to a live panel w
 [**“GMO: Label or Not?”**](https://americanarchive.org/catalog/cpb-aacip_514-4746q1t69x) **(Commonwealth Club of California, Hoover Institution Library & Archives, Stanford, CA, October 25, 2012).**
 
 “Until we have more resolution there, it’s the least we can do—is to give people the right to know, let them look at a label.” So says Ken Cook, director of the Environmental Working Group out of Washington, D.C. Cook was one of four panelists discussing California Proposition 37, which would require food to carry a label if it included genetically altered products. Cook’s argument is that, since the long-term impact of genetically modified organisms (GMOs) hasn’t been tested, consumer awareness is an important step in food production. Opponents of the proposition argued that labels would lead to increased food prices, cause undo public confusion given a lack of scientific evidence of harm, and aren’t necessary since the products have been reviewed by the Food and Drug Administration. Ultimately, the panelists consider the broader question: What are the [Environmental](/exhibits/stories-of-the-land/4-environment) consequences of the cultivation and [Harvest](/exhibits/stories-of-the-land/3-work#Harvest) of genetically modified products?
+
+<a id="Philosophy"></a>
 
 ### Philosophy
 
@@ -117,7 +126,7 @@ The first segment of this episode explores urban approaches to sustainability th
 -	[Native American farming and sustainability (*The Washington Post*)](https://www.washingtonpost.com/climate-solutions/interactive/2021/native-americans-farming-practices-may-help-feed-warming-world/)
 
 ## Cover
-  <img title="Cover Image" alt="Practice" src="https://s3.amazonaws.com/americanarchive.org/exhibits/practice_square image.png">
+  <img title="Cover Image" alt="An image of large containers of liquid." src="https://s3.amazonaws.com/americanarchive.org/exhibits/practice_square image.png">
 
 ## Gallery
 
