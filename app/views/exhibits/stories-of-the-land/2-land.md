@@ -121,7 +121,7 @@ This broadcast shows the continued discussion of “family farmer” ideal and [
 •	[*Midday*, “A look at the differences between rural and urban Minnesota”](https://americanarchive.org/catalog/cpb-aacip_43-87pnwc9m) (Minnesota Public Radio, St. Paul, March 27, 1990).
 - [*North Carolina Now*](https://americanarchive.org/catalog/cpb-aacip_129-49g4fdkq) (UNC-TV, Research Triangle Park, NC, January 8, 1997).
 - [*New Mexico in Focus*, episode 625, “The Future of New Mexico: Crops, Cattle and Continuation”](https://americanarchive.org/catalog/cpb-aacip-191-96wwq8dh) (KNME-TV, Albuquerque, NM, May 23, 2003). 
-- [Vado: The Unspoken History”](https://americanarchive.org/catalog/cpb-aacip-79e43ae2f15) (prod. Thomas Williams, KRWG, Las Cruces, NM, March 2004).
+- [*Vado: The Unspoken History”*](https://americanarchive.org/catalog/cpb-aacip-79e43ae2f15) (prod. Thomas Williams, KRWG, Las Cruces, NM, March 2004).
 - [*Aggie Almanac*, episode 184, “Onions Without Borders”](https://americanarchive.org/catalog/cpb-aacip-d1d5c032a93) (KRWG, Las Cruces, NM, September 5, 2008).
 - [“The New Ruralism: Smart Growth and Local Food”](https://americanarchive.org/catalog/cpb-aacip_514-5m6251gb99) (Commonwealth Club of California, San Francisco, May 20, 2010).
 - [*Forsaken Fields*](https://americanarchive.org/catalog/cpb-aacip_86-741rnj5s) (prod. Midori Sperandeo, KVIE, Sacramento, CA, October 27, 2017).
