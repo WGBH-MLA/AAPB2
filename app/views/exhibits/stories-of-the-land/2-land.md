@@ -116,12 +116,12 @@ This broadcast shows the continued discussion of “family farmer” ideal and [
 - [*New Jersey Nightly News*, “Farms – Closer Look”](https://americanarchive.org/catalog/cpb-aacip-259-2n4zk740) (New Jersey Network, Trenton, ca. 1980).
 - [*U.S. Chronicle*, episode 223, “The Last Crop”](https://americanarchive.org/catalog/cpb-aacip-55-d79571819x) (KQED-TV, San Francisco, CA, 1981).
 - [*Stay on the Farm: Reflections of Three Generations*, “Part 1”](https://americanarchive.org/catalog/cpb-aacip-c232587485e) (Woodsmoke Productions, Vermont Public Radio, 1984).
-- [*Legacies of the Land*] https://americanarchive.org/catalog/cpb-aacip-526-445h990b9z) (dir. Ginny Martin, KERA, Dallas, TX, January 27, 1985)
+- [*Legacies of the Land*](https://americanarchive.org/catalog/cpb-aacip-526-445h990b9z) (dir. Ginny Martin, KERA, Dallas, TX, January 27, 1985).
 - [*Journal*, “Black Owned Land”](https://americanarchive.org/catalog/cpb-aacip_41-10jsz266) (South Carolina ETV, Columbia, December 3, 1987).
-•	[*Midday*, “A look at the differences between rural and urban Minnesota”](https://americanarchive.org/catalog/cpb-aacip_43-87pnwc9m) (Minnesota Public Radio, St. Paul, March 27, 1990).
+- [*Midday*, “A look at the differences between rural and urban Minnesota”](https://americanarchive.org/catalog/cpb-aacip_43-87pnwc9m) (Minnesota Public Radio, St. Paul, March 27, 1990).
 - [*North Carolina Now*](https://americanarchive.org/catalog/cpb-aacip_129-49g4fdkq) (UNC-TV, Research Triangle Park, NC, January 8, 1997).
 - [*New Mexico in Focus*, episode 625, “The Future of New Mexico: Crops, Cattle and Continuation”](https://americanarchive.org/catalog/cpb-aacip-191-96wwq8dh) (KNME-TV, Albuquerque, NM, May 23, 2003). 
-- [*Vado: The Unspoken History”*](https://americanarchive.org/catalog/cpb-aacip-79e43ae2f15) (prod. Thomas Williams, KRWG, Las Cruces, NM, March 2004).
+- [*Vado: The Unspoken History*](https://americanarchive.org/catalog/cpb-aacip-79e43ae2f15) (prod. Thomas Williams, KRWG, Las Cruces, NM, March 2004).
 - [*Aggie Almanac*, episode 184, “Onions Without Borders”](https://americanarchive.org/catalog/cpb-aacip-d1d5c032a93) (KRWG, Las Cruces, NM, September 5, 2008).
 - [“The New Ruralism: Smart Growth and Local Food”](https://americanarchive.org/catalog/cpb-aacip_514-5m6251gb99) (Commonwealth Club of California, San Francisco, May 20, 2010).
 - [*Forsaken Fields*](https://americanarchive.org/catalog/cpb-aacip_86-741rnj5s) (prod. Midori Sperandeo, KVIE, Sacramento, CA, October 27, 2017).
