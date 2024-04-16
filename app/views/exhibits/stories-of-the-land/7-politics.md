@@ -1,7 +1,7 @@
 
-# Culture TEMPLATE CHANGE EVERYTHING
+# Politics
 
-5
+7
 
 ## Summary
 
@@ -9,145 +9,160 @@
 
 ## Main
 
->**Among the first things one learns from the practice of agriculture, whether one comes to it by birthright—raised in the country—or transplanted from the city, is that farming is not a mere mechanical, scientific, or even economic enterprise, but a social and thus cultural one.**
+>**In the depressed 1930s, when times were even harder for farmers than they are today, American political leaders took counsel. They listened to ranchers, growers, sharecroppers, agronomists, soil experts, and marketing specialists; a few of those leaders raised questions of value. What, they asked, is agriculture for? What is the ultimate moral reason behind the pursuit of abundance, new farm technology, and an expanding economy—or is there one?**
 
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—Thomas F. Pawlick, journalist [<sup>19</sup>](/exhibits/stories-of-the-land/notes#19)
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—Donald Worster, environmental historian[<sup>26</sup>](/exhibits/stories-of-the-land/notes#26)  
 
-Here, we take in the cultural dimensions of agriculture: the art, the stories, and the social events that shape and are shaped by the occupational practices of farming. More than a science, more than an [Industry](/exhibits/stories-of-the-land/6-practice#Industry), agriculture is deeply embedded in social life and historical memory. But there is no singular expression of agrarian culture in the United States. By exploring some of the [Stories](#Story), [Folklife](#Folklife), and [Youth](#Youth) activities showcased in public broadcasting throughout the decades, this Anchor invites you to consider how diverse stories can connect through shared issues of education, finance, opportunity, and remembrance.
+As the nature of agriculture has changed over the last two hundred years—moving away from small-scale family farming and towards larger, consolidated, and industrial models—so, too, have political discussions about agricultural issues. “A common point in the debate over U.S. farm programs,” states a [2005 report from the USDA](https://www.ers.usda.gov/webdocs/publications/44197/13566_eib3_1_.pdf), “has been that current policies were tailored for a time in American agriculture that no longer exists.” The report considers how technological efficiency, productivity, and consumer influence have shaped the realities of the industry in both positive and negative ways—as seen in the public broadcasting programs included in this anchor. 
 
-[**Stories**](#Story) play an intimate role in constructing and remembering the past. Stories about agriculture, specifically, can reflect shifting environmental concerns, philosophies of land stewardship, and perceptions of history. But in telling stories of the country’s agricultural past, we must contend with issues of slavery, land loss, and the immigrant experience. What do we prioritize in our storytelling? What do we gloss over? In this section, the featured programs examine how storytelling on the farm reflects certain mindsets about the past.
+Public broadcasting can provide records of how these significant changes were discussed, through coverage of farmers meetings and opening events at the local level as well as through the national coverage of political events. While many of the programs in this anchor explore how politicians and officials engaged with agricultural workers through [Policy](#Politics) and [Rhetorical](#Rhetoric) appeals, many others demonstrate how workers [Collectively](#Collectivity) engaged with their representatives and shaped political discourse around their vested interests.  
 
-“[**Folklife**](#Folklife) is community life and values, artfully expressed in myriad forms and interactions,” writes folklorist Mary Hufford. “Universal, diverse, and enduring, it enriches the nation and makes us a commonwealth of cultures.”[<sup>20</sup>](/exhibits/stories-of-the-land/notes#20) In the United States, agricultural folklife is often expressed vividly through festival: state and county fairs, food-themed cooking events, seasonal harvest shows. The programs in this section come from a variety of regions across the country, but many of them highlight the financial stakes of these events, demonstrating not only their cultural significance but also their ties to tourism and local economies. 
+Decisions about farm [**Policy**](#Policy) have been a matter of public debate since before the [first Depression-era farm bill in 1933](https://blogs.loc.gov/law/2021/03/history-of-the-united-states-farm-bill/). The broadcasts featured in this section explore the legislation, regulations, and government programs affecting the industry as well as their reception by farmers and the public. Several questions are centered in these debates: Should the government support farms during unstable times through crop insurance and/or subsidies? Should product prices and supply quotas be regulated at the federal level? And, more broadly: What should be the government’s role in supporting and overseeing an agricultural economy?
 
-Many folklife and festival events are geared towards the younger generation, sharing knowledge through engaging cultural experiences. The [**Youth**](#Youth) section of this exhibit explores both programming for and about youth involvement in agriculture. Organizations such as 4-H clubs and Future Farmers of America (FFA) articulate their vested interest in providing for farming futures, but the realities of farm work aren’t always centered in broader conversations about youth education and development. What does opportunity mean for those families working on farms? What resources are available, and what activities are prioritized?
+Though agriculture can seem like an isolating activity—especially in rural areas—the broadcasts in the [**Collectivity**] #Collectivity) section illustrate what can be accomplished through organized political action. From protest marches to sponsored events supporting sustainable agriculture, the stories in this section mark how cooperatives, organizations, and coalitions of agricultural workers can capture attention and potentially effect change. 
 
-### Story
+In the late nineteenth century, farmers began to be imagined and discussed as a collective political force. This force continued to grow, adapt, splinter, and change in the new century—as evidenced in the [**Rhetoric**](#Rhetoric) section, with broadcasts as far back as 1957. These programs showcase political commentary and speeches that frame those working in farming as both as a voting block and as a potential political base. In doing so, the speakers reduce diverse agricultural experience into a singular vision of “the farmer,” and we can see how the effects of this mentality continue to prioritize certain visions of farmers and farming today.
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-d6ab26fd363?start=488.4&end=612'></iframe>
-<caption align="bottom" class="exhibit-caption">One of the hosts of “The Long Shadow of the Plantation” (2019) radio broadcast speaks with farmer Shirley Sherrod about how the history of slavery continues to impact contemporary agricultural realities (item below).</caption>
+<a id="Policy"></a>
 
-[***Assignment Iowa Classics***, **episode 301, “Living History Farms”**](https://americanarchive.org/catalog/cpb-aacip_37-0644j1mb) **(Iowa Public Television, Johnston, IA, July 9, 1977).**
+### Policy
 
-This television episode illustrates how a [Place](/exhibits/stories-of-the-land/2-land#Place) can be constructed to express a particular vision of the past. While visiting the 500-acre farm museum in Clive, Iowa, attendees can witness multiple periods of agricultural history through a pioneer subsistence farm and a 1900s horse farm on the same property. Workers use old-fashioned equipment, machinery, and [Methods](/exhibits/stories-of-the-land/6-practice#Method) to work the [Land](/exhibits/stories-of-the-land/2-land) and provide for themselves. Those involved in the project say they’re telling the authentic story of Iowa’s past, but scholars would argue that it is an interpretation of the past, centering an agrarian lifestyle with a strictly gendered division of labor. In *Destination Culture: Tourism, Museums, and Heritage*, folklorist Barbara Kirshenblatt-Gimblett discusses how such “heritage productions,” in asserting an all-encompassing vision of the past, can potentially “subsume prior and subsequent historical sites” and obscure the variety of historical experiences.[<sup>21</sup>](/exhibits/stories-of-the-land/notes#21) 
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-37-17qnkdss?start=3643.1&end=3706'></iframe>
+<caption align="bottom" class="exhibit-caption">Reverend Jesse Jackson proposes policies for Black farmers in this 1988 Broadcast in “Election 88: Prairie Fire Presidential Candidates Agricultural Debate” (item below). Jackson’s proposal continues in the second part of the event coverage: https://americanarchive.org/catalog/cpb-aacip_37-343r26z7.</caption>
 
-[**“Farm Day”**](https://americanarchive.org/catalog/cpb-aacip_394-17crjj3g) **(Maryland Public Television, Owings Mills, February 3, 1986).**
+[**“Up on the Farm”**](https://americanarchive.org/catalog/cpb-aacip_394-5370s59p) **(Maryland Public Television, Owings Mills, December 6, 1982).**
 
-While the content of this particular episode tackles issues relating to [Policy](/exhibits/stories-of-the-land/7-politics#Policy) and [Industry](/exhibits/stories-of-the-land/6-practice#Industry), *Farm Day* as a television series provides us with an example of twentieth-century broadcasting that was dedicated exclusively to sharing farm stories and news. Journalism scholars have noted the decline of agricultural reporting towards the end of the century, primarily in print media outlets.[<sup>22</sup>](/exhibits/stories-of-the-land/notes#22)  But *Farm Day* shows what agricultural coverage often looked like during the heat of the 1980s Farm Crisis. This series was transmitted nationally through a network of public broadcasting stations—as illustrated in the special shout-out to WOSU viewers in Columbus, Ohio, at the close of this program—and was partially funded by the Farm Credit System, “the nation’s borrower-owned banks and associations that provide credit and related services to American agriculture.”
+This agricultural news series includes coverage of events relating to farm policy, notably the 1982 Maryland Farm Bureau Convention and the Maryland Agricultural Pesticides Conference. Debates about government support/interference in farm issues happen alongside discussions of what to do with the state’s dairy surplus (proposed answer: make milkshakes available in schools). The conference on pesticide use, in particular, deals with issues of [Practice] (/exhibits/stories-of-the-land/6-practice) and [Environment](/exhibits/stories-of-the-land/4-environment) as attendees learn how to avoid chemical barn fires and the dangers of skin exposure. “Many times that people have used a chemical over and over, they feel secure with it that they know how to use it,” says Jacquelyn Lucy of the Maryland Poison Center. “It’s important that farmers and farm families be aware—that every member of their family use them properly.”
 
-[***Hit the Dirt***, **“Native Seed Search”**](https://americanarchive.org/catalog/cpb-aacip_301-61rfjd22) **(WERU Community Radio, East Orland, ME, date unknown).**
+[**“Clem Tillion on Halibut, Salmon Treaty”**](https://americanarchive.org/catalog/cpb-aacip-116-35gb5qnc) **(KDLG, Dillingham, Alaska, April 26, 1983).**
 
-Stories can be shared throughout a variety of mediums—even botanical, as exemplified in this short radio coverage of the Native Seed Search, a nonprofit seed conservation organization in Tucson, Arizona. Groups like Native Seed Search typically collect, preserve, and distribute at-risk seeds during times of [Crisis](/exhibits/stories-of-the-land/4-environment#Crisis) through the publication of a catalog, but this group has an additional mission. “While the group is a seed conservation organization,” says the radio host, “they realize that in order for crops to be preserved, the cultural context in which they have been maintained has to be preserved as well.” Along with their conservation mission, Native Seed Search also offers their resources to Native American groups who wish to cultivate their own traditional crops. In this way, seeds can serve as a connection point as stories and knowledge from the past are shared in the present.
+This radio broadcast covers the intricacies of Alaskan aquaculture in the midst of political maneuverings, as politicians attempt to stay in control of the state’s aquatic [Resource](/exhibits/stories-of-the-land/2-land#Resources) management. Recently ousted Clem Tillion (former chairman of the North Pacific Fisheries Management Council) speaks on the halibut moratorium, which would greatly limit those able to lawfully harvest halibut. “We need to have some way to spread the take a bit over a longer period of the year,” Tillion asserts. Of the contested salmon treaty between the United States and Canada, he proclaims: “That’s a pickle slicer, I think.” With a potential “fish war” between North American fisheries, Tillion’s analysis of the situation illustrates the political stakeholders in waterway and [Land](/exhibits/stories-of-the-land/2-land) access.
 
-[**“The Long Shadow of the Plantation: How a Weighted Past Creates a Complicated Present”**](https://americanarchive.org/catalog/cpb-aacip-d6ab26fd363) **(BackStory, September 20, 2019).**
+[**“Election 88: Prairie Fire Presidential Candidates Agricultural Debate”88](https://americanarchive.org/catalog/cpb-aacip_37-17qnkdss) **(CSPAN, Iowa Public Television, Johnston, January 23, 1988).**
 
-This radio broadcast from 2019 brings together three historians and their special guests to host a discussion about the legacies and impact of [Land](/exhibits/stories-of-the-land/2-land) that is intimately connected to slavery: plantations. The first segment tells the story of Shirley Sherrod of [New Communities](https://www.newcommunitiesinc.com/) in Albany, Georgia: the struggle to acquire farmland, the [discrimination lawsuit](https://nationalaglawcenter.org/wp-content/uploads/assets/crs/RS20430.pdf) against the USDA, reclaiming an old plantation space, and reckoning with past historical violence and trauma through agricultural [Work](/exhibits/stories-of-the-land/3-work) and [Stewardship](/exhibits/stories-of-the-land/2-land#Stewardship). The second part critically evaluates how modern plantation museums historicize and tell stories of the past: what is centered, what is minimized, and the stakes of historical representation. There are over 300 plantation museums in the US, and this broadcast makes compelling points about how issues of history, heritage, and [Placemaking](/exhibits/stories-of-the-land/2-land#Place) are also issues of social justice.
+Sponsored by the three rural activist groups, Democratic candidates—Gary Hart, Bruce Babbitt, Michael Dukakis, Richard Gephardt, Rev. Jesse Jackson, and Paul Simon—answered questions relating to the 1980s farm crisis, global markets, and the Harkin-Gephardt farm bill in advance of the Iowa Caucus. This broadcast not only demonstrates the [Rhetorical](/exhibits/stories-of-the-land/7-politics#Rhetoric) and political moves made by candidates but also the ways in which [Land](/exhibits/stories-of-the-land/2-land) and [Stewardship](/exhibits/stories-of-the-land/2-land#Stewardship) involve issues of class and race. “I think the question about Black land loss deserves at least a different answer,” Rev. Jackson said in response to Dukakis’s proposed plan to support minority farmers by helping small family farms more broadly. “They have a double burden: they’re not only ‘small’ and ‘family,’ but they’re also Black, which means often they cannot get loans—often they cannot get access to markets.” 
 
-### Folklife
+[***WPLN News Archive***, **“Tobacco Buyout Legislation”**](https://americanarchive.org/catalog/cpb-aacip-7623ccecfc0) **(WPLN/Nashville Public Radio, March 8, 2004).**
+
+“The tobacco buyout made it back in the headlines the moment the speaker of the house started campaigning in Kentucky last month for a Republican race for a vacant house seat.” So begins this radio broadcast coverage of proposed buyout legislation, which would cover farmers’ financial losses if the tobacco market was deregulated and farmers lost government funding. But at the center of the debate is the question of tobacco regulation through FDA oversight. In this debate, we can see how morality and the ethics of substance cultivation motivated political policy, further emphasized in the documentary feature *Tobacco Blues* (see [Philosophy](/exhibits/stories-of-the-land/6-practice#Philosophy)).
+
+<a id="Collectivity"></a>
+
+### Collectivity
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">A sorority sells peaches at the 1996 Ruston Peach Festival in Taste of Louisiana with Chef John Folse (item below).</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/culture_image1_folklife.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/culture_image1_folklife.jpg" class="big-image" alt="Customers line up at an outdoor tent with the sign “Peach Ice Cream / Beta Sigma Phi.""/></a></td></tr>
+<caption align="bottom" class="exhibit-caption">Farm workers march for the right to unionize, as highlighted in The MacNeil/Lehrer Report on “Texas Farm Workers” (1977).</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/politics_image1_collectivity.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/politics_image1_collectivity.jpg" class="big-image" alt="A large group of farm workers marching down a city road with colorful banners and flags."/></a></td></tr>
 </table>
 
-[***Grass Roots Journal***, **episode 406, “Onion Festival”**](https://americanarchive.org/catalog/cpb-aacip_296-720cg59h) **(Northwest Public Television, Pullman, WA, 1983).**
+[***The MacNeil/Lehrer Report***, **“Texas Farm Workers”**](https://americanarchive.org/catalog/cpb-aacip_507-xk84j0bx6z) **(WNET/WETA, New York/Washington, April 4, 1977).**
 
-The segment from this television magazine covering the Walla Walla Sweet Onion Festival in Washington State demonstrates how festivals and events relating to agriculture can take on special meaning within tourism economies and [Placemaking](/exhibits/stories-of-the-land/2-land#Place) practices. “We’re trying to attract people to come in to Walla Walla,” says commission president Wes Colley. “To think of us as the Sweet Onion City, and quit thinking of us as the place where the state prison’s at, which we think’s a negative. And so we think it has a lot of public relations for the town.” The cultural and economic value of the sweet onion is shown here as festival attendees gather to cook, judge, and eat the dishes: salads, onion rings, even onion pie.
+This national news segment on the Texas Farm Workers movement follows seventeen demonstrators who walked over 400 miles to Austin in order to push for legislation that would affirm the right for farm workers to unionize in the state. Commenting on the event, Jack Angell, speaking on behalf of growers and the American Farm Bureau, suggested that the movement was driven by outsiders: intellectuals, professional organizers, clergy. But the interviews with the Texas Farm Workers union members contradict these assertions. When demonstrators arrived in the city, they were met with supporters and food as they gathered to celebrate and called attention to the cause. Here, [Folklife](/exhibits/stories-of-the-land/5-culture#Folklife), [Labor](/exhibits/stories-of-the-land/3-work#Labor), and activism intersect as cultural touchstones (food, music, and dance) serve to strengthen resolve and commitment in the community.
 
-[***North Carolina Now***](https://americanarchive.org/catalog/cpb-aacip_129-203xsqdp) **(UNC-TV, Research Triangle Park, NC, October 16, 1995).**
+[**“Farm Workers Center”**](https://americanarchive.org/catalog/cpb-aacip-207-69z08sth) **(KUNM, Albuquerque, NM, 1994).**
 
-This live news coverage of the 128th North Carolina State Fair in 1995 explores what goes into this festival: the planning, setup, and events of the day—like pig races and other [Youth](#Youth) activities. But the special segments in this program highlight the significant changes in agricultural [Industry](/exhibits/stories-of-the-land/6-practice#Industry) and [Practice](/exhibits/stories-of-the-land/6-practice) that were happening at the time. “For centuries, farming has been the lifeblood of our state, and the family farm was at the heart and the soul of North Carolina,” says newscaster Marita Matray. “But even as the state fair honors the family farmer, there are fewer and fewer family farms left.” The interviews with farmers featured in this coverage concern issues of [Stewardship](/exhibits/stories-of-the-land/2-land#Stewardship), [Harvest](/exhibits/stories-of-the-land/3-work#Harvest), and [Crisis](/exhibits/stories-of-the-land/4-environment#Crisis) even as they share their [Stories](#Story) of small-farm living.
+This radio program covers the opening of the Centro de los Trabajadores Agrícolas Fronterizos in El Paso, Texas, which was a 1994 project completed by the Sin Fronteras Border Agricultural Workers Project. It was designed to be one of the first buildings that farm workers might see upon crossing the U.S./Mexico border, a [Place](/exhibits/stories-of-the-land/2-land#Place) embedded with meaning, and it is a demonstration of the collective work of labor activists for over ten years. “Nothing was given to us by the own will of the city,” says director Carlos Marentes. “Everything was the result of struggle: protest, blocking the international bridges, taking over city buildings.” Marentes’s mission didn’t end with the formation of the center; [NPR reported](https://texasnewsroom2021.nextgenradio.org/meet-the-el-paso-man-fighting-for-farmworkers-during-covid-19/) on his work—now as a 70-year-old—to protect farm workers during the COVID-19 pandemic.
 
-[***Taste of Louisiana with Chef John Folse & Company: Fairs & Festivals of Louisiana***, **“Peach Festival”**](https://americanarchive.org/catalog/cpb-aacip_17-48sbdc9d) **(Louisiana Public Broadcasting, Baton Rouge, March 9, 1996).**
+[***The Wisconsin Magazine***, **episode 1522, “Farmers Going It Alone”**](https://americanarchive.org/catalog/cpb-aacip_29-73pvmn5t) **(Wisconsin Public Television, Madison, date unknown).**
 
-John Folse’s series on the foodways and festivals of Louisiana revisits a number of local products that are important to the state, both economically and socially. In his coverage of the Peach Festival in Ruston, Louisiana, Folse goes into detail about how the peaches are cultivated, [Harvested](/exhibits/stories-of-the-land/3-work#Harvest), processed, and cooked for competitions, emphasizing the intimate connections between cooking, culture, and agricultural work. The majority of the program features cooking demonstrations by Folse, who utilizes the special product of the day, but the opening stories of fairs and food illustrate the cultural context of the produce.
+This segment from a weekly television magazine examines how some farmers have shifted towards more sustainable agricultural [Practices](/exhibits/stories-of-the-land/6-practice). Several farmers were featured for their work to educate others through onsite demonstrations on their own [Land](/exhibits/stories-of-the-land/2-land). But, as Dick Thompson of Boone, Iowa, points out, this requires not just a shift in [Method](/exhibits/stories-of-the-land/6-practice#Method) but also in [Philosophy](/exhibits/stories-of-the-land/6-practice#Philosophy): “The problem has to be solved on the inside. There has to be regeneration on the inside—that we're concerned about the land the community and people. And when that gets solved, then we'll take care of the land right, and we'll get out of the greed and ease syndromes.” Thompson hosted hundreds of visitors each summer, taking them out into his fields while discussing [Stewardship](/exhibits/stories-of-the-land/2-land#Stewardship) and the [Environmental](/exhibits/stories-of-the-land/4-environment) impacts of industrial farming and pesticides. 
 
-[***Minding Your Business***, **episode 391, “Whole Enchilada Festival”**](https://americanarchive.org/catalog/cpb-aacip-f3287b3bc78) **(KRWG, Las Cruces, New Mexico, October 3, 2008).**
+<a id="Rhetoric"></a>
 
-This series examines the economic and natural [Resources](/exhibits/stories-of-the-land/2-land#Resources) of southwest New Mexico. The festival began as Vaquero Days, run by the Las Cruces Chamber of Commerce, but it evolved to “The Whole Enchilada” festival in 1980 after the event showcased the Guinness World Record-holding enchilada that was made with produce that was locally significant. “I think it’s a very prided culture,” says Fiesta Board Vice-President Gary Perez, “showing the traditions, the flavor of the food in the southwest, and certainly celebrating one of our biggest cash crops in the state: the green chile. And of course, we all know that we have the best of it down here in the state.”
-
-### Youth
+### Rhetoric
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">The young host of Gumbo Island visits a livestock show in Baton Rouge, Louisiana.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/culture_image2_youth.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/culture_image2_youth.jpg" class="big-image" alt="Two children sit on a metal fence inside a livestock arena."></a></td></tr>
+<caption align="bottom" class="exhibit-caption">This map from The MacNeil/Lehrer NewsHour on “Farm Politics” (1985) indicates open senate seats in the upcoming election (yellow) and states with open seats and a sizeable farm population (orange).</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/politics_image2_rhetoric.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/politics)image2_rhetoric.jpg" class="big-image" alt="A brown and blue map of the U.S. states with 10 yellow states and 11 orange states."></a></td></tr>
 </table>
 
-[***Dr. Dad’s PH3***, **“Soil and Agriculture”**](https://americanarchive.org/catalog/cpb-aacip-17-8605rg3q) **(Louisiana Public Broadcasting, Baton Rouge, 1995).**
-This broadcast from Louisiana Public Broadcasting was a part of *Dr. Dad’s PH3*: an educational series that introduced young audiences to scientific and historical concepts. This episode tackles [Soil](/exhibits/stories-of-the-land/4-environment#Soil) composition through hands-on activities, demonstrations, and trips to important [Places](/exhibits/stories-of-the-land/2-land#Place) relating to farming. Here, Dr. Dad visits both a small-scale herb farmer as well as the McIlhenny Company’s commercial farm, showcasing very different agricultural [Practices](/exhibits/stories-of-the-land/6-practice) with different conservation philosophies.
+[***Politics in the Twentieth Century***, **“Divided We Plow”**](https://americanarchive.org/catalog/cpb-aacip_500-9k45vb6d) **(San Bernadino Valley College, CA, January 1, 1957).**
 
-[**“Wisconsin Farm Kids”**](https://americanarchive.org/catalog/cpb-aacip_29-rr1pg1j411) **(PBS Wisconsin, WHA-TV, Madison, 1999).**
-“This is the 90s,” says Wisconsin teen Haley in this 1999 special program on youth and agriculture. “And we’re not hicks and, like, old-time farmers. We’re very modern—we have all kinds of equipment, tractors.” The teens interviewed in this program address conceptions and misconceptions they’ve encountered while working on their family farms, while the agricultural reporter asks questions about day-to-day life and chores, special [Folklife]( #Folklife) events, farm prices and loans, urban development, and the futures they imagine in agriculture, both personally and for their state. As the teens discuss changing attitudes about farming, they share stories of early mornings, missing school events, visits to loan offices, and travel to [Rhetorically](/exhibits/stories-of-the-land/7-politics#Rhetoric) signal that they are hard-working, economically savvy, mobile, and conscientious.
+This political commentary from the 1950s demonstrates how public media talked about farmers in the decades following the Great Depression, as agricultural [Practice](/exhibits/stories-of-the-land/6-practice) became more and more industrialized and embedded in global economic systems. We hear from journalists, political scientists, sociologists, and farm organization leaders, all commenting on the potential political power of a farming base which was often tricky to pin down. “Since the end of World War II,” says Samuel Lubell, an author and political journalist of the time, “farmers have become perhaps the most roughly shifting voting element in the whole country.”
 
-[***Gumbo Island***, **“Farm Families”**](https://americanarchive.org/catalog/cpb-aacip_17-47dr8qc9) **(Louisiana Public Broadcasting, Baton Rouge, 1997).**
-This educational television series explores the cultures and histories of Louisiana, geared towards children from kindergarten through fourth grade. In this episode, the young host visits the Louisiana State University youth livestock show in Baton Rouge and speaks with 4-H and Future Farmers of America (FFA) members about their work, competitions, and growing up on farms. Jeremy Martin, one of the teens followed in the program, participates in a sheep-showing competition in hopes of winning a satin ribbon or plated belt buckle.
+[***The MacNeil/Lehrer NewsHour***, **“Farm Politics.”**](https://americanarchive.org/catalog/cpb-aacip-507-dr2p55f39j?start=1926.79&end=3224.79) **WNET/WETA, New York/Washington, October 10, 1985).**
 
-[***Louisiana: The State We're In***, **episode 431**](https://americanarchive.org/catalog/cpb-aacip-17-60cvfkgd) **(Louisiana Public Broadcasting, Baton Rouge, August 15, 1980).**
-The first segment of this television news program considers the migrant education program in Evangeline Parish in Louisiana, which was designed to serve the children of farm workers in the state whose lives are often on the [Move](/exhibits/stories-of-the-land/3-work#Movement) according to the seasonal work available at the time. Around 9,000 children participated in the federally funded programs across the state while their parents worked in the fields and on crawfish farms in the area. The news coverage demonstrates the need for programs and funding to support those most vulnerable who may be constrained by systems of scarcity, need, and subjugation.
+In the second part of this national news program, Norman Ornstein of the American Enterprise Institute reports on the Reagan-era farm crisis and its impact on the political landscape, with interviews from incumbent congresspeople as well as prospective candidates, many of them called “farm state Republicans.” The episode includes clips from congressional sessions, with senators and representatives reacting to Reagan’s farm program and considering its impacts on their agricultural constituents. The report aired in advance of the 1986 midterm elections, and much of the discussion is framed around partisan divides and how farm issues complicate party lines. By attending to the language and ideas invoked by politicians, we can better understand what rhetorical appeals were utilized to bring together and mobilize a [Collective](/exhibits/stories-of-the-land/7-politics#Collectivity) farming base.
 
-### Additional Broadcasts Relating to “Culture”
-- [*Jolie Louisiane*, “Travail a la Ferme”](https://americanarchive.org/catalog/cpb-aacip_17-77fr079s) (Louisiana Public Broadcasting, Baton Rouge, 1975).
-- [*VPR Forum*, “Documentary on the failure of small ‘Hill Farms’ in Vermont”](https://americanarchive.org/catalog/cpb-aacip_211-83xsjhsn) (prod. Kate Stiasni, Vermont Public Radio, Colchester, February 14, 1978).
-- [*Growing Place*, episode 546](https://americanarchive.org/catalog/cpb-aacip-9f7471f16e8) (KANZ-FM, High Plains Public Radio, Garden City, KS, ca. 1970s).
-- [“Country Life: Stories and Recollections of a 94 Year Old Earl Gregg from West Jefferson, Ohio”](https://americanarchive.org/catalog/cpb-aacip_27-78gf23dn) (WYSO, Yellow Springs, OH, June 2, 1981).
-- [*Venture*, “Ropers Mountain”](https://americanarchive.org/catalog/cpb-aacip_41-98z8wmkv) (South Carolina Educational Network, Columbia, April 17, 1986).
-- [*Journal*, “Animals at the Fair”](https://americanarchive.org/catalog/cpb-aacip_41-24wh7398) (South Carolina Educational Television Network, Columbia, October 21, 1987).
-- [*Robert Frost*, “In the Country of Milk and Sugar”](https://americanarchive.org/catalog/cpb-aacip_298-515mkw9j) (New Hampshire Public Television, Durham, January 9, 1991).
-- [*Hit the Dirt*, “Sing to the Crops”](https://americanarchive.org/catalog/cpb-aacip_301-53jwt0cp) (WERU Community Radio, East Orland, ME, March 19, 1992).
-- [*North Carolina Now*](https://americanarchive.org/catalog/cpb-aacip_129-439zwchr) (UNC-TV, Research Triangle Park, NC, October 19, 1995).
-- [*A Taste of Louisiana with Chef John Folse & Company: Fairs & Festivals of Louisisana*, “Rice Festival”](https://americanarchive.org/catalog/cpb-aacip_17-39x0m3mg) (Louisiana Public Broadcasting, Baton Rouge, June 22, 1996).
-- [“The Farmer’s Wife”](https://americanarchive.org/catalog/cpb-aacip_29-b27pn8xp8d) (PBS Wisconsin, Madison, August 28, 1998).
-- [*Oregon Story*, “Farming”]( https://americanarchive.org/catalog/cpb-aacip-153-06g1jz50) (Oregon Public Broadcasting, Portland, March 30, 1999).
-- [*The Alabama Experience*, “The Story of Faunsdale Plantation”](https://americanarchive.org/catalog/cpb-aacip-22aeb5a273d) (prod. Wendy Reed Bruce, University of Alabama Center for Public Television and Radio, April 20, 2000). 
-- [4-H National Conversation, raw footage](https://americanarchive.org/catalog/cpb-aacip_398-66j1004d) (Connecticut Public Broadcasting Network, Hartford, March 1, 2002).
-- [*Ag Basics 101*, “Compilation 2”](https://americanarchive.org/catalog/cpb-aacip-106e85f3824) (High Plains Public Radio, Garden City, KS, ca. 2002).
-- [*¡Colores!*, episode 1926, “Painter Eli Levin, ‘Art Farm,’ Playwright Terrance McNally, Child Prodigy Rachel Barton”]( https://americanarchive.org/catalog/cpb-aacip-259f8bd86a6) (KNME-TV, Albuquerque, NM, July 26, 2013).
-- [*Learning Across Kansas*, episode 105, “Middle School”](https://americanarchive.org/catalog/cpb-aacip-3ab96e4fb8a) (KPTS Channel 8, Wichita, KS, 2020).
+[**“Green Acres: A History of Farming in America”**](https://americanarchive.org/catalog/cpb-aacip-532-qv3bz62p4f) **(BackStory, Charlottesville, VA, 2013).**
 
+“Farmers have always been a big part of the American identity,” begins historian Peter Onuf, the host of this [BackStory](https://americanarchive.org/special_collections/backstory) radio episode. “But in the early twentieth century, farmers became something else: a powerful political lobby.” In this broadcast, the entanglement of farming and politics is explored through the work of historians, political scientists, and other scholars. This program provides useful historical context for many other items in this anchor, discussing some of the landmark political moves and legislation of the twentieth century as well as the enduring idea of the small family farm [Philosophy](/exhibits/stories-of-the-land/6-practice#Philosophy) and its rhetorical significance in political discourse.
 
-#### Next: [Practice](/exhibits/wtories-of-the-land/6-practice)
+[***The Advocates***, **episode 322, “Should We Support the National Lettuce Boycotts”**](https://americanarchive.org/catalog/cpb-aacip-15-53wsv2nt) **(WGBH, Boston, MA, March 8, 1973).**
+
+This audio recording of an episode from the PBS television series *The Advocates* presents a debate between those in support a national boycott of iceberg lettuce and those opposed. Those speaking in favor of the boycott represent a coalition of farm-worker support, most notably Chicano activists and leaders of the United Farm Workers. Those against it include a state senator, California lettuce growers, and a representative from the Teamsters, who continue to deny that farm workers actually want union representation. Clergy spoke on both sides of the debate. Farm workers had been excluded from the 1930s labor legislation meant to protect workers in the United States, and leaders such as César Chávez worked to organize in order to protect agricultural workers through [Collective](/exhibits/stories-of-the-land/7-politics#Collectivity) action and striking power. These debates exemplify the rhetorical appeals—specifically to public consumers—on both sides of the [Labor](/exhibits/stories-of-the-land/3-work#Labor) debate.
+
+### Additional Broadcasts Relating to “Rhetoric"
+- [*Muni*, “VP Henry A. Wallace’s Inauguration of the School of Pan American Agriculture”](https://americanarchive.org/catalog/cpb-aacip_80-03228hdk) (WNYC, New York, October 10, 1944).
+-	[*Grassroots Voter 1960*, episode 4](https://americanarchive.org/catalog/cpb-aacip-512-kd1qf8kg92) (University of Michigan, Ann Arbor, 1960).
+-	[“Agriculture: The Need is Now”](https://americanarchive.org/catalog/cpb-aacip_75-11kh19bz) (KUON, Lincoln, NB, April 28, 1961).
+-	[“Cesar Chavez Speaks at the University of Dayton, Dayton Ohio”](https://americanarchive.org/catalog/cpb-aacip_27-4x54f1mv12) (WYSO, Yellow Springs, OH, July 1, 1973).
+-	[*MPR News Feature*, “Migrant conference interviewee talks about United Farm Workers Strike and the Teamsters”](https://americanarchive.org/catalog/cpb-aacip_43-sb3ws8j08b) (Minnesota Public Radio, April 20, 1973).
+-	Realidades, “Otro Paso” (WNET, New York, September 2, 1977), https://americanarchive.org/catalog/cpb-aacip-06a9b1062aa.
+-	[*The MacNeil/Lehrer Report*, “American Agriculture”](https://americanarchive.org/catalog/cpb-aacip_507-mp4vh5d854) (WNET/WETA, New York/Washington, November 7, 1977).
+-	[*The MacNeil/Lehrer Report*, “Farmers Talk”](https://americanarchive.org/catalog/cpb-aacip_507-3f4kk94x18) (WNET/WETA, New York/Washington, March 9, 1978).
+-	[*The MacNeil/Lehrer Report*, “Farm Depression”](https://americanarchive.org/catalog/cpb-aacip_507-bc3st7fj11) (WNET/WETA, New York/Washington, May 5, 1982).
+-	[*Midday*, “Troubles facing the farm economy”](https://americanarchive.org/catalog/cpb-aacip_43-63fxq4k7) (Minnesota Public Radio, St. Paul, May 23, 1982).
+-	[*MacNeil/Lehrer NewsHour*, “Farm Crisis”](https://americanarchive.org/catalog/cpb-aacip-507-h12v40km19?start=608.53&end=2565.12) (Educational Broadcasting Corp. & GWETA, February 14, 1985).
+-	[*Iowa Press*, “Farm Crisis,”](https://americanarchive.org/catalog/cpb-aacip-37-05fbgbt3) (Iowa Public Television, Johnston, February 17, 1985).
+-	[*Firing Line with William F. Buckley, Jr.* “Are We Coddling the Farmers?”](https://americanarchive.org/catalog/cpb-aacip_514-8p5v69916t) (South Carolina Educational Television Network, February 26, 1985).
+-	[*Crisis in Agriculture*, “Program on Farm Rally in Ames (Iowa)” (Iowa Public Television, Johnston, February 27, 1985), https://americanarchive.org/catalog/cpb-aacip_37-870vtg28.
+-	[*WHA-TV Close Up*, “Farm Crisis ’85: Strategies on Survival”](https://americanarchive.org/catalog/cpb-aacip-29-ww76t0hg9n) (WHA-TV, Madison, April 18, 1985).
+-	[*MacNeil/Lehrer NewsHour*, “Anatomy of a Crisis”](https://americanarchive.org/catalog/cpb-aacip-507-vq2s46hz6t?start=2061.27&end=3453.07) (WNET/WETA & MacNeil/Lehrer Gannett Productions, November 22, 1985).
+-	[*Buenas Noches*, “Boycat de Esparrago -Centro Campesino”](https://americanarchive.org/catalog/cpb-aacip-199-7634tvhs) (KDNA, Granger WA, April 14, 1986).
+-	[*Forum: Institute of Politics, episode 3, “American Farm Crisis”](https://americanarchive.org/catalog/cpb-aacip_15-46d25gxt) (WGBH Educational Foundation, Boston, MA, 1986).
+-	[*Louisiana: The State We’re In*, “Farmers in Louisiana”](https://americanarchive.org/catalog/cpb-aacip-17-386hfkfs) (Louisiana Public Broadcasting, Baton Rouge, ca. 1980s).
+-	[*Focus 580*, “Agricultures Social Contract”](https://americanarchive.org/catalog/cpb-aacip-16-q52f766q6m) (WILL Illinois Public Media, Urbana, April 7, 1992).
+-	[*Midday: Mainstreet Farm Crisis*](https://americanarchive.org/catalog/cpb-aacip-43-71ngf9kp) (Minnesota Public Radio, St. Paul, November 10, 1995).
+-	[*Focus 580*, “How the U.S. Department of Agriculture’s Redefinition of the Word Organic Changed the Industry”](https://americanarchive.org/catalog/cpb-aacip-16-pn8x92203x) (WILL Illinois Public Media, May 24, 2005).
+-	[*Minding Your Business*, episode 399, “Agroterrorism”](https://americanarchive.org/catalog/cpb-aacip-c405c96a752) (KRWG, Las Cruces, NM, December 5, 2008).
+
+#### Next: [Additional Readings](/exhibits/wtories-of-the-land/8-additional-readings)
 
 ## Resources
 
-- [Folklore and agriculture](*AgWeek*)](https://www.agweek.com/opinion/agricultural-life-has-connections-to-folk-culture)
-- [History of agricultural fairs (Arcadia Publishing)](https://yesterdaysamerica.com/american-traditions-a-short-history-of-agricultural-fairs/)
-- [Teaching plantation history (*National Geographic*)](https://education.nationalgeographic.org/resource/plantation-system/)
+- [Social justice in agriculture (*AgDaily*)](https://www.agdaily.com/insights/agriculture-and-race-the-complexities-of-rhetoric-and-reaction/)
+- [Farm workers and the COVID-19 pandemic (*Vice News*)](https://www.vice.com/en/article/akw9j5/essential-farm-workers-are-putting-food-on-your-table-with-no-insurance-no-sick-pay-and-few-safety-regulations)
+- [Storymap of the U.S. Farm Bill (Library of Congress)](https://www.loc.gov/ghe/cascade/index.html?appid=1821e70c01de48ae899a7ff708d6ad8b)
 
 ## Cover
-  <img title="Cover Image" alt="Culture" src="https://s3.amazonaws.com/americanarchive.org/exhibits/culture_square image.png">
+  <img title="Cover Image" alt="Culture" src="https://s3.amazonaws.com/americanarchive.org/exhibits/politics_square image.png">
 
 ## Gallery
 
 ## Records
 
-- [](/catalog/cpb-aacip-62-1v5bc3t37z)
-- [](/catalog/cpb-aacip-62-kp7tm72c6x)
-- [](/catalog/cpb-aacip-529-8g8ff3n557)
-- [](/catalog/cpb-aacip-529-rn3028qv4k)
-- [](/catalog/cpb-aacip-529-445h990g1k)
-- [](/catalog/cpb-aacip-514-j678s4kj6z)
-- [](/catalog/cpb-aacip-293-vq2s46hp12)
-- [](/catalog/cpb-aacip-293-61rfjdrs)
-- [](/catalog/cpb-aacip-15-9s17ss5w)
-- [](/catalog/cpb-aacip-28-s46h12vq61)
-- [](/catalog/cpb-aacip-fb2cd765573)
-- [](/catalog/cpb-aacip-df0befbce31)
-- [](/catalog/cpb-aacip-1b389924a6a)
-- [](/catalog/cpb-aacip-f1ec16219f1)
-- [](/catalog/cpb-aacip-529-qr4nk37g39)
-- [](/catalog/cpb-aacip-529-cj87h1ft9m)
-- [](/catalog/cpb-aacip-529-bc3st7g114)
-- [](/catalog/cpb-aacip-529-5m6251gr14)
-- [](/catalog/cpb-aacip-529-jq0sq8rq81)
-- [](/catalog/cpb-aacip-529-w66930q94g)
-- [](/catalog/cpb-aacip-529-ks6j09xd29)
-- [](/catalog/cpb-aacip-529-p843r0r62f)
-- [](/catalog/cpb-aacip-529-j96057f42z)
-- [](/catalog/cpb-aacip-345-94hmh173)
-- [](/catalog/cpb-aacip-15-99p2w600)
-- [](/catalog/cpb-aacip-500-vm42wr90)
-- [](/catalog/cpb-aacip-529-7659c6t81v)
-- [](/catalog/cpb-aacip-305-1289335k)
-- [](/catalog/cpb-aacip-305-89r22j6z)
-- [](/catalog/cpb-aacip-345-33dz0cv0)
-- [](/catalog/cpb-aacip-191-182jm7sh)
-- [](/catalog/cpb-aacip-17-89281hpg)
-- [](/catalog/cpb-aacip-3286ed6e25c)
+- [](cpb-aacip/394-5370s59p)
+- [](cpb-aacip/116-35gb5qnc)
+- [](cpb-aacip/37-17qnkdss)
+- [](cpb-aacip/37-343r26z7)
+- [](cpb-aacip-7623ccecfc0)
+- [](cpb-aacip/507-xk84j0bx6z)
+- [](cpb-aacip-207-69z08sth)
+- [](cpb-aacip/29-73pvmn5t)
+- [](cpb-aacip/507-dr2p55f39j)
+- [](cpb-aacip/500-9k45vb6d)
+- [](cpb-aacip-532-qv3bz62p4f)
+- [](cpb-aacip/15-53wsv2nt)
+- [](cpb-aacip/17-386hfkfs)
+- [](cpb-aacip-c405c96a752)
+- [](cpb-aacip/43-63fxq4k7)
+- [](cpb-aacip-199-7634tvhs)
+- [](cpb-aacip/27-4x54f1mv12)
+- [](cpb-aacip/43-sb3ws8j08b)
+- [](cpb-aacip-16-q52f766q6m)
+- [](cpb-aacip-16-pn8x92203x)
+- [](cpb-aacip/507-mp4vh5d854)
+- [](cpb-aacip/507-3f4kk94x18)
+- [](cpb-aacip-06a9b1062aa)
+- [](cpb-aacip/80-03228hdk)
+- [](cpb-aacip/512-kd1qf8kg92)
+- [](cpb-aacip/507-3f4kk94x18)
+- [](cpb-aacip/15-46d25gxt)
+- [](cpb-aacip/514-8p5v69916t)
+- [](cpb-aacip/37-870vtg28)
+- [](cpb-aacip/507-bc3st7fj11)
+- [](cpb-aacip/75-11kh19bz)
+- [](cpb-aacip-507-h12v40km19)
+- [](cpb-aacip-37-05fbgbt3)
+- [](cpb-aacip-29-ww76t0hg9n)
+- [](cpb-aacip-507-vq2s46hz6t)
 
