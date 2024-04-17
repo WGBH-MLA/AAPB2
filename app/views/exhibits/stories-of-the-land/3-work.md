@@ -8,7 +8,7 @@
 
 ## Main
 
-<img title="Banner Image" alt="An image of women whose faces are out of frame tending to crops." src="https://s3.amazonaws.com/americanarchive.org/exhibits/work_banner.png">
+<img title="Banner Image" alt="An image of two people tending to crops that says Harvest, Labor, Movement" src="https://s3.amazonaws.com/americanarchive.org/exhibits/work_banner.png">
 
 > **It’s ironic that those who till the soil, cultivate and harvest the fruits, vegetables, and other foods that fill your tables with abundance, have nothing left for themselves.**
 >
