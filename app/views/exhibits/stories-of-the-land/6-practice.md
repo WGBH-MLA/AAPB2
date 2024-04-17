@@ -8,7 +8,7 @@
 
 ## Main
 
-<img title="Banner Image" alt="An image of large containers of liquid." src="https://s3.amazonaws.com/americanarchive.org/exhibits/practice_banner.png">
+<img title="Banner Image" alt="An image of large containers of liquid that says Industry, Method, Philosophy." src="https://s3.amazonaws.com/americanarchive.org/exhibits/practice_banner.png">
 
 >**In the daily lives of farmers, the act of calling someone a "good farmer" is an acknowledgement of appreciation and status within the community. It is not a title given lightly. Rather it bestows on the individual recognition of the cultural competences that make a farmer worthy of being sought out by others for assistance – knowledge, skills, or material assistance – the provision of which, in turn, forms bonds of mutual obligation within farming communities. It is the centre of the farming culture.**
 
