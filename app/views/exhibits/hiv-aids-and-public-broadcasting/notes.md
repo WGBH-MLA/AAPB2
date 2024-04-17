@@ -36,33 +36,60 @@
 
 <a name="16"></a><sup>16</sup> Kinsella, *Covering the Plague*, 4.
 
+<a name="17"></a><sup>17</sup> Kevin Williams, "Dying of Ignorance? Journalists, News Sources, and the Media Reporting of HIV/AIDS," in *Social Policy, the Media and Misrepresentation*, ed. Bob Franklin (New York: Routledge, 1999), 70.
+
+<a name="18"></a><sup>18</sup> Centers for Disease Control, "Pneumocystisis Pneumonia," *MMWR* (June 5, 1981), https://www.cdc.gov/mmwr/preview/mmwrhtml/lmrk077.htm.
+
+<a name="19"></a><sup>19</sup> Sarah Schulman, *Let the Record Show: A Political History of ACT UP New York*, 1987-1993 (New York: Farrar, Straus and Giroux, 2021), 50; Shilts, *And the Band Played On*, 150. 
+
+<a name="20"></a><sup>20</sup> Lawrence K. Altman, "Rare Cancer Seen in 41 Homosexuals," *New York Times*, July 3, 1981.
+
+<a name="21"></a><sup>21</sup> Paul Farmer, *AIDS and Accusation: Haiti and the Geography of Blame* (Berkeley: University of California Press, 2019), 211.
+
+<a name="22"></a><sup>22</sup> *Kaposi's Sarcoma and Related Opportunistic Infections: Hearings Before the Subcommittee on Health and the Environment of the Committee on Energy and Commerce, House of Representatives*, 97th congress, 2nd sess., April 13, 1982.
+
+<a name="23"></a><sup>23</sup> Shilts, *And the Band Played On*, 352; Harry Nelson, "Epidemic Affecting Gays Now Found in Heterosexuals," Los Angeles Times, April 14, 1982.
+
+<a name="24"></a><sup>24</sup> Treichler, *How to Have Theory in an Epidemic*, 50. 
+
+<a name="25"></a><sup>25</sup> Ramani Durvasula, "A History of HIV/AIDS in Women: Shifting Narrative and a Structural Call to Arms," *Psychology and AIDS Exchange Newsletter* (American Psychological Association), March 2018, https://www.apa.org/pi/aids/resources/exchange/2018/03/history-women.
+
+<a name="26"></a><sup>26</sup> Centers for Disease Control, "Epidemiologic Notes and Reports Immunodeficiency among Female Sexual Partners of Males with Acquired Immune Deficiency Syndrome (AIDS) – New York," *MMWR* 31, no. 52, January 7, 1983: 697-98, https://www.cdc.gov/mmwr/preview/mmwrhtml/00001221.htm.
+
+<a name="27"></a><sup>27</sup> Erik Eckholm, "Poll Finds Many AIDS Fears That the Experts Say Are Groundless," *New York Times*, September 12, 1985, https://www.nytimes.com/1985/09/12/us/poll-finds-many-aids-fears-that-the-experts-say-are-groundless.html.
+
+<a name="28"></a><sup>28</sup> Robert R. Waller and Lynn W. Lisella, "National AIDS Hotline: HIV and AIDS Information Service Through a Toll-Free Telephone System," *Public Health Reports* 106, no. 6 (1991), https://stacks.cdc.gov/view/cdc/63657.
+
+<a name="29"></a><sup>29</sup> Karen A. Bonuck and Ernest Drucker, "Housing Issues of Persons with AIDS," *Journal of Urban Health: Bulletin of the New York Academy of Medicine*, vol. 75, no. 1 (March 1998).
+
+<a name="30"></a><sup>30</sup> Anthony Michael Petro, *After the Wrath of God: AIDS, Sexuality, and American Religion* (New York: Oxford University Press, 2015), 29.
+
+<a name="31"></a><sup>31</sup> "Hudson Getting French Drug for AIDS," *Los Angeles Times*, July 26, 1985, https://www.latimes.com/archives/la-xpm-1985-07-26-mn-4974-story.html.
+
+<a name="32"></a><sup>32</sup> Bob Secter, "Senate Votes to Double Funds to Combat AIDS," *Los Angeles Times*, October 23, 1985.
+
+<a name="33"></a><sup>33</sup> Colin Norman, "AIDS Therapy: New Push for Clinical Trials," *Science*, vol. 230, no. 4732 (December 20, 1985), https://www.science.org/doi/pdf/10.1126/science.2999981.
+
+<a name="34"></a><sup>34</sup> Kinsella, *Covering the Plague*, 4. 
+
+<a name="35"></a><sup>35</sup> "Gays and the Mainstream Press," *Outweek* (New York), October 15, 1989, http://www.outweek.net/pdfs/ow_17.pdf.
+
+<a name="36"></a><sup>36</sup> Kinsella, *Covering the Plague*, 45.
+
+<a name="37"></a><sup>37</sup> Patterson, *Restless Giant*, 179.
+
+<a name="38"></a><sup>38</sup> Williams, "Dying of Ignorance?" 69; Kinsella, *Covering the Plague*, 45.
 
 
 
-<a name="17"></a><sup>17</sup> “Ferguson Unrest: From Shooting to Nationwide Protests,” *BBC News*, August 10, 2015, https://www.bbc.com/news/world-us-canada-30193354.
 
-<a name="18"></a><sup>18</sup> Moni Basu, Holly Yan, and Dana Ford, “Fires, Chaos Erupt in Ferguson after Grand Jury Doesn't Indict in Michael Brown Case,” CNN, November 25, 2014, https://www.cnn.com/2014/11/24/justice/ferguson-grand-jury/.
 
-<a name="19"></a><sup>19</sup> Justin Wm. Moyer, Abby Ohlheiser, and Elahe Izadi, “Protests in Support of Eric Garner Erupt in New York and Elsewhere,” *Washington Post*, December 4, 2014, https://www.washingtonpost.com/news/morning-mix/wp/2014/12/04/after-grand-jury-doesnt-indict-police-officer-who-choked-eric-garner-protests-erupt-in-new-york-and-elsewhere/. 
 
-<a name="20"></a><sup>20</sup> “Baltimore Riots: Troops Deployed as Cleanup Begins,” *BBC News*, April 28, 2015, https://www.bbc.com/news/world-us-canada-32499116.
 
-<a name="21"></a><sup>21</sup> Jasmine C. Lee, et al., “Scenes and Voices from the Protests in Charlotte,” *New York Times*, September 22, 2016, https://www.nytimes.com/interactive/2016/09/22/us/charlotte-police-shooting-protest.html?mtrref=www.google.com&gwh=28ABE746F9CE7AE32A4F184CCECFA325&gwt=regi&assetType=REGIWALL.
+<a name="39"></a><sup>39</sup> "Gays and the Mainstream Press," *Outweek* (New York), October 15, 1989, http://www.outweek.net/pdfs/ow_17.pdf.
 
-<a name="22"></a><sup>22</sup> Rebecca Hersher, “Key Moments in the Dakota Access Pipeline Fight,” NPR, February 22, 2017, https://www.npr.org/sections/thetwo-way/2017/02/22/514988040/key-moments-in-the-dakota-access-pipeline-fight.
+<a name="40"></a><sup>40</sup> "Gays and the Mainstream Press," *Outweek* (New York), October 15, 1989, http://www.outweek.net/pdfs/ow_17.pdf.
 
-<a name="23"></a><sup>23</sup> Gregory Krieg, “Police Injured, More Than 200 Arrested at Trump Inauguration Protests in DC,” CNN, January 21, 2017, https://www.cnn.com/2017/01/19/politics/trump-inauguration-protests-womens-march/index.html.
-
-<a name="24"></a><sup>24</sup> Jason Hanna, et al., “Virginia Governor to White Nationalists: 'Go Home ... Shame on You',” CNN, August 13, 2017, https://www.cnn.com/2017/08/12/us/charlottesville-white-nationalists-rally/index.html. 
-
-<a name="25"></a><sup>25</sup> Alan Taylor, “A Weekend of Protest in St. Louis,” *The Atlantic*, September 18, 2017, https://www.theatlantic.com/photo/2017/09/a-weekend-of-protest-in-st-louis/540189/.
-
-<a name="26"></a><sup>26</sup> Melina Delkic, “Did St. Louis Use Excessive Force against Protesters? The ACLU Is Suing,” *Newsweek*, September 22, 2017, https://www.newsweek.com/aclu-sues-st-louis-missouri-lawsuit-stockley-verdict-669762.
-
-<a name="27"></a><sup>27</sup> Alex Altman, “Why the Killing of George Floyd Sparked an American Uprising,” *Time*, June 4, 2020, https://time.com/5847967/george-floyd-protests-trump/.
-
-<a name="28"></a><sup>28</sup> Jill Cowan, “Making Sense of the Capitol Attack,” *New York Times*, January 13, 2021, https://www.nytimes.com/2021/01/13/us/capitol-attack-california.html?searchResultPosition=18; Bill Chappell, “Architect of the Capitol Outlines $30 Million in Damages from Pro-Trump Riot,” February 24, 2021, NPR, https://www.npr.org/sections/insurrection-at-the-capitol/2021/02/24/970977612/architect-of-the-capitol-outlines-30-million-in-damages-from-pro-trump-riot.
-
-<a name="29"></a><sup>29</sup> Luke Broadwater, “House Opens Jan. 6 Investigation over Republican Opposition,” *New York Times*, June 30, 2021, https://www.nytimes.com/2021/06/30/us/house-jan-6-capitol-riot.html. 
+<a name="41"></a><sup>41</sup> "Gays and the Mainstream Press," *Outweek* (New York), October 15, 1989, http://www.outweek.net/pdfs/ow_17.pdf.
 
 ## Main
