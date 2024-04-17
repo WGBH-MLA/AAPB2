@@ -22,6 +22,6 @@ RUN apt-get autoremove -y \
 
 COPY . .
 
-RUN rake jetty:clean && rake jetty:config 
+RUN rake jetty:clean && rake jetty:config && rake assets:precompile
 
-CMD rake jetty:start && bundle exec rake db:migrate RAILS_ENV=development && bundle exec rails s -b 0.0.0.0
+CMD rake jetty:start && bundle exec rake db:migrate RAILS_ENV=production && bundle exec rails s -b 0.0.0.0
