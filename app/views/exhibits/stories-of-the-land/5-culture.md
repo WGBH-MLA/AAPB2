@@ -78,15 +78,19 @@ This series examines the economic and natural [Resources](/exhibits/stories-of-t
 </table>
 
 [***Dr. Dad’s PH3***, **“Soil and Agriculture”**](https://americanarchive.org/catalog/cpb-aacip-17-8605rg3q) **(Louisiana Public Broadcasting, Baton Rouge, 1995).**
+
 This broadcast from Louisiana Public Broadcasting was a part of *Dr. Dad’s PH3*: an educational series that introduced young audiences to scientific and historical concepts. This episode tackles [Soil](/exhibits/stories-of-the-land/4-environment#Soil) composition through hands-on activities, demonstrations, and trips to important [Places](/exhibits/stories-of-the-land/2-land#Place) relating to farming. Here, Dr. Dad visits both a small-scale herb farmer as well as the McIlhenny Company’s commercial farm, showcasing very different agricultural [Practices](/exhibits/stories-of-the-land/6-practice) with different conservation philosophies.
 
 [**“Wisconsin Farm Kids”**](https://americanarchive.org/catalog/cpb-aacip_29-rr1pg1j411) **(PBS Wisconsin, WHA-TV, Madison, 1999).**
+
 “This is the 90s,” says Wisconsin teen Haley in this 1999 special program on youth and agriculture. “And we’re not hicks and, like, old-time farmers. We’re very modern—we have all kinds of equipment, tractors.” The teens interviewed in this program address conceptions and misconceptions they’ve encountered while working on their family farms, while the agricultural reporter asks questions about day-to-day life and chores, special [Folklife]( #Folklife) events, farm prices and loans, urban development, and the futures they imagine in agriculture, both personally and for their state. As the teens discuss changing attitudes about farming, they share stories of early mornings, missing school events, visits to loan offices, and travel to [Rhetorically](/exhibits/stories-of-the-land/7-politics#Rhetoric) signal that they are hard-working, economically savvy, mobile, and conscientious.
 
 [***Gumbo Island***, **“Farm Families”**](https://americanarchive.org/catalog/cpb-aacip_17-47dr8qc9) **(Louisiana Public Broadcasting, Baton Rouge, 1997).**
+
 This educational television series explores the cultures and histories of Louisiana, geared towards children from kindergarten through fourth grade. In this episode, the young host visits the Louisiana State University youth livestock show in Baton Rouge and speaks with 4-H and Future Farmers of America (FFA) members about their work, competitions, and growing up on farms. Jeremy Martin, one of the teens followed in the program, participates in a sheep-showing competition in hopes of winning a satin ribbon or plated belt buckle.
 
 [***Louisiana: The State We're In***, **episode 431**](https://americanarchive.org/catalog/cpb-aacip-17-60cvfkgd) **(Louisiana Public Broadcasting, Baton Rouge, August 15, 1980).**
+
 The first segment of this television news program considers the migrant education program in Evangeline Parish in Louisiana, which was designed to serve the children of farm workers in the state whose lives are often on the [Move](/exhibits/stories-of-the-land/3-work#Movement) according to the seasonal work available at the time. Around 9,000 children participated in the federally funded programs across the state while their parents worked in the fields and on crawfish farms in the area. The news coverage demonstrates the need for programs and funding to support those most vulnerable who may be constrained by systems of scarcity, need, and subjugation.
 
 ### Additional Broadcasts Relating to “Culture”
