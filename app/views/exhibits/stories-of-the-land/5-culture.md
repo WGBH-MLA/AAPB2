@@ -8,7 +8,7 @@
 
 ## Main
 
-<img title="Banner Image" alt="An image of two people exhanging produce." src="https://s3.amazonaws.com/americanarchive.org/exhibits/culture_banner.png">
+<img title="Banner Image" alt="An image of two people exhanging produce that says Story, Folklife, Youth." src="https://s3.amazonaws.com/americanarchive.org/exhibits/culture_banner.png">
 
 >**Among the first things one learns from the practice of agriculture, whether one comes to it by birthright—raised in the country—or transplanted from the city, is that farming is not a mere mechanical, scientific, or even economic enterprise, but a social and thus cultural one.**
 
