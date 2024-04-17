@@ -8,7 +8,7 @@
 
 ## Main
 
- <img title="Banner Image" alt="An image of farmland at dusk." src="https://s3.amazonaws.com/americanarchive.org/exhibits/land_banner.png">
+ <img title="Banner Image" alt="An image of farmland at dusk that says Stewardship, Place, Resources." src="https://s3.amazonaws.com/americanarchive.org/exhibits/land_banner.png">
 
 >**The point is that use does not indicate in any real way his idea of the land. Use is neither his work nor his idea. As an Indian I think: you say that I use the land, and I reply, yes, it is true; but it is not the first truth. The first truth is that I love the land; I see that it is beautiful; I delight in it; I am alive in it.**
 
