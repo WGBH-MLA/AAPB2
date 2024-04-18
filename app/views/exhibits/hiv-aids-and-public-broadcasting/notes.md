@@ -80,16 +80,42 @@
 
 <a name="38"></a><sup>38</sup> Williams, "Dying of Ignorance?" 69; Kinsella, *Covering the Plague*, 45.
 
+<a name="39"></a><sup>39</sup> John Tulloch and Deborah Lupton, *Television, AIDS and Risk: A Cultural Studies Approach to Health Communication* (Allen & Unwin, 1997), 34.
 
+<a name="40"></a><sup>40</sup> Kinsella, *Covering the Plague*, 144.
 
+<a name="41"></a><sup>41</sup> Jo Ann Ferrell, "AIDS Carrier Reportedly Leaves Town after Spreading Disease," *Call and Post* (Cleveland, OH), September 12, 1985.
 
+<a name="42"></a><sup>42</sup> René Esparza, "Black Bodies on Lockdown: AIDS Moral Panic and the Criminalization of HIV in Times of White Injury," *The Journal of African American History* (2019), 272.
 
+<a name="43"></a><sup>43</sup> Martha Bayles, "Documentary: A Case of AIDS," *Wall Street Journal*, March 24, 1986; Howard Rosenberg, "'Frontline' AIDS Controversy," *Los Angeles Times*, March 27, 1986.
 
+<a name="44"></a><sup>44</sup> Brian Jones, "Bridges: The 'Hooker' Who Said No: PBS Documentary Based on a Hoax?" *Bay Area Reporter* (San Francisco, CA), March 27, 1986, https://archive.org/details/BAR_19860327/mode/2up.
 
-<a name="39"></a><sup>39</sup> "Gays and the Mainstream Press," *Outweek* (New York), October 15, 1989, http://www.outweek.net/pdfs/ow_17.pdf.
+<a name="45"></a><sup>45</sup> Esparza, 251.
 
-<a name="40"></a><sup>40</sup> "Gays and the Mainstream Press," *Outweek* (New York), October 15, 1989, http://www.outweek.net/pdfs/ow_17.pdf.
+<a name="46"></a><sup>46</sup> Douglas Crimp, "Portraits of People with AIDS," in *Cultural Studies*, ed. Cary Nelson, Lawrence Grossberg, and Paula Treichler (New York: Taylor & Francis, 2013), 120.
 
-<a name="41"></a><sup>41</sup> "Gays and the Mainstream Press," *Outweek* (New York), October 15, 1989, http://www.outweek.net/pdfs/ow_17.pdf.
+<a name="47"></a><sup>47</sup> Kevin Roderick, "Questions on Prop. 64: Clearing the Confusion," *Los Angeles Times*, October 29, 1986. 
+
+<a name="48"></a><sup>48</sup> Robert Steinbrook, "Prop. 64 Would Hurt AIDS Studies, Researchers Warn," *Los Angeles Times*, September 24, 1986.
+
+<a name="49"></a><sup>49</sup> "14 San Francisco Sex Clubs Told to Close to Curb AIDS," *New York Times*, October 10, 1984, https://www.nytimes.com/1984/10/10/us/14-san-francisco-sex-clubs-told-to-close-to-curb-aids.html.
+
+<a name="50"></a><sup>50</sup> Irvin Molotsky, "Congress Passes Compromise AIDS Bill," *New York Times*, October 14, 1988, https://www.nytimes.com/1988/10/14/us/congress-passes-compromise-aids-bill.html.
+
+<a name="51"></a><sup>51</sup> Chris Bull, "Congress passes $1 billion AIDS bill—no confidentiality," *Gay Community News* (Boston, MA), October 23-29, 1988, https://repository.library.northeastern.edu/downloads/neu:m046j9684?datastream_id=content.
+
+<a name="52"></a><sup>52</sup> Although treatment for HIV had become being manageable in the 2000s and the virus by that time was determined to be untransmissible with medication, [HIV wasn’t removed from the list of communicable diseases](https://www.federalregister.gov/documents/2009/11/02/E9-26337/medical-examination-of-aliens-removal-of-human-immunodeficiency-virus-hiv-infection-from-definition) that disqualify immigrants from coming into the U.S. until 2009.
+
+<a name="53"></a><sup>53</sup> Dennis Altman, "HIV, Homophobia, and Human Rights," *Health and Human Rights* 2 (1996), 16.
+
+<a name="54"></a><sup>54</sup> Jerry Cheslow, "50 Radio Stations to Join in an AIDS Broadcast," *New York Times*, May 15, 1988. 
+
+<a name="55"></a><sup>55</sup> Schulman, *Let the Record Show*, 101.
+
+<a name="56"></a><sup>56</sup> Marlene Cimons and Victor F. Zonana, "Manufacturer Reduces Price of AZT by 20%," *Los Angeles Times*, September 19, 1989, https://www.latimes.com/archives/la-xpm-1989-09-19-mn-111-story.html.
+
+<a name="57"></a><sup>57</sup> Kinsella, *Covering the Plague*, 75, 122.
 
 ## Main
