@@ -118,4 +118,6 @@
 
 <a name="57"></a><sup>57</sup> Kinsella, *Covering the Plague*, 75, 122.
 
+<a name="58"></a><sup>58</sup> Centers for Disease Control, “Notice to Readers Clinical Update: Impact of HIV Protease Inhibitors on the Treatment of HIV-Infected Tuberculosis Patients with Rifampin,” *MMWR*, October 25, 1996, https://www.cdc.gov/mmwr/preview/mmwrhtml/00044186.htm. 
+
 ## Main
