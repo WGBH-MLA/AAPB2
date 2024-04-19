@@ -21,7 +21,7 @@ RUN apt-get autoremove -y \
 
 COPY . .
 
-RUN rake jetty:clean && rake jetty:config && rake assets:precompile
+RUN rake assets:precompile
 
 RUN rake db:migrate
 
