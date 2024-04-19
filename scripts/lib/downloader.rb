@@ -112,7 +112,7 @@ class Downloader
     q = QueryMaker.translate(query)
     $LOG.info("Query solr for #{query}")
 
-    @options[:ids] = RSolr.connect(url: 'http://localhost:8983/solr/')
+    @options[:ids] = RSolr.connect(url: config.solr_url)
                           .get('select',
                                params: { q: q, fl: 'id', rows: MAX_ROWS }
                               )['response']['docs'].map { |doc| doc['id'] }

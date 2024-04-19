@@ -10,7 +10,7 @@ describe 'Solr' do
         'analysis.fieldvalue' => input,
         'analysis.fieldtype' => 'sort'
       )
-      json = URI('http://localhost:8983/solr/blacklight-core/analysis/field?' + params).read
+      json = URI(config.solr_url + '/blacklight-core/analysis/field?' + params).read
       JSON.parse(json)['analysis']['field_types']['sort']['index'].last.last['text']
     end
     it 'folds diacritics' do
