@@ -14,17 +14,17 @@ EXPOSE 3000
 CMD rake jetty:clean && rake jetty:config && rake jetty:start && bundle exec rake db:migrate RAILS_ENV=development && bundle exec rails s -b 0.0.0.0
 
 FROM base as production
-ENV RAILS_ENV=production
 
 RUN apt-get autoremove -y \
     && apt-get clean -y \
     && rm -rf /var/lib/apt/lists/*
-
 
 COPY . .
 
 RUN rake jetty:clean && rake jetty:config && rake assets:precompile
 
 RUN rake db:migrate
+
+ENV RAILS_ENV=production
 
 CMD rails s -b 0.0.0.0
