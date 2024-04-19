@@ -21,8 +21,8 @@ RUN apt-get autoremove -y \
 
 COPY . .
 
-RUN rake assets:precompile
+RUN bundle exec rake assets:precompile
 
-RUN rake db:migrate
+RUN bundle exec rake db:migrate
 
 CMD rails s -b 0.0.0.0
