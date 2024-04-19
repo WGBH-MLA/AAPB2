@@ -10,9 +10,9 @@ class CatalogController < ApplicationController
   self.search_params_logic += [:apply_quote_handler, :apply_date_filter]
 
   configure_blacklight do |config|
-
     # Configure the Solr connection
-    config.solr.url = config.solr_url + 'blacklight-core'
+    config.solr.url = ENV['SOLR_URL'] || 'http://localhost:8983/solr/'
+    config.solr.url += 'blacklight-core'
 
     # 'list' is the name of blacklight's default search result view style
     config.view.gallery.partials = [:index]
