@@ -25,6 +25,4 @@ RUN rake jetty:clean && rake jetty:config && rake assets:precompile
 
 RUN rake db:migrate
 
-ENV RAILS_ENV=production
-
 CMD rails s -b 0.0.0.0
