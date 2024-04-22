@@ -15,6 +15,7 @@ CMD rake jetty:clean && rake jetty:config && rake jetty:start && bundle exec rak
 
 FROM base as production
 ENV RAILS_ENV=production
+ENV AAPB_LOG=log/build.log
 
 RUN apt-get autoremove -y \
     && apt-get clean -y \
@@ -22,10 +23,8 @@ RUN apt-get autoremove -y \
 
 COPY . .
 
-RUN touch log/production.log
-
 RUN bundle exec rake assets:precompile
 
-RUN bundle exec rake db:migrate
+RUN RAILS_ENV=production bundle exec rake db:migrate
 
 CMD rails s -b 0.0.0.0
