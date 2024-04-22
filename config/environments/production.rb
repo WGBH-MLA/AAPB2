@@ -1,9 +1,6 @@
 Rails.application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
 
-  # Solr URL
-  config.solr_url = ENV['SOLR_URL'] || 'http://localhost:8983/solr/'
-
   # Code is not reloaded between requests.
   config.cache_classes = true
 

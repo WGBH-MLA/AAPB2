@@ -16,4 +16,4 @@ test:
   url: http://127.0.0.1:8983/solr/
   # TODO: Get separate dev and test cores, and change this back to 8888. bug #1
 production:
-  url: http://<%= ENV['SOLR_URL'] || '127.0.0.1' %>:8983/solr/
+  url: <%= ENV['SOLR_URL'] || 'http://127.0.0.1:8983/solr/' %>
