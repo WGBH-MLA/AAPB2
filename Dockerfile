@@ -22,6 +22,8 @@ RUN apt-get autoremove -y \
 
 COPY . .
 
+RUN touch log/production.log
+
 RUN bundle exec rake assets:precompile
 
 RUN bundle exec rake db:migrate
