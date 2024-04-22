@@ -190,6 +190,6 @@
 
 <a name=”93”></a><sup>93</sup> Timothy Bella, “Texas AG Says He’d Defend Sodomy Law if Supreme Court Revisits Ruling,” *Washington Post*, June 29, 2022., https://www.washingtonpost.com/politics/2022/06/29/texas-sodomy-supreme-court-lawrence-paxton-lgbtq/. 
 
-<a name=”94”></a><sup>894</sup> Rachel Treisman, “As Monkeypox Spreads, Know the Difference between Warning and Stigmatizing People,” *NPR*, July 26, 2022, https://www.npr.org/2022/07/26/1113713684/monkeypox-stigma-gay-community. 
+<a name=”94”></a><sup>94</sup> Rachel Treisman, “As Monkeypox Spreads, Know the Difference between Warning and Stigmatizing People,” *NPR*, July 26, 2022, https://www.npr.org/2022/07/26/1113713684/monkeypox-stigma-gay-community. 
 
 ## Main
