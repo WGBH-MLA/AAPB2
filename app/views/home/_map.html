@@ -51,6 +51,11 @@
     line-height: 30px;
   }
 
+  .map-logo {
+    max-width: 100%;
+    max-height: 10rem;
+  }
+
   .info {
     padding: 6px 8px;
     font: 14px/16px Arial, Helvetica, sans-serif;
@@ -92,7 +97,7 @@
 
   info.update = function (props) {
     this._div.innerHTML =
-      `<h4>Contributing Organizations</h4>` +
+      `<h4>Participating Organizations</h4>` +
       (!props
         ? 'Hover over a state'
         : `<b>${props.name}</b>` +
@@ -124,7 +129,7 @@
     weight: 3,
     color: 'white',
     dashArray: 2,
-    fillOpacity: 0.7,
+    fillOpacity: 0.3,
   }
 
   function fetchJson(url) {
@@ -188,7 +193,9 @@
           (org.Url
             ? `<a href="${org.Url}" target="_blank" ><h3>${org.Name}</h3></a>`
             : `<h3>${org.Name}</h3><br>`) +
-            (org.Logo ? `<img src="${org.Logo}" style="map-logo"><br>` : '') +
+            (org.Logo
+              ? `<img src="https://s3.amazonaws.com/americanarchive.org/org-logos/${org.Logo}" class="map-logo"><br>`
+              : '') +
             `${org.City}, ${org.State}<br>` +
             (org.About && `<div class="about">${org.About}</div><br>`) +
             (org.Productions
