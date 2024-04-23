@@ -50,6 +50,19 @@
   .marker-cluster span {
     line-height: 30px;
   }
+
+  .info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+  }
+  .info h4 {
+    margin: 0 0 5px;
+    color: #777;
+  }
 </style>
 
 <div id="map" style="height: 600px; width: 100%"></div>
@@ -59,7 +72,7 @@
   const map = L.map('map', {
     maxZoom: 10,
     minZoom: 2,
-    zoomSnap: 0.2,
+    zoomSnap: 0.5,
     zoomDelta: 1,
   }).setView([37.8, -96], 4)
 
@@ -69,68 +82,81 @@
       'Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors',
   }).addTo(map)
 
+  // Add a control to show the state name on hover
+  const info = L.control()
+  info.onAdd = function (map) {
+    this._div = L.DomUtil.create('div', 'info')
+    this.update()
+    return this._div
+  }
+
+  info.update = function (props) {
+    this._div.innerHTML =
+      `<h4>Contributing Organizations</h4>` +
+      (props ? `<b>${props.name}</b>` : 'Hover over a state')
+  }
+
+  info.addTo(map)
+
   // Add the marker cluster layer
   const markers = L.markerClusterGroup({
-    maxClusterRadius: 10,
+    maxClusterRadius: 20,
     spiderfyOnMaxZoom: true,
   }).on('clusterclick', a => {
     a.layer.zoomToBounds({ padding: [20, 20] })
   })
   map.addLayer(markers)
 
-  var geojsonPath =
+  const stateStyle = {
+    fillColor: '#7c147c',
+    weight: 1,
+    color: '#ccc',
+    dashArray: 3,
+    fillOpacity: 0.5,
+  }
+
+  const stateStyleActive = {
+    fillColor: '#7c147c',
+    weight: 3,
+    color: 'white',
+    dashArray: 2,
+    fillOpacity: 0.7,
+  }
+
+  const geojsonUrl =
     'https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json'
-  var orgs = 'https://raw.githubusercontent.com/WGBH-MLA/AAPB2/map/orgs.json'
-
-  function onEachFeature(feature, layer) {
-    layer.on({
-      click: e => {
-        console.log('Clicked on ' + feature.properties.name, e)
-        window.location.href = '#' + feature.properties.name
-      },
-      mouseover: e => {
-        layer.setStyle({
-          weight: 3,
-          color: 'white',
-          dashArray: '2',
-          fillOpacity: 0.7,
-        })
-      },
-      mouseout: e => {
-        layer.setStyle({
-          weight: 1,
-          color: '#ccc',
-          dashArray: '3',
-          fillOpacity: 0.5,
-        })
-      },
-    })
-  }
-
-  function style(feature) {
-    return {
-      fillColor: '#7c147c',
-      weight: 2,
-      opacity: 1,
-      color: '#ccc',
-      dashArray: '3',
-      fillOpacity: 0.5,
-    }
-  }
+  const orgsUrl =
+    'https://raw.githubusercontent.com/WGBH-MLA/AAPB2/map/orgs.json'
+  var orgs = null
 
   // Add the GeoJSON layer to the map
-  fetch(geojsonPath)
+  fetch(geojsonUrl)
     .then(response => response.json())
     .then(data => {
       L.geoJson(data, {
-        onEachFeature: onEachFeature,
-        style,
+        onEachFeature: (feature, layer) => {
+          layer.on({
+            click: e => {
+              console.log('Clicked on ' + feature.properties.name, e)
+              window.location.href = '#' + feature.properties.name
+            },
+            mouseover: e => {
+              layer.setStyle(stateStyleActive)
+              layer.bringToFront()
+            },
+            mouseout: e => {
+              layer.setStyle(stateStyle)
+            },
+          })
+        },
+        style: stateStyle,
       }).addTo(map)
     })
 
-  fetch(orgs)
+  fetch(orgsUrl)
     .then(response => response.json())
     .then(data => {
+      orgs = data
       Object.keys(data).forEach(org_id => {
         let org = data[org_id]
         markers.addLayer(
