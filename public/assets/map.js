@@ -33,15 +33,6 @@ info.update = function (props) {
 
 info.addTo(map)
 
-// Add the marker cluster layer
-const markers = L.markerClusterGroup({
-  maxClusterRadius: 20,
-  spiderfyOnMaxZoom: true,
-}).on('clusterclick', a => {
-  a.layer.zoomToBounds({ padding: [20, 20] })
-})
-map.addLayer(markers)
-
 const stateStyle = {
   fillColor: '#7c147c',
   weight: 1,
@@ -116,6 +107,15 @@ Promise.all([geojson, orgs]).then(([geojson, orgs]) => {
     },
     style: stateStyle,
   }).addTo(map)
+
+  // Add the marker cluster layer
+  const markers = L.markerClusterGroup({
+    maxClusterRadius: 20,
+    spiderfyOnMaxZoom: true,
+  }).on('clusterclick', a => {
+    a.layer.zoomToBounds({ padding: [20, 20] })
+  })
+  map.addLayer(markers)
 
   // Add the markers to the map
   Object.keys(orgs).forEach(org_id => {
