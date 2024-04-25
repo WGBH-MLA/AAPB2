@@ -57,8 +57,8 @@ $(document).ready(function () {
     return `<br><a href="${org.Url}" target="_blank" >${org.Name}</a>`
   }
 
-  const geojson = fetchJson('assets/us-states.json')
-  const orgs = fetchJson('assets/orgs.json')
+  const geojson = fetchJson('/data/us-states.json')
+  const orgs = fetchJson('/data/orgs.json')
 
   Promise.all([geojson, orgs]).then(([geojson, orgs]) => {
     // aggregate the orgs by state
