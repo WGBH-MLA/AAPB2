@@ -1,12 +1,23 @@
 #map {
   height: 600px;
   width: 100%;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+
+#map a.org-url:hover {
+  color: #8c0c54;
+}
+
+#map h3 {
+  margin-bottom: auto;
 }
 
 .about {
   font-size: 0.8em;
   max-height: 5rem;
   overflow: auto;
+  color: black;
 }
 
 .marker-cluster-small {
@@ -33,6 +44,7 @@
 .marker-cluster {
   background-clip: padding-box;
   border-radius: 20px;
+  color: white;
 }
 .marker-cluster div {
   width: 30px;

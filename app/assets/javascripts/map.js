@@ -126,19 +126,19 @@ $(document).ready(function () {
           title: org.Name,
         }).bindPopup(
           `<h3>${org.Name}</h3>` +
+            (org.Logo
+              ? `<img src="https://s3.amazonaws.com/americanarchive.org/org-logos/${org.Logo}" class="map-logo"><br>`
+              : '') +
             `${org.City}, ${org.State}` +
             (org.Url
-              ? `<br><a href="${org.Url}" target="_blank" ><h5>${org.Url}</h5></a>`
-              : '') +
-            (org.Logo
-              ? `<br><img src="https://s3.amazonaws.com/americanarchive.org/org-logos/${org.Logo}" class="map-logo"><br>`
+              ? ` <a href="${org.Url}" target="_blank" class="org-url">${org.Url}</a>`
               : '') +
             (org.About
               ? `<br><div class="about">${org.About}</div>`
               : org.Productions
-              ? `<br><h4>Productions</h4><div class="about">${org.Productions}</div>`
+              ? `<h4>Productions</h4><div class="about">${org.Productions}</div>`
               : '') +
-            `<br><a href="/catalog?f%5Bcontributing_organizations%5D%5B%5D=${encodeURIComponent(
+            `<a href="/catalog?f%5Bcontributing_organizations%5D%5B%5D=${encodeURIComponent(
               org['Short name'] + ' (' + STATES[org.State] + ')'
             )}" target="_blank" class="btn btn-default btn-sm">View all records</a>`
         )
