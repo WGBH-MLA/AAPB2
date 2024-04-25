@@ -9,8 +9,9 @@
   color: #8c0c54;
 }
 
-#map h3 {
-  margin-bottom: auto;
+#map h3,
+#map h4 {
+  margin-bottom: 0.5rem;
 }
 
 .about {

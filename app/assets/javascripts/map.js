@@ -54,7 +54,7 @@ $(document).ready(function () {
   }
 
   function stationNameLink(org) {
-    return `<br><a href="${org.Url}" target="_blank" >${org.Name}</a>`
+    return `<a href="${org.Url}" target="_blank" class="org-url" >${org.Name}</a><br>`
   }
 
   const geojson = fetchJson('/data/us-states.json')
