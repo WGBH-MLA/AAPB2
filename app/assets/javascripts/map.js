@@ -125,17 +125,22 @@ $(document).ready(function () {
         L.marker(org.location, {
           title: org.Name,
         }).bindPopup(
-          (org.Url
-            ? `<a href="${org.Url}" target="_blank" ><h3>${org.Name}</h3></a>`
-            : `<h3>${org.Name}</h3><br>`) +
-            (org.Logo
-              ? `<img src="https://s3.amazonaws.com/americanarchive.org/org-logos/${org.Logo}" class="map-logo"><br>`
+          `<h3>${org.Name}</h3>` +
+            `${org.City}, ${org.State}` +
+            (org.Url
+              ? `<br><a href="${org.Url}" target="_blank" ><h5>${org.Url}</h5></a>`
               : '') +
-            `${org.City}, ${org.State}<br>` +
-            (org.About && `<div class="about">${org.About}</div><br>`) +
-            (org.Productions
-              ? `<h4>Productions</h4><div class="about">${org.Productions}</div>`
-              : '')
+            (org.Logo
+              ? `<br><img src="https://s3.amazonaws.com/americanarchive.org/org-logos/${org.Logo}" class="map-logo"><br>`
+              : '') +
+            (org.About
+              ? `<br><div class="about">${org.About}</div>`
+              : org.Productions
+              ? `<br><h4>Productions</h4><div class="about">${org.Productions}</div>`
+              : '') +
+            `<br><a href="/catalog?f%5Bcontributing_organizations%5D%5B%5D=${encodeURIComponent(
+              org['Short name'] + ' (' + STATES[org.State] + ')'
+            )}" target="_blank" class="btn btn-default btn-sm">View all records</a>`
         )
       )
     })
