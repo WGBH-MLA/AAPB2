@@ -65,3 +65,9 @@
   margin: 0 0 5px;
   color: #777;
 }
+
+@media screen and (max-width: 768px) {
+  #map-container {
+    margin: 1rem;
+  }
+}
