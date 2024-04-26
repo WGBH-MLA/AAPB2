@@ -5,6 +5,10 @@ $(document).ready(function () {
     minZoom: 2,
     zoomSnap: 0.5,
     zoomDelta: 1,
+    maxBounds: [
+      [65, -230],
+      [-20, -50],
+    ],
   }).setView([37.8, -96], 4)
 
   // Set up the OSM layer
