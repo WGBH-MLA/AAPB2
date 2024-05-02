@@ -17,27 +17,6 @@ $(document).ready(function () {
       'Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors',
   }).addTo(map)
 
-  // Add a control to show the state name on hover
-  const info = L.control()
-  info.onAdd = function (map) {
-    this._div = L.DomUtil.create('div', 'info')
-    this.update()
-    return this._div
-  }
-
-  info.update = function (props) {
-    this._div.innerHTML =
-      `<h4>Participating Organizations</h4>` +
-      (!props
-        ? 'Hover over a state'
-        : `<b>${props.name}</b>` +
-          (props.count
-            ? `<br>${props.count} organization${props.count > 1 ? 's' : ''}`
-            : ''))
-  }
-
-  info.addTo(map)
-
   const stateStyle = {
     fillColor: '#7c147c',
     weight: 1,
@@ -58,7 +37,7 @@ $(document).ready(function () {
   }
 
   function stationNameLink(org) {
-    return `<a href="${org.Url}" target="_blank" class="org-url" >${org.Name}</a><br>`
+    return `<a href="/participating-orgs/${org.id}" target="_blank" class="org-url" >${org.Name}</a><br>`
   }
 
   const geojson = fetchJson('/data/us-states.json')
@@ -69,6 +48,7 @@ $(document).ready(function () {
     let orgsByState = {}
     Object.keys(orgs).forEach(org_id => {
       let org = orgs[org_id]
+      org.id = org_id
       let state = org.State
       if (!orgsByState[state]) {
         orgsByState[state] = {}
@@ -80,35 +60,31 @@ $(document).ready(function () {
     L.geoJson(geojson, {
       onEachFeature: (feature, layer) => {
         let region = feature.properties.name
-        let count = orgsByState[region]
-          ? Object.keys(orgsByState[region]).length
-          : null
-        let orgs = count ? Object.values(orgsByState[region]) : []
+        // let count = orgsByState[region]
+        //   ? Object.keys(orgsByState[region]).length
+        //   : null
+        // let orgs = count ? Object.values(orgsByState[region]) : []
 
-        layer
-          .on({
-            click: e => {
-              console.log('Clicked on ' + region, e)
-              // window.location.href = '#' + region
-            },
-            mouseover: e => {
-              layer.setStyle(stateStyleActive)
-              layer.bringToFront()
-              info.update({
-                name: region,
-                count,
-              })
-            },
-            mouseout: e => {
-              layer.setStyle(stateStyle)
-            },
-          })
-          .bindPopup(
-            `<h4>${region}</h4>` +
-              (orgs.length
-                ? orgs.map(stationNameLink).join('')
-                : 'No Participating Organizations in this region')
-          )
+        layer.on({
+          click: e => {
+            window.open(`/participating-orgs#${region}`, '_blank').focus()
+          },
+          mouseover: e => {
+            layer.setStyle(stateStyleActive)
+            layer.bringToFront()
+          },
+          mouseout: e => {
+            layer.setStyle(stateStyle)
+          },
+        })
+        /* State popup */
+
+        // .bindPopup(
+        //   `<h4>${region}</h4>` +
+        //     (orgs.length
+        //       ? orgs.map(stationNameLink).join('')
+        //       : 'No Participating Organizations in this region')
+        // )
       },
       style: stateStyle,
     }).addTo(map)
@@ -116,7 +92,7 @@ $(document).ready(function () {
     // Add the marker cluster layer
     const markers = L.markerClusterGroup({
       maxClusterRadius: 20,
-      spiderfyOnMaxZoom: true,
+      disableClusteringAtZoom: 10,
     }).on('clusterclick', a => {
       a.layer.zoomToBounds({ padding: [20, 20] })
     })
@@ -129,18 +105,10 @@ $(document).ready(function () {
         L.marker(org.location, {
           title: org.Name,
         }).bindPopup(
-          `<h3>${org.Name}</h3>` +
+          `<a href="/participating-orgs/${org_id}" target="_blank" class="org-url"><h3>${org.Name}</h3></a>` +
+            `${org.City}, ${org.State}<br>` +
             (org.Logo
               ? `<img src="https://s3.amazonaws.com/americanarchive.org/org-logos/${org.Logo}" class="map-logo"><br>`
-              : '') +
-            `${org.City}, ${org.State}` +
-            (org.Url
-              ? ` <a href="${org.Url}" target="_blank" class="org-url">${org.Url}</a>`
-              : '') +
-            (org.About
-              ? `<br><div class="about">${org.About}</div>`
-              : org.Productions
-              ? `<h4>Productions</h4><div class="about">${org.Productions}</div>`
               : '') +
             `<a href="/catalog?f%5Bcontributing_organizations%5D%5B%5D=${encodeURIComponent(
               org['Short name'] + ' (' + STATES[org.State] + ')'
