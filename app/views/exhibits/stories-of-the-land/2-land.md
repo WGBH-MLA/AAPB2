@@ -12,7 +12,7 @@
 
 >**The point is that use does not indicate in any real way his idea of the land. Use is neither his work nor his idea. As an Indian I think: you say that I use the land, and I reply, yes, it is true; but it is not the first truth. The first truth is that I love the land; I see that it is beautiful; I delight in it; I am alive in it.**
 
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - N. Scott Momaday, Kiowa novelist[<sup>9</sup>](/exhibits/stories-of-the-land/notes#9)  
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - N. Scott Momaday, Kiowa novelist[<sup>9</sup>](/exhibits/stories-of-the-land/notes#9.md)  
 
 What is our relationship with the land we inhabit? How do we use it? Cultivate it? Conserve it? How do issues of displacement, dispossession, and dispute impact the way we see our place in the land? This connection is at once a question of philosophy, economy, spirituality, and ideology, and different groups have put forward competing land ethics while trying to answer these questions. This Anchor explores how those involved in agriculture express their ties to the land through ideas of [Stewardship](#Stewardship), [Place](#Place), and [Resources](#Resources).
 
