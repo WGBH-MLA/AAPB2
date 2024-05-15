@@ -113,11 +113,8 @@ This television documentary features interviews with workers who participated in
 - [*Return to the Valley*](https://americanarchive.org/catalog/cpb-aacip_426-07gqnm60) (KEET, Eureka, CA, 2003).
 - [WPLN News Archive, “Tennessee Pearls”](https://americanarchive.org/catalog/cpb-aacip-dcb61c00e61) (WPLN News, Nashville, TN, June 30, 2003).
 - [*Here and Now*](https://americanarchive.org/catalog/cpb-aacip-29-89d51q0k) (Wisconsin Public Television, April 30, 2010).
-- [*African Americans in California Heartland*, footage #1](https://americanarchive.org/catalog/cpb-aacip_86-07gqnmqw) (KVIE, Sacramento, CA, June 17, 2013).
-- [*African Americans in California Heartland*, footage #2](https://americanarchive.org/catalog/cpb-aacip_86-60cvdvc6) (KVIE, Sacramento, CA, June 17, 2013).
-- [*Viewfinder*, “Little Manila: Filipinos in California’s Heartland,” footage #1](https://americanarchive.org/catalog/cpb-aacip-86-569324xw) (KVIE, Sacramento, CA, June 17, 2013).
-- [*Viewfinder*, “Little Manila: Filipinos in California’s Heartland,” footage #2](https://americanarchive.org/catalog/cpb-aacip-86-032281fk) (KVIE, Sacramento, CA, June 17, 2013).
-- [*Viewfinder*, “Little Manila: Filipinos in California’s Heartland,” footage #3](https://americanarchive.org/catalog/cpb-aacip-86-06g1jxmm) (KVIE, Sacramento, CA, June 17, 2013),
+- [*African Americans in California's Heartland*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bprogram_titles%5D%5B%5D=African+Americans+In+California+Heartland&sort=title+asc) (KVIE, Sacramento, CA, June 17, 2013).
+- [*Viewfinder*, “Little Manila: Filipinos in California’s Heartland"](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bepisode_titles%5D%5B%5D=Little+Manila%3A+Filipinos+in+California+Heartland&sort=title+asc) (KVIE, Sacramento, CA, June 17, 2013).
  
 #### Next: [Environment](/exhibits/stories-of-the-land/4-environment)
 
