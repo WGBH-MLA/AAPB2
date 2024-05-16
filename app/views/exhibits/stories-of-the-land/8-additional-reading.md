@@ -54,7 +54,7 @@ Ward, William B. *Reporting Agriculture Through Newspapers, Magazines, Radio, Te
 
 #### Next: [Notes](/exhibits/stories-of-the-land/notes)
   
-## Additional Resources
+## Resources
 
 -	[National Agriculture Library (USDA)](https://www.nal.usda.gov/)
 -	[TED Talks: Agriculture](https://www.ted.com/topics/agriculture)

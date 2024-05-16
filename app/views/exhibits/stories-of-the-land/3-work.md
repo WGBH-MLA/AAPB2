@@ -118,7 +118,7 @@ This television documentary features interviews with workers who participated in
  
 #### Next: [Environment](/exhibits/stories-of-the-land/4-environment)
 
-## Additional Resources
+## Resources
 
 - [History of the United Farm Workers](https://ufw.org/research/history/ufw-history/)
 - [*The Farmer’s Wife*: a 1998 documentary (dir. David Sutherland)](https://www.pbs.org/wgbh/pages/frontline/shows/farmerswife/)

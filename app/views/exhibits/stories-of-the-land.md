@@ -14,7 +14,7 @@
   <a class="name"> Mariah E. Marsden</a>
   <a class="title">2022 Library of Congress Junior Fellow, folklorist, and graduate student at Ohio Sate University</a>
 
-## Additional Resources 
+## Resources 
 
 -	[National Agriculture Library (USDA)](https://www.nal.usda.gov/)
 -	[TED Talks: Agriculture](https://www.ted.com/topics/agriculture)
@@ -372,4 +372,4 @@ While wide-ranging, this exhibit does not purport to offer a comprehensive accou
 - [](/cpb-aacip-00ec17369dd)
 - [](/cpb-aacip-c132bb3bd83)
 - [](/cpb-aacip-359-655dvdvw)
-- 
+

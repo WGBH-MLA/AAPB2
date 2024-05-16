@@ -130,7 +130,7 @@ This broadcast shows the continued discussion of “family farmer” ideal and [
 
 #### Next: [Work](/exhibits/stories-of-the-land/3-work)
 
-## Additional Resources
+## Resources
 
 - [Information on tribal governance (National Congress of American Indians)](https://www.ncai.org/section/policy)
 - [2021 report on Black farmer exclusion (*PBS NewsHour*)](https://www.youtube.com/watch?v=w1mh0wk5Fc8)
