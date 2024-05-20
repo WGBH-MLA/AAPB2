@@ -120,7 +120,7 @@ This audio recording of an episode from the PBS television series *The Advocates
 -	[*Focus 580*, “How the U.S. Department of Agriculture’s Redefinition of the Word Organic Changed the Industry”](https://americanarchive.org/catalog/cpb-aacip-16-pn8x92203x) (WILL Illinois Public Media, May 24, 2005).
 -	[*Minding Your Business*, episode 399, “Agroterrorism”](https://americanarchive.org/catalog/cpb-aacip-c405c96a752) (KRWG, Las Cruces, NM, December 5, 2008).
 
-#### Next: [Additional Readings](/exhibits/stories-of-the-land/8-additional-readings)
+#### Next: [Additional Readings](/exhibits/stories-of-the-land/8-additional-reading)
 
 ## Resources
 
