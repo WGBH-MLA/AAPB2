@@ -16,7 +16,7 @@
 
 As the nature of agriculture has changed over the last two hundred years—moving away from small-scale family farming and towards larger, consolidated, and industrial models—so, too, have political discussions about agricultural issues. “A common point in the debate over U.S. farm programs,” states a [2005 report from the USDA](https://www.ers.usda.gov/webdocs/publications/44197/13566_eib3_1_.pdf), “has been that current policies were tailored for a time in American agriculture that no longer exists.” The report considers how technological efficiency, productivity, and consumer influence have shaped the realities of the industry in both positive and negative ways—as seen in the public broadcasting programs included in this anchor. 
 
-Public broadcasting can provide records of how these significant changes were discussed, through coverage of farmers meetings and opening events at the local level as well as through the national coverage of political events. While many of the programs in this anchor explore how politicians and officials engaged with agricultural workers through [Policy](#Politics) and [Rhetorical](#Rhetoric) appeals, many others demonstrate how workers [Collectively](#Collectivity) engaged with their representatives and shaped political discourse around their vested interests.  
+Public broadcasting can provide records of how these significant changes were discussed, through coverage of farmers meetings and opening events at the local level as well as through the national coverage of political events. While many of the programs in this anchor explore how politicians and officials engaged with agricultural workers through [Policy](#Policy) and [Rhetorical](#Rhetoric) appeals, many others demonstrate how workers [Collectively](#Collectivity) engaged with their representatives and shaped political discourse around their vested interests.  
 
 Decisions about farm [**Policy**](#Policy) have been a matter of public debate since before the [first Depression-era farm bill in 1933](https://blogs.loc.gov/law/2021/03/history-of-the-united-states-farm-bill/). The broadcasts featured in this section explore the legislation, regulations, and government programs affecting the industry as well as their reception by farmers and the public. Several questions are centered in these debates: Should the government support farms during unstable times through crop insurance and/or subsidies? Should product prices and supply quotas be regulated at the federal level? And, more broadly: What should be the government’s role in supporting and overseeing an agricultural economy?
 
@@ -120,7 +120,7 @@ This audio recording of an episode from the PBS television series *The Advocates
 -	[*Focus 580*, “How the U.S. Department of Agriculture’s Redefinition of the Word Organic Changed the Industry”](https://americanarchive.org/catalog/cpb-aacip-16-pn8x92203x) (WILL Illinois Public Media, May 24, 2005).
 -	[*Minding Your Business*, episode 399, “Agroterrorism”](https://americanarchive.org/catalog/cpb-aacip-c405c96a752) (KRWG, Las Cruces, NM, December 5, 2008).
 
-#### Next: [Additional Readings](/exhibits/wtories-of-the-land/8-additional-readings)
+#### Next: [Additional Readings](/exhibits/stories-of-the-land/8-additional-readings)
 
 ## Resources
 
