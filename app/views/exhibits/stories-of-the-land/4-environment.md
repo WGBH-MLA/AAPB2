@@ -52,7 +52,7 @@ Agricultural work is not only about responding to the aftereffects of disasters 
 <a id="Soil"></a>
 
 ### Soil
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-110-89d51nzq?start=717&end=827.55'></iframe>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-110-89d51nzq?start=717&end=827.55'></iframe>
 <caption align="bottom" class="exhibit-caption">The host in this 1954 Science in Sight program discusses the erosion of farmland and the “good principles” of farming.</caption>
 
 [***Science in Sight***, **“Saving the Soil”**](https://americanarchive.org/catalog/cpb-aacip-110-89d51nzq) **(KETC-TV, St. Louis, MO, 1954)** 
