@@ -46,7 +46,7 @@
 
 <a name="21"></a><sup>21</sup> Barbara Kirshenblatt-Gimblett, *Destination Culture: Tourism, Museums, and Heritage* (Berkeley: University of California Press, 1998), 9.
 
-<a name="22"></a><sup>22</sup> Pawlick, Invisible Farm.
+<a name="22"></a><sup>22</sup> Pawlick, *Invisible Farm*.
 
 <a name="23"></a><sup>23</sup> Rob J. F. Burton, Jérémie Forney, Paul Stock, and Lee-Ann Sutherland, *The Good Farmer: Culture and Identity in Food and Agriculture* (New York: Routledge, 2021), 1.
 
