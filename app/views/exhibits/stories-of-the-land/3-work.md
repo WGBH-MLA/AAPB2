@@ -101,8 +101,8 @@ This television documentary features interviews with workers who participated in
 - [An Interview with Cesar Chavez](https://americanarchive.org/catalog/cpb-aacip-28-w950g3hk5x) (KPFA, Berkeley, CA, July 15, 1970)
 - [“Interview with Baldemar Velasquez”](https://americanarchive.org/catalog/cpb-aacip_27-g15t727s9t) (WYSO, Yellow Springs, OH, May 19, 1973).
 - [MPR News Feature, “Farm Machinery May Replace Migrant Workers”](https://americanarchive.org/catalog/cpb-aacip_43-5t3fx7450c) (Minnesota Public Radio, St. Paul, MN, June 20, 1975).
-- [MacNeil/Lehrer Report, “Migrant Workers”](https://americanarchive.org/catalog/cpb-aacip_507-n872v2d61s) (WNET and WETA, November 25, 1976).
-- [MacNeil/Lehrer Report, “Illinois Farmers Visit China”](https://americanarchive.org/catalog/cpb-aacip_507-hm52f7kj9j) (WNET and WETA, April 21, 1978).
+- [*MacNeil/Lehrer Report*, “Migrant Workers”](https://americanarchive.org/catalog/cpb-aacip_507-n872v2d61s) (WNET and WETA, November 25, 1976).
+- [*MacNeil/Lehrer Report*, “Illinois Farmers Visit China”](https://americanarchive.org/catalog/cpb-aacip_507-hm52f7kj9j) (WNET and WETA, April 21, 1978).
 - [Spectrum Hawaii, “Kauai”](https://americanarchive.org/catalog/cpb-aacip-225-504xh2zn) (KHET, Honolulu, HI, November 7, 1983).
 - [*Kansas City Illustrated*, “Newcomers”](https://americanarchive.org/catalog/cpb-aacip-384-12z34wtq?start=123.71&end=1083.71) (KCPT, Kansas City, MO, June 19, 1984).
 - [*Carolina Journal*, “Farm Crisis”](https://americanarchive.org/catalog/cpb-aacip_41-22v41r56) (South Carolina Educational Television Network, January 6, 1986).
