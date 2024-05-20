@@ -112,7 +112,7 @@ The first segment of this television news program considers the migrant educatio
 - [*¡Colores!*, episode 1926, “Painter Eli Levin, ‘Art Farm,’ Playwright Terrance McNally, Child Prodigy Rachel Barton”]( https://americanarchive.org/catalog/cpb-aacip-259f8bd86a6) (KNME-TV, Albuquerque, NM, July 26, 2013).
 - [*Learning Across Kansas*, episode 105, “Middle School”](https://americanarchive.org/catalog/cpb-aacip-3ab96e4fb8a) (KPTS Channel 8, Wichita, KS, 2020).
 
-#### Next: [Practice](/exhibits/wtories-of-the-land/6-practice)
+#### Next: [Practice](/exhibits/stories-of-the-land/6-practice)
 
 ## Resources
 
