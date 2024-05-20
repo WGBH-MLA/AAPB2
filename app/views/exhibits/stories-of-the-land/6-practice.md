@@ -100,7 +100,7 @@ The first segment of this episode explores urban approaches to sustainability th
 
 - [*Wisconsin on the Move*, “How Now Cow”]( https://americanarchive.org/catalog/cpb-aacip_30-58pc90jf) (Wisconsin Public Radio, Madison, June 30, 1966).
 - [*MPR News Feature*, “Organic farming promoted”]( https://americanarchive.org/catalog/cpb-aacip_43-3j3901zp1j) (Minnesota Public Radio, St. Paul, November 22, 1974).
-- [*MPR News Feature, “Sleepy Eye farmer advocates for organic practices”](https://americanarchive.org/catalog/cpb-aacip_43-9w08w38c5t) (Minnesota Public Radio, St. Paul, October 1, 1975).
+- [*MPR News Feature*, “Sleepy Eye farmer advocates for organic practices”](https://americanarchive.org/catalog/cpb-aacip_43-9w08w38c5t) (Minnesota Public Radio, St. Paul, October 1, 1975).
 - [*En Francais*, “Sugar Cane Farming in Louisiana (1981)”](https://americanarchive.org/catalog/cpb-aacip_17-97kpstj1) (Louisiana Public Broadcasting, Baton Rouge, December 20, 1981).
 - [*Talk of Alaska*](https://americanarchive.org/catalog/cpb-aacip_235-63strpsw) (KAKM Alaska Public Media, Anchorage, October 30, 1984).
 - [*Midday*, “Blessings of the Field”](https://americanarchive.org/catalog/cpb-aacip_43-21ghx8dp) (Minnesota Public Radio, St. Paul, November 28, 1985).
