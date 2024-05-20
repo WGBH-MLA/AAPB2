@@ -18,7 +18,7 @@ The intimate connections between agriculture and the environment make sense at a
 
 But how does environmental impact vary by region? By state? What issues are centered in conversations about climate and the future? What ecological concepts gain symbolic and cultural resonance? The programs and [Places](/exhibits/stories-of-the-land/2-land#Place) featured in this anchor—from the cattle ranches of Wyoming to the hydroponic farms of Florida—tackle these questions and more by focusing on ideas of [Crisis](#Crisis), [Soil](#Soil), and [Weather](#Weather).
 
-[**Crisis**](#Crisis) is a concept often writ large in broadcast coverage of agricultural news. Disasters, extreme weather, dwindling [Resources](/exhibits/stories-of-the-land/2-land#Resources)—it’s not difficult to see how these forces shape how we talk about farming. Some crises are framed as acts of God, from volcanic eruptions to sudden and devastating droughts. But some are acknowledged as man-made. The AAPB collection includes reports on the effects of air pollution and contamination on agricultural industry and practice. As scientists have reported for decades, climate change may lead to further crises on the farm: severe droughts and floods impacting production, carbon dioxide levels disturbing plant growth, and the growth of pests affecting both plants and livestock.  [<sup>18</sup>](/exhibits/stories-of-the-land/notes#18)
+[**Crisis**](#Crisis) is a concept often writ large in broadcast coverage of agricultural news. Disasters, extreme weather, dwindling [Resources](/exhibits/stories-of-the-land/2-land#Resources)—it’s not difficult to see how these forces shape how we talk about farming. Some crises are framed as acts of God, from volcanic eruptions to sudden and devastating droughts. But some are acknowledged as man-made. The AAPB collection includes reports on the effects of air pollution and contamination on agricultural industry and practice. As scientists have reported for decades, climate change may lead to further crises on the farm: severe droughts and floods impacting production, carbon dioxide levels disturbing plant growth, and the growth of pests affecting both plants and livestock. [<sup>18</sup>](/exhibits/stories-of-the-land/notes#18)
 
 Perhaps one of the most significant agricultural crises of the twentieth century—the Dust Bowl of the 1930s—has been discussed as both a weather and man-made disaster. But at its heart, it is an issue of [**Soil**](#Soil): a component of agriculture that is rich with symbolic and practical significance. In this section, the programs demonstrate how farmers and agriculturalists talk about soil conditions and conservation, often with a sustainable future in mind.
 
@@ -108,7 +108,7 @@ This news program considers how farmers, gardeners, and civilians responded to t
 - [Teachers’ Domain, “Alaska Native Perspectives on Earth and Climate; Engaging Alaska Natives in the Geosciences 2008; A Subsistence Culture Impacted by Climate Change”](https://americanarchive.org/catalog/cpb-aacip-15-fb4wh2dg8c) (WGBH, Boston, no date).
 - [Teachers’ Domain, “Can Organic Farms and Mosquito Control Coexist?”](https://americanarchive.org/catalog/cpb-aacip-15-0r9m32n87t) (WGBH, Boston, no date).
 
-#### Next: [Culture](/exhibits/stories-of-the/5-culture)
+#### Next: [Culture](/exhibits/stories-of-the-land/5-culture)
 
 ## Resources
 
