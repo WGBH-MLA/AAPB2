@@ -24,11 +24,11 @@ Dawson, Julie C., and Alfonso Morales. *Cities of Farmers: Urban Agricultural Pr
 
 Eldredge, Charles C. *We Gather Together: American Artists and the Harvest*. Oakland: University of California Press, 2021.
 
-Fitzgerald, Deborah. Every Farm a Factory: The Industrial Ideal in American Agriculture*. New Haven: Yale University Press, 2003.
+Fitzgerald, Deborah. *Every Farm a Factory: The Industrial Ideal in American Agriculture*. New Haven: Yale University Press, 2003.
 
 Foner, Eric. *Reconstruction: America’s Unfinished Revolution, 1863-1877*. New York: Harper Perennial Modern Classics, 1988.
 
-Gardner, Bruce L. American Agriculture in the Twentieth Century: How It Flourished and What It Cost*. Cambridge: Harvard University Press, 2006.
+Gardner, Bruce L. *American Agriculture in the Twentieth Century: How It Flourished and What It Cost*. Cambridge: Harvard University Press, 2006.
 
 Jackson, Wes, Wendell Berry, and Bruce Colman, editors. *Meeting the Expectations of the Land: Essays in Sustainable Agriculture and Stewardship*. San Francisco: North Point Press, 1984.
 
