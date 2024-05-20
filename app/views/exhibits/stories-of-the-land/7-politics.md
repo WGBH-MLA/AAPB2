@@ -28,7 +28,7 @@ In the late nineteenth century, farmers began to be imagined and discussed as a 
 
 ### Policy
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-37-17qnkdss?start=3643.1&end=3706'></iframe>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-37-17qnkdss?start=3643.1&end=3706'></iframe>
 <caption align="bottom" class="exhibit-caption">Reverend Jesse Jackson proposes policies for Black farmers in this 1988 Broadcast in “Election 88: Prairie Fire Presidential Candidates Agricultural Debate” (item below). Jackson’s proposal continues in the second part of the event coverage: https://americanarchive.org/catalog/cpb-aacip_37-343r26z7.</caption>
 
 [**“Up on the Farm”**](https://americanarchive.org/catalog/cpb-aacip_394-5370s59p) **(Maryland Public Television, Owings Mills, December 6, 1982).**
