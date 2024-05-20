@@ -80,7 +80,7 @@ Filmed over four years beginning in 2011, *Farmsteaders* presents an intimate lo
 
 ### Resources
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-206-343r25ph?start=259&end=301.5'></iframe>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-206-343r25ph?start=259&end=301.5'></iframe>
 <caption align="bottom" class="exhibit-caption">Wilson Lumia (Yakima) discusses the historical and social importance of fishing in the Pacific Northwest in this National Native News Special Feature (1990).</caption>
 
 [***National Native News Special Features***](https://americanarchive.org/catalog/cpb-aacip-206-343r25ph) **(Koahnic Broadcast Corporation, Anchorage, AK, September 18, 1990).** 
