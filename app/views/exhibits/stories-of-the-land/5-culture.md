@@ -26,7 +26,7 @@ Many folklife and festival events are geared towards the younger generation, sha
 
 ### Story
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-d6ab26fd363?start=488.4&end=612'></iframe>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-d6ab26fd363?start=488.4&end=612'></iframe>
 <caption align="bottom" class="exhibit-caption">One of the hosts of “The Long Shadow of the Plantation” (2019) radio broadcast speaks with farmer Shirley Sherrod about how the history of slavery continues to impact contemporary agricultural realities (item below).</caption>
 
 [***Assignment Iowa Classics***, **episode 301, “Living History Farms”**](https://americanarchive.org/catalog/cpb-aacip_37-0644j1mb) **(Iowa Public Television, Johnston, IA, July 9, 1977).**
