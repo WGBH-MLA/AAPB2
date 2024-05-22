@@ -31,6 +31,10 @@ module Xyz
         origins '*'
         resource '/api/*', headers: :any, methods: [:get, :options]
       end
+      allow do
+        origins '*'
+        resource '/catalog/*.iiif', headers: :any, methods: [:get, :options]
+      end
     end
 
     config.exceptions_app = routes
