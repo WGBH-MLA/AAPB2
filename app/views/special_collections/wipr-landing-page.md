@@ -7,7 +7,9 @@
 ## Summary
 
 The WIPR: Arts and Culture in Puerto Rico Collection consists of over over 8,000 programs, of which nearly 3,500 are available online, from 1953-1997, originally broadcast on the 940 AM radio station in Puerto Rico.
+
 The Puerto Rico Public Broadcasting Corporation (WIPR), also known as La Corporación de Puerto Rico para la Difusión Pública, is a government station that since its creation in 1949 has produced a wide range of shows highlighting life and culture in Puerto Rico. 
+
 Content includes Viñeta Rústica (stories), El Cuento De Hoy (radionovelas), Suplemento Dominical (news), La Guitarra Y Los Guitarristas (music and interviews with musicians), Alborada (music), Enciclopedia Al Día (educational), Las Noches Del Museo (dramatization), and many more.
 WIPR’s radio programming, primarily in Spanish, allows listeners to experience more than 40 years of Puerto Rican history, culture, and society, providing insight into the La Isla del Encanto and its relationship with the world.
 
@@ -15,7 +17,9 @@ WIPR’s radio programming, primarily in Spanish, allows listeners to experience
 ## Background
 
 The Puerto Rico Public Media Digitization Project was funded by the National Archives through a National Historical Publications and Records Commission grant in 2021, with the objective of digitizing and preserving for future generations programming from WIPR (radio and TV), University of Puerto Rico’s WRTU (radio), and Radio Vieques’ WVQR.
+
 The WIPR collection contains audio originally recorded on ¼” audio reels, over 2,700 hours of radio programming from 1953-1997.
+
 The preserved content, previously at-risk and of limited access existing only on tapes, is now available to researchers and the public, allowing all to explore Puerto Rico’s rich history and culture.
 
 
