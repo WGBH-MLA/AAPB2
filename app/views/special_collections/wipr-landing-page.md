@@ -1,23 +1,22 @@
-# <em>WIPR 940 AM: Arts and Culture in Puerto Rico</em>
+# <em>WIPR: Arts and Culture in Puerto Rico</em>
 
 ## Thumbnail
 
-![<em>WIPR 940 AM: Arts and Culture in Puerto Rico</em> Special Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/wipr-logo1.png "WIPR Logo")
+![<em>WIPR: Arts and Culture in Puerto Rico</em> Special Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/wipr-logo1.png "WIPR Logo")
 
 ## Summary
 
-*The WIPR 940 AM: Arts and Culture in Puerto Rico* Special Collection consists of over 8,000 records representing programs from 1950-1990, originally broadcast on the 940 AM radio station in Puerto Rico.
-
-The Puerto Rico Public Broadcasting Corporation (WIPR), also known as La Corporación de Puerto Rico para la Difusión Pública, has produced various shows that highlight aspects of life and culture in Puerto Rico. These programs include reports of local and world news, dramatizations of literary classics, religious specials, various radionovelas, educational and entertainment series designed for children, and interviews with local artists, politicians, musicians, and athletes.
-
-WIPR’s content, primarily in Spanish, allows listeners to experience Puerto Rican history, culture, and traditions as represented in the twentieth century, providing insight into the role of La Isla del Encanto within global history and its relationship with the world. 
+The WIPR: Arts and Culture in Puerto Rico Collection consists of over over 8,000 programs, of which nearly 3,500 are available online, from 1953-1997, originally broadcast on the 940 AM radio station in Puerto Rico.
+The Puerto Rico Public Broadcasting Corporation (WIPR), also known as La Corporación de Puerto Rico para la Difusión Pública, is a government station that since its creation in 1949 has produced a wide range of shows highlighting life and culture in Puerto Rico. 
+Content includes Viñeta Rústica (stories), El Cuento De Hoy (radionovelas), Suplemento Dominical (news), La Guitarra Y Los Guitarristas (music and interviews with musicians), Alborada (music), Enciclopedia Al Día (educational), Las Noches Del Museo (dramatization), and many more.
+WIPR’s radio programming, primarily in Spanish, allows listeners to experience more than 40 years of Puerto Rican history, culture, and society, providing insight into the La Isla del Encanto and its relationship with the world.
 
 
 ## Background
 
-The Puerto Rico Public Media Digitization Project (PRPMDP) began in 2021 with the objective of digitizing and preserving WIPR (radio and TV), University of Puerto Rico’s WRTU (radio), and Radio Vieques’ WVQR materials for future generations. 
-The WIPR collection contains audio originally recorded on 3,925 ¼” audio reels, roughly 2,700 hours of radio programming from 1950-1990. Some of the content includes: Viñeta Rústica (stories), Tertulias Con Abelardo Díaz Alfaro (stories), El Cuento De Hoy (radionovelas), Las Grandes Novelas (radionovelas), Suplemento Dominical (news), La Guitarra Y Los Guitarristas (music and interviews with musicians), Alborada (music), Enciclopedia Al Día (educational), Ambientalismo (educational), Ciencia O Ficción (dramatization), Las Noches Del Museo (dramatization), and many more.
-The preserved content, previously at-risk and of limited access due to only existing on tapes, is now available to researchers and the public, allowing all to explore Puerto Rico’s rich history and culture.
+The Puerto Rico Public Media Digitization Project was funded by the National Archives through a National Historical Publications and Records Commission grant in 2021, with the objective of digitizing and preserving for future generations programming from WIPR (radio and TV), University of Puerto Rico’s WRTU (radio), and Radio Vieques’ WVQR.
+The WIPR collection contains audio originally recorded on ¼” audio reels, over 2,700 hours of radio programming from 1953-1997.
+The preserved content, previously at-risk and of limited access existing only on tapes, is now available to researchers and the public, allowing all to explore Puerto Rico’s rich history and culture.
 
 
 ## Featured
@@ -37,15 +36,3 @@ The preserved content, previously at-risk and of limited access due to only exis
 - [UPR: University of Puerto Rico]( https://dloc.com/collections/iupr)
 - [CENTRO Library & Archives, Center for Puerto Rican Studies at Hunter College]( https://centropr.hunter.cuny.edu/library/)
 
-
-## Help
-
-
-
-## Funders
-
-## Terms
-
-## Timeline
-
-## Sort
