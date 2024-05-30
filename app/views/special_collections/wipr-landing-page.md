@@ -40,3 +40,16 @@ The preserved content, previously at-risk and of limited access existing only on
 - [UPR: University of Puerto Rico]( https://dloc.com/collections/iupr)
 - [CENTRO Library & Archives, Center for Puerto Rican Studies at Hunter College]( https://centropr.hunter.cuny.edu/library/)
 
+## Funders
+
+## Help
+
+Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking "Explore the Collection" below the search box.
+
+## Terms 
+
+## Timeline
+
+## Sort
+
+asset_date+asc
