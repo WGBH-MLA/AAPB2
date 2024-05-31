@@ -25,9 +25,9 @@ When *This Way Out* emerged in 1988, any attention the mainstream media paid to 
 
 - [*This Way Out* website](https://www.thiswayout.org/)
 - [LGBT+ Collection, AAPB](https://americanarchive.org/special_collections/lgbt)
-- [OutCasting Collection, AAPB](https://americanarchive.org/special_collections/outcasting)
-- [Stonewall Uprising Interviews Collection, AAPB](https://americanarchive.org/special_collections/stonewall-uprising-interviews)
-- [In The Life Collection, AAPB](https://americanarchive.org/special_collections/ucla-inthelife)
+- [*OutCasting* Collection, AAPB](https://americanarchive.org/special_collections/outcasting)
+- [*Stonewall Uprising* Interviews Collection, AAPB](https://americanarchive.org/special_collections/stonewall-uprising-interviews)
+- [*In The Life* Collection, AAPB](https://americanarchive.org/special_collections/ucla-inthelife)
 
 ## Help
 
