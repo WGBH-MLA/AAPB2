@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![<em>This Way Out</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/INFLECT_new_avatar_green+1400_72.jpg "This Way Out")
+![<em>This Way Out</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/TWO.png "This Way Out")
 
 ## Summary
 
