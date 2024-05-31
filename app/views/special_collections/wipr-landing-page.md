@@ -6,7 +6,7 @@
 
 ## Summary
 
-The WIPR: Arts and Culture in Puerto Rico Collection consists of over over 8,000 programs, of which nearly 3,500 are available online, from 1953-1997, originally broadcast on the 940 AM radio station in Puerto Rico.
+The WIPR: Arts and Culture in Puerto Rico Collection consists of nearly 8,000 programs, of which nearly 3,000 are available online, from 1953-1997, originally broadcast on the 940 AM radio station in Puerto Rico.
 
 The Puerto Rico Public Broadcasting Corporation (WIPR), also known as La Corporación de Puerto Rico para la Difusión Pública, is a government station that since its creation in 1949 has produced a wide range of shows highlighting life and culture in Puerto Rico. 
 
@@ -52,4 +52,3 @@ Records are described at an item level and all records contain brief description
 
 ## Sort
 
-asset_date+asc
