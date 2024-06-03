@@ -11,14 +11,14 @@
  <img title="Banner Image" alt="An image of farmland at dusk that says Stewardship, Place, Resources." src="https://s3.amazonaws.com/americanarchive.org/exhibits/land_banner.png">
 
 >**The point is that use does not indicate in any real way his idea of the land. Use is neither his work nor his idea. As an Indian I think: you say that I use the land, and I reply, yes, it is true; but it is not the first truth. The first truth is that I love the land; I see that it is beautiful; I delight in it; I am alive in it.**
-
+>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - N. Scott Momaday, Kiowa novelist[<sup>9</sup>](/exhibits/stories-of-the-land/notes#9)  
 
 What is our relationship with the land we inhabit? How do we use it? Cultivate it? Conserve it? How do issues of displacement, dispossession, and dispute impact the way we see our place in the land? This connection is at once a question of philosophy, economy, spirituality, and ideology, and different groups have put forward competing land ethics while trying to answer these questions. This Anchor explores how those involved in agriculture express their ties to the land through ideas of [Stewardship](#Stewardship), [Place](#Place), and [Resources](#Resources).
 
 In the history of the United States as a nation, the debate about land ownership has often been framed around the issue of land use. The landmark [Homestead Act of 1862](https://guides.loc.gov/homestead-act) encouraged westward settlement, promising settlers land if they agreed to live on and “improve” the land through farming. This ideal of cultivation is often talked about as a social good, but what are the consequences of this mindset? What alternative visions of stewardship might we imagine? The [**Stewardship**](#Stewardship) section highlights different perspectives on how to take care of and relate to the land from a number of voices and regions.
 
-The diverse regional landscape of the U.S. is especially striking from an agricultural perspective: from swampy alligator farming in the South to the carefully lined rows of fruit trees in the Northeast. The [**Place**](#Place) section explores not only the regional differences in farming but, more crucially, how farm people from diverse communities express connections to place and land. Placemaking is at its heart an act of imagination, connecting one’s environment to abstract ideas like home and homeland. “Geography,” writes scholars Kent C. Ryden, “is clearly much more than buildings and dirt—it supports a complex structure of personal and cultural significance.”[<sup>10</sup>](/exhibits/stories-of-the-land/notes#10)  Here, too, you’ll find conversations about how the urban/rural divide becomes less clear as communities find new ways to ensure access to food and other resources.
+The diverse regional landscape of the U.S. is especially striking from an agricultural perspective: from swampy alligator farming in the South to the carefully lined rows of fruit trees in the Northeast. The [**Place**](#Place) section explores not only the regional differences in farming but, more crucially, how farm people from diverse communities express connections to place and land. Placemaking is at its heart an act of imagination, connecting one’s environment to abstract ideas like home and homeland. “Geography,” writes scholar Kent C. Ryden, “is clearly much more than buildings and dirt—it supports a complex structure of personal and cultural significance.”[<sup>10</sup>](/exhibits/stories-of-the-land/notes#10)  Here, too, you’ll find conversations about how the urban/rural divide becomes less clear as communities find new ways to ensure access to food and other resources.
 
 The issues of stewardship and placemaking go hand-in-hand with the need for [**Resources**](#Resources). The acquisition and maintenance of land under industrial agriculture has relied on access to capital—often through government programs such as the [Agricultural Adjustment Act (1938)]( https://www.loc.gov/ghe/cascade/index.html?appid=1821e70c01de48ae899a7ff708d6ad8b) or through private loans by banks and other lending agencies. But as we can see from twentieth and twenty-first century public programming, land loss is, at its center, a question of resource access. What do we consider to be a resource? What barriers do individuals and groups face when applying for agricultural aid? How do we provide for future generations of farmers?
 
@@ -33,9 +33,9 @@ The issues of stewardship and placemaking go hand-in-hand with the need for [**R
 
 [***Standing Silent Nation***](https://americanarchive.org/catalog/cpb-aacip-508-4t6f18t131) **(dir. Suree Towfighnia, Prairie Dust Films, July 3, 2007).**
 
-This documentary, broadcast on the PBS series *POV*, follows the efforts of the White Plume family (Oglala Lakota) to cultivate industrial hemp for livestock feed, papercrafts, and commercial sale on Pine Ridge Reservation in South Dakota. Having been legalized under tribal law, hemp was not only a valuable [Resource](#Resources) in the community’s economic development but also offered a meaningful connection with the land through [Labor](/exhibits/stories-of-the-land/3-work#Labor). But backlash from the federal government led to raids, property seizure, and a legal battle for the White Plumes and others who sought to uphold Native sovereignty in the face of unjust [Policies](/exhibits/stories-of-the-land/7-politics#Policy). “In our treaties with America,” says Debra White Plume, “we retained our sovereignty. It’s not something America gave us. Sovereignty is not something that can be given to anyone.” 
+This documentary, broadcast on the PBS series *POV*, follows the efforts of the White Plume family (Oglala Lakota) to cultivate industrial hemp for livestock feed, papercrafts, and commercial sale on the Pine Ridge Reservation in South Dakota. Having been legalized under tribal law, hemp was not only a valuable [Resource](#Resources) in the community’s economic development but also offered a meaningful connection with the land through [Labor](/exhibits/stories-of-the-land/3-work#Labor). But backlash from the federal government led to raids, property seizure, and a legal battle for the White Plumes and others who sought to uphold Native sovereignty in the face of unjust [Policies](/exhibits/stories-of-the-land/7-politics#Policy). “In our treaties with America,” says Debra White Plume, “we retained our sovereignty. It’s not something America gave us. Sovereignty is not something that can be given to anyone.” 
 
-[***North Carolina Now***](https://americanarchive.org/catalog/cpb-aacip_129-31qfv1qn) **(UNC-TV, Research Triangle Park, NC, September 30, 1990).**
+[***North Carolina Now***](https://americanarchive.org/catalog/cpb-aacip_129-31qfv1qn) **(UNC-TV, Research Triangle Park, NC, September 30, 1996).**
 
 This local news broadcast includes a segment with interviews from Black farmers, historians, and extension agents in Tillery, North Carolina. They discuss how New Deal-era land allocation programs impacted Black farmers and the material and ideological importance of land ownership and access to [Resources](#Resources). “It was an opportunity for African Americans to own property, to actually not be dependent on the large white plantation owners for their livelihood,” says Gary Grant from the Concerned Citizens of Tillery organization. “It afforded them an opportunity to be independent. It afforded them an opportunity to set direction for their own lives.” 
 
@@ -45,7 +45,7 @@ This episode of the *MacNeil/Lehrer Report* explores the settlement of reservati
   
 [***The MacNeil/Lehrer Report***, **“Saving Farmlands”**](https://americanarchive.org/catalog/cpb-aacip_507-sq8qb9w11d) **(WNET/WETA, New York/Washington, October 17, 1977).**
 
-This 1977 national report considers the issue of shrinking farm as development rights to the land are bought and sold. Agricultural reporter Carol Buckland talks with farmers and residents on Long Island in New York, where the Suffolk County government stepped in to aid farmers by buying the rights to their land to ensure its agricultural use in the face of growing suburbanization. Those interviewed, such as John Talmage of Baiting Hollow, New York, justify its use as farmland and explain why government intervention is necessary, connecting with issues of food [Resources](#Resources) and [Place](#Place): “But also one might ask the question, is there some safety in having our production spread around a little bit? For instance, if something happened to our transportation system, […] there are a lot of people living on Long Island and having the reserve of the food production—at least some food production on Long Island—should add a little safety to living here.”
+This 1977 national report considers the issue of shrinking farmland as development rights to the land are bought and sold. Agricultural reporter Carol Buckland talks with farmers and residents on Long Island in New York, where the Suffolk County government stepped in to aid farmers by buying the rights to their land to ensure its agricultural use in the face of growing suburbanization. Those interviewed, such as John Talmage of Baiting Hollow, New York, justify its use as farmland and explain why government intervention is necessary, connecting with issues of food [Resources](#Resources) and [Place](#Place): “But also one might ask the question, is there some safety in having our production spread around a little bit? For instance, if something happened to our transportation system, […] there are a lot of people living on Long Island and having the reserve of the food production—at least some food production on Long Island—should add a little safety to living here.”
 
 <a id="Place"></a>
 
@@ -58,7 +58,7 @@ This 1977 national report considers the issue of shrinking farm as development r
 
 [**“Farm Town”**]( https://americanarchive.org/catalog/cpb-aacip_37-56n031b3) **(Iowa Public Television, Johnston, November 22, 1985).**
 
-“This isn’t just a crisis of people; it’s a crisis of people and the land, and I don’t know where you separate one from the other. We say things about our roots. We talk about this as our homeland. We talk about sowing seeds to harvest hope. We are people whose culture and identity is rooted in the land and the people.” Rev. Karl Schlitz speaks on the impacts of the [1980s farm crisis](https://www.iowapbs.org/iowapathways/mypath/2422/farm-crisis-1980s) and the decline of small Midwestern towns in this program from Iowa Public Television. Others interviewed emphasize how their landscape has changed in the wake of a struggling farm economy: closed local shops along main street, shuttered homes, and towns slowly emptying of people. More programs on the Farm Crisis of the 1980s can be found under [Labor](/exhibits/stories-of-the-land/3-work#Labor), [Story](/exhibits/stories-of-the-land/5-culture#Story), and [Rhetoric](/exhibits/stories-of-the-land/7-politics#Rhetoric), and especially under [Additional Broadcasts Relating to “Politics.”](/exhibits/stories-of-the-land/7-politics#Broadcasts)
+“This isn’t just a crisis of people; it’s a crisis of people and the land, and I don’t know where you separate one from the other. We say things about our roots. We talk about this as our homeland. We talk about sowing seeds to harvest hope. We are people whose culture and identity is rooted in the land and the people.” Rev. Karl Schlitz speaks on the impacts of the [1980s farm crisis](https://www.iowapbs.org/iowapathways/mypath/2422/farm-crisis-1980s) and the decline of small Midwestern towns in this program from Iowa Public Television. Others interviewed emphasize how their landscape has changed in the wake of a struggling farm economy: closed local shops along main street, shuttered homes, and towns slowly emptying of people. More programs on the farm crisis of the 1980s can be found under [Labor](/exhibits/stories-of-the-land/3-work#Labor), [Story](/exhibits/stories-of-the-land/5-culture#Story), and [Rhetoric](/exhibits/stories-of-the-land/7-politics#Rhetoric), and especially under [Additional Broadcasts Relating to “Politics.”](/exhibits/stories-of-the-land/7-politics#Broadcasts)
  
 [***Bookworm’s Turn***, **“Interview with Pat Sackrey and Ellen LaRiviere on the New England Small Farmers Project”**]( https://americanarchive.org/catalog/cpb-aacip_305-96wwq87q) **(New England Public Radio, Amherst, MA, August 30, 1979).** 
 
@@ -81,7 +81,7 @@ Filmed over four years beginning in 2011, *Farmsteaders* presents an intimate lo
 ### Resources
 
 <iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-206-343r25ph?start=259&end=301.5'></iframe>
-<caption align="bottom" class="exhibit-caption">Wilson Lumia (Yakima) discusses the historical and social importance of fishing in the Pacific Northwest in this National Native News Special Feature (1990).</caption>
+<caption align="bottom" class="exhibit-caption">Wilson Lumia (Yakima) discusses the historical and social importance of fishing in the Pacific Northwest in this National Native News Special Feature (September 18, 1990).</caption>
 
 [***National Native News Special Features***](https://americanarchive.org/catalog/cpb-aacip-206-343r25ph) **(Koahnic Broadcast Corporation, Anchorage, AK, September 18, 1990).** 
 
@@ -93,9 +93,9 @@ This national broadcast considers the decline of the idealized “family farm”
 
 [***Oregon Story***, **“Harvesting the Wild”**](https://americanarchive.org/catalog/cpb-aacip-153-84mkm5c3) **(Oregon Public Broadcasting, Portland, October 2, 2003).**
 
-<img title="" alt="Sign that reads The handshake agreement of 1932 reserves the picking of huckleberries on this side of the road for Indians." src="https://s3.amazonaws.com/americanarchive.org/exhibits/oregon-story-screenshot.png">
-
 This special program from Oregon Public Broadcasting discusses those involved in the [Harvest](/exhibits/stories-of-the-land/3-work#Harvest) of non-timber forest products: berries, mushrooms, moss, echinacea, and more. But as outsiders trespass into the Warm Springs Reservation in search of the surprisingly lucrative huckleberry, pushback from Native foragers start conversations about [Stewardship](#Stewardship) and land loss. Who retains access to these natural resources? How are land boundaries navigated and negotiated? Those interviewed tackle these questions from a variety of perspectives, from local hobbyists to forest service workers.
+
+<img title="" alt="Sign that reads The handshake agreement of 1932 reserves the picking of huckleberries on this side of the road for Indians." src="https://s3.amazonaws.com/americanarchive.org/exhibits/oregon-story-screenshot.png">
 
 [***Midday,*** **“When Farmers Took a Holiday”**](https://americanarchive.org/catalog/cpb-aacip_43-72b8h6p2) **(prod. Mark Heistad, Minnesota Public Radio, St. Paul, February 18, 1985).** 
 
@@ -108,8 +108,8 @@ This broadcast shows the continued discussion of “family farmer” ideal and [
 ### Additional Broadcasts Related to "Land"
 
 - [*Promise City*](https://americanarchive.org/catalog/cpb-aacip_37-010p2nvv) (dir. John Beyer, Iowa Public Television, Johnston, October 14, 1969).
-- [*This Land is Your Land*, episode 18, “Maurice Franz”](https://americanarchive.org/catalog/cpb-aacip-528-6w96689p8m) (WRVR, New York, June 2, 1971).
-- [*This Land is Your Land*, “Dr. Teply”](https://americanarchive.org/catalog/cpb-aacip-528-v11vd6qf8x) (WRVR, New York, March 31, 1972). 
+- [*This Land Is Your Land*, “Dr. Teply”](https://americanarchive.org/catalog/cpb-aacip-528-v11vd6qf8x) (WRVR, New York, March 31, 1971).
+- [*This Land Is Your Land*, episode 18, “Maurice Franz”](https://americanarchive.org/catalog/cpb-aacip-528-6w96689p8m) (WRVR, New York, June 2, 1971).
 - [*MPR News Feature*, “Soundscape features sounds of the harvest on the norther plains”](https://americanarchive.org/catalog/cpb-aacip_43-c824b2xh3d) (Minnesota Public Radio, St. Paul, October 10, 1975). 
 - [“Interview with Farmers in the Miami Valley Area of Ohio”](https://americanarchive.org/catalog/cpb-aacip_27-gb1xd0r80k) (WYSO, Yellow Springs, OH, ca. 1970s).
 - [“National Center for Audio Experimentation: Old MacDonald Sold His Farm”](https://americanarchive.org/catalog/cpb-aacip_30-11kh1zss) (Wisconsin Public Radio, ca. 1970s).
@@ -124,16 +124,16 @@ This broadcast shows the continued discussion of “family farmer” ideal and [
 - [*Vado: The Unspoken History*](https://americanarchive.org/catalog/cpb-aacip-79e43ae2f15) (prod. Thomas Williams, KRWG, Las Cruces, NM, March 2004).
 - [*Aggie Almanac*, episode 184, “Onions Without Borders”](https://americanarchive.org/catalog/cpb-aacip-d1d5c032a93) (KRWG, Las Cruces, NM, September 5, 2008).
 - [“The New Ruralism: Smart Growth and Local Food”](https://americanarchive.org/catalog/cpb-aacip_514-5m6251gb99) (Commonwealth Club of California, San Francisco, May 20, 2010).
+- [*Preserving Oklahoma History*, episode 104](https://americanarchive.org/catalog/cpb-aacip_521-319s17tk0c) (OETA, Oklahoma City, 2011).
 - [*Forsaken Fields*](https://americanarchive.org/catalog/cpb-aacip_86-741rnj5s) (prod. Midori Sperandeo, KVIE, Sacramento, CA, October 27, 2017).
-- [“Farmer’s Market”]( https://americanarchive.org/catalog/cpb-aacip-207-46d258fd) (KUNM, Albuquerque, NM, August 17, 2019). 
-- [*Preserving Oklahoma History*, episode 104](https://americanarchive.org/catalog/cpb-aacip_521-319s17tk0c) (OETA, Oklahoma City, date unknown).
-
+- [“Farmer’s Market”](https://americanarchive.org/catalog/cpb-aacip-207-46d258fd) (KUNM, Albuquerque, NM, August 17, 2019).
+- [*PBS NewsHour*, “Farming Gap”](https://americanarchive.org/catalog/cpb-aacip-ae114dfd538?start=1722.65&end=2262.29) (NewsHour Productions, December 7, 2021).
+  
 #### Next: [Work](/exhibits/stories-of-the-land/3-work)
 
 ## Resources
 
-- [Information on tribal governance (National Congress of American Indians)](https://www.ncai.org/section/policy)
-- [2021 report on Black farmer exclusion (*PBS NewsHour*)](https://www.youtube.com/watch?v=w1mh0wk5Fc8)
+- [National Congress of American Indians: Policy Issues](https://www.ncai.org/section/policy)
 - [AAPB Special Collection on Great Depression Interviews](https://americanarchive.org/special_collections/the-great-depression)
 
 ## Cover
@@ -177,4 +177,4 @@ This broadcast shows the continued discussion of “family farmer” ideal and [
 - [](cpb-aacip-191-96wwq8dh)
 - [](cpb-aacip/259-2n4zk740)
 - [](cpb-aacip-00ec17369dd)
-
+- [](cpb-aacip-ae114dfd538)
