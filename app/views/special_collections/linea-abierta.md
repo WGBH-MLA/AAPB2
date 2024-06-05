@@ -43,7 +43,7 @@ Image - Línea Abierta founding team. Back row (left to right):  Armando Valdez,
 
 ## Resources
 
-- [Línea Abierta](http://radiobilingue.org/en/rb-programas/linea-abierta-2/)   
+- [Línea Abierta](https://radiobilingue.org/es/news/program/linea-abierta)   
 - [Radio Bilingüe](http://radiobilingue.org/) 
 - [“Looking Back on the Lesser-Known Histories of ‘Chicano Public Radio’” (Current)](https://current.org/2019/07/looking-back-on-the-lesser-known-histories-of-chicano-public-radio/?wallit_nosession=1) 
 - [Latino Empowerment through Public Broadcasting exhibit](https://americanarchive.org/exhibits/latino-empowerment)
