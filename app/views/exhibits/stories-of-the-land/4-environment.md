@@ -11,7 +11,7 @@
 <img title="Banner Image" alt="An image of a arid landscape that says Crisis, Soil, Weather." src="https://s3.amazonaws.com/americanarchive.org/exhibits/environment_banner.png">
 
 >**Much of the world’s best farmland is now threatened because our species lacks commitment to a spiritual and ethical vision of our interconnectedness with the land. Farmland is primary human habitat, and black winds, dark rivers are carrying it away. Our good health, the smiles on the faces of our grandchildren are being carried to places beyond our reach.** 
-
+>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—*Soil and Survival: Land Stewardship and the Future of American Agriculture* (1986) [<sup>17</sup>](/exhibits/stories-of-the-land/notes#17) 
 
 The intimate connections between agriculture and the environment make sense at a glance, not only because the industry is firmly embedded in the natural world but also because of its scale. According to a [2012 report](https://www.ers.usda.gov/webdocs/publications/84880/eib-178_summary.pdf?v=6294.7) on land use from the U.S. Department of Agriculture, of the nearly 2.3 billion acres of national territory, 29 percent is used for grassland pasture and 17 percent for cropland, totaling 46 percent for these traditional industries alone. The impacts of agricultural choices about [Land](/exhibits/stories-of-the-land/2-land) management—the use of pesticides, controlled burning for farm land, crop rotation, and topsoil depletion—have been a topic of conversation for both rural and urban dwellers as new technical and [Industrial](/exhibits/stories-of-the-land/6-practice#Industry) changes have developed over the last century. Public programming has responded to this conversation, unpacking the enduring (and sometimes fraught) connections between farming and nature.
@@ -52,8 +52,11 @@ Agricultural work is not only about responding to the aftereffects of disasters 
 <a id="Soil"></a>
 
 ### Soil
+
+**Featured Item**
+
 <iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-110-89d51nzq?start=717&end=827.55'></iframe>
-<caption align="bottom" class="exhibit-caption">The host in this 1954 Science in Sight program discusses the erosion of farmland and the “good principles” of farming.</caption>
+<caption align="bottom" class="exhibit-caption">The host in this 1954 Science in Sight program discusses the erosion of farmland and the “good principles” of farming. Science in Sight, "Saving the Soil" (KETC-TV, 1954). https://americanarchive.org/catalog/cpb-aacip-110-89d51nzq. </caption>
 
 [***Science in Sight***, **“Saving the Soil”**](https://americanarchive.org/catalog/cpb-aacip-110-89d51nzq) **(KETC-TV, St. Louis, MO, 1954)** 
 
