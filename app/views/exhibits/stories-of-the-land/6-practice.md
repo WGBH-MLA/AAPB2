@@ -80,7 +80,7 @@ In this television broadcast, viewers from around Iowa call in to a live panel w
 **Featured Item**
 
 <iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-207-58bg7gmc'></iframe>
-<caption align="bottom" class="exhibit-caption">Residents of San Juan Pueblo, New Mexico, discuss their agricultural philosophy and connections to tradition in this radio broadcast from KUNM-Albuquerque. "San Juan Pueblo - Rio Grande Famers Version" (KUNM, 1994). https://americanarchive.org/catalog/cpb-aacip-207-58bg7gmc/. (item below).</caption>
+<caption align="bottom" class="exhibit-caption">Residents of San Juan Pueblo, New Mexico, discuss their agricultural philosophy and connections to tradition in this radio broadcast from KUNM-Albuquerque (item below). "San Juan Pueblo - Rio Grande Famers Version" (KUNM, 1994). https://americanarchive.org/catalog/cpb-aacip-207-58bg7gmc/.</caption>
 
 [***Local Issue***, **“Death of a Small Farm”**](https://americanarchive.org/catalog/cpb-aacip-516-183416tt1k) **(KUON-TV, Lincoln, Nebraska, National Educational Television, September 10, 1967).**
 
