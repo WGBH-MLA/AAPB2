@@ -86,6 +86,11 @@ While wide-ranging, this exhibit does not purport to offer a comprehensive accou
 
 ## Gallery
 
+- <a class="type">image</a>
+    <img alt="Russell Lee. New Madrid County, Missouri. Sharecropper woman filing hoe in cotton field, 1938. Prints and Photographs Division, Library of Congress. LC-DIG-fsa-8a23251." src="https://s3.amazonaws.com/americanarchive.org/exhibits/sotl_exhibit_title_image.jpg">
+    <a class="caption-text">Russell Lee. New Madrid County, Missouri. Sharecropper woman filing hoe in cotton field, 1938.</a>
+    <a class="credit-link" href="https://www.loc.gov/pictures/item/2017737007">Prints and Photographs Division, Library of Congress. LC-DIG-fsa-8a23251.</a>
+
 ## Records
 
 - [](/cpb-aacip-516-183416tt1k)
