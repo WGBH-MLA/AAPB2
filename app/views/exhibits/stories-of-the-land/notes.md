@@ -42,7 +42,7 @@
 
 <a name="19"></a><sup>19</sup> Thomas F. Pawlick, *The Invisible Farm: The Worldwide Decline of Farm News and Agricultural Journalism Training* (Chicago: Burnham, 2001), 11. 
 
-<a name="20"></a><sup>20</sup> Mary Hufford, *American Folklife: A Commonwealth of Cultures* (Washington, DC: American Folklife Center, 1991), 1, https://www.loc.gov/folklife/cwc/CWCbooklet.pdf. 
+<a name="20"></a><sup>20</sup> Mary Hufford, *American Folklife: A Commonwealth of Cultures* (Washington, DC: American Folklife Center, 1991), 1, https://maint.loc.gov/folklife/cwc/
 
 <a name="21"></a><sup>21</sup> Barbara Kirshenblatt-Gimblett, *Destination Culture: Tourism, Museums, and Heritage* (Berkeley: University of California Press, 1998), 9.
 
