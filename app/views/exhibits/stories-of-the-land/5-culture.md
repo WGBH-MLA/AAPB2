@@ -11,7 +11,7 @@
 <img title="Banner Image" alt="An image of two people exhanging produce that says Story, Folklife, Youth." src="https://s3.amazonaws.com/americanarchive.org/exhibits/culture_banner.png">
 
 >**Among the first things one learns from the practice of agriculture, whether one comes to it by birthright—raised in the country—or transplanted from the city, is that farming is not a mere mechanical, scientific, or even economic enterprise, but a social and thus cultural one.**
-
+>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—Thomas F. Pawlick, journalist [<sup>19</sup>](/exhibits/stories-of-the-land/notes#19)
 
 Here, we take in the cultural dimensions of agriculture: the art, the stories, and the social events that shape and are shaped by the occupational practices of farming. More than a science, more than an [Industry](/exhibits/stories-of-the-land/6-practice#Industry), agriculture is deeply embedded in social life and historical memory. But there is no singular expression of agrarian culture in the United States. By exploring some of the [Stories](#Story), [Folklife](#Folklife), and [Youth](#Youth) activities showcased in public broadcasting throughout the decades, this Anchor invites you to consider how diverse stories can connect through shared issues of education, finance, opportunity, and remembrance.
@@ -27,7 +27,7 @@ Many folklife and festival events are geared towards the younger generation, sha
 ### Story
 
 <iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-d6ab26fd363?start=488.4&end=612'></iframe>
-<caption align="bottom" class="exhibit-caption">One of the hosts of “The Long Shadow of the Plantation” (2019) radio broadcast speaks with farmer Shirley Sherrod about how the history of slavery continues to impact contemporary agricultural realities (item below).</caption>
+<caption align="bottom" class="exhibit-caption">One of the hosts of “The Long Shadow of the Plantation” (2019) radio broadcast speaks with farmer Shirley Sherrod about how the history of slavery continues to impact contemporary agricultural realities (item below). BackStory, "The Long Shadow of the Plantation: How a Weighted Past Creates a Complicated Present" (September 20, 2019). https://americanarchive.org/catalog/cpb-aacip-d6ab26fd363.</caption>
 
 [***Assignment Iowa Classics***, **episode 301, “Living History Farms”**](https://americanarchive.org/catalog/cpb-aacip_37-0644j1mb) **(Iowa Public Television, Johnston, IA, July 7, 1977).**
 
