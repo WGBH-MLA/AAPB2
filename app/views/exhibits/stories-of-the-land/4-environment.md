@@ -8,6 +8,8 @@
 
 ## Main
 
+&emsp;
+
 <img title="Banner Image" alt="An image of a arid landscape that says Crisis, Soil, Weather." src="https://s3.amazonaws.com/americanarchive.org/exhibits/environment_banner.png">
 
 >**Much of the world’s best farmland is now threatened because our species lacks commitment to a spiritual and ethical vision of our interconnectedness with the land. Farmland is primary human habitat, and black winds, dark rivers are carrying it away. Our good health, the smiles on the faces of our grandchildren are being carried to places beyond our reach.** 
