@@ -27,6 +27,8 @@
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1IDwAcp7n1_R8zufsmABfllrb2oEl2P4&ehbc=2E312F" width="640" height="480"></iframe>
 
+&emsp;
+
 ### How to Navigate the Exhibit
 
 After a brief introductory section on U.S. agricultural history in the twentieth century, this exhibit is divided into pages called **Anchors**: broad, abstract concepts that pull together stories from a wide range of agricultural histories and practices. This thematic arrangement highlights ways the stories intersect and diverge by drawing the broadcasts into conversation with one another. The anchors assembled here—[Land](/exhibits/stories-of-the-land/2-land), [Work](/exhibits/stories-of-the-land/3-work), [Environment](/exhibits/stories-of-the-land/4-environment), [Culture](/exhibits/stories-of-the-land/5-culture), [Practice](/exhibits/stories-of-the-land/6-practice), and [Politics](/exhibits/stories-of-the-land/7-politics)—explore different dimensions of agricultural experience across a diverse array of public broadcasting programs, often centering shared issues of disenfranchisement, visibility, mobilization, and loss. Each anchor has additional concepts nested beneath it to highlight certain enduring issues. Particular broadcasts have been featured and are included in the interactive map at the top of this page, while others are listed on the anchor pages for further exploration.
