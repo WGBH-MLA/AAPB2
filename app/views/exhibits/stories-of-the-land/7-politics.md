@@ -8,6 +8,8 @@
 
 ## Main
 
+&emsp; 
+
 <img title="Banner Image" alt="An image of a microphone in the foregorund and a blurred crowd in the background. The image says Policy, Collectivity, Rhetoric." src="https://s3.amazonaws.com/americanarchive.org/exhibits/politics_banner.png">
 
 >**In the depressed 1930s, when times were even harder for farmers than they are today, American political leaders took counsel. They listened to ranchers, growers, sharecroppers, agronomists, soil experts, and marketing specialists; a few of those leaders raised questions of value. What, they asked, is agriculture for? What is the ultimate moral reason behind the pursuit of abundance, new farm technology, and an expanding economy—or is there one?**
