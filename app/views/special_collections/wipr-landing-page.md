@@ -6,6 +6,16 @@
 
 ## Summary
 
+### Español
+
+La colección WIPR: Arte y Cultura en Puerto Rico contiene cerca de 8,000 programas transmitidos originalmente por la estación de radio 940 AM de Puerto Rico entre 1953 y 1997, de los cuales alrededor de 3,000 están disponibles en línea.
+
+La Puerto Rico Public Broadcasting Corporation (WIPR), también conocida como La Corporación de Puerto Rico para la Difusión Pública, es una estación gubernamental que desde su creación en 1949 ha producido una amplia variedad de programas destacando la vida y la cultura de Puerto Rico.
+
+El contenido incluye Viñeta Rústica (cuentos), El Cuento de Hoy (radionovelas), Suplemento Dominical (noticias), La Guitarra y los Guitarristas (música y entrevistas con músicos), Alborada (música), Enciclopedia al Día (educativa), Las Noches del Museo (dramatización), entre otros. La programación radial de WIPR, principalmente en español, permite a los oyentes experimentar más de 40 años de historia, cultura y sociedad puertorriqueña, brindando una visión de La Isla del Encanto y su relación con el mundo.
+
+### English
+
 The WIPR: Arts and Culture in Puerto Rico Collection consists of nearly 8,000 programs, of which nearly 3,000 are available online, from 1953-1997, originally broadcast on the 940 AM radio station in Puerto Rico.
 
 The Puerto Rico Public Broadcasting Corporation (WIPR), also known as La Corporación de Puerto Rico para la Difusión Pública, is a government station that since its creation in 1949 has produced a wide range of shows highlighting life and culture in Puerto Rico. 
@@ -15,6 +25,16 @@ WIPR’s radio programming, primarily in Spanish, allows listeners to experience
 
 
 ## Background
+
+### Español
+
+El Proyecto de Digitalización de Medios Públicos de Puerto Rico fue financiado por los Archivos Nacionales a través de una subvención de la Comisión Nacional de Registros y Publicaciones Históricas en 2021, con el objetivo de digitalizar y preservar la programación de WIPR (radio y televisión), WRTU de la Universidad de Puerto Rico (radio), y WVQR de Radio Vieques para las generaciones futuras.
+
+La colección WIPR contiene más de 2700 horas de programación de radio grabada entre 1953 y 1997 originalmente en carretes de audio de 1⁄4 de pulgada.
+
+El contenido preservado, previamente en riesgo y de acceso limitado, y existente únicamente en cintas, ahora está disponible para los investigadores y el público en general, permitiendo a todos explorar la rica historia y cultura de Puerto Rico.
+
+### English
 
 The Puerto Rico Public Media Digitization Project was funded by the National Archives through a National Historical Publications and Records Commission grant in 2021, with the objective of digitizing and preserving for future generations programming from WIPR (radio and TV), University of Puerto Rico’s WRTU (radio), and Radio Vieques’ WVQR.
 
