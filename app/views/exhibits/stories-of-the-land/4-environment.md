@@ -35,19 +35,19 @@ Those who work in farming, regardless of their location, know of the importance 
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/environment_image1_crisis.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/environment_image1_crisis.jpg" class="big-image" alt="A snowcapped volcano peak with blue skies and clouds in the distance."/></a></td></tr>
 </table>
 
-[***Hold Your Breath***, **“Agricultural Problems Caused by Air Pollution”**](https://americanarchive.org/catalog/cpb-aacip_500-3t9d8r5g) **(Michigan State University WKAR, East Lansing, October 9, 1963).**
+[***Hold Your Breath***, **“Agricultural Problems Caused by Air Pollution”**](/catalog/cpb-aacip_500-3t9d8r5g) **(Michigan State University WKAR, East Lansing, October 9, 1963).**
 
 “Just hold your breath,” the narrator begins in this radio series. “Hold your breath as long as you can, and you’ll soon discover how vital this natural [Resource](/exhibits/stories-of-the-land/2-land#Resources) is.” This particular episode considers the agricultural and economic costs of air pollution. The 1963 program is a part of *Hold Your Breath*, a series from Michigan State University that was devoted to discussions of the dangers of air pollution, which anticipated the major [amendments to the Clean Air Act in 1970](https://www.epa.gov/clean-air-act-overview/evolution-clean-air-act). As national concern about air quality heightened, local stations explored the multifaceted nature of this crisis. Here, for example, we learn more about how irradiated hydrocarbons (produced from vehicle exhaust) impact the [Land](/exhibits/stories-of-the-land/2-land), [Harvest](/exhibits/stories-of-the-land/3-work#Harvest), and [Soil](/exhibits/stories-of-the-land/4-environment#Soil) conditions from a county supervisor from Orange County, California.
 
-[***The MacNeil/Lehrer Report***, **“Forgotten Farms”**](https://americanarchive.org/catalog/cpb-aacip_507-rv0cv4cs8m) **(WNET/WETA, New York/Washington, April 10, 1980).**
+[***The MacNeil/Lehrer Report***, **“Forgotten Farms”**](/catalog/cpb-aacip_507-rv0cv4cs8m) **(WNET/WETA, New York/Washington, April 10, 1980).**
 
 Not all environmental crises are natural. This episode of *The MacNeil/Lehrer Report* covers the 1973 contamination of cattle feed in Michigan, which resulted in human ingestion of polybrominated biphenyls (PBBs) through the consumption of meat and dairy products, causing a statewide health crisis. The crisis and coverage demonstrate how rural, agricultural issues can have devastating impacts on [Places](/exhibits/stories-of-the-land/2-land#Place) beyond the farm through interconnected food networks.
 
-[***A Year of Ash: Mount St. Helen's Impact on Agriculture***](https://americanarchive.org/catalog/cpb-aacip_296-09j3tzq8) **(prod. Alison Hansel, Northwest Public Television, 1981).**
+[***A Year of Ash: Mount St. Helen's Impact on Agriculture***](/catalog/cpb-aacip_296-09j3tzq8) **(prod. Alison Hansel, Northwest Public Television, 1981).**
 
 This documentary explores how farmers, feed lot managers, and scientists responded in the wake of Mount St. Helen’s eruption in 1980. With the significant ash fall and changes to the mineral composition of the soil, concern rose from scientists and farmers about high-acidity dust, starving livestock, contaminated crops, and rusting equipment. Though some effects were mild, the discussion around the aftermath demonstrates how those working in the agricultural sector mitigate risk and attempt to anticipate future crises. As the narrator concludes, “There is no ending to this story. As long as the Cascade Mountains from Washington to northern California are dormant but not dead, the chance for another eruption is there.”
 
-[***New Mexico in Focus***, **episode 323, “Gray Wolf Reintroduction”**](https://americanarchive.org/catalog/cpb-aacip-191-257d805d) **(KNME-TV, Albuquerque, NM, March 17, 2000).**
+[***New Mexico in Focus***, **episode 323, “Gray Wolf Reintroduction”**](/catalog/cpb-aacip-191-257d805d) **(KNME-TV, Albuquerque, NM, March 17, 2000).**
 
 Agricultural work is not only about responding to the aftereffects of disasters or crises; oftentimes it’s about anticipating them. This program considers the controversy surrounding the reintroduction of the Mexican gray wolf population into New Mexico. Environmentalists were eager to reintroduce this indigenous at-risk species and restore the natural ecosystem of the area, but local ranchers pushed back vehemently out of concerns about potential violence against livestock and families. Here, differing environmental priorities were debated between conservationists and cattle growers as they heatedly discussed wolf recovery and agriculture.
 
@@ -57,18 +57,18 @@ Agricultural work is not only about responding to the aftereffects of disasters 
 
 **Featured Item**
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-110-89d51nzq?start=717&end=827.55'></iframe>
-<caption align="bottom" class="exhibit-caption">The host in this 1954 Science in Sight program discusses the erosion of farmland and the “good principles” of farming. Science in Sight, "Saving the Soil" (KETC-TV, 1954). https://americanarchive.org/catalog/cpb-aacip-110-89d51nzq. </caption>
+<iframe class="exhibit-small-iframe" src='/lite/cpb-aacip-110-89d51nzq?start=717&end=827.55'></iframe>
+<caption align="bottom" class="exhibit-caption">The host in this 1954 Science in Sight program discusses the erosion of farmland and the “good principles” of farming. Science in Sight, "Saving the Soil" (KETC-TV, 1954). /catalog/cpb-aacip-110-89d51nzq. </caption>
 
-[***Science in Sight***, **“Saving the Soil”**](https://americanarchive.org/catalog/cpb-aacip-110-89d51nzq) **(KETC-TV, St. Louis, MO, 1954)** 
+[***Science in Sight***, **“Saving the Soil”**](/catalog/cpb-aacip-110-89d51nzq) **(KETC-TV, St. Louis, MO, 1954)** 
 
 This early broadcast features a conversation between the series host, Bob Lemen, and a farmer from Eureka, Missouri, who promotes different farming [Practices](/exhibits/stories-of-the-land/6-practice) and principles that support soil conservation. Lemen has incorporated a terrace system on his farm near the waters of the Mississippi River, and through contour plowing he’s able to mitigate the loss of precious, rich topsoil. The program also includes demonstrations of runoff and erosion processes that likely appealed to a [Youth](/exhibits/stories-of-the-land/5-culture#Youth) audience.
 
-[***Illustrated Daily***, **episode 5100, “Soil Conservation”**]( https://americanarchive.org/catalog/cpb-aacip-8cdf399c9a4) **(KNME-TV, Albuquerque, NM, March 21, 1985)**
+[***Illustrated Daily***, **episode 5100, “Soil Conservation”**]( /catalog/cpb-aacip-8cdf399c9a4) **(KNME-TV, Albuquerque, NM, March 21, 1985)**
 
 The environmental, cultural, and psychological impacts of the Dust Bowl [Crisis](#Crisis) gave rise to the soil conservation movement in the U.S. This program looks back on the formation and legacy of the Soil Conservation Service, specifically focusing on the state of New Mexico and its geographic history. Extension agents and government representatives discuss desertification (the formation of deserts), the state’s susceptibility to future soil crises, and what can be done to intervene.
 
-[***Our Kansas Heritage***](https://americanarchive.org/catalog/cpb-aacip-469076b82f0) **(High Plains Public Radio, Garden City, KS, date unknown).** 
+[***Our Kansas Heritage***](/catalog/cpb-aacip-469076b82f0) **(High Plains Public Radio, Garden City, KS, date unknown).** 
 
 This broadcast tells the history of Kansas, called by some “the great American desert.” The host of *Our Kansas Heritage*, Leo Oliva, recounts the impact of cultivation and different agricultural [Methods](/exhibits/stories-of-the-land/6-practice#Method) on the dichotomous character the state has taken on over time: “These were all reactions to the land which is now Kansas, and the controversy continues. Kansas is a desert. Kansas is a garden. Both images continue as themes in our history, literature, and folklore.” The broadcast also connects with cultural issues such as [Storytelling](/exhibits/stories-of-the-land/5-culture#Story) and [Placemaking](/exhibits/stories-of-the-land/2-land#Place) practices, stories of [Movement](/exhibits/stories-of-the-land/3-work#Movement) and migration, and broader questions about environmental legacies.
 
@@ -80,38 +80,38 @@ This broadcast tells the history of Kansas, called by some “the great American
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/environment_image2_weather.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/environment_image2_weather.jpg" class="big-image" alt="A row of corn planted in white pots stacked on top of one another in a hydroponic system."/></a></td></tr>
 </table>
 
-[***One More Harvest***](https://americanarchive.org/catalog/cpb-aacip_83-407wmf7g) **(PBS Utah, Salt Lake City, 1984).**
+[***One More Harvest***](/catalog/cpb-aacip_83-407wmf7g) **(PBS Utah, Salt Lake City, 1984).**
 
 This documentary follows Montana farmer Melvin Good during [Harvest](/exhibits/stories-of-the-land/3-work#Harvest) season as he cautiously watches the weather. Along with showing day-to-day tasks, the program situates the work of farming within networks of family, community, [Culture](/exhibits/stories-of-the-land/5-culture), and [Labor](/exhibits/stories-of-the-land/3-work#Labor). Good practices an older approach to farming, and the narrator lingers on the idealized image of the farmer on his [Land](/exhibits/stories-of-the-land/2-land): “His tall, lanky frame strides about this Montana prairie with ease and comfort. You get a sense that he belongs here almost as much as the wheat does.” This iconic imagery and [Rhetoric](/exhibits/stories-of-the-land/7-politics#Rhetoric) amplify a romantic conception of agrarian life.
 
-[***Main Street, Wyoming***, **“A Wyoming Ranch Family”**](https://americanarchive.org/catalog/cpb-aacip_260-04rjdgs3) **(Wyoming PBS, Riverton, November 22, 1994).**
+[***Main Street, Wyoming***, **“A Wyoming Ranch Family”**](/catalog/cpb-aacip_260-04rjdgs3) **(Wyoming PBS, Riverton, November 22, 1994).**
 
 As we follow the Hampton family during their day-to-day work on the ranch in the Big Horn Mountains of Wyoming, we see the impact of unexpected rain on cattle-market day and what support networks the family draws upon when the weather is against them. “We don’t battle with Mother Nature,” says Sam Hampton of Mahogany Butte Ranch. “We just try to get along with her.”
 
-[***Florida Matters***, **episode 11, “Drought”**]( https://americanarchive.org/catalog/cpb-aacip_304-84zgn9j8) **(WUSF, Tampa, FL, May 1, 2009).**
+[***Florida Matters***, **episode 11, “Drought”**]( /catalog/cpb-aacip_304-84zgn9j8) **(WUSF, Tampa, FL, May 1, 2009).**
 
 This news program considers how farmers, gardeners, and civilians responded to the three-year drought that the state experienced during this time. From a visit to a desalination plant to conversations with hydroponic farmers, broadcasters explore alternatives to traditional farming in light of the water [Crisis](/exhibits/stories-of-the-land/4-environment#Crisis). “We don't feel that we're adversely affected by the drought,” says Cathy Hume, co-owner of the hydroponic farm Urban Oasis. “I think we thought well enough in advance. This is the type of system that I think more farmers need to consider and look forward to in order to continue to conserve the water that is becoming less and less abundant for us.” 
 
 ### Additional Broadcasts Relating to “Environment”
 
-- [*The Naturalists*, “John Burroughs”](https://americanarchive.org/catalog/cpb-aacip_52-655dvb1d) (KRMA-TV, Denver, CO, March 11, 1973).
-- [“Pesticides, Prices and Boycotts: An Urban View of Agriculture”](https://americanarchive.org/catalog/cpb-aacip_514-pv6b27qr2z) (Commonwealth Club of California, April 27, 1973).
-- [MPR News Feature, “Wet Weather Delays Grain Planting in Areas of Minnesota”](https://americanarchive.org/catalog/cpb-aacip_43-s756d5pv4p) (Minnesota Public Radio, St. Paul, MN, June 10, 1974).
-- [MPR News Feature, “Blizzard of the Century Aftermath in Rural Minnesota Livestock Farms”](https://americanarchive.org/catalog/cpb-aacip_43-h98z892q38) (Minnesota Public Radio, St. Paul, MN, January 21, 1975).
-- [MPR News Feature, “Low Minnesota Grain Crop Means Tragedy for Farmers”](https://americanarchive.org/catalog/cpb-aacip_43-cf9j38kt2x) (Minnesota Public Radio, St. Paul, MN, ca. 1975).
-- [MPR News Feature, “Record High Grain Crops in Midwest but Not Minnesota”](https://americanarchive.org/catalog/cpb-aacip_43-dn3zs2kn0m) (Minnesota Public Radio, St. Paul, MN, ca. 1975).
-- [*The MacNeil/Lehrer Report*, “Grain Glut”](https://americanarchive.org/catalog/cpb-aacip_507-rv0cv4cn76) (Educational Broadcasting Corporation and GWETA, July 27, 1977).
-- [*The MacNeil/Lehrer Report*, “Harvest Woes”](https://americanarchive.org/catalog/cpb-aacip_507-dn3zs2m12h) (Educational Broadcasting Corporation and GWETA, October 5, 1982).
-- [*Louisiana: The State We’re In*](https://americanarchive.org/catalog/cpb-aacip_17-343r2xqd) (Louisiana Public Broadcasting, Baton Rouge, LA, November 22, 1985).
-- [*Carolina Journal*, “Interview with Tom Trantham – S. C. Dairy Farmer”](https://americanarchive.org/catalog/cpb-aacip_41-870vts9w) (South Carolina ETV, Columbia, SC, January 28, 1987).
-- [*American Experience, Surviving the Dust Bowl*, footage](https://americanarchive.org/catalog/cpb-aacip-15-0z70v89k98) (WGBH, Boston, MA, August 12, 1996).
-- [*Journey to Planet Earth*, “After School Activity”](https://americanarchive.org/catalog/cpb-aacip_41-18dfnf6w) (South Carolina ETV, Columbia, SC, February 19, 1999).
-- [*The NewsHour with Jim Lehrer*, “Salmon Scare”](https://americanarchive.org/catalog/cpb-aacip_153-547pvvgh) (MacNeil/Lehrer Productions, Oregon Public Broadcasting, January 26, 2004).
-- [“Securing Our Future: From Farm to Fuel”](https://americanarchive.org/catalog/cpb-aacip_41-05s7hc6m) (South Carolina ETV, Columbia, SC, February 28, 2007).
-- [*Growing on the High Plains*, “Great Gardens”](https://americanarchive.org/catalog/cpb-aacip-adfe1fb0c0f) (High Plains Public Radio, Garden City, KS, 2009).
-- [*BirdNote*, “Wild Farm Alliance”](https://americanarchive.org/catalog/cpb-aacip-e22f908aee0) (BirdNote, Seattle, WA, August 12, 2020).
-- [Teachers’ Domain, “Alaska Native Perspectives on Earth and Climate; Engaging Alaska Natives in the Geosciences 2008; A Subsistence Culture Impacted by Climate Change”](https://americanarchive.org/catalog/cpb-aacip-15-fb4wh2dg8c) (WGBH, Boston, no date).
-- [Teachers’ Domain, “Can Organic Farms and Mosquito Control Coexist?”](https://americanarchive.org/catalog/cpb-aacip-15-0r9m32n87t) (WGBH, Boston, no date).
+- [*The Naturalists*, “John Burroughs”](/catalog/cpb-aacip_52-655dvb1d) (KRMA-TV, Denver, CO, March 11, 1973).
+- [“Pesticides, Prices and Boycotts: An Urban View of Agriculture”](/catalog/cpb-aacip_514-pv6b27qr2z) (Commonwealth Club of California, April 27, 1973).
+- [MPR News Feature, “Wet Weather Delays Grain Planting in Areas of Minnesota”](/catalog/cpb-aacip_43-s756d5pv4p) (Minnesota Public Radio, St. Paul, MN, June 10, 1974).
+- [MPR News Feature, “Blizzard of the Century Aftermath in Rural Minnesota Livestock Farms”](/catalog/cpb-aacip_43-h98z892q38) (Minnesota Public Radio, St. Paul, MN, January 21, 1975).
+- [MPR News Feature, “Low Minnesota Grain Crop Means Tragedy for Farmers”](/catalog/cpb-aacip_43-cf9j38kt2x) (Minnesota Public Radio, St. Paul, MN, ca. 1975).
+- [MPR News Feature, “Record High Grain Crops in Midwest but Not Minnesota”](/catalog/cpb-aacip_43-dn3zs2kn0m) (Minnesota Public Radio, St. Paul, MN, ca. 1975).
+- [*The MacNeil/Lehrer Report*, “Grain Glut”](/catalog/cpb-aacip_507-rv0cv4cn76) (Educational Broadcasting Corporation and GWETA, July 27, 1977).
+- [*The MacNeil/Lehrer Report*, “Harvest Woes”](/catalog/cpb-aacip_507-dn3zs2m12h) (Educational Broadcasting Corporation and GWETA, October 5, 1982).
+- [*Louisiana: The State We’re In*](/catalog/cpb-aacip_17-343r2xqd) (Louisiana Public Broadcasting, Baton Rouge, LA, November 22, 1985).
+- [*Carolina Journal*, “Interview with Tom Trantham – S. C. Dairy Farmer”](/catalog/cpb-aacip_41-870vts9w) (South Carolina ETV, Columbia, SC, January 28, 1987).
+- [*American Experience, Surviving the Dust Bowl*, footage](/catalog/cpb-aacip-15-0z70v89k98) (WGBH, Boston, MA, August 12, 1996).
+- [*Journey to Planet Earth*, “After School Activity”](/catalog/cpb-aacip_41-18dfnf6w) (South Carolina ETV, Columbia, SC, February 19, 1999).
+- [*The NewsHour with Jim Lehrer*, “Salmon Scare”](/catalog/cpb-aacip_153-547pvvgh) (MacNeil/Lehrer Productions, Oregon Public Broadcasting, January 26, 2004).
+- [“Securing Our Future: From Farm to Fuel”](/catalog/cpb-aacip_41-05s7hc6m) (South Carolina ETV, Columbia, SC, February 28, 2007).
+- [*Growing on the High Plains*, “Great Gardens”](/catalog/cpb-aacip-adfe1fb0c0f) (High Plains Public Radio, Garden City, KS, 2009).
+- [*BirdNote*, “Wild Farm Alliance”](/catalog/cpb-aacip-e22f908aee0) (BirdNote, Seattle, WA, August 12, 2020).
+- [Teachers’ Domain, “Alaska Native Perspectives on Earth and Climate; Engaging Alaska Natives in the Geosciences 2008; A Subsistence Culture Impacted by Climate Change”](/catalog/cpb-aacip-15-fb4wh2dg8c) (WGBH, Boston, no date).
+- [Teachers’ Domain, “Can Organic Farms and Mosquito Control Coexist?”](/catalog/cpb-aacip-15-0r9m32n87t) (WGBH, Boston, no date).
 
 #### Next: [Culture](/exhibits/stories-of-the-land/5-culture)
 

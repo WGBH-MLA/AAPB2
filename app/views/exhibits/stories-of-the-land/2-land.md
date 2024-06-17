@@ -31,7 +31,7 @@ The issues of stewardship and placemaking go hand-in-hand with the need for [**R
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/land_image1_stewardship.jpg.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/land_image1_stewardship.jpg" class="big-image" alt="Farmers mingle in a freshly tilled field, one bending down to plant seeds in the ground."/></a></td></tr>
 </table>
 
-[***Standing Silent Nation***](https://americanarchive.org/catalog/cpb-aacip-508-4t6f18t131) **(dir. Suree Towfighnia, Prairie Dust Films, July 3, 2007).**
+[***Standing Silent Nation***](/catalog/cpb-aacip-508-4t6f18t131) **(dir. Suree Towfighnia, Prairie Dust Films, July 3, 2007).**
 
 This documentary, broadcast on the PBS series *POV*, follows the efforts of the White Plume family (Oglala Lakota) to cultivate industrial hemp for livestock feed, papercrafts, and commercial sale on the Pine Ridge Reservation in South Dakota. Having been legalized under tribal law, hemp was not only a valuable [Resource](#Resources) in the community’s economic development but also offered a meaningful connection with the land through [Labor](/exhibits/stories-of-the-land/3-work#Labor). But backlash from the federal government led to raids, property seizure, and a legal battle for the White Plumes and others who sought to uphold Native sovereignty in the face of unjust [Policies](/exhibits/stories-of-the-land/7-politics#Policy). “In our treaties with America,” says Debra White Plume, “we retained our sovereignty. It’s not something America gave us. Sovereignty is not something that can be given to anyone.” 
 
@@ -82,7 +82,7 @@ Filmed over four years beginning in 2011, *Farmsteaders* presents an intimate lo
 
 **Featured Item**
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-206-343r25ph?start=259&end=301.5'></iframe>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/lite/cpb-aacip-206-343r25ph?start=259&end=301.5'></iframe>
 <caption align="bottom" class="exhibit-caption">Wilson Lumia (Yakima) discusses the historical and social importance of fishing in the Pacific Northwest in this National Native News Special Feature (Koahnic Broadcasting Corporation, September 18, 1990). https://americanarchive.org/catalog/cpb-aacip-206-343r25ph.</caption>
 
 [***National Native News Special Features***](https://americanarchive.org/catalog/cpb-aacip-206-343r25ph) **(Koahnic Broadcast Corporation, Anchorage, AK, September 18, 1990).** 
