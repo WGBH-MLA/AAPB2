@@ -26,6 +26,10 @@ Movement activists include:
 
 - [Report from the South - James Bevel](/catalog/cpb-aacip_28-j09w08ws94)
 
+### Julian Bond
+
+- [School Desegregation](/catalog/cpb-aacip_512-js9h41kk3r)
+
 ### Anne Braden
 
 - [Tribute to Ella Baker](/catalog/cpb-aacip_28-125q814w5v)
@@ -38,6 +42,8 @@ Movement activists include:
 
 - [Stokely Carmichael Interview](/catalog/cpb-aacip_28-zw18k75h85)
 - [Tribute to Ella Baker](/catalog/cpb-aacip_28-125q814w5v)
+- [From Protest to Resistance](/catalog/cpb-aacip_516-gq6qz23f5j)
+
 
 ### Leroy Clark
 
@@ -50,6 +56,11 @@ Movement activists include:
 ### James Farmer
 
 - [Long, Hot Summer '64; Episode 10](/catalog/cpb-aacip_15-87brvgm3)
+- [Louisiana Diary](/catalog/cpb-aacip_55-73pvn97r)![image]
+
+### James Foreman
+
+- [Civil Rights: What Next?](/catalog/cpb-aacip_15-741rq0bx)
 
 ### David Gelfand
 
@@ -62,6 +73,8 @@ Movement activists include:
 ### Fannie Lou Hamer
 
 - [Fannie Lou Hamer Interview](/catalog/cpb-aacip_28-bg2h70895r)
+- [The Negro Voter](/catalog/cpb-aacip_516-7659c6sw5t)
+- [Fannie Lou Hamer](/catalog/cpb-aacip_15-sn00z7182f)
 
 ### Tom Hayden
 
@@ -75,6 +88,10 @@ Movement activists include:
 
 - [Thirty Years of Civil Rights Education in the South / Myles Horton](/catalog/cpb-aacip_28-xp6tx35q0h)
 
+  ### Rev. Jesse Jackson
+
+- [Free At Last](/catalog/cpb-aacip_516-sj19k46z5q)
+
 ### Charles Jones
 
 - [The Civil Rights Lawyer in the South](/catalog/cpb-aacip_28-1g0ht2gg9n)
@@ -84,6 +101,9 @@ Movement activists include:
 -	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p) and [(2 of 2)](/catalog/cpb-aacip_500-m9023j32)
 -	[Birmingham: Testament of Nonviolence, Part 3; Mother’s Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [(2 of 2)](/catalog/cpb-aacip_500-cj87n27n)
 -	[Birmingham: Testament of Nonviolence, Part 4; Back to School in Birmingham (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h) and [(2 of 2)](/catalog/cpb-aacip_500-z60c1503)
+-	[The Negro and the American Promise](/catalog/cpb-aacip_15-92804z5z)
+- [The Negro Voter](/catalog/cpb-aacip_516-7659c6sw5t)
+- [With Some Deliberate Speed](/catalog/cpb-aacip_62-gx44q7r441)
 
 ### John Lowery
 
@@ -92,10 +112,12 @@ Movement activists include:
 ### Floyd McKissick
 
 - [Tribute to Ella Baker](/catalog/cpb-aacip_28-125q814w5v)
+- [Civil Rights: What Next?](/catalog/cpb-aacip_15-741rq0bx)
 
 ### Ronnie Moore
 
 - [The Battle Is Not Yet Won](/catalog/cpb-aacip_28-2z12n4zs1w)
+- [Louisiana Diary](/catalog/cpb-aacip_55-73pvn97r)
 
 ### Constance Baker Motley
 
@@ -121,6 +143,10 @@ Movement activists include:
 
 - [One Year Later in Mississippi](/catalog/cpb-aacip_15-88qc028z)
 
+### Bayard Rustin
+
+- [Civil Rights Summer 66’](/catalog/cpb-aacip_512-j09w08xb9s)
+
 ### Charles Sherrod
 
 - [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
@@ -141,6 +167,14 @@ Movement activists include:
 ### James R. Walker, Jr.
 
 -  [The Negro Lawyer in the South](/catalog/cpb-aacip_28-4t6f18sn70)
+
+### Hosea Williams
+
+- [Civil Rights: What Next?](/catalog/cpb-aacip_15-741rq0bx)
+
+### Andrew Young
+
+- [Free At Last](/catalog/cpb-aacip_516-sj19k46z5q)
 
 ### Melvyn Zarr
 
