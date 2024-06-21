@@ -44,7 +44,6 @@ Movement activists include:
 - [Tribute to Ella Baker](/catalog/cpb-aacip_28-125q814w5v)
 - [From Protest to Resistance](/catalog/cpb-aacip_516-gq6qz23f5j)
 
-
 ### Leroy Clark
 
 - [The Civil Rights Lawyer in the South](/catalog/cpb-aacip_28-1g0ht2gg9n)
@@ -56,7 +55,7 @@ Movement activists include:
 ### James Farmer
 
 - [Long, Hot Summer '64; Episode 10](/catalog/cpb-aacip_15-87brvgm3)
-- [Louisiana Diary](/catalog/cpb-aacip_55-73pvn97r)![image]
+- [Louisiana Diary](/catalog/cpb-aacip_55-73pvn97r)
 
 ### James Foreman
 
