@@ -20,7 +20,7 @@ Locales discussed in this exhibit range across nine states:
 
 ### Washington, DC
 
-- [Color Us Black. Part 1] (/catalog/cpb-aacip_512-f47gq6rz2w)
+-	[Color Us Black. Part 1](/catalog/cpb-aacip_512-f47gq6rz2w)
 - [The Negro Voter](/catalog/cpb-aacip_516-7659c6sw5t)
   
 #### Lowndes County
