@@ -14,7 +14,6 @@ Organizations profiled include:
 -	[The Battle Is Not Yet Won](/catalog/cpb-aacip_28-2z12n4zs1w)
 -	[Louisiana Diary](/catalog/cpb-aacip_55-73pvn97r)
 
-
 ### Council of Federated Organizations (COFO)
 
 - [Long, Hot Summer '64: Episode Two](/catalog/cpb-aacip_15-02c86fs0)
@@ -27,7 +26,7 @@ Organizations profiled include:
 
 ### Lowndes County Freedom Organization (LCFO)
 
--  [Stokely Carmichael Interview](/catalog/cpb-aacip_28-zw18k75h85)
+- [Stokely Carmichael Interview](/catalog/cpb-aacip_28-zw18k75h85)
 
 ### Mississippi Freedom Democratic Party (MFDP)
 
@@ -36,7 +35,6 @@ Organizations profiled include:
 - [Long, Hot Summer '64; Episode 9](/catalog/cpb-aacip_15-12m646qz)
 - [Long, Hot Summer '64; Episode 10](/catalog/cpb-aacip_15-87brvgm3)
 - [Black Natchez](/catalog/cpb-aacip_512-4x54f1nc5p)
-
 
 ### National Association for the Advancement of Colored People (NAACP)
 
