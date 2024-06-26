@@ -8,9 +8,9 @@
 
 ## Main
 
-&emsp;
-
 <img title="Banner Image" alt="An image of a arid landscape that says Crisis, Soil, Weather." src="https://s3.amazonaws.com/americanarchive.org/exhibits/environment_banner.png">
+
+&emsp;
 
 >**Much of the world’s best farmland is now threatened because our species lacks commitment to a spiritual and ethical vision of our interconnectedness with the land. Farmland is primary human habitat, and black winds, dark rivers are carrying it away. Our good health, the smiles on the faces of our grandchildren are being carried to places beyond our reach.** 
 >
@@ -58,7 +58,9 @@ Agricultural work is not only about responding to the aftereffects of disasters 
 **Featured Item**
 
 <iframe class="exhibit-small-iframe" src='/lite/cpb-aacip-110-89d51nzq?start=717&end=827.55'></iframe>
-<caption align="bottom" class="exhibit-caption">The host in this 1954 Science in Sight program discusses the erosion of farmland and the “good principles” of farming. Science in Sight, "Saving the Soil" (KETC-TV, 1954). /catalog/cpb-aacip-110-89d51nzq. </caption>
+<caption align="bottom" class="exhibit-caption"><sub><sup>The host in this 1954 Science in Sight program discusses the erosion of farmland and the “good principles” of farming. Science in Sight, "Saving the Soil" (KETC-TV, 1954) (item below).</sup></sub></caption>
+
+&emsp;
 
 [***Science in Sight***, **“Saving the Soil”**](/catalog/cpb-aacip-110-89d51nzq) **(KETC-TV, St. Louis, MO, 1954)** 
 
