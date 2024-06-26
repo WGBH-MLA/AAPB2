@@ -8,9 +8,9 @@
 
 ## Main
 
-&emsp; 
-
 <img title="Banner Image" alt="An image of large containers of liquid that says Industry, Method, Philosophy." src="https://s3.amazonaws.com/americanarchive.org/exhibits/practice_banner.png">
+
+&emsp; 
 
 >**In the daily lives of farmers, the act of calling someone a "good farmer" is an acknowledgement of appreciation and status within the community. It is not a title given lightly. Rather it bestows on the individual recognition of the cultural competences that make a farmer worthy of being sought out by others for assistance – knowledge, skills, or material assistance – the provision of which, in turn, forms bonds of mutual obligation within farming communities. It is the centre of the farming culture.**
 >
@@ -82,7 +82,9 @@ In this television broadcast, viewers from around Iowa call in to a live panel w
 **Featured Item**
 
 <iframe class="exhibit-small-iframe" src='/lite/cpb-aacip-207-58bg7gmc'></iframe>
-<caption align="bottom" class="exhibit-caption">Residents of San Juan Pueblo, New Mexico, discuss their agricultural philosophy and connections to tradition in this radio broadcast from KUNM-Albuquerque (item below). "San Juan Pueblo - Rio Grande Famers Version" (KUNM, 1994). /catalog/cpb-aacip-207-58bg7gmc/.</caption>
+<caption align="bottom" class="exhibit-caption"><sub><sup>Residents of San Juan Pueblo, New Mexico, discuss their agricultural philosophy and connections to tradition in this radio broadcast from KUNM-Albuquerque. "San Juan Pueblo - Rio Grande Famers Version" (KUNM, 1994) (item below).</sup></sub></caption>
+
+&emsp;
 
 [***Local Issue***, **“Death of a Small Farm”**](/catalog/cpb-aacip-516-183416tt1k) **(KUON-TV, Lincoln, Nebraska, National Educational Television, September 10, 1967).**
 
