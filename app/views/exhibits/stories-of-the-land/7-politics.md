@@ -8,9 +8,9 @@
 
 ## Main
 
-&emsp; 
-
 <img title="Banner Image" alt="An image of a microphone in the foregorund and a blurred crowd in the background. The image says Policy, Collectivity, Rhetoric." src="https://s3.amazonaws.com/americanarchive.org/exhibits/politics_banner.png">
+
+&emsp; 
 
 >**In the depressed 1930s, when times were even harder for farmers than they are today, American political leaders took counsel. They listened to ranchers, growers, sharecroppers, agronomists, soil experts, and marketing specialists; a few of those leaders raised questions of value. What, they asked, is agriculture for? What is the ultimate moral reason behind the pursuit of abundance, new farm technology, and an expanding economy—or is there one?**
 >
@@ -33,7 +33,9 @@ In the late nineteenth century, farmers began to be imagined and discussed as a 
 **Featured Item**
 
 <iframe class="exhibit-small-iframe" src='/lite/cpb-aacip-37-17qnkdss?start=3643.1&end=3706'></iframe>
-<caption align="bottom" class="exhibit-caption">Reverend Jesse Jackson proposes policies for Black farmers in this 1988 Broadcast of “Election 88: Prairie Fire Presidential Candidates Agricultural Debate” (Iowa Public Television, January 23, 1988). /catalog/cpb-aacip-37-17qnkdss. (item below). Jackson’s proposal continues in the second part of the event coverage: /catalog/cpb-aacip_37-343r26z7.</caption>
+<caption align="bottom" class="exhibit-caption"><sub><sup>Reverend Jesse Jackson proposes policies for Black farmers in this 1988 Broadcast of “Election 88: Prairie Fire Presidential Candidates Agricultural Debate” (Iowa Public Television, January 23, 1988). (item below). Jackson’s proposal continues in the second part of the event coverage. https://americanarchive.org/catalog/cpb-aacip-37-343r26z7</sup></sub></caption>
+
+&emsp; 
 
 [**“Up on the Farm”**](/catalog/cpb-aacip_394-5370s59p) **(Maryland Public Television, Owings Mills, December 6, 1982).**
 
