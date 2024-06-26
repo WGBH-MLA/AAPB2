@@ -10,6 +10,8 @@
 
  <img title="Banner Image" alt="An image of farmland at dusk that says Stewardship, Place, Resources." src="https://s3.amazonaws.com/americanarchive.org/exhibits/land_banner.png">
 
+&emsp;
+
 >**The point is that use does not indicate in any real way his idea of the land. Use is neither his work nor his idea. As an Indian I think: you say that I use the land, and I reply, yes, it is true; but it is not the first truth. The first truth is that I love the land; I see that it is beautiful; I delight in it; I am alive in it.**
 >
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - N. Scott Momaday, Kiowa novelist[<sup>9</sup>](/exhibits/stories-of-the-land/notes#9)  
@@ -83,7 +85,9 @@ Filmed over four years beginning in 2011, *Farmsteaders* presents an intimate lo
 **Featured Item**
 
 <iframe class="exhibit-small-iframe" src='https://americanarchive.org/lite/cpb-aacip-206-343r25ph?start=259&end=301.5'></iframe>
-<caption align="bottom" class="exhibit-caption">Wilson Lumia (Yakima) discusses the historical and social importance of fishing in the Pacific Northwest in this National Native News Special Feature (Koahnic Broadcasting Corporation, September 18, 1990). https://americanarchive.org/catalog/cpb-aacip-206-343r25ph.</caption>
+<caption align="bottom" class="exhibit-caption"><sub><sup>Wilson Lumia (Yakima) discusses the historical and social importance of fishing in the Pacific Northwest in this National Native News Special Feature (Koahnic Broadcasting Corporation, September 18, 1990). https://americanarchive.org/catalog/cpb-aacip-206-343r25ph.</sup></sub></caption>
+
+&emsp;
 
 [***National Native News Special Features***](https://americanarchive.org/catalog/cpb-aacip-206-343r25ph) **(Koahnic Broadcast Corporation, Anchorage, AK, September 18, 1990).** 
 
@@ -95,9 +99,9 @@ This national broadcast considers the decline of the idealized “family farm”
 
 [***Oregon Story***, **“Harvesting the Wild”**](https://americanarchive.org/catalog/cpb-aacip-153-84mkm5c3) **(Oregon Public Broadcasting, Portland, October 2, 2003).**
 
-This special program from Oregon Public Broadcasting discusses those involved in the [Harvest](/exhibits/stories-of-the-land/3-work#Harvest) of non-timber forest products: berries, mushrooms, moss, echinacea, and more. But as outsiders trespass into the Warm Springs Reservation in search of the surprisingly lucrative huckleberry, pushback from Native foragers start conversations about [Stewardship](#Stewardship) and land loss. Who retains access to these natural resources? How are land boundaries navigated and negotiated? Those interviewed tackle these questions from a variety of perspectives, from local hobbyists to forest service workers.
-
 <img title="" alt="Sign that reads The handshake agreement of 1932 reserves the picking of huckleberries on this side of the road for Indians." src="https://s3.amazonaws.com/americanarchive.org/exhibits/oregon-story-screenshot.png">
+
+This special program from Oregon Public Broadcasting discusses those involved in the [Harvest](/exhibits/stories-of-the-land/3-work#Harvest) of non-timber forest products: berries, mushrooms, moss, echinacea, and more. But as outsiders trespass into the Warm Springs Reservation in search of the surprisingly lucrative huckleberry, pushback from Native foragers start conversations about [Stewardship](#Stewardship) and land loss. Who retains access to these natural resources? How are land boundaries navigated and negotiated? Those interviewed tackle these questions from a variety of perspectives, from local hobbyists to forest service workers.
 
 [***Midday,*** **“When Farmers Took a Holiday”**](https://americanarchive.org/catalog/cpb-aacip_43-72b8h6p2) **(prod. Mark Heistad, Minnesota Public Radio, St. Paul, February 18, 1985).** 
 
