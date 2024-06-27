@@ -8,7 +8,7 @@
 
 The *PBS NewsHour* Collection includes nearly 15,000 episodes of the *PBS NewsHour* and its predecessor programs beginning in October 1975, including *The Robert MacNeil Report* (1975-1976), *The MacNeil/Lehrer Report* (1976 – 1983), *The MacNeil/Lehrer NewsHour* (1983 – 1995), *The NewsHour with Jim Lehrer* (1995 – 2009), and *PBS NewsHour* (2009 -). The programs originally aired nationwide on public television stations, five nights a week; starting in 2013, the series added weekend news coverage. Covering national and worldwide news and public affairs, the programs feature interviews with leading newsmakers including presidents, Supreme Court justices, members of Congress, secretaries of state, and with world leaders, including the Shah of Iran, Ayatollah Khomeini, Fidel Castro, Muammar Khadafy, Yasser Arafat, Menachem Begin, Boris Yeltsin, Vaclav Havel, Nelson Mandela and Margaret Thatcher. The collection includes extensive coverage of U.S. election campaigns, African-American history, global and domestic health care, poverty, technology, immigration debates, the end of the Cold War, terrorism, the economy, climate change, energy issues, religion, education issues, rural life, scientific exploration, poetry and the media.
 
-Visit our [Tribute to Jim Lehrer](/a-tribute-to-jim-lehrer).
+Visit our tribute pages to [Jim Lehrer](/a-tribute-to-jim-lehrer) and [Robert MacNeil](/a-tribute-to-robert-macneil).
 
 ## Background
 
