@@ -2182,5 +2182,13 @@
     "City": "Providence",
     "Url": "https://www.ripbs.org/",
     "location": [41.7953, -71.4357]
+  },
+  "GBH": {
+    "Name": "GBH",
+    "Short Name": "GBH",
+    "State": "Massachusetts",
+    "City": "Boston",
+    "Url": "https://wgbh.org/",
+    "location": [42.3572, -71.147]
   }
 }
