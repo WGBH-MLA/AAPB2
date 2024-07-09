@@ -2186,6 +2186,7 @@
   "GBH": {
     "Name": "GBH",
     "Short Name": "GBH",
+    "Logo": "GBH_logo.png",
     "State": "Massachusetts",
     "City": "Boston",
     "Url": "https://wgbh.org/",
