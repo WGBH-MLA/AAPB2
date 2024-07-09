@@ -6,8 +6,8 @@ $(document).ready(function () {
     zoomSnap: 0.5,
     zoomDelta: 1,
     maxBounds: [
-      [65, -230],
-      [-20, -50],
+      [80, -240],
+      [-60, -30],
     ],
   }).setView([37.8, -96], 4)
 
@@ -33,7 +33,7 @@ $(document).ready(function () {
   }
 
   function fetchJson(url) {
-    return fetch(url).then(response => response.json())
+    return fetch(url).then((response) => response.json())
   }
 
   function stationNameLink(org) {
@@ -46,7 +46,7 @@ $(document).ready(function () {
   Promise.all([geojson, orgs]).then(([geojson, orgs]) => {
     // aggregate the orgs by state
     let orgsByState = {}
-    Object.keys(orgs).forEach(org_id => {
+    Object.keys(orgs).forEach((org_id) => {
       let org = orgs[org_id]
       org.id = org_id
       let state = org.State
@@ -66,14 +66,14 @@ $(document).ready(function () {
         // let orgs = count ? Object.values(orgsByState[region]) : []
 
         layer.on({
-          click: e => {
+          click: (e) => {
             window.open(`/participating-orgs#${region}`, '_blank').focus()
           },
-          mouseover: e => {
+          mouseover: (e) => {
             layer.setStyle(stateStyleActive)
             layer.bringToFront()
           },
-          mouseout: e => {
+          mouseout: (e) => {
             layer.setStyle(stateStyle)
           },
         })
@@ -93,13 +93,13 @@ $(document).ready(function () {
     const markers = L.markerClusterGroup({
       maxClusterRadius: 20,
       disableClusteringAtZoom: 10,
-    }).on('clusterclick', a => {
+    }).on('clusterclick', (a) => {
       a.layer.zoomToBounds({ padding: [20, 20] })
     })
     map.addLayer(markers)
 
     // Add the markers to the map
-    Object.keys(orgs).forEach(org_id => {
+    Object.keys(orgs).forEach((org_id) => {
       let org = orgs[org_id]
       markers.addLayer(
         L.marker(org.location, {
