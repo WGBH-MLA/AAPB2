@@ -30,7 +30,7 @@ The issues of stewardship and placemaking go hand-in-hand with the need for [**R
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Residents of the Pine Ridge Reservation in South Dakota fight for the right to grow industrial hemp, as featured in “Standing Silent Nation” (2012).</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/land_image1_stewardship.jpg.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/land_image1_stewardship.jpg" class="big-image" alt="Farmers mingle in a freshly tilled field, one bending down to plant seeds in the ground."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/land_image1_stewardship.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/land_image1_stewardship.jpg" class="big-image" alt="Farmers mingle in a freshly tilled field, one bending down to plant seeds in the ground."/></a></td></tr>
 </table>
 
 [***Standing Silent Nation***](/catalog/cpb-aacip-508-4t6f18t131) **(dir. Suree Towfighnia, Prairie Dust Films, July 3, 2007).**
@@ -85,7 +85,7 @@ Filmed over four years beginning in 2011, *Farmsteaders* presents an intimate lo
 **Featured Item**
 
 <iframe class="exhibit-small-iframe" src='https://americanarchive.org/lite/cpb-aacip-206-343r25ph?start=259&end=301.5'></iframe>
-<caption align="bottom" class="exhibit-caption"><sub><sup>Wilson Lumia (Yakima) discusses the historical and social importance of fishing in the Pacific Northwest in this National Native News Special Feature (Koahnic Broadcasting Corporation, September 18, 1990). https://americanarchive.org/catalog/cpb-aacip-206-343r25ph.</sup></sub></caption>
+<caption align="center" class="exhibit-caption"><sub><sup>Wilson Lumia (Yakima) discusses the historical and social importance of fishing in the Pacific Northwest in this National Native News Special Feature (Koahnic Broadcasting Corporation, September 18, 1990). https://americanarchive.org/catalog/cpb-aacip-206-343r25ph.</sup></sub></caption>
 
 &emsp;
 
@@ -99,7 +99,10 @@ This national broadcast considers the decline of the idealized “family farm”
 
 [***Oregon Story***, **“Harvesting the Wild”**](https://americanarchive.org/catalog/cpb-aacip-153-84mkm5c3) **(Oregon Public Broadcasting, Portland, October 2, 2003).**
 
-<img title="" alt="Sign that reads The handshake agreement of 1932 reserves the picking of huckleberries on this side of the road for Indians." src="https://s3.amazonaws.com/americanarchive.org/exhibits/oregon-story-screenshot.png">
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption"></caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/oregon-story-screenshot.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/oregon-story-screenshot.png" class="big-image" alt="Sign that reads The handshake agreement of 1932 reserves the picking of huckleberries on this side of the road for Indians."/></a></td></tr>
+</table>
 
 This special program from Oregon Public Broadcasting discusses those involved in the [Harvest](/exhibits/stories-of-the-land/3-work#Harvest) of non-timber forest products: berries, mushrooms, moss, echinacea, and more. But as outsiders trespass into the Warm Springs Reservation in search of the surprisingly lucrative huckleberry, pushback from Native foragers start conversations about [Stewardship](#Stewardship) and land loss. Who retains access to these natural resources? How are land boundaries navigated and negotiated? Those interviewed tackle these questions from a variety of perspectives, from local hobbyists to forest service workers.
 
