@@ -25,7 +25,7 @@ The <em>To the Moon</em> interviews were conducted by NOVA in 1998 for the two-h
 ## Resources
 
 - [<em>To the Moon</em>, NOVA Website](https://www.pbs.org/wgbh/nova/tothemoon/)
-- [NASA Video Archive](https://www.nasa.gov/multimedia/videogallery/Video_Gallery_Archives.html)
+- [NASA Video Archive](https://images.nasa.gov/)
 - [Project Apollo Archive](https://www.flickr.com/photos/projectapolloarchive/albums)
 - [Space Race Blog, National Archives](https://prologue.blogs.archives.gov/category/time-zones/space-race-history/)
 - [<em>Space Race</em> Collection, Wilson Center Digital Archive](https://digitalarchive.wilsoncenter.org/collection/383/space-race)
