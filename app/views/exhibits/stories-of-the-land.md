@@ -74,7 +74,7 @@ This collection offers stories from local stations that sometimes are the only r
 **Featured Item**
 
 <iframe class="exhibit-small-iframe" src='/lite/cpb-aacip-532-qv3bz62p4f'></iframe>
-<caption align="bottom" class="exhibit-caption"><sub><sup>The public radio broadcast “Green Acres: A History of Farming in America” from BackStory (2013) provides useful historical context even as the program hosts consider the political and social weight of farming in U.S. history. You can find more about this program in the Politics anchor page.</sup></sub></caption>
+<caption align="center" class="exhibit-caption"><sub><sup>The public radio broadcast “Green Acres: A History of Farming in America” from BackStory (2013) provides useful historical context even as the program hosts consider the political and social weight of farming in U.S. history. You can find more about this program in the Politics anchor page.</sup></sub></caption>
 
 &emsp;
 
