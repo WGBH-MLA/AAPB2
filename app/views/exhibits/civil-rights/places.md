@@ -9,12 +9,20 @@
 Locales discussed in this exhibit range across nine states:
 
 ### Alabama
+
+-	[The Negro Voter](/catalog/cpb-aacip_516-7659c6sw5t)
+
 #### Birmingham
 
 -	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p) and [(2 of 2)](/catalog/cpb-aacip_500-m9023j32)
 -	[Birmingham: Testament of Nonviolence, Part 3; Mother’s Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [(2 of 2)](/catalog/cpb-aacip_500-cj87n27n)
 -	[Birmingham: Testament of Nonviolence, Part 4; Back to School in Birmingham (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h) and [(2 of 2)](/catalog/cpb-aacip_500-z60c1503)
 
+### Washington, DC
+
+-	[Color Us Black. Part 1](/catalog/cpb-aacip_512-f47gq6rz2w)
+- [The Negro Voter](/catalog/cpb-aacip_516-7659c6sw5t)
+  
 #### Lowndes County
 
 -  [Stokely Carmichael Interview](/catalog/cpb-aacip_28-zw18k75h85)
@@ -50,6 +58,11 @@ Locales discussed in this exhibit range across nine states:
 - [The Sit-ins and the New South](/catalog/cpb-aacip_28-br8mc8rr6z)
 
 ### Georgia
+
+-	[Free At Last](/catalog/cpb-aacip_516-sj19k46z5q/)
+-	[School Desegregation](/catalog/cpb-aacip_512-js9h41kk3r)
+-	[The Negro Voter](/catalog/cpb-aacip_516-7659c6sw5t)
+
 #### Albany
 
 - [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
@@ -69,11 +82,20 @@ Locales discussed in this exhibit range across nine states:
 - [Tribute to Ella Baker](/catalog/cpb-aacip_28-125q814w5v)
 
 ### Louisiana
+
+-	[Louisiana Diary](/catalog/cpb-aacip_55-73pvn97r)
+
 #### Baton Rouge
 
 - [The Battle Is Not Yet Won](/catalog/cpb-aacip_28-2z12n4zs1w)
 
 ### Mississippi
+
+-	[Fannie Lou Hamer](/catalog/cpb-aacip_15-sn00z7182f)
+-	[Head Start Mississippi](/catalog/cpb-aacip_75-440rz1b6)
+-	[Free At Last](/catalog/cpb-aacip_516-sj19k46z5q/)
+-	[The Negro Voter](/catalog/cpb-aacip_516-7659c6sw5t)
+
 #### Canton
 
 - [Handful That We Are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
@@ -101,6 +123,7 @@ Locales discussed in this exhibit range across nine states:
 #### Natchez
 
 - [One Year Later in Mississippi](/catalog/cpb-aacip_15-88qc028z)
+- [Black Natchez](/catalog/cpb-aacip_512-4x54f1nc5p)
 
 #### Winona
 
