@@ -15,7 +15,7 @@ gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .js.coffee assets and views
 gem 'coffee-rails', '~> 4.0.0'
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
-gem 'therubyracer', :platforms => :ruby
+gem 'mini_racer', '~> 0.4.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
@@ -69,8 +69,6 @@ gem 'fastimage'
 gem 'rack-cors', '~> 1.0.5', :require => 'rack/cors'
 
 gem 'aws-sdk', '~> 2', :group => :development # Unless we want the AWS credentials on Travis for tests...
-
-gem 'libv8', '~> 3.16.14.13' # Chuck had problems with older version.
 
 gem 'rspec', :group => :test
 gem 'rspec-rails', :group => :test
