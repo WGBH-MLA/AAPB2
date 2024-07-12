@@ -311,6 +311,16 @@
     "Name": "Wisconsin Public Television (WHA-TV)",
     "location": [43.0726553, -89.3999759]
   },
+  "1896.2": {
+    "Short name": "Wisconsin Public Radio",
+    "State": "Wisconsin",
+    "City": "Madison",
+    "Logo": "wpr_logo.png",
+    "Url": "https://www.wpr.org/",
+    "About": "Wisconsin Public Radio is a 3-network, 34-startion regional group with a very long history.  Regular broadcasts began from our flagship station WHA (then the callsign was 9XM) before America's entry into World War I.  Our website has a nice list of our accomplishments: http://www.wpr.org/wprs-tradition-innovation",
+    "Productions": "Chapter A Day - one of the longest-running programs in radio\nhistory, began on WHA when a radio guest cancels and the host decides to read\na library book to fill the hour. Listeners ask for more. In 1932, it's carried\nas a summer program. In 1939, it becomes a daily program and continues to this\nday. \n\nThe Larry Meiller Show - a midday show full of practical tips, traces its\nroots back to the earliest days of noontime weather and farm-market reports. \n\nMichael\nFeldman's Whad'Ya Know? - one of WPR's shows that is distributed nationwide.  This\nshows, offering music, humor, quizzes has been running for thirty years. \n\nTo\nthe Best of Our Knowledge - another long-running WPR show that is distributed\nto many other public radio stations. \n\nYou can see a full list of our programs\nunder the \"Shows\" tab on any of our webpages. You'd be hard-pressed to find\nanother public radio organization producing as many shows.",
+    "location": [43.0728, -89.4002]
+  },
   "1761": {
     "Short name": "WTIU",
     "State": "Indiana",
@@ -471,7 +481,7 @@
     "Name": "KGOU",
     "location": [35.2048077, -97.44677399999999]
   },
-  "1658": {
+  "1658.1": {
     "Short name": "KUOW Puget Sound Public Radio",
     "State": "Washington",
     "City": "Seattle",
@@ -481,6 +491,16 @@
     "Productions": "",
     "Name": "KUOW Puget Sound Public Radio",
     "location": [47.6617784, -122.3129948]
+  },
+  "1658.2": {
+    "Short name": "KEXP",
+    "Name": "KEXP-FM",
+    "State": "Washington",
+    "City": "Seattle",
+    "Logo": "kexp_logo.png",
+    "Url": "https://www.kexp.org/",
+    "About": "Beginning as a tiny 10-watt station back in 1972, KEXP has grown\nover the years into an innovative, influential cultural force in the Seattle community\nand beyond. Some of the station's milestones include:\n\n1972 -KCMU begins broadcasting\nas a student-run station from a 10-watt transmitter at 90.5 FM atop McMahon Hall\non the University of Washington campus.\n\n1981- UW budget cuts mean KCMU becomes\na community supported, listener powered station.\n\n1982- Increased wattage (182-watts)\nmeans listeners hear KCMU outside the University District for the first time.\n\n1985-\nKCMU forges the musical philosophy and programming focus that defines us today,\nadding hip hop, roots, blues, contemporary global music, reggae, jazz, and more\nto its lineup.\n\n1986- KCMU moves to 90.3 FM, relocates its transmitter to Capitol\nHill, and boost its power to 400-watts so that listeners as far as 15 miles away\ncan pick up the signal.\n\n1991- Seattle’s grunge scene explodes and KCMU is there,\nchampioning local artists, venues, and record labels.\n\n1999- KCMU partners with\nthe UW’s technology R&D team to develop innovative ways to serve more music lovers\nvia new media.\n\n2000- KCMU is the first station in the world to offer uncompressed\nCD-quality audio on the Internet. KCMU moves from its long-time home in the Communications\nBldg. (CMU) to Kane Hall.\n\n2001- With the help of venture philanthropy from the\nPaul G. Allen Family Foundation, KCMU becomes KEXP 90.3 FM, moving to its first\nhigh-tech studios. KEXP nearly doubles its wattage from 400 to 720, serving many\nmore people in the Puget Sound, and creates more ways for people across the world\nto enjoy the KEXP experience. KEXP’s UW engineers develop radio’s first real-time\nplaylist.\n\n2002- KEXP launches radio’s first streaming archive. \n\n2003- KEXP develops\nradio’s first cell phone stream.\n\n2004- KEXP.org wins the Webby Award for Best\nRadio Website.\n\n2005- KEXP offers first live performance podcast.\n\n2008- KEXP\nteams up with Radio New York to produce Radio Liberation programming for the New\nYork airwaves. The programs aired through 2011.\n\n2011- KEXP renews its collaboration\nwith UW for a 30-year term.\n\n2012- KEXP celebrates its 40th anniversary. KEXP\npartners with Seattle Theater Group and Starbucks to launch the Little Big Show\nconcert series with 100% of proceeds from ticket sales benefitting arts-based\nprogramming and education for Seattle-area youth.\n\n2013- KEXP partners with the\nCity of Seattle to build its New Home at Seattle Center, revolutionizing the way\ncontemporary artists and music is championed and nurtured in our community and\nbeyond. As part of the iconic local label’s Silver Jubilee, KEXP teamed up with\nSub Pop and Seattle Center to broadcast from the top of the Space Needle.\n\n2014-\nKEXP launches live video streaming service, KEXP Now. KEXP YouTube channel reaches\n500,000 subscribers and over 270 million views. UW Board of Regents formally transfers\nthe KEXP 90.3 FM broadcast license from its ownership at University of Washington\nto the Friends of KEXP nonprofit. This move helps secure KEXP’s future to champion\nmusic and discovery for our three beneficiaries: music lovers, artists, and Seattle’s\nvibrant music community.\n\n2015- KEXP breaks ground on new home at Seattle Center.\nConstruction Begins February 2015 on KEXP’s New Home.",
+    "location": [47.6232, -122.355]
   },
   "1813": {
     "Short name": "WSKG Public Broadcasting",
@@ -534,7 +554,7 @@
     "Url": "",
     "About": "",
     "Name": "James F. Voegeli",
-    "location": [43.07264019658862, -89.39699656196224]
+    "location": [43.06, -89.38]
   },
   "1786": {
     "Short name": "Detroit Public Television",
@@ -1717,7 +1737,7 @@
     "Url": "",
     "About": "",
     "Name": "Donald Voegeli",
-    "location": [43.07157646577296, -89.39566725036048]
+    "location": [43.08, -89.38]
   },
   "1886": {
     "Short name": "WHRO",
@@ -2183,13 +2203,15 @@
     "Url": "https://www.ripbs.org/",
     "location": [41.7953, -71.4357]
   },
-  "GBH": {
+  "1784.2": {
     "Name": "GBH",
-    "Short Name": "GBH",
+    "Short name": "WGBH",
     "Logo": "GBH_logo.png",
     "State": "Massachusetts",
     "City": "Boston",
     "Url": "https://wgbh.org/",
-    "location": [42.3572, -71.147]
+    "location": [42.3572, -71.147],
+    "About": "WGBH Educational Foundation (GBH) traces its roots back to 1836, when textile merchant John Lowell, Jr. (of the illustrious \"Lowells of Massachusetts,\" one of America's great early families) left a bequest creating \"free public lectures for the benefit of the citizens of Boston.\" In his will, Lowell set aside $250,000, half his estate, to underwrite the public lectures in perpetuity.\n\nIn the early 1940s the position of Trustee of the Lowell Institute passed to Ralph Lowell. Intrigued by the Federal Communications Commission's 1945 announcement that 20 of the 90 radio channels in the newly relocated frequency modulation (FM) band had been reserved for noncommercial stations, Lowell considered a Lowell Institute FM station as a new way to fulfill the institute's mission. Conversations with James Bryant Conant, president of Harvard University, led instead to the notion that Boston-area universities and colleges produce educational programs for broadcast on commercial AM outlets.\n\nIn 1946, the Lowell Institute Cooperative Broadcasting Council (LICBC) was formed--a cooperative venture with six Boston colleges, broadcasting lectures on commercial radio.\nIn April 1951, the WGBH Educational Foundation was formed, to launch an FM station that would carry the LICBC lectures. The \"GBH\" stood for Great Blue Hill, the site of the station's antenna atop a Harvard-operated weather observatory. The incorporators and original board members were Ralph Lowell (as Trustee of the Lowell Institute), the presidents and treasurers of Harvard and MIT, and the president of the Boston Symphony Orchestra.\n\nNoncommercial radio station WGBH-FM made its initial broadcast on October 6, 1951: the first Saturday-evening performance of the BSO's 71st season, live from Boston's famed Symphony Hall. The broadcast opened with words of welcome from Ralph Lowell and BSO President Henry Cabot. It was the first full-length broadcast of a symphony concert in Boston in 25 years. Only 15 percent of the households in Greater Boston had FM receivers, but GBH's premiere foray was considered a rousing success. During its first year, WGBH-FM broadcast 2,600 hours of programming--10 times the amount the LICBC had been allotted on commercial radio.\n\nOn May 2, 1955, WGBH-TV signed on for the first time. Its first broadcast was Come and See, a program for young children with folk singer Tony Saletan and Mary Lou Adams from Tufts University Nursery Training School. That was followed by Louis Lyons (a WGBH-FM fixture) reading the news before a camera.\n\nMost early \"Channel 2\" programs were course lectures: French Through Television, Your Income Taxes, From Criminal to Citizen. Over time, GBH made its mark by creating programs locally that were shared with other stations--this prior to the creation of the Public Broadcasting Service. Notable among them was Prospects of Mankind, a monthly series in which former First Lady Eleanor Roosevelt interviewed statesmen from all over the world.\nIn 1962, GBH produced three programs on French cooking, after a Cambridge cookbook author appeared on a GBH book-review program and whipped up not only egg whites but an interest in how-to television. Within a year The French Chef with Julia Child was teaching audiences in several major cities to cook with courage. \"Educational TV\" had its first national star--and GBH had the first in a long line of productions that would transform American broadcasting and put the Boston station on the map.\n\nIn 2020, GBH announced a new branding, dropping the broadcast-centric \"W\" from its name and adopted a new logo. Going forward, the organization would be known as GBH to recognize GBH's commitment to on-demand and digital-first content for audiences nationwide through streaming, apps, podcasts, social media, educational curricula and virtual events.\n\nToday, GBH is public broadcasting for New England, the number one producer of PBS programming (on TV, the Web, online, and mobile), a major source of public radio content, and a pioneer in both educational multimedia and media access solutions serving millions of people with disabilities.",
+    "Productions": "GBH’s best-known television series include Frontline, NOVA, American Experience, Masterpiece, and PBS’ #1 rated\nAntiques Roadshow. A record in award-winning programs for children began in 1972 with Zoom and includes past shows\nsuch as Degrassi Junior High, Where in the World is Carmen Sandiego, Between the Lions, and FETCH! with Ruff\nRuffman. Current children’s programs include the #1 PBS show for preschoolers (Curious George), the top two ranked\nPBS programs for kids 6-11 (Curious George and Arthur, respectively), and the popular series Peep and the Big Wide\nWorld, Martha Speaks, and Design Squad Nation.\n\nGBH Radio distributes national productions such as The World (co-produced by GBH, PRI, and the BBC), which\nreaches 2.5 million listeners. GBH Radio also serves our local community through analog and digital high-definition\nradio stations, including 89.7 FM and 99.5 FM All Classical. Our radio broadcasts reach over 335,000 listeners weekly,\nand over a hundred thousand more log on to wgbh.org’s live audio streaming each month. In 2012, GBH acquired\nPublic Radio International, whose programs can be heard on over 800 public radio stations.\n\nGBH’s local television productions address the needs and interests of the region through programs like Greater\nBoston (a daily news and public affairs show) and Basic Black (a weekly series focusing on the African-American\nexperience in Boston and beyond). La Plaza, a weekly local program on the culture and concerns of Latino\ncommunities, aired for over 30 years on GBH. A recent addition to GBH’s local line-up is High School Quiz Show,\na televised match-up of competing quiz bowl teams from high schools across the state that is now in its fourth\nseason. In 2012, GBH pioneered a new partnership with New Hampshire Public Television (NHPTV), which will\nstreamline operations and encourage the continued production of thoughtful, community-driven public media."
   }
 }
