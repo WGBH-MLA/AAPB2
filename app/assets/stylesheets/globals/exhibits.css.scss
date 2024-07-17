@@ -33,6 +33,7 @@
 }
 
 @media only screen and (min-width: 992px) {
+
 #exhibit-main iframe.exhibit-small-iframe {
   max-width: 80%;
   margin-left: 10%;
@@ -41,6 +42,16 @@
 .exhibit-image {
   float: right;
   padding: 0 5px;
+}
+
+table.full-width {
+  width: 100%;
+}
+
+table.full-width caption {
+  float: left;
+  width: 50%;
+  margin-left: 25%;
 }
 
 table.exhibit-image.half-image {

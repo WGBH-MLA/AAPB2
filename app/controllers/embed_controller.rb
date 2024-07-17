@@ -18,7 +18,7 @@ class EmbedController < CatalogController
     raise Blacklight::Exceptions::RecordNotFound unless @document
     xml = @document['xml']
     @pbcore = PBCorePresenter.new(xml)
-    if can? :play, @pbcore
+    if can? :play_embedded, @pbcore
       # can? play because we're inside this block
       if @pbcore.proxy_start_time && params["proxy_start_time"].nil? && !media_start_time?(params)
         params["proxy_start_time"] = @pbcore.proxy_start_time

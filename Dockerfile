@@ -11,7 +11,7 @@ RUN bundle install
 
 EXPOSE 3000
 
-CMD rake jetty:clean && rake jetty:config && rake jetty:start && bundle exec rake db:migrate RAILS_ENV=development && bundle exec rails s -b 0.0.0.0
+CMD bundle exec rake jetty:clean && bundle exec rake jetty:config && bundle exec rake jetty:start && bundle exec bundle exec rake db:migrate RAILS_ENV=development && bundle exec rails s -b 0.0.0.0
 
 FROM base as production
 
@@ -22,6 +22,6 @@ RUN apt-get autoremove -y \
 
 COPY . .
 
-RUN rake jetty:clean && rake jetty:config 
+RUN bundle exec rake jetty:clean && bundle exec rake jetty:config 
 
-CMD rake jetty:start && bundle exec rake db:migrate RAILS_ENV=development && bundle exec rails s -b 0.0.0.0
+CMD bundle exec rake jetty:start && bundle exec rake db:migrate RAILS_ENV=development && bundle exec rails s -b 0.0.0.0

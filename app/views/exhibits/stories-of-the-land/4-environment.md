@@ -58,7 +58,7 @@ Agricultural work is not only about responding to the aftereffects of disasters 
 **Featured Item**
 
 <iframe class="exhibit-small-iframe" src='/lite/cpb-aacip-110-89d51nzq?start=717&end=827.55'></iframe>
-<caption align="center" class="exhibit-caption"><sub><sup>The host in this 1954 Science in Sight program discusses the erosion of farmland and the “good principles” of farming. Science in Sight, "Saving the Soil" (KETC-TV, 1954) (item below).</sup></sub></caption>
+<caption align="center" class="exhibit-caption">The host in this 1954 Science in Sight program discusses the erosion of farmland and the “good principles” of farming. Science in Sight, "Saving the Soil" (KETC-TV, 1954) (item below).</caption>
 
 &emsp;
 
