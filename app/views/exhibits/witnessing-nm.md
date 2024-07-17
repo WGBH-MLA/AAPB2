@@ -9,6 +9,8 @@ In 2019, the American Archive of Public Broadcasting (AAPB), a collaboration bet
 
 Partnering with AAPB, NMPBS was successful in receiving funding from the Council on Library and Information Resources (CLIR) to fund the New Mexico Public Media Digitization Project. Two years later, we are proud to present to the public over 8,000 original programs and archival footage in the New Mexico Public Media Collection, which is a result of our digitization project. The collection ranges from the 1970’s up to 2020 and contains a wealth of programs covering the people, communities and events from across New Mexico.
 
+## Extended
+
 ## Authors
 
   <a class="name">David P. Saiz</a>
