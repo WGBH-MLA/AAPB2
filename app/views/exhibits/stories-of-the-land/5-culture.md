@@ -30,8 +30,17 @@ Many folklife and festival events are geared towards the younger generation, sha
 
 **Featured Item**
 
-<iframe class="exhibit-small-iframe" src='/lite/cpb-aacip-d6ab26fd363?start=488.4&end=612'></iframe>
-<caption align="center" class="exhibit-caption">One of the hosts of “The Long Shadow of the Plantation” (2019) radio broadcast speaks with farmer Shirley Sherrod about how the history of slavery continues to impact contemporary agricultural realities. BackStory, "The Long Shadow of the Plantation: How a Weighted Past Creates a Complicated Present" (September 20, 2019) (item below).</caption>
+<table class="full-width">
+  <tbody>
+    <tr>
+      <td>
+        <iframe class="exhibit-small-iframe" src='/lite/cpb-aacip-d6ab26fd363?start=488.4&end=612'></iframe>
+        
+      </td>
+    </tr>
+  </tbody>
+  <caption align="center" class="exhibit-caption">One of the hosts of “The Long Shadow of the Plantation” (2019) radio broadcast speaks with farmer Shirley Sherrod about how the history of slavery continues to impact contemporary agricultural realities. BackStory, "The Long Shadow of the Plantation: How a Weighted Past Creates a Complicated Present" (September 20, 2019) (item below).</caption>
+</table>
 
 &emsp;
 

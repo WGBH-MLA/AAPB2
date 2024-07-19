@@ -81,8 +81,17 @@ In this television broadcast, viewers from around Iowa call in to a live panel w
 
 **Featured Item**
 
-<iframe class="exhibit-small-iframe" src='/lite/cpb-aacip-207-58bg7gmc'></iframe>
-<caption align="center" class="exhibit-caption">Residents of San Juan Pueblo, New Mexico, discuss their agricultural philosophy and connections to tradition in this radio broadcast from KUNM-Albuquerque. "San Juan Pueblo - Rio Grande Famers Version" (KUNM, 1994) (item below).</caption>
+<table class="full-width">
+  <tbody>
+    <tr>
+      <td>
+        <iframe class="exhibit-small-iframe" src='/lite/cpb-aacip-207-58bg7gmc'></iframe>
+        
+      </td>
+    </tr>
+  </tbody>
+  <caption align="center" class="exhibit-caption">Residents of San Juan Pueblo, New Mexico, discuss their agricultural philosophy and connections to tradition in this radio broadcast from KUNM-Albuquerque. "San Juan Pueblo - Rio Grande Famers Version" (KUNM, 1994) (item below).</caption>
+</table>
 
 &emsp;
 

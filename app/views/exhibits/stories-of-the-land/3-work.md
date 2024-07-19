@@ -82,8 +82,17 @@ This is the second in a two-part series covering a 1985 rally in Ames, Iowa, whe
 
 **Featured Item**
 
-<iframe class="exhibit-small-iframe" src='/lite/cpb-aacip-86-50gthzqh?proxy_start_time=470.63'></iframe>
-<caption align="center" class="exhibit-caption">Jose Ramirez Delgado reflects on how family’s his farming background impacted his experience in the 2006 program "Los Braceros: Strong Arms to Aid the USA” (item below).</caption>
+<table class="full-width">
+  <tbody>
+    <tr>
+      <td>
+        <iframe class="exhibit-small-iframe" src='/lite/cpb-aacip-86-50gthzqh?proxy_start_time=470.63'></iframe>
+        
+      </td>
+    </tr>
+  </tbody>
+  <caption align="center" class="exhibit-caption">Jose Ramirez Delgado reflects on how family’s his farming background impacted his experience in the 2006 program "Los Braceros: Strong Arms to Aid the USA” (item below).</caption>
+</table>
 
 &emsp;
 
