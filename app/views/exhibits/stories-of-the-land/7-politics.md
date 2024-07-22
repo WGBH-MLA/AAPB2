@@ -36,7 +36,7 @@ In the late nineteenth century, farmers began to be imagined and discussed as a 
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src='/lite/cpb-aacip-37-17qnkdss?start=3643.1&end=3706'></iframe>
+        <iframe class="exhibit-small-iframe four-three" src='/lite/cpb-aacip-37-17qnkdss?start=3643.1&end=3706'></iframe>
         
       </td>
     </tr>

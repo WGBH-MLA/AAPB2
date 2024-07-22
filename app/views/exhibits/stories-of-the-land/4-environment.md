@@ -61,7 +61,7 @@ Agricultural work is not only about responding to the aftereffects of disasters 
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src='/lite/cpb-aacip-110-89d51nzq?start=717&end=827.55'></iframe>
+        <iframe class="exhibit-small-iframe four-three" src='/lite/cpb-aacip-110-89d51nzq?start=717&end=827.55'></iframe>
         
       </td>
     </tr>

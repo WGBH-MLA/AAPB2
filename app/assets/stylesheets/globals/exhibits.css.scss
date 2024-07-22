@@ -32,6 +32,10 @@
   aspect-ratio: 16 / 9;
 }
 
+#exhibit-main iframe.exhibit-small-iframe.four-three {
+  aspect-ratio: 4 / 3;
+}
+
 @media only screen and (min-width: 992px) {
 
 #exhibit-main iframe.exhibit-small-iframe {
