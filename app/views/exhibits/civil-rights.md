@@ -24,7 +24,7 @@ In a blog post about his AHHA internship, Kenneth discussed the significance of 
 
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Kenneth.jpg"/>
   <a class="name">Kenneth Alexander Campbell</a>
-  <a class="title">AAPB Project Director, Library of Congress</a>
+  <a class="title">Intern, Library of Congress Archives, History, and Heritage Advanced (AHHA) Internship Program – Howard University; Assistant Professor, North Carolina Central University</a>
 
 ## Resources
 
