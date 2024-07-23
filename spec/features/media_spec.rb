@@ -31,7 +31,7 @@ describe 'Media URLs', not_on_ci: true do
                    "cpb-aacip-1234</pbcoreIdentifier><pbcoreIdentifier source='Sony Ci'>#{ci_id}</pbcoreIdentifier>")
 
       ingester = PBCoreIngester.new
-      ingester.delete_all
+      ingester.delete_by_query('*:*')
       ingester.ingest_xml_no_commit(pbcore)
       ingester.commit
       ci_id
