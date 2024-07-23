@@ -22,6 +22,10 @@ In a blog post about his AHHA internship, Kenneth discussed the significance of 
   <a class="name">Alan Gevinson</a>
   <a class="title">AAPB Project Director, Library of Congress</a>
 
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Kenneth.jpg"/>
+  <a class="name">Kenneth Alexander Campbell</a>
+  <a class="title">AAPB Project Director, Library of Congress</a>
+
 ## Resources
 
 - [Brown V. Board of Education](http://www.lib.umich.edu/brown-versus-board-education/)
