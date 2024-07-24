@@ -31,6 +31,7 @@ class PBCoreIngester
     globs << 'spec/fixtures/pbcore/clean-*.xml' if globs.empty?
     # Get a list of all file paths from all the globs.
     all_paths = globs.map { |glob| Dir[glob] }.flatten.uniq
+
     all_paths.each do |path|
       ingester.ingest(path: path)
     end
