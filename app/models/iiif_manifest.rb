@@ -4,14 +4,14 @@ module IIIFManifest
       "@context" => "http://iiif.io/api/presentation/3/context.json",
       "id" => "#{aapb_host}/#{id}.iiif",
       "type" => "Manifest",
-      "label" => { "en" => titles },
+      "label" => i18n_titles,
       "metadata" => i18n_metadata,
       "homepage" => [{
         "id" => "#{aapb_host}/catalog/#{id}",
         "type" => "Text",
-        "label" => { "en" => titles },
+        "label" => i18n_titles,
         "format" => "text/html" }],
-      "summary" => { 'en' => descriptions },
+      "summary" => i18n_descriptions,
       "items" => [
         {
           "id" => "#{aapb_host}/iiif/#{id}/canvas",
@@ -41,6 +41,14 @@ module IIIFManifest
         }
       ]
     }.to_json
+  end
+
+  def i18n_titles
+    titles.map { |title| { "en" => [title] } }
+  end
+
+  def i18n_descriptions
+    descriptions.map { |description| { "en" => [description] } }
   end
 
   def i18n_metadata
