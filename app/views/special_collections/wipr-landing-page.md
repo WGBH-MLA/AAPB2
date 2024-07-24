@@ -6,6 +6,18 @@
 
 ## Summary
 
+<table class="full-width">
+  <tbody>
+    <tr>
+      <td>
+        <iframe class="exhibit-small-iframe" src='/lite/cpb-aacip-532-qv3bz62p4f'></iframe>
+        
+      </td>
+    </tr>
+  </tbody>
+  <caption align="center" class="exhibit-caption">The public radio broadcast “Green Acres: A History of Farming in America” from BackStory (2013) provides useful historical context even as the program hosts consider the political and social weight of farming in U.S. history. You can find more about this program in the Politics anchor page.</caption>
+</table>
+
 ### Español
 
 La colección WIPR: Arte y Cultura en Puerto Rico contiene cerca de 8,000 programas transmitidos originalmente por la estación de radio 940 AM de Puerto Rico entre 1953 y 1997, de los cuales alrededor de 3,000 están disponibles en línea.
