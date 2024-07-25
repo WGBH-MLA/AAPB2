@@ -21,7 +21,6 @@ In a blog post about his AHHA internship, Kenneth discussed the significance of 
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Gevinson.jpg"/>
   <a class="name">Alan Gevinson</a>
   <a class="title">AAPB Project Director, Library of Congress</a>
-
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Kenneth.jpg"/>
   <a class="name">Kenneth Alexander Campbell</a>
   <a class="title">Intern, Library of Congress Archives, History, and Heritage Advanced (AHHA) Internship Program – Howard University; Assistant Professor, North Carolina Central University</a>
@@ -68,10 +67,11 @@ NAEB began operations in 1934 from a precursor organization that had been formed
   <img title="Cover Image" alt="Black and White photograph from the March on Washington for Jobs and Freedom" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_SignatureImage.jpg">
 
 ## Gallery
-  - <a class="type">image</a>
-    <img alt="Black and White photograph from the March on Washington for Jobs and Freedom" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_SignatureImage.jpg">
-    <a class="caption-text">Warren K. Leffler, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963.</a>
-    <a class="credit-link" href="https://www.loc.gov/rr/print/">Courtesy of U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.</a>
+
+- <a class="type">image</a>
+  <img alt="Black and White photograph from the March on Washington for Jobs and Freedom" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_SignatureImage.jpg">
+  <a class="caption-text">Warren K. Leffler, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963.</a>
+  <a class="credit-link" href="https://www.loc.gov/rr/print/">Courtesy of U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.</a>
 
 
 ## Records

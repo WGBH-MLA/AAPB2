@@ -21,12 +21,10 @@ class User
   end
 
   def onsite?
-    puts %(onsite? is #{onsite_ip_ranges.map { |range| range.include?(request.remote_ip) }.any?})
     onsite_ip_ranges.map { |range| range.include?(request.remote_ip) }.any?
   end
 
   def usa?
-    puts %(usa? result is #{GeoLocation.country_code(request.remote_ip)} is #{%w(US PR WS GU MP VI).include?(GeoLocation.country_code(request.remote_ip)) || onsite?})
     %w(US PR WS GU MP VI).include?(GeoLocation.country_code(request.remote_ip)) || onsite?
     # WGBH doesn't actually geocode to USA. No idea why.
   end
