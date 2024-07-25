@@ -9,12 +9,15 @@
 Locales discussed in this exhibit range across nine states:
 
 ### Alabama
+
+-	[The Negro Voter](/catalog/cpb-aacip_516-7659c6sw5t)
+
 #### Birmingham
 
--	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p) and [(2 of 2)](/catalog/cpb-aacip_500-m9023j32)
 -	[Birmingham: Testament of Nonviolence, Part 3; Mother’s Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [(2 of 2)](/catalog/cpb-aacip_500-cj87n27n)
 -	[Birmingham: Testament of Nonviolence, Part 4; Back to School in Birmingham (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h) and [(2 of 2)](/catalog/cpb-aacip_500-z60c1503)
-
+-	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p) and [(2 of 2)](/catalog/cpb-aacip_500-m9023j32)
+  
 #### Lowndes County
 
 -  [Stokely Carmichael Interview](/catalog/cpb-aacip_28-zw18k75h85)
@@ -50,10 +53,21 @@ Locales discussed in this exhibit range across nine states:
 - [The Sit-ins and the New South](/catalog/cpb-aacip_28-br8mc8rr6z)
 
 ### Georgia
+
+-	[If Eugene Talmadge Were Alive Today, He’d Turn Over in His Grave](/catalog/cpb-aacip_512-ks6j09x31h)
+-	[The Negro Voter](/catalog/cpb-aacip_516-7659c6sw5t)
+-	[School Desegregation](/catalog/cpb-aacip_512-js9h41kk3r)
+-	[School Integration](/catalog/cpb-aacip_512-v69862cg7f)
+
 #### Albany
 
-- [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
 - [An Integrated Project in Georgia](/catalog/cpb-aacip_28-mk6542jr2r)
+- [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
+
+#### Atlanta
+
+- [Free At Last](/catalog/cpb-aacip_516-sj19k46z5q)
+- [Grassroots Voter 1960: Civil Rights](/catalog/cpb-aacip_512-9w08w38z2k)
 
 #### Savannah
 
@@ -69,11 +83,22 @@ Locales discussed in this exhibit range across nine states:
 - [Tribute to Ella Baker](/catalog/cpb-aacip_28-125q814w5v)
 
 ### Louisiana
+
+-	[Louisiana Diary](/catalog/cpb-aacip_55-73pvn97r)
+
 #### Baton Rouge
 
 - [The Battle Is Not Yet Won](/catalog/cpb-aacip_28-2z12n4zs1w)
 
 ### Mississippi
+
+-	[Head Start Mississippi](/catalog/cpb-aacip_75-440rz1b6)
+-	[The Negro Voter](/catalog/cpb-aacip_516-7659c6sw5t)
+
+#### Batesville
+
+- [Free At Last](/catalog/cpb-aacip_516-sj19k46z5q)
+
 #### Canton
 
 - [Handful That We Are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
@@ -82,9 +107,17 @@ Locales discussed in this exhibit range across nine states:
 
 - [Long, Hot Summer '64; Episode 11](/catalog/cpb-aacip_15-1615f47p)
 
+#### Grenada
+
+- [Free At Last](/catalog/cpb-aacip_516-sj19k46z5q)
+
 #### Greenwood
 
 - [Ralph Gleason Interviewing Dick Gregory](/catalog/cpb-aacip_28-k649p2wm6m)
+
+#### Hattiesburg
+
+- [Free At Last](/catalog/cpb-aacip_516-sj19k46z5q)
 
 #### Jackson
 
@@ -94,12 +127,17 @@ Locales discussed in this exhibit range across nine states:
 
 - [A Dialogue on Mississippi](/catalog/cpb-aacip_15-945qgb91)
 
+#### Marks
+
+- [Free At Last](/catalog/cpb-aacip_516-sj19k46z5q)
+
 #### McComb
 
 - [Children of McComb](/catalog/cpb-aacip_28-sj19k46b34)
 
 #### Natchez
 
+- [Black Natchez](/catalog/cpb-aacip_512-4x54f1nc5p)
 - [One Year Later in Mississippi](/catalog/cpb-aacip_15-88qc028z)
 
 #### Winona
@@ -112,6 +150,10 @@ Locales discussed in this exhibit range across nine states:
 
 - [Kidnapping in North Carolina](/catalog/cpb-aacip_28-h707w67k6x)
 
+#### Quitman County, MI
+
+- [Free At Last](/catalog/cpb-aacip_516-sj19k46z5q)
+
 #### Raleigh
 
 - [The Negro Lawyer in the South](/catalog/cpb-aacip_28-4t6f18sn70)
@@ -122,6 +164,9 @@ Locales discussed in this exhibit range across nine states:
 - [Coming of Age: Five Sat Down](/catalog/cpb-aacip_500-5q4rp59q)
 
 ### Tennessee
+
+-	[School Integration](/catalog/cpb-aacip_512-v69862cg7f)
+
 #### Knoxville
 
 - [Thirty Years of Civil Rights Education in the South / Myles Horton](/catalog/cpb-aacip_28-xp6tx35q0h)
@@ -129,6 +174,22 @@ Locales discussed in this exhibit range across nine states:
 #### Nashville
 
 - [On Freedom Road by Reverend Ralph Abernathy](/catalog/cpb-aacip_28-cz3222rk4w)
+
+### Texas
+
+#### Crosby
+
+- [Integration: Two Towns in Texas](/catalog/cpb-aacip_516-x34mk66d46)
+
+#### La Marque
+
+- [Integration: Two Towns in Texas](/catalog/cpb-aacip_516-x34mk66d46)
+
+### Washington, D.C.
+
+-	[Color Us Black. Part 1](/catalog/cpb-aacip_512-f47gq6rz2w)
+-	[The Negro Voter](/catalog/cpb-aacip_516-7659c6sw5t)
+-	[Poor People’s Campaign](/catalog/cpb-aacip_15-021c5k76)
 
 #### Next: [Organizations](/exhibits/civil-rights/organizations)
 

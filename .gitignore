@@ -28,8 +28,6 @@ jetty
 # Coverage
 /coverage
 
-
-
 # ignore link check report
 /spec/support/link-check-report.txt
 
@@ -42,3 +40,11 @@ jetty
 *.csv
 /*.xml
 /*.pbcore
+
+# Local Gemfiles
+Gemfile.me
+Gemfile.lock.me
+
+# Local VSCode settings
+.vscode
+
