@@ -1,0 +1,86 @@
+#map {
+  height: 600px;
+  width: 100%;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+
+#map a.org-url:hover {
+  color: #8c0c54;
+}
+
+#map h3,
+#map h4 {
+  margin-bottom: 0.5rem;
+}
+
+.about {
+  font-size: 0.8em;
+  max-height: 5rem;
+  overflow: auto;
+  color: black;
+}
+
+.marker-cluster-small {
+  background-color: #44429655;
+}
+.marker-cluster-small div {
+  background-color: #541c7c15;
+}
+
+.marker-cluster-medium {
+  background-color: #8c0c5455;
+}
+.marker-cluster-medium div {
+  background-color: #ec242c55;
+}
+
+.marker-cluster-large {
+  background-color: #d42c6833;
+}
+.marker-cluster-large div {
+  background-color: #8c0c5455;
+}
+
+.marker-cluster {
+  background-clip: padding-box;
+  border-radius: 20px;
+  color: white;
+}
+.marker-cluster div {
+  width: 30px;
+  height: 30px;
+  margin-left: 5px;
+  margin-top: 5px;
+
+  text-align: center;
+  border-radius: 15px;
+  font: 12px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+.marker-cluster span {
+  line-height: 30px;
+}
+
+.map-logo {
+  max-width: 100%;
+  max-height: 5rem;
+}
+
+.info {
+  padding: 6px 8px;
+  font: 14px/16px Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+.info h4 {
+  margin: 0 0 5px;
+  color: #777;
+}
+
+@media screen and (max-width: 768px) {
+  #map-container {
+    margin: 1rem;
+  }
+}

@@ -10,6 +10,7 @@ require_relative 'special_collection'
 require_relative '../../lib/html_scrubber'
 require_relative 'xml_backed'
 require_relative 'to_mods'
+require_relative 'iiif_manifest'
 require_relative 'pb_core_instantiation'
 require_relative 'pb_core_name_role_affiliation'
 require_relative 'organization'
@@ -25,6 +26,7 @@ class PBCorePresenter
   # rubocop:disable Style/EmptyLineBetweenDefs
   include XmlBacked
   include ToMods
+  include IIIFManifest
   include ApplicationHelper
   include IdHelper
 
@@ -92,6 +94,15 @@ class PBCorePresenter
       PBCoreInstantiation.new(rexml)
     end
   end
+
+  def digital_instantiations
+    instantiations.select(&:digital)
+  end
+
+  def physical_instantiations
+    instantiations.select(&:physical)
+  end
+
   def instantiations_display
     @instantiations_display ||= instantiations.reject { |ins| ins.organization == 'American Archive of Public Broadcasting' }
   end
@@ -555,7 +566,7 @@ class PBCorePresenter
       :text, :to_solr, :contribs, :img_src, :media_srcs,
       :captions_src, :transcript_src, :rights_code,
       :access_level, :access_types, :title, :ci_ids, :display_ids,
-      :instantiations, :outside_urls,
+      :instantiations, :digital_instantiations, :physical_instantiations, :digital, :physical, :outside_urls,
       :reference_urls, :exhibits, :top_exhibits, :special_collections, :access_level_description,
       :img_height, :img_width, :player_aspect_ratio, :seconds,
       :player_specs, :transcript_status, :transcript_content, :constructed_transcript_src, :verify_transcript_src,
