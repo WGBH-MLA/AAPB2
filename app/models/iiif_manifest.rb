@@ -73,7 +73,7 @@ module IIIFManifest
   end
 
   def location
-    URI.join(aapb_host, 'media', id).to_s
+    "#{aapb_host}/media/#{id}"
   end
 
   def aapb_host
