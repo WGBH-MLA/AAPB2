@@ -4,14 +4,14 @@ module IIIFManifest
       "@context" => "http://iiif.io/api/presentation/3/context.json",
       "id" => "#{aapb_host}/#{id}.iiif",
       "type" => "Manifest",
-      "label" => i18n_titles,
+      "label" => i18n_title,
       "metadata" => i18n_metadata,
       "homepage" => [{
         "id" => "#{aapb_host}/catalog/#{id}",
         "type" => "Text",
-        "label" => i18n_titles,
+        "label" => i18n_title,
         "format" => "text/html" }],
-      "summary" => i18n_descriptions,
+      "summary" => i18n_description,
       "items" => [
         {
           "id" => "#{aapb_host}/iiif/#{id}/canvas",
@@ -43,12 +43,12 @@ module IIIFManifest
     }.to_json
   end
 
-  def i18n_titles
-    titles.map { |title| { "en" => [title] } }
+  def i18n_title
+    { "en" => [title] }
   end
 
-  def i18n_descriptions
-    descriptions.map { |description| { "en" => [description] } }
+  def i18n_description
+    { "en" => [descriptions.first] }
   end
 
   def i18n_metadata
@@ -73,7 +73,7 @@ module IIIFManifest
   end
 
   def location
-    URI.join(aapb_host, 'media', id).to_s
+    "#{aapb_host}/media/#{id}"
   end
 
   def aapb_host
