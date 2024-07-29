@@ -1,4 +1,5 @@
 require 'curl'
+require_relative '../../scripts/lib/pb_core_ingester'
 
 describe 'CORS' do
   before(:all) do
