@@ -10,13 +10,12 @@
   <tbody>
     <tr>
       <td>
-        <video class="collection-video">
+        <video class="collection-video" controls>
           <source src="https://s3.amazonaws.com/americanarchive.org/special-collections/wipr-trailer.mp4" type="video/mp4">
         </video>
       </td>
     </tr>
   </tbody>
-  <caption align="center" class="exhibit-caption">The public radio broadcast “Green Acres: A History of Farming in America” from BackStory (2013) provides useful historical context even as the program hosts consider the political and social weight of farming in U.S. history. You can find more about this program in the Politics anchor page.</caption>
 </table>
 
 ### Español
