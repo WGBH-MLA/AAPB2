@@ -8,6 +8,11 @@
   margin: 0;
 }
 
+.embed-lite-row {
+  max-width: 1250px;
+  margin: 0;
+}
+
 .embed-player-row {
   margin: 0;
   background-color: #f1f1f1;
@@ -45,4 +50,64 @@
 
 div.lite-text {
   text-align: center;
+}
+
+
+
+
+
+
+
+
+.ov-videocontent::after {
+  position: absolute;
+  left: 45%;
+  font-size: 10px;
+  width: 14em;
+  text-align: center;
+  color:  #000;
+}
+
+.ov-player-row {
+  
+}
+
+.ov-player {
+  
+}
+
+div.ov-text {
+  text-align: center;
+}
+
+
+body.blacklight-embed-openvault {
+  background-color: #000;
+  overflow: hidden;
+}
+
+body.blacklight-embed-openvault div.embed-row.row {
+  padding: 0;
+  background-color: #000;
+}
+
+
+.ov-videocontent .video-js .vjs-modal-dialog {
+/*  background: linear-gradient(180deg, rgba(0, 0, 0, 0.8), rgba(74, 35, 120, 255));*/
+/*  background-color: #4A2378;*/
+}
+
+.ov-videocontent .video-js .vjs-modal-dialog .vjs-modal-dialog-content {
+  font-size: 1.2em;
+  vertical-align: middle;
+  text-align: center;
+/*  line-height: 26em;*/
+}
+
+.ov-videocontent .video-js .vjs-modal-dialog .vjs-modal-dialog-content a {
+  color: #BB42E0;
+}
+
+.ov-videocontent .video-js button.vjs-control.vjs-close-button {
+  display: none;
 }

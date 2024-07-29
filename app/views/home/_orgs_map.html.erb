@@ -1,8 +1,8 @@
 <div class="well intro-text">
   <h2>Participating Organizations</h2>
-  <p>Learn about the history, significant productions, and archive contributions of more than 120 public media stations and archives. <%= link_to "View all participating organizations", organizations_path %>.</p>
+  <p>Learn about the history, significant productions, and archive contributions of <b>more than 200 public media stations</b> and archives. <%= link_to "View all participating organizations", organizations_path %>.</p>
 </div>
 
-<div id="welcome-panel" class="row">
-  <%= render file: "#{Rails.root}/app/views/organizations/usa.svg" %>
+<div id="map-continer" class="">
+  <%= render file: "#{Rails.root}/app/views/home/_map.html.erb" %>
 </div>

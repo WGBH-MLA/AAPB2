@@ -73,11 +73,11 @@ According to the speakers in each of these sources, what motivated activists to 
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Student-Protests_Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Student-Protests-1960s_Teaching-Tips.pdf
 
 ## Additionalresources
 
-- [**Student Movements of the 1960s Project**](https://www.loc.gov/folklife/civilrights/survey/view_collection.php?coll_id=1047), Library of Congress/Columbia University
+- [**Student Movements of the 1960s Project**](https://oralhistoryportal.library.columbia.edu/document.php?id=ldpd_4072691), Library of Congress/Columbia University
 - [**The Free Speech Movement**](https://calisphere.org/exhibitions/43/the-free-speech-movement/), Calisphere
 - [**Two Days in October**](https://www.pbs.org/wgbh/americanexperience/films/two-days-in-october/), *American Experience*
 - [**Civil Rights and Campus Protest Collection**](https://calisphere.org/collections/19264/), Calisphere

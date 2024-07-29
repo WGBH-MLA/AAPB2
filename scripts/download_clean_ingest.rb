@@ -49,7 +49,7 @@ class DownloadCleanIngest
 
     unrecognized_flags = args.select { |arg| arg =~ /^-/ }
     raise("Unrecognized flags: #{unrecognized_flags.join(', ')}") unless unrecognized_flags.empty?
-    raise("#{JUST_REINDEX} should only be used with #{IDS}, #{ID_FILES} or #{QUERY} modes") if @is_just_reindex && ![IDS, ID_FILES, QUERY].include?(mode)
+    raise("#{JUST_REINDEX} should only be used with #{IDS}, #{ID_FILES}, #{EXHIBITS}, or #{QUERY} modes") if @is_just_reindex && ![IDS, ID_FILES, EXHIBITS, QUERY].include?(mode)
 
     log_init(orig)
     $LOG.info("START: Process ##{Process.pid}: #{__FILE__} #{orig.join(' ')}")
@@ -78,7 +78,7 @@ class DownloadCleanIngest
       when ID_FILES
         raise ParamsError.new unless args.count >= 1
         # readlines does not remove newlines from list, at least on am linux 2
-        ids = args.map { |id_file| File.readlines(id_file).map{|id| id.chomp} }.flatten
+        ids = args.map { |id_file| File.readlines(id_file).map(&:chomp) }.flatten
         target_dirs = download(ids: ids)
 
       when DIRS

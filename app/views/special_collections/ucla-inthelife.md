@@ -25,11 +25,11 @@ In the Life Media won a number of awards, including the National Academy of Tele
 
 ## Resources
 
-- [*In the Life*, UCLA Library Film & Television Archive](https://www.cinema.ucla.edu/collections/inthelife)
+- [*In the Life*, UCLA Film & Television Archive](https://www.cinema.ucla.edu/collections/inthelife)
 - [“The Time of Our Lives: In the Life – America’s LGBTQ News Magazine”, Stephen Tropiano, UCLA](https://www.cinema.ucla.edu/collections/inthelife/history/time-of-our-lives)
 - [In the Life Media, Internet Archive](https://web.archive.org/web/20131214130531/http://www.itlmedia.org/)
-- [OutFest UCLA Legacy Project, UCLA Library](https://www.cinema.ucla.edu/collections/outfest-ucla-legacy-project)
-- [UCLA Library Film & Television Archive](https://www.cinema.ucla.edu)
+- [Outfest UCLA Legacy Project, UCLA Film & Television Archive](https://www.cinema.ucla.edu/collections/outfest-ucla-legacy-project)
+- [UCLA Film & Television Archive](https://www.cinema.ucla.edu)
 - [LGBT+ Collection, AAPB](https://americanarchive.org/special_collections/lgbt)
 - [OutCasting Collection, AAPB](https://americanarchive.org/special_collections/outcasting)
 - [Stonewall Uprising Interviews Collection, AAPB](https://americanarchive.org/special_collections/stonewall-uprising-interviews)

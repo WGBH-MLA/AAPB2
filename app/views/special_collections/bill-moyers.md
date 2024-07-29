@@ -16,7 +16,7 @@ Programs in the collection that are not available online can be accessed via Lim
 
 ## Background
 
-At age 16, Moyers began his journalism career as a cub reporter for his hometown newspaper in Marshall, Texas. After graduate school he was a founding organizer of the Peace Corps and its deputy director for three years, before becoming special assistant and then press secretary to President Lyndon B. Johnson through the days of the Great Society - including the enactment of the Civil and Voting Rights Acts, the creation of Medicaid and Medicare, and the War on Poverty. Moyers went on to leadership positions at *Newsday*, *CBS Reports*, and *CBS Evening News*.
+At age 16, Moyers began his journalism career as a cub reporter for his hometown newspaper in Marshall, Texas. After graduate school he was a founding organizer of the Peace Corps and its deputy director for three years, before becoming special assistant and then press secretary to President Lyndon B. Johnson through the days of the Great Society - including the enactment of the Civil and Voting Rights Acts, the creation of Medicaid and Medicare, and the War on Poverty. Moyers went on to leadership positions at *Newsday*, *CBS Reports*, and *CBS Evening News* before beginning his career in public television in 1971.
 
 As publisher of *Newsday* from 1967 to 1970, Moyers brought to the newspaper such writers as Pete Hamill, Daniel Patrick Moynihan, and Saul Bellow, leading the paper to two Pulitzer Prizes. In 1976, he was the senior correspondent for the distinguished documentary series *CBS Reports* and later a senior news analyst for the *CBS Evening News*.
 
@@ -49,6 +49,7 @@ In 2015 Public Affairs Television began digitizing Moyers' work, which was submi
 - [Bill Moyers, Wikipedia](https://en.wikipedia.org/wiki/Bill_Moyers)
 - [Bill Moyers at the Howard Zinn Lecture, Boston University](http://www.bu.edu/buniverse/view/?v=20ZaW9PO)
 - [Bill Moyers appearances, C-SPAN](https://www.c-span.org/person/?billmoyers)
+- [A Conversation with Bill Moyers and Judy Woodruff](https://www.youtube.com/watch?v=uJ8K313T12w)
 
 ## Help
 

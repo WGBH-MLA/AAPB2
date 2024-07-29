@@ -54,7 +54,9 @@ What social and political challenges and debates emerged as Americans grappled w
 
 #### Classroom Activities
 
-1) You might only have time for a brief treatment of the AIDS crisis in a survey course.  If so, you could identify one or two clips from this set to show your class and follow with some discussion questions. For example:
+**1) Clip discussion**
+
+You might only have time for a brief treatment of the AIDS crisis in a survey course.  If so, you could identify one or two clips from this set to show your class and follow with some discussion questions. For example:
 
 Show [“Screaming, Yelling, Making a Fuss”: ACT UP Grabs America’s Attention (1990)](https://americanarchive.org/primary_source_sets/aids-epidemic/8-507-3b5w669q4c) and ask students to identify the organization’s goals and strategies.  Students could also discuss whether they think the confrontational tactics would have been effective in achieving the group’s goals.
 
@@ -62,40 +64,34 @@ Show [The AIDS Crisis and the Gay Rights Backlash in Houston (1991)](https://ame
 
 For many other clips in this collection, students could analyze the different “sides” of an AIDS-related disagreement and try to relate these conflicts to broader political themes and trends from the period as well as from more recent history.
 
-2) After watching some of the clips, you could ask students: What makes the AIDS epidemic similar to the COVID epidemic?  What makes the two epidemics different?  If students need assistance, you can follow up with questions asking students to compare: the government response; the groups that were most at risk; the nature of fears over the spread of the disease; behaviors that led to risk of infection; political divides over proper response; and the relative deadliness of each disease.
+**2) Topic: The AIDS epidemic and the COVID epidemic**
 
-3) If time constraints limit how many clips each student can watch, you can administer a “jigsaw” activity in which students are assigned to different groups that each watch a different subset of clips.  Students from different groups can then teach each other about what they watched. For example:
+After watching some of the clips, you could ask students: What makes the AIDS epidemic similar to the COVID epidemic?  What makes the two epidemics different?  If students need assistance, you can follow up with questions asking students to compare: the government response; the groups that were most at risk; the nature of fears over the spread of the disease; behaviors that led to risk of infection; political divides over proper response; and the relative deadliness of each disease.
+
+**3) Jigsaw teaching**
+
+If time constraints limit how many clips each student can watch, you can administer a “jigsaw” activity in which students are assigned to different groups that each watch a different subset of clips.  Students from different groups can then teach each other about what they watched. For example:
 
 Split students into five groups and assign specific clips to each group.
 
-**Group A**
+**Group A:** Two clips about the human impact of the AIDS epidemic:<br>
+[Bobby Reynolds Describes Living With AIDS](https://americanarchive.org/primary_source_sets/aids-epidemic/1-55-nv9959cq86) (1986)<br>
+[A Gay Men’s Chorus Experiences Loss, Grief, and Anger](https://americanarchive.org/primary_source_sets/aids-epidemic/2-2809ed5491c) (1993)
 
-Two clips about the human impact of the AIDS epidemic:
-- [Bobby Reynolds Describes Living With AIDS](https://americanarchive.org/primary_source_sets/aids-epidemic/1-55-nv9959cq86) (1986)
-- [A Gay Men’s Chorus Experiences Loss, Grief, and Anger](https://americanarchive.org/primary_source_sets/aids-epidemic/2-2809ed5491c) (1993)
+**Group B:** Two clips about conservative backlash in response to the AIDS epidemic:<br>
+[Cultural Conservatives Relate AIDS Crisis to “Immoral” Behavior](https://americanarchive.org/primary_source_sets/aids-epidemic/4-526-2z12n50j78) (1983)<br>
+[The AIDS Crisis and the Gay Rights Backlash in Houston](https://americanarchive.org/primary_source_sets/aids-epidemic/5-507-k35m902w8g) (1991)
 
-**Group B**
+**Group C:** A clip about the activist group, ACT UP: <br>
+[“Screaming, Yelling, Making a Fuss”: ACT UP Grabs America’s Attention](https://americanarchive.org/primary_source_sets/aids-epidemic/8-507-3b5w669q4c) (1990)
 
-Two clips about conservative backlash in response to the AIDS epidemic:
-- [Cultural Conservatives Relate AIDS Crisis to “Immoral” Behavior](https://americanarchive.org/primary_source_sets/aids-epidemic/4-526-2z12n50j78) (1983)
-- [The AIDS Crisis and the Gay Rights Backlash in Houston](https://americanarchive.org/primary_source_sets/aids-epidemic/5-507-k35m902w8g) (1991)
+**Group D:** Two clips about debates over experimental treatments:<br>
+[Surviving but Going Broke: The Affordability of AIDS Treatments](https://americanarchive.org/primary_source_sets/aids-epidemic/3-507-0g3gx45878) (1989)<br>
+[Balancing Scientific Rigor and Humanitarian Concerns in Medical Trials](https://americanarchive.org/primary_source_sets/aids-epidemic/7-55-x05x63bn51) (1989)
 
-**Group C**
-
-A clip about the activist group, ACT UP: 
-- [“Screaming, Yelling, Making a Fuss”: ACT UP Grabs America’s Attention](https://americanarchive.org/primary_source_sets/aids-epidemic/8-507-3b5w669q4c) (1990)
-
-**Group D**
-
-Two clips about debates over experimental treatments:
-- [Surviving but Going Broke: The Affordability of AIDS Treatments](https://americanarchive.org/primary_source_sets/aids-epidemic/3-507-0g3gx45878) (1989)
-- [Balancing Scientific Rigor and Humanitarian Concerns in Medical Trials](https://americanarchive.org/primary_source_sets/aids-epidemic/7-55-x05x63bn51) (1989)
-
-**Group E**
-
-Two clips focusing on the impact of AIDS in lower-income Black communities:
-- [There Are No “High Risk Groups…Only High Risk Activities”](https://americanarchive.org/primary_source_sets/aids-epidemic/9-293-816m97kw) (1988)
-- [Black Community Organizations Tackle the AIDS Crisis](https://americanarchive.org/primary_source_sets/aids-epidemic/10-394-6663z5sj) (1989)
+**Group E:** Two clips focusing on the impact of AIDS in lower-income Black communities:<br>
+[There Are No “High Risk Groups…Only High Risk Activities”](https://americanarchive.org/primary_source_sets/aids-epidemic/9-293-816m97kw) (1988)<br>
+[Black Community Organizations Tackle the AIDS Crisis](https://americanarchive.org/primary_source_sets/aids-epidemic/10-394-6663z5sj) (1989)
 
 Each of these “expert groups” watches their assigned clips (in class or for pre-work) and discusses teacher-assigned questions about the clips.
 
@@ -110,7 +106,7 @@ This activity is imagined as part of a single lesson on the AIDS crisis. However
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_AIDS-Epidemic_Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_AIDS-Crisis_Teaching-Tips.pdf
 
 ## Additionalresources
 
@@ -121,8 +117,8 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_AIDS-Epide
 - [**Stop the Church: Issues and Outrage**](https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f), American Archive of Public Broadcasting
 
 ## Youmayalsolike
-- special_collection,ucla-inthelife
-- special_collection,lgbt
+- special collection,ucla-inthelife
+- special collection,lgbt
 
 ## Citation
 

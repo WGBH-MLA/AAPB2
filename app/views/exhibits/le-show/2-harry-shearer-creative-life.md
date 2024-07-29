@@ -51,11 +51,20 @@ The consequences of Shearer’s sonic satire remain, as ever, up to his listener
 
 "Shearer himself says that satire could be defined as the enemy of revolution: a safety valve for anger," wrote Lucy Jolin in *CAM*, the University of Cambridge’s alumni magazine, in 2022. Shearer continued: "The last thing a committed organiser wants to generate in a crowd is laughter: it dissipates the will to action. I have the opportunity, in my weekly radio show, to make fun of whatever I want. I took great advantage of that during the Trump years, and I noticed that I was less angry about Trump than all my friends, because I had an outlet. It’s hard to attack a building when you’re laughing."[<sup>37</sup>](/exhibits/le-show/notes#37)
 
-This exhibit offers a brief historical overview of *Le Show* from analog to digital and then showcases examples of Shearer's sonic satire and information-sharing on *Le Show* over the decades in “A *Le Show* Sampler.”
+This exhibit offers a brief historical overview of *Le Show* from analog to digital and then showcases examples of Shearer's sonic satire and information-sharing on *Le Show* over the decades in “A *Le Show* Sampler.” Be sure to read Shearer’s own recollections of the four decades of *Le Show* — so far — [here](/exhibits/le-show/7-le-show-by-shearer).
 
 #### Next: [Brief Historical Overview of Le Show](/exhibits/le-show/3-brief-historical-overview-of-le-show)
 
 ## Resources
+
+- [*Le Show* Special Collection, AAPB](https://americanarchive.org/special_collections/le-show-collection)
+- [*Le Show* at HarryShearer.com](https://harryshearer.com/le-show/)
+- [WWNO 89.9 New Orleans Public Radio](https://www.wwno.org/)
+- [KCRW “Harry Shearer”](https://www.kcrw.com/@@search?q=%22harry%20shearer%22)
+- [Interview with Harry Shearer by Kenneth Plume](https://www.ign.com/articles/2000/02/10/interview-with-harry-shearer-part-2-of-4)
+- [*WTF with Marc Maron*](https://www.wtfpod.com/podcast/episodes/episode_578_-_harry_shearer)
+- [*Behind Closed Doors* with Harry Shearer](https://www.youtube.com/watch?v=jC_2tl7XhhQ)
+- [National Press Club Luncheon with Harry Shearer](https://www.press.org/newsroom/video/npc-luncheon-harry-shearer)
 
 ## Cover
   <img title="Cover Image" alt="The *Le Show* control board." src="https://s3.amazonaws.com/americanarchive.org/exhibits/LeShowBoard.jpg">

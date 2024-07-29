@@ -88,6 +88,7 @@
   - watergate/cast-of-characters
   - watergate/the-watergate-coverage
   - watergate/the-impeachment-coverage
+  - watergate/additional-resources
 "education":
   sections:
   - education/education-documentaries-in-the-net-years-1953-1972
@@ -127,4 +128,40 @@
   - "le-show/4-3-cultural-criticism"
   - "le-show/4-4-environmental-reporting"
   - "le-show/4-5-more-satire-in-song"
-  - "le-show/5-acknowledgements"
+  - "le-show/5-le-show-interviews"
+  - "le-show/7-le-show-by-shearer"
+  - "le-show/6-acknowledgements"
+"after-the-fire":
+  sections: 
+  - "after-the-fire/2-la-riots"
+  - "after-the-fire/3-occupy-wall-street"
+  - "after-the-fire/4-ferguson"
+  - "after-the-fire/5-baltimore"
+  - "after-the-fire/6-charlottesville"
+  - "after-the-fire/7-annotated-list-of-events"
+"empoderamiento-latino":
+  sections:
+  - empoderamiento-latino/2-los-origines-de-la-radio-communidad-latina
+  - empoderamiento-latino/3-historia-de-la-television-publica-latina
+  - empoderamiento-latino/4-la-experiencia-de-inmigracion-a-traves-de-la-radiodifusion-publica
+  - empoderamiento-latino/5-voces-de-desacuerdo
+  - empoderamiento-latino/6-identidad-y-cultura
+"odyssey-of-black-studies-in-public-broadcasting":
+  sections:
+  - "odyssey-of-black-studies-in-public-broadcasting/2-the-formative-years"
+  - "odyssey-of-black-studies-in-public-broadcasting/3-black-students-and-faculty-in-higher-education"
+  - "odyssey-of-black-studies-in-public-broadcasting/4-black-studies-at-50"
+"interviews-with-foreign-leaders":
+  sections:
+  - "interviews-with-foreign-leaders/2-people"
+  - "interviews-with-foreign-leaders/3-country"
+  - "interviews-with-foreign-leaders/4-date"
+"stories-of-the-land":
+  sections:
+  - "stories-of-the-land/2-land"
+  - "stories-of-the-land/3-work"
+  - "stories-of-the-land/4-environment"
+  - "stories-of-the-land/5-culture"
+  - "stories-of-the-land/6-practice"
+  - "stories-of-the-land/7-politics"
+  - "stories-of-the-land/8-additional-reading"

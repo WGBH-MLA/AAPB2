@@ -8,6 +8,7 @@ Rails.application.routes.draw do
 
   resources 'embed', only: [:index, :show] # BL requires that there be an index.
   match 'lite/:id', to: 'embed#lite', via: [:get]
+  match 'openvault/:id', to: 'embed#openvault', via: [:get]
 
   resources 'embed_terms', only: [:show, :create]
 
@@ -62,6 +63,7 @@ Rails.application.routes.draw do
 
   get '/timelines/eotp', to: 'timelines#eotp'
   get '/a-tribute-to-jim-lehrer', to: 'jims#index'
+  get '/a-tribute-to-robert-macneil', to: 'jims#robert_macneil'
 
   get '/exhibits', to: 'exhibits#index'
   get '/exhibits/*path', to: 'exhibits#show', constraints: override_constraints

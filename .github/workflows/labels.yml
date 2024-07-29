@@ -1,0 +1,11 @@
+name: 🏷 Sync labels
+on:
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  labels:
+    name: 🔄 Sync labels
+    uses: WGBH-MLA/.github/.github/workflows/labels.yml@main

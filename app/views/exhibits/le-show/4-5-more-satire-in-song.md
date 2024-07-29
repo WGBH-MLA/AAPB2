@@ -58,9 +58,18 @@ A lyrically and musically revised version of the song has aired several times ov
 
 Shearer collected some of his satiric songs on seven albums, *It Must Have Been Something I Said* (1994), *O. J. On Trial: The Early Years* (1995), *It’s The Stupidity, Stupid* (1999), *Songs Pointed & Pointless* (2007), *Dropping Anchors* (2007), *Can’t Take A Hint* (2012), and *The Many Moods of Donald Trump* (2020). 
 
-#### Next: [Acknowledgments](/exhibits/le-show/5-acknowledgements)
+#### Next: [Le Show Interviews](/exhibits/le-show/5-le-show-interviews)
 
 ## Resources
+
+- [*Le Show* Special Collection, AAPB](https://americanarchive.org/special_collections/le-show-collection)
+- [*Le Show* at HarryShearer.com](https://harryshearer.com/le-show/)
+- [WWNO 89.9 New Orleans Public Radio](https://www.wwno.org/)
+- [KCRW “Harry Shearer”](https://www.kcrw.com/@@search?q=%22harry%20shearer%22)
+- [Interview with Harry Shearer by Kenneth Plume](https://www.ign.com/articles/2000/02/10/interview-with-harry-shearer-part-2-of-4)
+- [*WTF with Marc Maron*](https://www.wtfpod.com/podcast/episodes/episode_578_-_harry_shearer)
+- [*Behind Closed Doors* with Harry Shearer](https://www.youtube.com/watch?v=jC_2tl7XhhQ)
+- [National Press Club Luncheon with Harry Shearer](https://www.press.org/newsroom/video/npc-luncheon-harry-shearer)
 
 ## Cover
   <img title="Cover Image" alt="Harry Shearer at WWNO in New Orleans, February 17, 2019. Photo by Rosa Eberly." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-leshowmain-cropped.jpg">

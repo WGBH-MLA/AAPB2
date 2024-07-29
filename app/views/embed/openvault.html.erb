@@ -1,0 +1,34 @@
+<div class="ov-player-row">
+  <div class="ov-player">
+    <section class="ov-videocontent">
+      <%=
+        @pbcore.media_srcs.map do |media_src|
+          media = @pbcore.video? ? 'video' : 'audio'
+          content_tag(media,
+                      controls: true,
+                      "class" => "video-js vjs-default-skin vjs-fluid",
+                      "id" => "player_media",
+                      "aria-label" => "video player",
+                      oncontextmenu: 'return false;',
+                      allowfullscreen: true,
+                      preload: 'auto',
+                      crossorigin: 'with-credentials',
+                      :"data-setup" => '{}',
+                      poster: @pbcore.img_src) do %>
+
+            <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'application/x-mpegURL' : 'audio/mp3' %>' />
+
+            <% if @pbcore.captions_src %>
+              <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
+            <% end %>
+            <% if ChapterFile.file_present?(@pbcore.id) %>
+              <track kind="chapters" src=<%= ChapterFile.vtt_url(@pbcore.id) %> srclang="en" label="Chapters" />
+            <% end %>
+            <%
+          end
+        end.join().html_safe()
+      %>
+    </section>
+
+  </div>
+</div>

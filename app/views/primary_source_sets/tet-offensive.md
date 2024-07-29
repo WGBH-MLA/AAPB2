@@ -78,11 +78,11 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Tet-Offens
 - [**A Million Vietnam Wars**](https://blogs.loc.gov/folklife/2019/03/a-million-vietnam-wars/), Library of Congress
 - [**Vietnam: A Television History: Westmoreland Tet Press Conference**](https://americanarchive.org/catalog/cpb-aacip-15-qr4nk36f2g), American Archive of Public Broadcasting
 - [**Vietnam: A Television History: LBJ Addresses Vietnam Civilian Graduates**](https://americanarchive.org/catalog/cpb-aacip-15-833mw28f10), American Archive of Public Broadcasting
-- [**The Vietnam War: A Film by Ken Burns and Lynn Novick**](https://www.kanopy.com/en/product/2141968?frontend=kui), PBS, on Kanopy
+- [**The Vietnam War: A Film by Ken Burns and Lynn Novick**](https://www.pbs.org/kenburns/the-vietnam-war/), PBS
 - [**As We See It: Vietnam ’68**](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=As+we+see+it%3A+Vietnam+%2768&sort=title+asc&f%5baccess_types%5d%5b%5d=online), American Archive of Public Broadcasting
 
 ## Youmayalsolike
-- special_collection,vietnam-a-television-history
+- special collection,vietnam-a-television-history
 - exhibit,first-amendment
 
 ## Citation

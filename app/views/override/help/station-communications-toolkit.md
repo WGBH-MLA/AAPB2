@@ -2,7 +2,7 @@
 
 Thank you for participating in the American Archive of Public Broadcasting (AAPB) and for your support of public media’s long-term preservation and access. These guidelines help provide a template for spreading the word about your contribution to the AAPB and how your community can access historic programming from your organization.
 
-If you have any questions, please contact Casey Davis Kaufman, AAPB Project Manager at [casey_davis-kaufman@wgbh.org](mailto:casey_davis-kaufman@wgbh.org).
+If you have any questions, please contact the AAPB’s Project Manager at [aapb_notifications@wgbh.org](mailto:aapb_notifications@wgbh.org).
 
 ### Promoting your organization:
 
@@ -34,7 +34,7 @@ An AAPB boilerplate is available if you would like to issue a press release. Ple
 
 ### Logo:
 
-AAPB logos are available in color and black and white, in a variety of designs (square letters, stacked – two versions, and wide), and in different formats (JPG, PNG, and EPS). Please contact Casey directly for a link to download your preferred versions of the logo.
+AAPB logos are available in color and black and white, in a variety of designs (square letters, stacked – two versions, and wide), and in different formats (JPG, PNG, and EPS). Please contact the AAPB’s Project Manager at [aapb_notifications@wgbh.org](mailto:aapb_notifications@wgbh.org) directly for a link to download your preferred versions of the logo.
 
 Please do:
 

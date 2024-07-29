@@ -13,9 +13,17 @@ class TranscriptConverter
     parts = parsed_json['parts'] if parsed_json['parts'] && parsed_json['parts'].first
 
     if start_time && end_time
-
       start_chunk_index = find_nearest_chunk_index_by_time(start_time, parts, LEFT)
       end_chunk_index = find_nearest_chunk_index_by_time(end_time, parts, RIGHT)
+
+      if end_chunk_index == 0
+        # this 0 means that the provided end time (though likely present in the video) is not covered by the transcript's timestamps
+        # dont need this for start_time because it will default to already 0 from inject(0)
+
+        # default to the last ts chunk
+        end_chunk_index = parts.count - 1
+      end
+
       parts = parts[start_chunk_index..end_chunk_index]
     end
 

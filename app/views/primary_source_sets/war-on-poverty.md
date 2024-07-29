@@ -63,7 +63,7 @@ Why are people poor and what is the role of the state in alleviating poverty?
 
 #### Classroom Activities
 
-1) The Political Debate about the War on Poverty   
+**1) The Political Debate about the War on Poverty**
 
 - [Michael Harrington Describes Poverty in The Other America](/primary_source_sets/war-on-poverty/1-516-3t9d50gq8v) (1962)
 - [Lyndon Johnson Declares an “Unconditional War on Poverty”)](/primary_source_sets/war-on-poverty/2-528-0c4sj1bp2v) (1964
@@ -71,56 +71,46 @@ Why are people poor and what is the role of the state in alleviating poverty?
 
 Ask students the following discussion questions:
 
-What are some arguments that Harrington and Johnson are making about why poverty is a serious social problem that the government needs to fix? 
- 
-In these clips, you heard the views of various left-wing politicians and social commentators. What seem to be some theories about the causes of poverty and social mobility that shaped War on Poverty programs?
-
-What seem to be some right-wing criticisms about using government policy as a means of addressing poverty?  
+- What are some arguments that Harrington and Johnson are making about why poverty is a serious social problem that the government needs to fix?
+- In these clips, you heard the views of various left-wing politicians and social commentators. What seem to be some theories about the causes of poverty and social mobility that shaped War on Poverty programs?
+- What seem to be some right-wing criticisms about using government policy as a means of addressing poverty?  
 
 
 
-2) Impoverished Regions and Community Action Programs
+**2) Impoverished Regions and Community Action Programs**
 
 Ask students to watch the following sources:
-
 
 - [Fighting the War on Poverty in Appalachia](/primary_source_sets/war-on-poverty/4-516-1v5bc3tq2c) (1964)
 - [Fighting the War on Poverty in Urban Chicago](/primary_source_sets/war-on-poverty/5-75-62s4n2s9) (1966)
 - [The Challenge of Local Administration in Community Action Programs)](/primary_source_sets/war-on-poverty/6-512-9g5gb1zb05) (1965)
 
-
 Ask students the following discussion questions:
 
-According to the clips, what are some of the social and economic problems that contributed to poverty?  What are some of the ways that War on Poverty programs sought to address poverty?
-
-Why do you think the Johnson Administration wanted Community Action Programs to be community-run with “maximum feasible participation” by poor people?  What reasons are articulated in the clips?  Do you suspect that there were any other motivations that weren’t explicitly stated in the clips?
-
-Do you think the locally-run CAP’s were a good way to tackle the problem of poverty?  What do you see as the value of these programs? What do you suspect were the limitations of these programs?
+- According to the clips, what are some of the social and economic problems that contributed to poverty?  What are some of the ways that War on Poverty programs sought to address poverty?
+- Why do you think the Johnson Administration wanted Community Action Programs to be community-run with “maximum feasible participation” by poor people?  What reasons are articulated in the clips?  Do you suspect that there were any other motivations that weren’t explicitly stated in the clips?
+- Do you think the locally-run CAP’s were a good way to tackle the problem of poverty?  What do you see as the value of these programs? What do you suspect were the limitations of these programs?
 
 
 
-3) The War on Poverty and the Black Freedom Struggle
+**3) The War on Poverty and the Black Freedom Struggle**
       
 Ask students to watch the following video:
 
 - [LBJ Argues That “Freedom Is Not Enough” for African Americans](/primary_source_sets/war-on-poverty/7-293-st7dr2ps62) (1965) 
 
-
 Ask students the following discussion questions:
 
-- What does Lyndon Johnson mean when he says that “freedom is not enough”? 
-- What point is he making in his analogy about asking someone to run a “race” when they were just recently “hobbled by chains”? 
-- Why might some people argue that War on Poverty programs represented an effort to create “equal opportunity” and “equality of result”?
-
+- What does Lyndon Johnson mean when he says that “freedom is not enough”? What point is he making in his analogy about asking someone to run a “race” when they were just recently “hobbled by chains”? Why might some people argue that War on Poverty programs represented an effort to create “equal opportunity” and “equality of result”?
 
 Next, ask students to watch the following sources:
+
 - [Head Start Meets the Black Freedom Struggle in Mississippi](/primary_source_sets/war-on-poverty/8-75-440rz1b6) (1966)
 - [Black Activists Rally Against the “Power Structure” in Los Angeles](/primary_source_sets/war-on-poverty/9-75-032280xs) (1966)
 
 Ask students the following discussion questions:
 
-- How are the dynamics of these two conflicts similar? How are they different?
-- How can you relate these clips to the emergence of the Black Power movement in the late 1960s?
+- How are the dynamics of these two conflicts similar? How are they different? How can you relate these clips to the emergence of the Black Power movement in the late 1960s?
 
 Finally, ask students to listen to the following source:
 
@@ -128,10 +118,9 @@ Finally, ask students to listen to the following source:
 
 Ask students the following discussion questions:
 
-Based on the clip description and the clip itself, what is Rustin’s critique of the War on Poverty and why would a “Freedom Budget” be more effective?  What is his critique of the actions of “Black militants” who are fighting for control of anti-poverty programs?
+- Based on the clip description and the clip itself, what is Rustin’s critique of the War on Poverty and why would a “Freedom Budget” be more effective?  What is his critique of the actions of “Black militants” who are fighting for control of anti-poverty programs?
 
-**Extension Activity**
-If you have time for an extension activity, have students write a “Letter to the Editor” channeling a particular perspective about Black community involvement in War on Poverty programs. Have students choose one of the following perspectives:
+Extension Activity:  If you have time for an extension activity, have students write a “Letter to the Editor” channeling a particular perspective about Black community involvement in War on Poverty programs. Have students choose one of the following perspectives:
 
 - a supporter of Lyndon Johnson explaining why the War on Poverty is essential to granting opportunity and meaningful social equality to Black people 
 - a member of the CDGM in Mississippi arguing that the federal government must restore Head Start funding
@@ -139,7 +128,7 @@ If you have time for an extension activity, have students write a “Letter to t
 - a local government official arguing that professionals, rather than community activists, should be shaping the direction of CAPs.
 - a supporter of Bayard Rustin making the case that Black activists should fight for the enactment of a “Freedom Budget” rather than local control of CAPs
 
-4) Assessing the War on Poverty
+**4) Assessing the War on Poverty**
 
 On the White House lawn in 1987, President Ronald Reagan quipped that “in the sixties we waged a war on poverty, and poverty won.”  This is just one example of how the arguments over War on Poverty programs continued long after Johnson left office. Historians and politicians continue to debate: Did the War on Poverty work? Did Community Action Programs, Medicaid, Head Start, Food Stamps, and other anti-poverty programs succeed in improving the lives of impoverished Americans?
 
@@ -160,14 +149,12 @@ Here are some questions you could have students discuss after they are done read
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/war_on_poverty_teaching-tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_War_on_Poverty_Teaching-Tips.pdf
 
 ## Additionalresources
 
-- **[Lyndon B. Johnson: Domestic Affairs](https://millercenter.org/president/lbjohnson/domestic-affairs) (University of Virginia Miller Center)**
-  
-- **[LBJ and the Great Society](https://mass.pbslearningmedia.org/resource/pres10.socst.ush.now.greatsociety/lbj-and-the-great-society/) (PBS Learning Media)** 
-
+- **[Lyndon B. Johnson: Domestic Affairs](https://millercenter.org/president/lbjohnson/domestic-affairs)**, University of Virginia Miller Center
+- **[LBJ and the Great Society](https://mass.pbslearningmedia.org/resource/pres10.socst.ush.now.greatsociety/lbj-and-the-great-society/)**, PBS Learning Media
 
 
 

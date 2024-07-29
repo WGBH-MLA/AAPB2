@@ -7,7 +7,7 @@
 
     <% c=render_constraints(params) %>
     <% if c.include?('_unstemmed') %>
-      <%= z= "!!" + c.scan(/_unstemmed:&quot(.*?&quot)/).flatten.first.chomp(%(&quot)); c.gsub(/\+\(.*?\)/, z).delete(';').html_safe %>
+      <%= c.gsub(" unstemmed", " (Exact)").html_safe %>
     <% else %>
       <%= c.html_safe %>
     <% end %>
