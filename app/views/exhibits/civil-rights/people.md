@@ -24,15 +24,24 @@ Movement activists include:
 
 ### James Bevel
 
+- [Free At Last](/catalog/cpb-aacip_516-sj19k46z5q)
 - [Report from the South - James Bevel](/catalog/cpb-aacip_28-j09w08ws94)
 
 ### Julian Bond
 
 - [School Desegregation](/catalog/cpb-aacip_512-js9h41kk3r)
 
+### Richard W. Boone
+
+- [Head Start in Mississippi](/catalog/cpb-aacip_75-440rz1b6)
+
 ### Anne Braden
 
 - [Tribute to Ella Baker](/catalog/cpb-aacip_28-125q814w5v)
+
+### Claude Brown
+
+- [Color Us Black. Part 1](/catalog/cpb-aacip_512-f47gq6rz2w)
 
 ### H. Rap Brown
 
@@ -44,36 +53,71 @@ Movement activists include:
 - [Tribute to Ella Baker](/catalog/cpb-aacip_28-125q814w5v)
 - [From Protest to Resistance](/catalog/cpb-aacip_516-gq6qz23f5j)
 
+### Dr. Kenneth Clark
+
+- [Color Us Black. Part 1](/catalog/cpb-aacip_512-f47gq6rz2w)
+- [For Freedom Now](/catalog/cpb-aacip_512-x921c1vr5n)
+- [Head Start in Mississippi](/catalog/cpb-aacip_75-440rz1b6)
+
 ### Leroy Clark
 
 - [The Civil Rights Lawyer in the South](/catalog/cpb-aacip_28-1g0ht2gg9n)
+
+### Dr. Rufus Clement
+
+- [Grassroots Voter 1960: Civil Rights](/catalog/cpb-aacip_512-9w08w38z2k)
 
 ### Annie Devine
 
 - [Black Power Surveyed; Handful That We Are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
 
+### Charles Evers
+
+- [Black Natchez](/catalog/cpb-aacip_512-4x54f1nc5p)
+- [The Negro Voter](/catalog/cpb-aacip_516-7659c6sw5t)
+
 ### James Farmer
 
+- [For Freedom Now](/catalog/cpb-aacip_512-x921c1vr5n)
 - [Long, Hot Summer '64; Episode 10](/catalog/cpb-aacip_15-87brvgm3)
 - [Louisiana Diary](/catalog/cpb-aacip_55-73pvn97r)
 
 ### James Foreman
 
 - [Civil Rights: What Next?](/catalog/cpb-aacip_15-741rq0bx)
+- [For Freedom Now](/catalog/cpb-aacip_512-x921c1vr5n)
+- [We Shall Overcome](/catalog/cpb-aacip_15-13zs9fcr)
+
+### Mrs. E. Franklin Frazier
+
+- [Color Us Black. Part 1](/catalog/cpb-aacip_512-f47gq6rz2w)
 
 ### David Gelfand
 
 - [A Dialogue on Mississippi](/catalog/cpb-aacip_15-945qgb91)
 
+### Polly Greenberg
+
+- [Head Start in Mississippi](/catalog/cpb-aacip_75-440rz1b6)
+
 ### Dick Gregory
 
+- [Dick Gregory Is Alive and Well](/catalog/cpb-aacip_512-qj77s7jv10)
 - [Ralph Gleason Interviewing Dick Gregory](/catalog/cpb-aacip_28-k649p2wm6m)
 
 ### Fannie Lou Hamer
 
 - [Fannie Lou Hamer Interview](/catalog/cpb-aacip_28-bg2h70895r)
+- [Head Start in Mississippi](/catalog/cpb-aacip_75-440rz1b6)
 - [The Negro Voter](/catalog/cpb-aacip_516-7659c6sw5t)
-- [Fannie Lou Hamer](/catalog/cpb-aacip_15-sn00z7182f)
+
+### Nathan Hare
+
+- [Color Us Black. Part 1](/catalog/cpb-aacip_512-f47gq6rz2w)
+
+### Mike Harris
+
+- [Color Us Black. Part 1](/catalog/cpb-aacip_512-f47gq6rz2w)
 
 ### Tom Hayden
 
@@ -83,11 +127,23 @@ Movement activists include:
 
 -	[Birmingham: Testament of Nonviolence, Part 3; Mother’s Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [(2 of 2)](/catalog/cpb-aacip_500-cj87n27n)
 
+### Jesse Hill Jr.
+
+- [Grassroots Voter 1960: Civil Rights](/catalog/cpb-aacip_512-9w08w38z2k)
+
 ### Myles Horton
 
 - [Thirty Years of Civil Rights Education in the South / Myles Horton](/catalog/cpb-aacip_28-xp6tx35q0h)
 
-  ### Rev. Jesse Jackson
+### Rev. William Hudson
+
+- [School Integration](/catalog/cpb-aacip_512-4x54f1nc5p)
+
+### James Jackson
+
+- [Black Natchez](/catalog/cpb-aacip_512-4x54f1nc5p)
+
+### Rev. Jesse Jackson
 
 - [Free At Last](/catalog/cpb-aacip_516-sj19k46z5q)
 
@@ -100,9 +156,19 @@ Movement activists include:
 -	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p) and [(2 of 2)](/catalog/cpb-aacip_500-m9023j32)
 -	[Birmingham: Testament of Nonviolence, Part 3; Mother’s Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [(2 of 2)](/catalog/cpb-aacip_500-cj87n27n)
 -	[Birmingham: Testament of Nonviolence, Part 4; Back to School in Birmingham (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h) and [(2 of 2)](/catalog/cpb-aacip_500-z60c1503)
--	[The Negro and the American Promise](/catalog/cpb-aacip_15-92804z5z)
+- [For Freedom Now](/catalog/cpb-aacip_512-x921c1vr5n)
+- [Free At Last](/catalog/cpb-aacip_516-sj19k46z5q)
 - [The Negro Voter](/catalog/cpb-aacip_516-7659c6sw5t)
+- [Poor People’s Campaign](/catalog/cpb-aacip_15-021c5k76)
 - [With Some Deliberate Speed](/catalog/cpb-aacip_62-gx44q7r441)
+
+### Tom Levin
+
+- [Head Start in Mississippi](/catalog/cpb-aacip_75-440rz1b6)
+
+### John Lewis
+
+- [If Eugene Talmadge Were Alive Today, He’d Turn Over in His Grave](/catalog/cpb-aacip_512-ks6j09x31h)
 
 ### John Lowery
 
@@ -126,9 +192,17 @@ Movement activists include:
 
 - [Tribute to Ella Baker](/catalog/cpb-aacip_28-125q814w5v)
 
+### James Nabrit III
+
+- [Color Us Black. Part 1](/catalog/cpb-aacip_512-f47gq6rz2w)
+
 ### Rosa Parks
 
 - [Commentary of a Black Southern Bus Rider / Rosa Parks](/catalog/cpb-aacip_28-kw57d2qp45)
+
+### Eugene Patterson
+
+- [Grassroots Voter 1960: Civil Rights](/catalog/cpb-aacip_512-9w08w38z2k)
 
 ### Mary Peabody
 
@@ -146,10 +220,15 @@ Movement activists include:
 
 - [Civil Rights Summer 66’](/catalog/cpb-aacip_512-j09w08xb9s)
 
+### Mrs. Hattie Safford
+
+- [Head Start in Mississippi](/catalog/cpb-aacip_75-440rz1b6)
+
 ### Charles Sherrod
 
-- [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
+- [If Eugene Talmadge Were Alive Today, He’d Turn Over in His Grave](/catalog/cpb-aacip_512-ks6j09x31h)
 - [An Integrated Project in Georgia](/catalog/cpb-aacip_28-mk6542jr2r)
+- [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
 
 ### Ellen Siegel
 
@@ -167,13 +246,27 @@ Movement activists include:
 
 -  [The Negro Lawyer in the South](/catalog/cpb-aacip_28-4t6f18sn70)
 
+### Roy Wilkins
+
+- [For Freedom Now](/catalog/cpb-aacip_512-x921c1vr5n)
+
 ### Hosea Williams
 
 - [Civil Rights: What Next?](/catalog/cpb-aacip_15-741rq0bx)
+- [Free At Last](/catalog/cpb-aacip_516-sj19k46z5q)
+
+### Marian Wright
+
+- [Head Start in Mississippi](/catalog/cpb-aacip_75-440rz1b6)
 
 ### Andrew Young
 
 - [Free At Last](/catalog/cpb-aacip_516-sj19k46z5q)
+
+### Whitney Young
+
+- [Civil Rights Summer ’66](/catalog/cpb-aacip_512-j09w08xb9s)
+- [For Freedom Now](/catalog/cpb-aacip_512-x921c1vr5n)
 
 ### Melvyn Zarr
 

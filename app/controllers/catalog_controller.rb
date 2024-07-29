@@ -280,6 +280,9 @@ class CatalogController < ApplicationController
       format.mods do
         render text: PBCorePresenter.new(xml).to_mods
       end
+      format.iiif do
+        render json: PBCorePresenter.new(xml).iiif_manifest
+      end
     end
   end
 
