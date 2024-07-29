@@ -17,7 +17,7 @@ In February 1973, James Karayn, the president of the National Public Affairs Cen
 ## Resources
 
 - [The final report of the Select Committee on Presidential Campaign Activities](http://babel.hathitrust.org/cgi/pt?id=mdp.39015011697870;view=1up;seq=15)
-- [Bill Moyers' *Essay on Watergate*](https://vimeo.com/44242486)
+- [Bill Moyers' *Essay on Watergate*](https://americanarchive.org/catalog/cpb-aacip-0662bb05ff5)
 - ["Covering Watergate: 40 Years Later With MacNeil And Lehrer (Video)"](https://www.youtube.com/watch?v=YxCASPRMZb8)
 - ["Covering Watergate: 40 Years Later With MacNeil And Lehrer (Transcript)"](https://www.pbs.org/newshour/show/covering-watergate-40-years-later-with-macneil-and-lehrer)
 - ["The Watergate Files," online exhibit at the Gerald R. Ford Library & Museum](https://www.fordlibrarymuseum.gov/museum/exhibits/Watergate_files/index.html)
