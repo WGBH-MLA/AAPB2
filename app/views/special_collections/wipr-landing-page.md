@@ -10,8 +10,9 @@
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src='/lite/cpb-aacip-532-qv3bz62p4f'></iframe>
-        
+        <video class="collection-video">
+          <source src="https://s3.amazonaws.com/americanarchive.org/special-collections/wipr-trailer.mp4" type="video/mp4">
+        </video>
       </td>
     </tr>
   </tbody>
