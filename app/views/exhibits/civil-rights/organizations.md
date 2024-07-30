@@ -8,16 +8,22 @@
 
 Organizations profiled include:
 
+### Child Development Group of Mississippi (CDGM)
+
+- [Head Start in Mississippi](/catalog/ cpb-aacip_75-440rz1b6)
+
 ### Congress of Racial Equality (CORE)
 
--	[The Sit-ins and the New South](/catalog/cpb-aacip_28-br8mc8rr6z)
 -	[The Battle Is Not Yet Won](/catalog/cpb-aacip_28-2z12n4zs1w)
+-	[Civil Rights: What Next?](/catalog/cpb-aacip_15-741rq0bx)
+-	[Louisiana Diary](/catalog/cpb-aacip_55-73pvn97r)
+-	[The Sit-ins and the New South](/catalog/cpb-aacip_28-br8mc8rr6z)
 
 ### Council of Federated Organizations (COFO)
 
-- [Long, Hot Summer '64: Episode Two](/catalog/cpb-aacip_15-02c86fs0)
-- [A Dialogue on Mississippi](/catalog/cpb-aacip_15-945qgb91)
 - [Black Power Surveyed; Handful That We Are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
+- [A Dialogue on Mississippi](/catalog/cpb-aacip_15-945qgb91)
+- [Long, Hot Summer '64: Episode Two](/catalog/cpb-aacip_15-02c86fs0)
 
 ### Highlander Folk School
 
@@ -25,34 +31,49 @@ Organizations profiled include:
 
 ### Lowndes County Freedom Organization (LCFO)
 
--  [Stokely Carmichael Interview](/catalog/cpb-aacip_28-zw18k75h85)
+- [Stokely Carmichael Interview](/catalog/cpb-aacip_28-zw18k75h85)
 
 ### Mississippi Freedom Democratic Party (MFDP)
 
-- [Fannie Lou Hamer Interview](/catalog/cpb-aacip_28-bg2h70895r)
+- [Black Natchez](/catalog/cpb-aacip_512-4x54f1nc5p)
 - [Black Power Surveyed; Handful That We Are In Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
+- [Fannie Lou Hamer Interview](/catalog/cpb-aacip_28-bg2h70895r)
+- [Free At Last](/catalog/cpb-aacip_516-sj19k46z5q)
 - [Long, Hot Summer '64; Episode 9](/catalog/cpb-aacip_15-12m646qz)
 - [Long, Hot Summer '64; Episode 10](/catalog/cpb-aacip_15-87brvgm3)
 
 ### National Association for the Advancement of Colored People (NAACP)
 
+- [Black Natchez](/catalog/cpb-aacip_512-4x54f1nc5p)
 - [Commentary of a Black Southern Bus Rider / Rosa Parks](/catalog/cpb-aacip_28-kw57d2qp45)
 - [Kidnapping in North Carolina](/catalog/cpb-aacip_28-h707w67k6x)
+- [The Negro Voter](/catalog/cpb-aacip_516-7659c6sw5t)
 - [One Year Later in Mississippi](/catalog/cpb-aacip_15-88qc028z)
 
 ### NAACP Legal and Educational Defense Fund
 
 - [The Civil Rights Lawyer in the South](/catalog/cpb-aacip_28-1g0ht2gg9n)
 
-### Southern Christian Leadership Conference (SCLC)
+### National Urban League
 
-- [On Freedom Road by Reverend Ralph Abernathy](/catalog/cpb-aacip_28-cz3222rk4w)
-- [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
--	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p) and [(2 of 2)](/catalog/cpb-aacip_500-m9023j32)
+- [For Freedom Now](/catalog/cpb-aacip_512-x921c1vr5n)
+
+### Poor People's Campaign
+
+-	[Free At Last](/catalog/cpb-aacip_516-sj19k46z5q/)
+-	[Poor People’s Campaign](/catalog/cpb-aacip_15-021c5k76)
+
+### Southern Christian Leadership Conference (SCLC)
+-	[Civil Rights: What Next?](/catalog/cpb-aacip_15-741rq0bx)
+-	[Free At Last](/catalog/cpb-aacip_516-sj19k46z5q/)
 -	[Birmingham: Testament of Nonviolence, Part 3; Mother’s Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [(2 of 2)](/catalog/cpb-aacip_500-cj87n27n)
 -	[Birmingham: Testament of Nonviolence, Part 4; Back to School in Birmingham (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h) and [(2 of 2)](/catalog/cpb-aacip_500-z60c1503)
-- [Report from the South - James Bevel](/catalog/cpb-aacip_28-j09w08ws94)
+-	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p) and [(2 of 2)](/catalog/cpb-aacip_500-m9023j32)
+- [For Freedom Now](/catalog/cpb-aacip_512-x921c1vr5n)
 - [Long, Hot Summer '64: Episode 1](/catalog/cpb-aacip_15-50tqk2fw)
+- [On Freedom Road by Reverend Ralph Abernathy](/catalog/cpb-aacip_28-cz3222rk4w)
+- [Report from the South - James Bevel](/catalog/cpb-aacip_28-j09w08ws94)
+- [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
 
 ### Southern Conference Education Fund (SCEF)
 
@@ -64,8 +85,15 @@ Organizations profiled include:
 
 ### Student Non-Violent Coordinating Committee (SNCC)
 
-- [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
 - [Children of McComb](/catalog/cpb-aacip_28-sj19k46b34)
+- [Civil Rights: What Next?](/catalog/cpb-aacip_15-741rq0bx)
+- [For Freedom Now](/catalog/cpb-aacip_512-x921c1vr5n)
+- [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
+- [We Shall Overcome](/catalog/cpb-aacip_15-13zs9fcr)
+
+### Voter Registration Project
+
+- [If Eugene Talmadge Were Alive Today, He’d Turn Over in His Grave](/catalog/cpb-aacip_512-ks6j09x31h)
 
 #### Next: [People](/exhibits/civil-rights/people)
 

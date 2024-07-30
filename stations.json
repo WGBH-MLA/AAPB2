@@ -1,0 +1,273 @@
+{
+  "University of Alabama Center for Public Television": {
+    "city": "Tuscaloosa",
+    "state": "AL"
+  },
+  "KDLG": { "city": "Dillingham", "state": "AK" },
+  "KYUK": { "city": "Bethel", "state": "AK" },
+  "KAKM Alaska Public Media": {
+    "city": "Anchorage",
+    "state": "AK"
+  },
+  "Koahnic Broadcast Corporation": {
+    "city": "Anchorage",
+    "state": "AK"
+  },
+  "KUCB": { "city": "Unalaska", "state": "AK" },
+  "KCAW": { "city": "Sitka", "state": "AK" },
+  "KXCI Community Radio": { "city": "Tucson", "state": "AZ" },
+  "Arkansas Educational TV Network": { "city": "Conway", "state": "AR" },
+  "KEET": { "city": "Eureka", "state": "CA" },
+  "PBS SoCaL": { "city": "Costa Mesa", "state": "CA" },
+  "KUSC": { "city": "Los Angeles", "state": "CA" },
+  "Pacifica Radio Archives": { "city": "North Hollywood", "state": "CA" },
+  "KUSP": { "city": "Santa Cruz", "state": "CA" },
+  "Radio Bilingue": { "city": "Fresno", "state": "CA" },
+  "KVIE": { "city": "Sacramento", "state": "CA" },
+  "KRCB": { "city": "Rohnert Park", "state": "CA" },
+  "KQED": { "city": "San Francisco", "state": "CA" },
+  "CAAM": { "city": "San Francisco", "state": "CA" },
+  "KGNU": { "city": "Boulder", "state": "CO" },
+  "Rocky Mountain PBS": {
+    "city": "Denver",
+    "state": "CO"
+  },
+  "KUVO": {
+    "city": "Denver",
+    "state": "CO"
+  },
+  "Colorado Public Television": {
+    "city": "Denver",
+    "state": "CO"
+  },
+  "Connecticut Public Broadcasting Network": {
+    "city": "Hartford",
+    "state": "CT"
+  },
+  "WHUT": {
+    "city": "Washington",
+    "state": "DC"
+  },
+
+  "NewsHour Productions": {
+    "city": "Washington",
+    "state": "DC"
+  },
+
+  "Library of Congress": {
+    "city": "Washington",
+    "state": "DC"
+  },
+  "WUSF": { "city": "Tampa", "state": "FL" },
+  "WEDU": { "city": "Tampa", "state": "FL" },
+  "WJCT": { "city": "Jacksonville", "state": "FL" },
+  "WSRE": { "city": "Pensacola", "state": "FL" },
+  "WGCU Public Media": { "city": "Fort Myers", "state": "FL" },
+  "WPBT2": { "city": "Miami", "state": "FL" },
+  "WUFT": { "city": "Gainesville", "state": "FL" },
+  "Georgia Public Broadcasting": {
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "Public Broadcasting Atlanta": {
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "The Walter J. Brown Media Archives and Peabody Awards Collection at the University of Georgia": {
+    "city": "Athens",
+    "state": "GA"
+  },
+  "PBS Guam": { "city": "Mangilao", "state": "GU" },
+  "PBS Hawaii": { "city": "Honolulu", "state": "HI" },
+  "Idaho Public Television": { "city": "Boise", "state": "ID" },
+  "WSIU": { "city": "Carbondale", "state": "IL" },
+  "WILL Illinois Public Media": { "city": "Urbana", "state": "IL" },
+  "WYCC PBS Chicago": { "city": "Chicago", "state": "IL" },
+  "WBEZ": { "city": "Chicago", "state": "IL" },
+  "WFYI": { "city": "Indianapolis", "state": "IN" },
+  "WTIU": { "city": "Bloomington", "state": "IN" },
+  "WFIU": { "city": "Bloomington", "state": "IN" },
+  "Iowa Public Television": { "city": "Johnston", "state": "IA" },
+  "Iowa Public Radio": { "city": "Des Moines", "state": "IA" },
+  "4-States Public Radio": { "city": "Pittsburgh", "state": "KS" },
+  "High Plains Public Radio": { "city": "Garden City", "state": "KS" },
+  "KMUW": { "city": "Wichita", "state": "KS" },
+  "PBS Kansas": { "city": "Wichita", "state": "KS" },
+  "KPR": { "city": "Lawrence", "state": "KS" },
+  "Radio Kansas": { "city": "Hutchinson", "state": "KS" },
+  "KET - Kentucky Educational Television": {
+    "city": "Lexington",
+    "state": "KY"
+  },
+  "Appalshop, Inc.": { "city": "Whitesburg", "state": "KY" },
+  "Louisiana Public Broadcasting": { "city": "Baton Rouge", "state": "LA" },
+  "WWOZ": { "city": "New Orleans", "state": "LA" },
+  "Maine Public Broadcasting Network": { "city": "Lewiston", "state": "ME" },
+  "WERU Community Radio": { "city": "East Orland", "state": "ME" },
+  "Maryland Public Television": { "city": "Owings Mills", "state": "MD" },
+  "University of Maryland": { "city": "College Park", "state": "MD" },
+  "WGBY": { "city": "Springfield", "state": "MA" },
+  "New England Public Radio": { "city": "Amherst", "state": "MA" },
+  "WUMB": { "city": "Boston", "state": "MA" },
+  "GBH": { "city": "Boston", "state": "MA" },
+  "Blue Lake Public Radio": { "city": "Twin Lake", "state": "MI" },
+  "WGVU Public TV and Radio": { "city": "Grand Rapids", "state": "MI" },
+  "WIAA": { "city": "Interlochen", "state": "MI" },
+  "WKAR": { "city": "East Lansing", "state": "MI" },
+  "Detroit Public Television": { "city": "Wixom", "state": "MI" },
+  "Pioneer PBS": { "city": "Appleton", "state": "MN" },
+  "Minnesota Public Radio": {
+    "city": "St. Paul",
+    "state": "MN"
+  },
+  "Twin Cities Public Television": {
+    "city": "St. Paul",
+    "state": "MN"
+  },
+  "WTIP": { "city": "Grand Marais", "state": "MN" },
+  "Mississippi Public Broadcasting": { "city": "Jackson", "state": "MS" },
+  "The Nine Network of Public Media": {
+    "city": "St. Louis",
+    "state": "MO"
+  },
+  "Film and Media Archive, Washington University in St. Louis": {
+    "city": "St. Louis",
+    "state": "MO"
+  },
+  "KOPN": { "city": "Columbia", "state": "MO" },
+  "KCPT": { "city": "Kansas City", "state": "MO" },
+  "KMOS": { "city": "Warrensburg", "state": "MO" },
+  "Ozarks Public Television": { "city": "Springfield", "state": "MO" },
+  "KGLT": { "city": "Bozeman", "state": "MT" },
+  "Vision Maker Media": { "city": "Lincoln", "state": "NE" },
+  "Vegas PBS": { "city": "Las Vegas", "state": "NV" },
+  "Ken Burns Florentine Films": { "city": "Walpole", "state": "NH" },
+  "New Hampshire Public Radio": { "city": "Concord", "state": "NH" },
+  "New Hampshire Public Television": { "city": "Durham", "state": "NH" },
+  "WFMU": { "city": "Jersey City", "state": "NJ" },
+  "New Jersey Network": { "city": "Trenton", "state": "NJ" },
+  "KUNM": { "city": "Albuquerque", "state": "NM" },
+  "New Mexico PBS": { "city": "Albuquerque", "state": "NM" },
+  "KENW-TV": { "city": "Portales", "state": "NM" },
+  "KRWG": { "city": "Las Cruces", "state": "NM" },
+  "WSKG Public Broadcasting": { "city": "Vestal", "state": "NY" },
+  "WPBS": { "city": "Watertown", "state": "NY" },
+  "WNED": { "city": "Buffalo", "state": "NY" },
+  "Thirteen WNET": {
+    "city": "New York",
+    "state": "NY"
+  },
+  "WNYC": {
+    "city": "New York",
+    "state": "NY"
+  },
+  "CUNY TV": {
+    "city": "New York",
+    "state": "NY"
+  },
+  "Sesame Workshop": {
+    "city": "New York",
+    "state": "NY"
+  },
+  "The Riverside Church": {
+    "city": "New York",
+    "state": "NY"
+  },
+  "Media for the Public Good, Inc. / OutCasting Media": {
+    "city": "New York",
+    "state": "NY"
+  },
+  "Bloomberg L.P.": {
+    "city": "New York",
+    "state": "NY"
+  },
+  "WXXI Public Broadcasting": { "city": "Rochester", "state": "NY" },
+  "Mountain Lake PBS": { "city": "Plattsburgh", "state": "NY" },
+  "WMHT": { "city": "Troy", "state": "NY" },
+  "New York State Archives": { "city": "Albany", "state": "NY" },
+  "WRFA": { "city": "Jamestown", "state": "NY" },
+  "WCNY": { "city": "Liverpool", "state": "NY" },
+  "UNC-TV": { "city": "Research Triangle Park", "state": "NC" },
+  "WUNC": { "city": "Chapel Hill", "state": "NC" },
+  "Prairie Public Broadcasting": { "city": "Fargo", "state": "ND" },
+  "WOSU Public Media": { "city": "Columbus", "state": "OH" },
+  "ideastream": { "city": "Cleveland", "state": "OH" },
+  "WYSO": { "city": "Yellow Springs", "state": "OH" },
+  "ThinkTV": { "city": "Dayton", "state": "OH" },
+  "WYSU": { "city": "Youngstown", "state": "OH" },
+  "Cincinnati Public Radio": { "city": "Cincinnati", "state": "OH" },
+  "OETA": { "city": "Oklahoma City", "state": "OK" },
+  "Southern Oregon Public Television": { "city": "Medford", "state": "OR" },
+  "Oregon Public Broadcasting": {
+    "city": "Portland",
+    "state": "OR"
+  },
+  "KBOO Community Radio": {
+    "city": "Portland",
+    "state": "OR"
+  },
+  "KWSO": { "city": "Warm Springs", "state": "OR" },
+  "WDIY": { "city": "Bethlehem", "state": "PA" },
+  "PBS39": { "city": "Bethlehem", "state": "PA" },
+  "WHYY": { "city": "Philadelphia", "state": "PA" },
+  "WXPN": { "city": "Philadelphia", "state": "PA" },
+  "WQED": { "city": "Pittsburgh", "state": "PA" },
+  "WVIA Public Media": { "city": "Pittston", "state": "PA" },
+  "Rhode Island Public Radio": { "city": "Providence", "state": "RI" },
+  "South Carolina ETV": { "city": "Columbia", "state": "SC" },
+  "WCTE": { "city": "Cookeville", "state": "TN" },
+  "WDVX": { "city": "Knoxville", "state": "TN" },
+  "KUHF-FM": { "city": "Houston", "state": "TX" },
+  "KUT Radio": { "city": "Austin", "state": "TX" },
+  "KERA": { "city": "Dallas", "state": "TX" },
+  "KUED": { "city": "Salt Lake City", "state": "UT" },
+  "Vermont Public Radio": {
+    "city": "Colchester",
+    "state": "VT"
+  },
+  "Vermont Public Television": {
+    "city": "Colchester",
+    "state": "VT"
+  },
+  "WHRO": { "city": "Norfolk", "state": "VA" },
+  "VPM": { "city": "Richmond", "state": "VA" },
+  "Blue Ridge PBS": { "city": "Roanoke", "state": "VA" },
+  "BackStory": { "city": "Charlottesville", "state": "VA" },
+  "Northwest Public Television": { "city": "Pullman", "state": "WA" },
+  "KUOW Puget Sound Public Radio": {
+    "city": "Seattle",
+    "state": "WA"
+  },
+  "KEXP": {
+    "city": "Seattle",
+    "state": "WA"
+  },
+  "KCTS 9": {
+    "city": "Seattle",
+    "state": "WA"
+  },
+
+  "BirdNote": {
+    "city": "Seattle",
+    "state": "WA"
+  },
+  "KDNA": { "city": "Granger", "state": "WA" },
+  "Wisconsin Public Radio": {
+    "city": "Madison",
+    "state": "WI"
+  },
+  "PBS Wisconsin": {
+    "city": "Madison",
+    "state": "WI"
+  },
+  "James F. Voegeli": {
+    "city": "Madison",
+    "state": "WI"
+  },
+  "Don Voegeli": {
+    "city": "Madison",
+    "state": "WI"
+  },
+  "WOJB": { "city": "Hayward", "state": "WI" },
+  "Wyoming PBS": { "city": "Riverton", "state": "WY" }
+}
