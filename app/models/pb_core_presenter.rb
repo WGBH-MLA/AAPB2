@@ -549,6 +549,7 @@ class PBCorePresenter
       'playlist_group' => playlist_group,
       'playlist_order' => playlist_order
     }.merge(
+      # fills dynamic field *_titles with stuff like series_titles, program_titles, etc
       Hash[
         titles.group_by { |pair| pair[0] }.map do |key, pairs|
           ["#{key.downcase.tr(' ', '_')}_titles", pairs.map { |pair| pair[1] }]
