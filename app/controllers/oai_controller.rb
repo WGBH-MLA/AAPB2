@@ -19,7 +19,7 @@ class OaiController < ApplicationController
     @response_date = Time.now.strftime('%FT%T')
 
     @records =
-      RSolr.connect(url: 'http://localhost:8983/solr/')
+      RSolr.connect(url: config.solr_url)
            .get('select', params: {
                   'q' => 'access_types:"' + PBCorePresenter::PUBLIC_ACCESS + '"',
                   'fl' => 'id,timestamp,xml',
