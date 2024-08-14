@@ -33,7 +33,7 @@ module Xyz
       end
       allow do
         origins '*'
-        resource '/catalog/*.iiif', headers: :any, methods: [:get, :options]
+        resource '/catalog/*.iiif', headers: :any, methods: [:get, :options], expose: ['Access-Control-Allow-Origin']
       end
     end
 
