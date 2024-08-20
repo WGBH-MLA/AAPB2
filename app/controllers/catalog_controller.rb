@@ -238,7 +238,7 @@ class CatalogController < ApplicationController
     # From BlacklightGUIDFetcher
     id = params[:id].sub(/cpb-aacip./, "cpb-aacip?")
     @response, @document = fetch_from_solr(id)
-    
+
     # If we didn't end up getting a @document, 404
     raise ActionController::RoutingError.new('Not Found') unless @document
 
