@@ -64,3 +64,27 @@ ul.webinar-list li::before {
   content: '- ';
 }
 
+a.donate-button {
+  background-color:#eb1a4e;
+  border-radius:28px;
+  border:1px solid #ffffff;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:Arial;
+  font-size:17px;
+  padding:20px 40px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #000000;
+}
+
+a.donate-button:hover {
+  background-color:#fa5c5c;
+}
+
+a.donate-button:active {
+  position:relative;
+  top:1px;
+}
+
+        

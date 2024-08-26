@@ -57,7 +57,6 @@ Rails.application.routes.draw do
   get 'about-the-american-archive/newsletter', to: 'forms#newsletter'
   get 'about-the-american-archive/newsletter_thanks', to: 'forms#newsletter_thanks'
   get 'about-the-american-archive/feedback', to: 'forms#feedback'
-  get 'about-the-american-archive/volunteer', to: 'forms#volunteer'
 
   match 'recaptcha', to: 'forms#validate_recaptcha', via: [:post]
 
