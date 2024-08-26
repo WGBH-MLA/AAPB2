@@ -10,7 +10,9 @@ A donation directly enables us to, among other things:
 
 Your donation will be made to GBH on behalf of the American Archive of Public Broadcasting. GBH is a 501(c)(3) nonprofit organization. All donations are tax deductible.
 
-[DONATE NOW](https://americanarchive.donorsupport.co/page/FUNUDUZQUXB)
+<a href="https://americanarchive.donorsupport.co/page/FUNUDUZQUXB" class="donate-button">Donate Now</a>
+
+
 
 You can also send a donation by mail to:
 
