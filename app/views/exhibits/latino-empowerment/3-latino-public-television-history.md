@@ -70,6 +70,8 @@ Luis Valdez founded El Teatro Campesino in the fields of Delano, California, dur
 
 Prior to the formation of PBS, National Educational Television (NET) broadcast two programs devoted to the early years of El Teatro Campesino. In 1969, the *Public Broadcast Laboratory* broadcast a special program from Santa Barbara in which the host explains the origins of El Teatro Campesino and presents an act accompanied by a voiced-over English translation. View an excerpt from this program featuring Luis Valdez:
 
+<br/>
+
 <iframe class="exhibit-small-iframe" src="https://player.vimeo.com/video/641601926?h=ec42410477" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 In 1970, *NET Playhouse* presented a documentary on El Teatro Campesino, including interviews with Valdez, musical numbers, a satirical skit, a puppet show, an excerpt from a play, and an ancient rebirthing ceremony performed in a cemetery. View an excerpt from this program:
