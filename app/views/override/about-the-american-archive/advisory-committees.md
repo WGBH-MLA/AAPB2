@@ -39,11 +39,6 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 **Andrew (A.J.) Chambers**
 <br>Teacher and Media Advisor, Horse Creek Academy and Digital Media Committee Member, Journalism Education Association
 
-**Laura Evans**
-<br>Vice President of Education, Georgia Public Broadcasting
-
->"The American Archive of Public Broadcasting is a unique platform that draws on some of the most significant events in recent American memory. These resources are an invaluable addition to the universe of content available to educators and students through public media. Our Georgia educators are thrilled to be able to bring such intimate perspectives on our nation's history into their classrooms."
-
 **Justin Jakovac**
 <br>Executive Director, Mountain-Plains Museums Association
 
