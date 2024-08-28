@@ -1,12 +1,16 @@
 # Hispanic Heritage Collection 
 
-## Collection Summary 
+## Thumbnail
+
+![En Français](https://s3.amazonaws.com/americanarchive.org/special-collections/enfrancais.jpg "En Français")
+
+## Summary 
 
 ### English
 
 The Hispanic Heritage Collection features thousands of public radio and television programs from the 1960s to the present day, highlighting cultures of diverse Hispanic communities in the United States originating from Mexico, Puerto Rico, El Salvador, Cuba, other countries in Central and South America, and from other Spanish-speaking areas around the world, including territories that became part of the U.S. following the Mexican-American War of 1846-1848. The collection covers a wide range of subjects, such as cultures, histories, artistic endeavors, immigration experiences and issues, civil rights, workers’ rights, and bilingual education.
 
-Beginning in the late 1960s, Latino activists associated with farmworker, Chicano, and Puerto Rican movements spearheaded drives to establish bilingual community radio stations in rural locales and television programming in urban centers to address the diverse lives of Spanish-language speakers. The Hispanic Heritage Collection contains many programs associated with these movements, including nearly 10,000 radio broadcasts from [Radio Bilingüe](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Radio+Bilingue+%28CA%29&sort=asset_date+asc) and [KDNA](/special_collections/radio-kdna) in Washington State’s Yakima Valley, and pioneering television programs like the children’s series [Carrascolendas](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Carrascolendas&sort=asset_date+asc), from Austin, Texas, [Acción Chicano](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Accion+Chicano&sort=title+asc) from Los Angeles, [Realidades](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Realidades&sort=asset_date+asc) from New York, the Emmy-winning [Images/Imagenes](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Images%2FImagenes&sort=asset_date+asc) from the New Jersey Network, WGBH’s [La Plaza](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=La+Plaza&sort=asset_date+asc), and [En Camino](/catalog?f%5Bseries_titles%5D%5B%5D=En+Camino&per_page=100&sort=asset_date+asc&f%5baccess_types%5d%5b%5d=digitized) from KRCB in Rohnert Park, California, among others. 
+Beginning in the late 1960s, Latino activists associated with farmworker, Chicano, and Puerto Rican movements spearheaded drives to establish bilingual community radio stations in rural locales and television programming in urban centers to address the diverse lives of Spanish-language speakers. The Hispanic Heritage Collection contains many programs associated with these movements, including nearly 10,000 radio broadcasts from [Radio Bilingüe](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Radio+Bilingue+%28CA%29&sort=asset_date+asc) and [KDNA](/special_collections/radio-kdna) in Washington State’s Yakima Valley, and pioneering television programs like the children’s series [Carrascolendas](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Carrascolendas&sort=asset_date+asc), from Austin, Texas, [Acción Chicano](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Accion+Chicano&sort=title+asc) from Los Angeles, [Realidades](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Realidades&sort=asset_date+asc) from New York, the Emmy-winning [Images/Imagenes](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Images%2FImagenes&sort=asset_date+asc) from the New Jersey Network, WGBH’s [La Plaza](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=La+Plaza&sort=asset_date+asc), and [En Camino](/catalog?f%5Bseries_titles%5D%5B%5D=En+Camino&per_page=100&sort=asset_date+asc&f%5baccess_types%5d%5b%5d=digitized) from KRCB in Rohnert Park, California, among others.
 
 The collection includes many noteworthy documentaries. [*Mi Puerto Rico*](/catalog/cpb-aacip-526-gt5fb4xr26), written, produced, and narrated by veteran public television producer and director Raquel Ortiz, offers audiences a comprehensive view of Puerto Rican political perspectives and cultural traditions through interviews with historians, eyewitnesses, and contemporary political figures. Two historical documentaries of interest, [Valentía: Mexican Americans in World War II](/catalog/cpb-aacip-86-4947ddrj) and [Los Braceros: Strong Arms to Aid the USA](/catalog/cpb-aacip_86-50gthzqh), come from KVIE, located in Sacramento, California. [A Thirst in the Garden](/catalog/cpb-aacip-526-p843r0r27w) from KERA-TV in Dallas, winner of a prestigious Peabody Award, documents horrendous health conditions of Mexican American farmworkers in Texas’s Rio Grande Valley. National Educational Television, the precursor to PBS, in the 1960s broadcast [Huelga!](/catalog/cpb-aacip-504-696zw19w66) on the farmworkers’ grape strike in Delano, California, during which the United Farm Workers was formed, and [Mexican Americans: The Invisible Minority](/catalog/cpb-aacip-516-sb3ws8jm5c?proxy_start_time=3076.4). 
 
@@ -42,7 +46,7 @@ Otras series incluyen [Espejos de Aztlan](/catalog?f%5Bseries_titles%5D%5B%5D=Es
 
 Estos programas, junto con muchos otros en la colección, ofrecen vislumbres de las vidas de individuos hispanos al resaltar su cultura, historia, activismo y dificultades, mostrando el impacto significativo que han tenido en la sociedad estadounidense. 
 
-## Collection Background
+## Background
 
 ### English 
 
@@ -70,3 +74,15 @@ Durante el Mes Nacional de la Herencia Hispana, las instituciones culturales de 
 
 [![Mi Puerto Rico](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-526-gt5fb4xr26)
 
+## Resources
+
+## Help
+Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
+
+## Terms
+
+## Timeline
+
+## Sort
+
+asset_date+asc
