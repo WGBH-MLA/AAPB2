@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![En Français](https://s3.amazonaws.com/americanarchive.org/special-collections/enfrancais.jpg "En Français")
+![Hispanic Heritage Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/hhm_collection.png "Hispanic Heritage Collection")
 
 ## Summary 
 
@@ -62,19 +62,20 @@ Durante el Mes Nacional de la Herencia Hispana, las instituciones culturales de 
 
 ## Featured
 
-[![Latino Empowerment through Public Broadcasting](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/exhibits/latino-empowerment)
-
-[![Empoderamiento latino mediante la radiodifusión pública](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/exhibits/empoderamiento-latino)
-
-[![WIPR: Arts and Culture in Puerto Rico](https://s3.amazonaws.com/americanarchive.org/special-collections/wipr-logo1.png)](/special_collections/wipr-special-collection)
-
-[![Línea Abierta](https://s3.amazonaws.com/americanarchive.org/special-collections/founding_linea_team.png)](/special_collections/linea-abierta)
-
-[![Radio KDNA](https://s3.amazonaws.com/americanarchive.org/special-collections/radio-kdna.jpg)](/special_collections/radio-kdna)
-
-[![Mi Puerto Rico](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-526-gt5fb4xr26)
+[![Media and the Latin Community; Los Medios De Comunicacion Y La Comunidad Latina](https://s3.amazonaws.com/americanarchive.org/special-collections/realidades-210.png)](/catalog/cpb-aacip-a6c496a73d1)
+[![Mi Puerto Rico](https://s3.amazonaws.com/americanarchive.org/special-collections/mi-puerto-rico.png)](/catalog/cpb-aacip-526-gt5fb4xr26)
+[![Notes From The Mambo Inn: The Story of Mario Bauza](https://s3.amazonaws.com/americanarchive.org/special-collections/black-mambo.png)](/catalog/cpb-aacip-15-2z12n4zk3v)
+[![Línea Abierta’s Quinceañera](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-99430f6fc1b)
+[![En Camino: Latino Artists; Artistas Latinos](https://s3.amazonaws.com/americanarchive.org/special-collections/camino-312.png)](/catalog/cpb-aacip-88-23vt4dfp)
+[![Libros, Autores Y Personalidades; María de Hostos](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-2af687941c9)
 
 ## Resources
+
+- [Latino Empowerment through Public Broadcasting](/exhibits/latino-empowerment)
+- [Empoderamiento latino mediante la radiodifusión pública](/exhibits/empoderamiento-latino)
+- [WIPR: Arts and Culture in Puerto Rico](/special_collections/wipr-special-collection)
+- [Línea Abierta](/special_collections/linea-abierta)
+- [Radio KDNA](/special_collections/radio-kdna)
 
 ## Funders
 
