@@ -12,7 +12,7 @@
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src="https://player.vimeo.com/video/1004556120?h=472cbf8e4f" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src="https://player.vimeo.com/video/1004556120?h=472cbf8e4f" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -42,9 +42,7 @@ These programs, along with many others in the collection, offer glimpses into th
   <tbody>
     <tr>
       <td>
-        <video class="collection-video" controls>
-          <source src="https://player.vimeo.com/video/1004563563?h=9f9c1bf7aa" type="video/mp4">
-        </video>
+        <iframe class="exhibit-small-iframe" src="https://player.vimeo.com/video/1004563563?h=9f9c1bf7aa" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
