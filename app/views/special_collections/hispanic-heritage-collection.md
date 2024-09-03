@@ -8,6 +8,18 @@
 
 ### English
 
+<table class="full-width">
+  <tbody>
+    <tr>
+      <td>
+        <video class="collection-video" controls>
+          <source src="https://player.vimeo.com/video/1004556120?h=472cbf8e4f" type="video/mp4">
+        </video>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 The Hispanic Heritage Collection features thousands of public radio and television programs from the 1960s to the present day, highlighting cultures of diverse Hispanic communities in the United States originating from Mexico, Puerto Rico, El Salvador, Cuba, other countries in Central and South America, and from other Spanish-speaking areas around the world, including territories that became part of the U.S. following the Mexican-American War of 1846-1848. The collection covers a wide range of subjects, such as cultures, histories, artistic endeavors, immigration experiences and issues, civil rights, workers’ rights, and bilingual education.
 
 Beginning in the late 1960s, Latino activists associated with farmworker, Chicano, and Puerto Rican movements spearheaded drives to establish bilingual community radio stations in rural locales and television programming in urban centers to address the diverse lives of Spanish-language speakers. The Hispanic Heritage Collection contains many programs associated with these movements, including nearly 10,000 radio broadcasts from [Radio Bilingüe](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Radio+Bilingue+%28CA%29&sort=asset_date+asc) and [KDNA](/special_collections/radio-kdna) in Washington State’s Yakima Valley, and pioneering television programs like the children’s series [Carrascolendas](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Carrascolendas&sort=asset_date+asc), from Austin, Texas, [Acción Chicano](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Accion+Chicano&sort=title+asc) from Los Angeles, [Realidades](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Realidades&sort=asset_date+asc) from New York, the Emmy-winning [Images/Imagenes](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Images%2FImagenes&sort=asset_date+asc) from the New Jersey Network, WGBH’s [La Plaza](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=La+Plaza&sort=asset_date+asc), and [En Camino](/catalog?f%5Bseries_titles%5D%5B%5D=En+Camino&per_page=100&sort=asset_date+asc&f%5baccess_types%5d%5b%5d=digitized) from KRCB in Rohnert Park, California, among others.
@@ -27,6 +39,18 @@ Other series include [Espejos de Aztlan](/catalog?f%5Bseries_titles%5D%5B%5D=Esp
 These programs, along with many others in the collection, offer glimpses into the lives of Hispanic individuals by highlighting their culture, history, activism, and hardships, showcasing the significant impact they have made on American society. 
 
 ### Español
+
+<table class="full-width">
+  <tbody>
+    <tr>
+      <td>
+        <video class="collection-video" controls>
+          <source src="https://player.vimeo.com/video/1004563563?h=9f9c1bf7aa" type="video/mp4">
+        </video>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 La Colección de Herencia Hispana presenta miles de programas de radio y televisión pública desde la década de 1960 hasta la actualidad, destacando las culturas de diversas comunidades hispanas en los Estados Unidos, provenientes de México, Puerto Rico, El Salvador, Cuba, otros países de Centroamérica y Sudamérica, y de otras áreas de habla hispana en todo el mundo, incluyendo territorios que se convirtieron en parte de los EE.UU. tras la Guerra México-Estadounidense de 1846-1848. La colección abarca una amplia gama de temas, como culturas, historias, esfuerzos artísticos, experiencias y temas relacionados con la inmigración, los derechos civiles, los derechos de los trabajadores y la educación bilingüe.
 
