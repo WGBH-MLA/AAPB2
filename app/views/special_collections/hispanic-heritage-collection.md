@@ -82,9 +82,9 @@ Durante el Mes Nacional de la Herencia Hispana, las instituciones culturales de 
 
 ## Featured
 
-[![Media and the Latin Community; Los Medios De Comunicacion Y La Comunidad Latina](https://s3.amazonaws.com/americanarchive.org/special-collections/realidades-210.png)](/catalog/cpb-aacip-a6c496a73d1)
+[![Media and the Latin Community](https://s3.amazonaws.com/americanarchive.org/special-collections/realidades-210.png)](/catalog/cpb-aacip-a6c496a73d1)
 [![Mi Puerto Rico](https://s3.amazonaws.com/americanarchive.org/special-collections/mi-puerto-rico.png)](/catalog/cpb-aacip-526-gt5fb4xr26)
-[![Notes From The Mambo Inn: The Story of Mario Bauza](https://s3.amazonaws.com/americanarchive.org/special-collections/black-mambo.png)](/catalog/cpb-aacip-15-2z12n4zk3v)
+[![Notes From The Mambo Inn](https://s3.amazonaws.com/americanarchive.org/special-collections/black-mambo.png)](/catalog/cpb-aacip-15-2z12n4zk3v)
 [![Línea Abierta’s Quinceañera](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-99430f6fc1b)
 [![En Camino: Latino Artists; Artistas Latinos](https://s3.amazonaws.com/americanarchive.org/special-collections/camino-312.png)](/catalog/cpb-aacip-88-23vt4dfp)
 [![Libros, Autores Y Personalidades; María de Hostos](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-2af687941c9)
