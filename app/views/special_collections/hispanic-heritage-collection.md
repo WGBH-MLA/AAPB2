@@ -34,7 +34,7 @@ The [Radio KDNA Collection](/special_collections/radio-kdna) includes more than 
 
 Other series include [*Espejos de Aztlan*](/catalog?f%5Baccess_types%5D%5B%5D=online&q=espejos+de+aztlan&sort=score+desc), a bilingual arts and public affairs program from KUNM in New Mexico; [*New Visions, Nuevas Visiones*](/catalog?f%5Bseries_titles%5D%5B%5D=New+visions%2C+Nuevas+visiones&sort=asset_date+asc&f%5baccess_types%5d%5b%5d=digitized) from KUHT in Houston; and [*Hispanic Community*](/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Hispanic+Community&sort=asset_date+asc) from WRVR in New York. Individual programs profile major Hispanic artists and writers, including Dominican American writer [Junot Diaz](/catalog/cpb-aacip-75-354f4xc0?start=424.84&=1416.97), Black Puerto Rican-Cuban writer and poet [Piri Thomas](/catalog/cpb-aacip-75-19s1rrr1), Mexican-American poet and novelist [Luis Alberto Urrea](/catalog/cpb-aacip_15-td9n29ph67), Chicano playwright [Luis Valdez](/catalog/cpb-aacip-375-19s1rs0s), and [Mario Bauzá](/catalog/cpb-aacip-15-2z12n4zk3v), who helped create Afro-Cuban jazz.
 
-These programs, along with many others in the collection, offer glimpses into the lives of Hispanic individuals by highlighting their culture, history, activism, and hardships, showcasing the significant impact they have made on American society. 
+These programs, along with many others in the collection, offer glimpses into the lives of Hispanic individuals by highlighting their culture, history, activism, and hardships, showcasing the significant impact they have made on American society.
 
 ### Español
 
