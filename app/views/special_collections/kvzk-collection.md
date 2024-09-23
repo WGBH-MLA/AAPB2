@@ -29,10 +29,10 @@ Digitization of the KVZK collection was supported by the Council on Library and 
 
 ## Resources
 
-- [Intertel: American Samoa: Paradise Lost?](/catalog/cpb-aacip-512-st7dr2qb71)
+- [*Intertel*, "American Samoa: Paradise Lost?"](/catalog/cpb-aacip-512-st7dr2qb71)
 - [KVZK - Samoa News](https://www.samoanews.com/kvzk)
 - [KVZK TV - Facebook Page](https://www.facebook.com/KVZKTV/)
-- [“ETV Goes On the Air in Samoa,” Honolulu Advertiser, Tuesday, October 6, 1964](https://www.newspapers.com/article/honolulu-star-advertiser-etv-goes-on-the/61505704/)
+- [“ETV Goes On the Air in Samoa,” *Honolulu Advertiser*, Tuesday, October 6, 1964](https://www.newspapers.com/article/honolulu-star-advertiser-etv-goes-on-the/61505704/)
 - [Michael J. Kirwan Educational Television Center](https://home.nps.gov/places/michael-j-kirwan-educational-television-center.htm)
 - [Fale Laumei (Lee Auditorium)](https://www.doi.gov/oia/press/2010/Auditorium-in-American-Samoa)
 
