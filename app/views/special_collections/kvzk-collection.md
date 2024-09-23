@@ -47,5 +47,5 @@ Digitization of the KVZK collection was supported by the Council on Library and 
 
 ## Sort
 
-title+asc
+asset_date+asc
 
