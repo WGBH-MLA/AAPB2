@@ -20,12 +20,12 @@ Digitization of the KVZK collection was supported by the Council on Library and 
 
 ## Featured
 
-[!][Miss American Samoa](https://s3.amazonaws.com/americanarchive.org/special-collections/miss-amer-samoa-featured.jpeg)](/catalog/cpb-aacip-5c8180df20d)
-[!][Soifua Tautua Aspa](https://s3.amazonaws.com/americanarchive.org/special-collections/soifua-tautua-aspa-featured.jpeg)(/cpb-aacip-91245299131)
-[!][Hymn Pavaiai Methodist](https://s3.amazonaws.com/americanarchive.org/special-collections/hymn-pavaiai-methodist-featured.jpeg)(/catalog/cpb-aacip-802f1eebd8f)
-[!][Am. Samoa Flag Day](https://s3.amazonaws.com/americanarchive.org/special-collections/am-samoa-flag-day-featured.jpeg)(/catalog/cpb-aacip-559153e4095)
-[!][Swains Island 80th Anniversary](https://s3.amazonaws.com/americanarchive.org/swains-featured.jpeg)(/catalog/cpb-aacip-7b3072b608d)
-[!][Summer Youth Games](https://s3.amazonaws.com/americanarchive.org/summer-youth-games-featured.jpeg)(/catalog/cpb-aacip-197223284cd)
+[![Miss American Samoa](https://s3.amazonaws.com/americanarchive.org/special-collections/miss-amer-samoa-featured.jpeg)](/catalog/cpb-aacip-5c8180df20d)
+[![Soifua Tautua Aspa](https://s3.amazonaws.com/americanarchive.org/special-collections/soifua-tautua-aspa-featured.jpeg)](/cpb-aacip-91245299131)
+[![Hymn Pavaiai Methodist](https://s3.amazonaws.com/americanarchive.org/special-collections/hymn-pavaiai-methodist-featured.jpeg)](/catalog/cpb-aacip-802f1eebd8f)
+[![Am. Samoa Flag Day](https://s3.amazonaws.com/americanarchive.org/special-collections/am-samoa-flag-day-featured.jpeg)](/catalog/cpb-aacip-559153e4095)
+[![Swains Island 80th Anniversary](https://s3.amazonaws.com/americanarchive.org/swains-featured.jpeg)](/catalog/cpb-aacip-7b3072b608d)
+[![Summer Youth Games](https://s3.amazonaws.com/americanarchive.org/summer-youth-games-featured.jpeg)](/catalog/cpb-aacip-197223284cd)
 
 ## Resources
 
@@ -40,8 +40,8 @@ Digitization of the KVZK collection was supported by the Council on Library and 
 
 ## Funders
 
-[!][Council on Library and Information Resources](https://s3.amazonaws.com/americanarchive.org/special-collections/CLIR Logo.png "CLIR Logo")
-[!][National Endowment for the Humanities](https://s3.amazonaws.com/americanarchive.org/special-collections/NEH Logo.png "NEH Logo")
+- [![CLIR](https://s3.amazonaws.com/americanarchive.org/special-collections/CLIR Logo.jpg "CLIR logo)](https://www.clir.org/)
+- [![NEH](https://s3.amazonaws.com/americanarchive.org/special-collections/NEH Logo.jpg "NEH logo")](https://www.neh.gov/)
 
 ## Timeline
 
