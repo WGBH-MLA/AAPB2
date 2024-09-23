@@ -2213,5 +2213,39 @@
     "location": [42.3572, -71.147],
     "About": "WGBH Educational Foundation (GBH) traces its roots back to 1836, when textile merchant John Lowell, Jr. (of the illustrious \"Lowells of Massachusetts,\" one of America's great early families) left a bequest creating \"free public lectures for the benefit of the citizens of Boston.\" In his will, Lowell set aside $250,000, half his estate, to underwrite the public lectures in perpetuity.\n\nIn the early 1940s the position of Trustee of the Lowell Institute passed to Ralph Lowell. Intrigued by the Federal Communications Commission's 1945 announcement that 20 of the 90 radio channels in the newly relocated frequency modulation (FM) band had been reserved for noncommercial stations, Lowell considered a Lowell Institute FM station as a new way to fulfill the institute's mission. Conversations with James Bryant Conant, president of Harvard University, led instead to the notion that Boston-area universities and colleges produce educational programs for broadcast on commercial AM outlets.\n\nIn 1946, the Lowell Institute Cooperative Broadcasting Council (LICBC) was formed--a cooperative venture with six Boston colleges, broadcasting lectures on commercial radio.\nIn April 1951, the WGBH Educational Foundation was formed, to launch an FM station that would carry the LICBC lectures. The \"GBH\" stood for Great Blue Hill, the site of the station's antenna atop a Harvard-operated weather observatory. The incorporators and original board members were Ralph Lowell (as Trustee of the Lowell Institute), the presidents and treasurers of Harvard and MIT, and the president of the Boston Symphony Orchestra.\n\nNoncommercial radio station WGBH-FM made its initial broadcast on October 6, 1951: the first Saturday-evening performance of the BSO's 71st season, live from Boston's famed Symphony Hall. The broadcast opened with words of welcome from Ralph Lowell and BSO President Henry Cabot. It was the first full-length broadcast of a symphony concert in Boston in 25 years. Only 15 percent of the households in Greater Boston had FM receivers, but GBH's premiere foray was considered a rousing success. During its first year, WGBH-FM broadcast 2,600 hours of programming--10 times the amount the LICBC had been allotted on commercial radio.\n\nOn May 2, 1955, WGBH-TV signed on for the first time. Its first broadcast was Come and See, a program for young children with folk singer Tony Saletan and Mary Lou Adams from Tufts University Nursery Training School. That was followed by Louis Lyons (a WGBH-FM fixture) reading the news before a camera.\n\nMost early \"Channel 2\" programs were course lectures: French Through Television, Your Income Taxes, From Criminal to Citizen. Over time, GBH made its mark by creating programs locally that were shared with other stations--this prior to the creation of the Public Broadcasting Service. Notable among them was Prospects of Mankind, a monthly series in which former First Lady Eleanor Roosevelt interviewed statesmen from all over the world.\nIn 1962, GBH produced three programs on French cooking, after a Cambridge cookbook author appeared on a GBH book-review program and whipped up not only egg whites but an interest in how-to television. Within a year The French Chef with Julia Child was teaching audiences in several major cities to cook with courage. \"Educational TV\" had its first national star--and GBH had the first in a long line of productions that would transform American broadcasting and put the Boston station on the map.\n\nIn 2020, GBH announced a new branding, dropping the broadcast-centric \"W\" from its name and adopted a new logo. Going forward, the organization would be known as GBH to recognize GBH's commitment to on-demand and digital-first content for audiences nationwide through streaming, apps, podcasts, social media, educational curricula and virtual events.\n\nToday, GBH is public broadcasting for New England, the number one producer of PBS programming (on TV, the Web, online, and mobile), a major source of public radio content, and a pioneer in both educational multimedia and media access solutions serving millions of people with disabilities.",
     "Productions": "GBH’s best-known television series include Frontline, NOVA, American Experience, Masterpiece, and PBS’ #1 rated\nAntiques Roadshow. A record in award-winning programs for children began in 1972 with Zoom and includes past shows\nsuch as Degrassi Junior High, Where in the World is Carmen Sandiego, Between the Lions, and FETCH! with Ruff\nRuffman. Current children’s programs include the #1 PBS show for preschoolers (Curious George), the top two ranked\nPBS programs for kids 6-11 (Curious George and Arthur, respectively), and the popular series Peep and the Big Wide\nWorld, Martha Speaks, and Design Squad Nation.\n\nGBH Radio distributes national productions such as The World (co-produced by GBH, PRI, and the BBC), which\nreaches 2.5 million listeners. GBH Radio also serves our local community through analog and digital high-definition\nradio stations, including 89.7 FM and 99.5 FM All Classical. Our radio broadcasts reach over 335,000 listeners weekly,\nand over a hundred thousand more log on to wgbh.org’s live audio streaming each month. In 2012, GBH acquired\nPublic Radio International, whose programs can be heard on over 800 public radio stations.\n\nGBH’s local television productions address the needs and interests of the region through programs like Greater\nBoston (a daily news and public affairs show) and Basic Black (a weekly series focusing on the African-American\nexperience in Boston and beyond). La Plaza, a weekly local program on the culture and concerns of Latino\ncommunities, aired for over 30 years on GBH. A recent addition to GBH’s local line-up is High School Quiz Show,\na televised match-up of competing quiz bowl teams from high schools across the state that is now in its fourth\nseason. In 2012, GBH pioneered a new partnership with New Hampshire Public Television (NHPTV), which will\nstreamline operations and encourage the continued production of thoughtful, community-driven public media."
+  },
+  "NCSG55166": {
+    "Name": "Illinois Institute of Technology",
+    "Short name": "Illinois Institute of Technology",
+    "Logo": "iltechredhoriz.jpg",
+    "State": "Illinois",
+    "City": "Chicago",
+    "Url": "https://www.iit.edu/",
+    "location": [41.8373, -87.6257]
+  },
+    "NCSG55176": {
+    "Name": "KPFT-FM",
+    "Short name": "KPFT-FM",
+    "Logo": "kpft.png",
+    "State": "Texas",
+    "City": "Houston",
+    "Url": "https://kpft.org/",
+    "location": [29.7319, -95.3813]
+  },
+  "NCSG55175": {
+    "Name": "Owen Gottlieb, Ph.D.",
+    "Short name": "Owen Gottlieb, Ph.D.",
+    "State": "Virginia",
+    "City": "Fairfax",
+    "location": [38.8464, -77.3065],
+    "About": "Scholar working on history of instructional television book."
+  },
+  "NCSG55171": {
+    "Name": "Felicia Lowe",
+    "Short name": "Felicia Lowe, Lowedown Productions",
+    "State": "California",
+    "City": "San Francisco",
+    "URl": "https://www.lowedownproductions.com/"
+    "location": [37.7753, -122.4242],
   }
 }
