@@ -2223,7 +2223,7 @@
     "Url": "https://www.iit.edu/",
     "location": [41.8373, -87.6257]
   },
-    "NCSG55176": {
+  "NCSG55176": {
     "Name": "KPFT-FM",
     "Short name": "KPFT-FM",
     "Logo": "kpft.png",
@@ -2245,7 +2245,7 @@
     "Short name": "Felicia Lowe, Lowedown Productions",
     "State": "California",
     "City": "San Francisco",
-    "Url": "https://www.lowedownproductions.com/"
+    "Url": "https://www.lowedownproductions.com/",
     "location": [37.7753, -122.4242]
   }
 }
