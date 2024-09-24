@@ -38,6 +38,8 @@ Digitization of the KVZK collection was supported by the Council on Library and 
 
 ## Help
 
+## Terms
+
 ## Funders
 
 - [![CLIR](https://s3.amazonaws.com/americanarchive.org/org-logos/clir-logo.jpg "CLIR logo")](https://wwww.clir.org/)
