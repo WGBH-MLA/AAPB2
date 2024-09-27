@@ -1,7 +1,5 @@
 # Contribute content to the AAPB!
 
-**Last Modified: September 26, 2024**
-
 ### <p align="center">Funding Available for You to Digitize and Preserve Your Public Broadcasting Materials</p>
  
 The AAPB has received a generous [Mellon Foundation](https://www.mellon.org/grant-story/reel-talk-saving-americas-public-media) grant to fund and support the digitization and preservation of publicly broadcast radio and television programs from producers and stations across the United States.
