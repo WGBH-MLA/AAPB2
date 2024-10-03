@@ -2263,5 +2263,13 @@
     "City": "Grover Beach",
     "Url": "https://xllntradio.wixsite.com/kyxz",
     "location": [35.1218, -120.6175]
+      },
+  "NCSG55177": {
+    "Name": "University of Arkansas, David W. Mullins Library",
+    "Short name": "University of Arkansas, David W. Mullins Library",
+    "State": "Arkansas",
+    "City": "Fayetteville",
+    "Url": "https://libraries.uark.edu/",
+    "location": [36.0693, -94.1736]
   }
 }
