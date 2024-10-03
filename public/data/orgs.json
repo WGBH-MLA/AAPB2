@@ -2247,5 +2247,29 @@
     "City": "San Francisco",
     "Url": "https://www.lowedownproductions.com/",
     "location": [37.7753, -122.4242]
+  },
+  "NCSG55173": {
+    "Name": "WLUR - Washington and Lee University",
+    "Short name": "WLUR - Washington and Lee University",
+    "State": "Virginia",
+    "City": "Lexington",
+    "Url": "https://my.wlu.edu/wlur",
+    "location": [37.7900, -79.4459]
+  },
+  "NCSG55174": {
+    "Name": "Excellent Radio/KYXZ",
+    "Short name": "Excellent Radio/KYXZ",
+    "State": "California",
+    "City": "Grover Beach",
+    "Url": "https://xllntradio.wixsite.com/kyxz",
+    "location": [35.1218, -120.6175]
+  },
+  "NCSG55177": {
+    "Name": "University of Arkansas, David W. Mullins Library",
+    "Short name": "University of Arkansas, David W. Mullins Library",
+    "State": "Arkansas",
+    "City": "Fayetteville",
+    "Url": "https://libraries.uark.edu/",
+    "location": [36.0693, -94.1736]
   }
 }
