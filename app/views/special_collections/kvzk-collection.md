@@ -21,7 +21,7 @@ Digitization of the KVZK collection was supported by the Council on Library and 
 ## Featured
 
 [![Miss American Samoa](https://s3.amazonaws.com/americanarchive.org/special-collections/miss-amer-samoa-featured.jpeg)](/catalog/cpb-aacip-5c8180df20d)
-[![Soifua Tautua Aspa](https://s3.amazonaws.com/americanarchive.org/special-collections/soifua-tautua-aspa-featured.jpeg)](/cpb-aacip-91245299131)
+[![Soifua Tautua Aspa](https://s3.amazonaws.com/americanarchive.org/special-collections/soifua-tautua-aspa-featured.jpeg)](/catalog/cpb-aacip-91245299131)
 [![Hymn Pavaiai Methodist](https://s3.amazonaws.com/americanarchive.org/special-collections/hymn-pavaiai-methodist-featured.jpeg)](/catalog/cpb-aacip-802f1eebd8f)
 [![Am. Samoa Flag Day](https://s3.amazonaws.com/americanarchive.org/special-collections/am-samoa-flag-day-featured.jpeg)](/catalog/cpb-aacip-559153e4095)
 [![Swains Island 80th Anniversary](https://s3.amazonaws.com/americanarchive.org/special-collections/swains-featured.jpeg)](/catalog/cpb-aacip-7b3072b608d)
