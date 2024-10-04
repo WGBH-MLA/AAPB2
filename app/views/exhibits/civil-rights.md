@@ -64,7 +64,7 @@ NAEB began operations in 1934 from a precursor organization that had been formed
 <a name="3"></a><sup>3</sup>Jack Gould, “Radio: Aural Picture of Racial Crisis,” *New York Times*, June 10, 1963.
 
 ## Cover
-  <img title="Cover Image" alt="Black and White photograph from the March on Washington for Jobs and Freedom" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_SignatureImage.jpg">
+  <iframe class="exhibit-small-iframe" src="https://player.vimeo.com/video/1004556120?h=472cbf8e4f" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Gallery
 
