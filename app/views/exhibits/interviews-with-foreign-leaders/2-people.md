@@ -477,7 +477,7 @@ Ordered alphabetically by last name of interviewee, this list includes interview
 - [February 4, 2016, *PBS NewsHour*](https://americanarchive.org/catalog/cpb-aacip-525-gb1xd0rx6p?start=846.81&end=1632.16) | NewsHour Productions<br/>
 
 #### Helmut Schmidt (1918-2015), Chancellor of West Germany, 1974-1982
-- [January 23, 1975, *Bill Moyers Journal: International Report*](https://americanarchive.org/catalog/cpb-aacip-3e634de1b59) | WNET<br/>
+- [January 23, 1975, *Bill Moyers Journal: International Report*](https://americanarchive.org/catalog/cpb-aacip-ad0b2d8f021) | WNET<br/>
 - [November 12, 1987, *War and Peace in the Nuclear Age* interview](https://americanarchive.org/catalog/cpb-aacip-15-6d5p843v5p) | WGBH<br/>
 - [February 21, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-9g5gb1z37d?start=485&end=1614) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 

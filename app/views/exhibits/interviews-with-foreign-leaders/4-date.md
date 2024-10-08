@@ -67,7 +67,7 @@ Ordered by first broadcast or recording date, this list includes interviews with
 
 #### 1975
 ##### Helmut Schmidt (1918-2015), Chancellor of West Germany, 1974-1982
-- [January 23, 1975, *Bill Moyers Journal: International Report*](https://americanarchive.org/catalog/cpb-aacip-3e634de1b59) | WNET<br/>
+- [January 23, 1975, *Bill Moyers Journal: International Report*](https://americanarchive.org/catalog/cpb-aacip-ad0b2d8f021) | WNET<br/>
 
 ##### Nguyễn Văn Thiệu (1923-2001), President of South Vietnam, 1967-1975
 - [January 31, 1975, *Vietnam: A Television History* interview](https://americanarchive.org/catalog/cpb-aacip-15-1c1td9n58k) | WGBH<br/>
