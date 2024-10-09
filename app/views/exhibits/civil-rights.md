@@ -64,15 +64,14 @@ NAEB began operations in 1934 from a precursor organization that had been formed
 <a name="3"></a><sup>3</sup>Jack Gould, “Radio: Aural Picture of Racial Crisis,” *New York Times*, June 10, 1963.
 
 ## Cover
-  <iframe class="exhibit-small-iframe" src="https://player.vimeo.com/video/1004556120?h=472cbf8e4f" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+  <img title="Cover Image" alt="Black and White photograph from the March on Washington for Jobs and Freedom" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_SignatureImage.jpg">
 
 ## Gallery
 
-- <a class="type">image</a>
-  <img alt="Black and White photograph from the March on Washington for Jobs and Freedom" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_SignatureImage.jpg">
-  <a class="caption-text">Warren K. Leffler, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963.</a>
-  <a class="credit-link" href="https://www.loc.gov/rr/print/">Courtesy of U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.</a>
-
+- <a class="type">iframe</a>
+  <a href="https://player.vimeo.com/video/983252534?h=0e726a503d" class="media-url"></a>
+  <a class="asset-url" href="https://player.vimeo.com/video/983252534?h=0e726a503d" class="media-url"></a>
+  <a class="caption-text">Voices from the Southern Civil Rights Movement</a> 
 
 ## Records
 [](/cpb-aacip-28-kw57d2qp45)
