@@ -295,31 +295,21 @@ class Exhibit < Cmless
     %(/exhibits/#{path})
   end
 
-def cover
-  @cover ||= begin
-    doc = Nokogiri::HTML(cover_html)
-    img = doc.css('img').first
-    if img
+ def cover
+    @cover ||= begin
+      img = Nokogiri::HTML(cover_html).css('img').first
       %(<a href='#{uri}'>
-        <div style="background-image: url('#{img['src']}');" class='four-four-box exhibit-section'>
+        <div style="background-image: url('#{img['src'] if img}');" class='four-four-box exhibit-section'>
+
           <div class='exhibit-cover-overlay bg-color-#{%w(purple pink red).sample}'></div>
+
           <div class='exhibit-cover-text'>
             #{title}
           </div>
         </div>
-      </a>).html_safe
-    else
-      %(<a href='#{uri}'>
-        <div class='four-four-box exhibit-section'>
-          <div class='exhibit-cover-overlay bg-color-#{%w(purple pink red).sample}'></div>
-          <div class='exhibit-cover-text'>
-            #{title}
-          </div>
-        </div>
-      </a>).html_safe
+      </a>).html_safe      
     end
   end
-end
 
   def authors
     @authors ||=
