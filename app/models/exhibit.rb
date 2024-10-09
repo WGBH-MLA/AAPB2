@@ -295,7 +295,7 @@ class Exhibit < Cmless
     %(/exhibits/#{path})
   end
 
-  def cover
+ def cover
     @cover ||= begin
       img = Nokogiri::HTML(cover_html).css('img').first
       %(<a href='#{uri}'>
