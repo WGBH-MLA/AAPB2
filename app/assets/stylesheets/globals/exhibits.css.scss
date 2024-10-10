@@ -25,11 +25,21 @@
   height: 97vh;
 }
 
-#exhibit-main iframe.exhibit-small-iframe, #collection-main iframe.exhibit-small-iframe {
+#exhibit-main iframe.exhibit-small-iframe, #collection-main iframe.exhibit-small-iframe, #exgal-main iframe.exhibit-small-iframe {
   width: 100%;
   height: auto;
   min-height: auto;
   aspect-ratio: 16 / 9;
+}
+
+#exgal-main iframe.exhibit-small-iframe {
+  margin-top: 2vh;
+}
+
+#exgal-modal-viewer iframe.exhibit-small-iframe {
+  width: 100%;
+  min-height: 68vh;
+  height: 68vh;
 }
 
 #exhibit-main iframe.exhibit-small-iframe.four-three, #collection-main iframe.exhibit-small-iframe.four-three {
