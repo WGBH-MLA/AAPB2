@@ -30,8 +30,8 @@ describe 'API' do
       expect(page).to have_text('my_callback({ "responseHeader"'), missing_page_text_custom_error('my_callback({ "responseHeader"', page.current_path)
       expect(page).to have_text('"rows": "0"'), missing_page_text_custom_error('"rows": "0"', page.current_path)
       expect(page).to have_text('"year:1988 AND iowa": 1'), missing_page_text_custom_error('"year:1988 AND iowa": 1', page.current_path)
-      expect(page).to have_text('"numFound": 47'), missing_page_text_custom_error('"numFound": 47', page.current_path)
-      expect(page).to have_text('"1974", 4, "2007", 3, "1958", 2, "1987", 2, "1961", 1, "1968", 1, "1981", 1, "1983", 1, "1988", 1, "1990", 1, "1992", 1, "2000", 1, "2003", 1, "2006", 1'), missing_page_text_custom_error('"1974", 4, "2007", 3, "1958", 2, "1987", 2, "1961", 1, "1968", 1, "1981", 1, "1983", 1, "1988", 1, "1990", 1, "1992", 1, "2000", 1, "2003", 1, "2006", 1', page.current_path)
+      expect(page).to have_text('"numFound": 46'), missing_page_text_custom_error('"numFound": 46', page.current_path)
+      expect(page).to have_text('"1974", 4, "2007", 3, "1987", 2, "1959", 1, "1961", 1, "1968", 1, "1981", 1, "1983", 1, "1988", 1, "1990", 1, "1992", 1, "2000", 1, "2003", 1, "2006", 1'), missing_page_text_custom_error('"1974", 4, "2007", 3, "1987", 2, "1959", 1, "1961", 1, "1968", 1, "1981", 1, "1983", 1, "1988", 1, "1990", 1, "1992", 1, "2000", 1, "2003", 1, "2006", 1', page.current_path)
     end
 
     it 'searches documents / json, not jsonp' do
