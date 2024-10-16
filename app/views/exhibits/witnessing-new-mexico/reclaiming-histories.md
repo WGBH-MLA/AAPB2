@@ -40,7 +40,7 @@ Filmed in California, Texas, Minnesota, Georgia, and New Mexico, the award-winni
 
 In [New Mexico in Focus: Luminarios](/catalog/cpb-aacip-23602f4a023), Nadine and Patsy Cordova were teaching Hispanic students about their people’s struggle for civil rights until the school district fired them on February 28, 1997. They later won a half-million-dollar lawsuit.
 
-[¡Colores! Los Valientes](/catalog/cpb-aacip-191-84zgn1z2) celebrates the unknown people of Hispanic northern New Mexico communities. 
+[*¡Colores!* Los Valientes](/catalog/cpb-aacip-191-84zgn1z2) celebrates the unknown people of Hispanic northern New Mexico communities. 
 
 Southwest Sound Collage's [Los Tesoros del Espíritu: A Portrait in Sound of Hispanic New Mexico](/catalog/cpb-aacip-207-61rfjd1n) covers challenges and threats to Hispanic culture in New Mexico as a result of land rights struggles.
 
@@ -48,7 +48,7 @@ In [Espejos de Aztlán](/catalog/cpb-aacip-c198c660e62?start=57.6&end=1922.82), 
 
 In [*Vado: The Unspoken History*](/catalog/cpb-aacip-79e43ae2f15), Henry Boyer, a resident of Georgia who was working for the Army delivering supplies in the late nineteenth century, became enchanted by New Mexico during a brief visit. Boyer dreamed of creating a life where Blacks could own land, raise families, and live in peace in southern New Mexico.
 
-[¡Colores! Blackdom](/catalog/cpb-aacip-191-182jm7sh?start=103.36&end=1719.47) is the virtually untold story of Black pioneers Frank and Ella Boyer, who dreamed of creating a “colony” for Black people in NM.
+[*¡Colores!* Blackdom](/catalog/cpb-aacip-191-182jm7sh?start=103.36&end=1719.47) is the virtually untold story of Black pioneers Frank and Ella Boyer, who dreamed of creating a “colony” for Black people in NM.
 
 [Women of the Land](/catalog/cpb-aacip-4e9db3deaf4?start=845.39&end=1124.63) is a short documentary about Vado (New Mexico) with community leader Gussie Mae Braddy.
 
@@ -58,7 +58,7 @@ In [New Mexico in Focus: Black Business Leaders in New Mexico](/catalog/cpb-aaci
 
 From Moments in Time: Stories of New Mexico's History, [*Remembering the Santa Fe Japanese Internment Camp*](/catalog/cpb-aacip-7d62f718638) details the experiences of Japanese Americans who were forced to relocate to Santa Fe, New Mexico to live in the internment camp. From 1942 to 1945, the U.S. government incarcerated people of Japanese descent, including U.S. citizens, in these isolated camps across the western half of the U.S. 
 
-[¡Colores! The Japanese American Experience in New Mexico](/catalog/cpb-aacip-191-87pnw5pp?start=121.51&end=1266.64) details the Japanese American experience in New Mexico, from World War II concentration camps to present day migration.
+[*¡Colores!* The Japanese American Experience in New Mexico](/catalog/cpb-aacip-191-87pnw5pp?start=121.51&end=1266.64) details the Japanese American experience in New Mexico, from World War II concentration camps to present day migration.
 
 Nikki Nojima Louis' father was sent to the internment camp in Santa Fe and she and her mother were sent to Idaho. In [New Mexico in Focus: Internment Camps for Japanese Americans](/catalog/cpb-aacip-22369c20fee?start=618.63&end=1540.38), she discusses this experience.
 
