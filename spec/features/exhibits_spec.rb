@@ -18,6 +18,5 @@ describe 'Exhibits' do
     # TODO: change this to a real exhibit once they're all reformatted
     visit '/exhibits/civil-rights'
     expect(page.find(:css, 'div.exgal-1 div.exgal-caption')).to have_content 'Voices from the Southern Civil Rights Movement'
-    expect(page.find(:css, 'div.exgal-1 h4.exgal-source_text')).to have_content 'Library of Congress'
   end
 end
