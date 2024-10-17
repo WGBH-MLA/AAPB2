@@ -68,10 +68,10 @@ NAEB began operations in 1934 from a precursor organization that had been formed
 
 ## Gallery
 
-- <a class="type">image</a>
-  <img alt="Black and White photograph from the March on Washington for Jobs and Freedom" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_SignatureImage.jpg">
-  <a class="caption-text">Warren K. Leffler, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963.</a>
-  <a class="credit-link" href="https://www.loc.gov/rr/print/">Courtesy of U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.</a>
+- <a class="type">iframe</a>
+  <a href="https://player.vimeo.com/video/983252534?h=0e726a503d" class="media-url"></a>
+  <a class="asset-url" href="https://player.vimeo.com/video/983252534?h=0e726a503d" class="media-url"></a>
+  <a class="caption-text">Voices from the Southern Civil Rights Movement</a> 
 
 
 ## Records
@@ -109,3 +109,52 @@ NAEB began operations in 1934 from a precursor organization that had been formed
 [](/cpb-aacip-15-88qc028z)
 [](/cpb-aacip-28-mk6542jr2r)
 [](/cpb-aacip-28-125q814w5v)
+[](/cpb-aacip-512-0000000s66)
+[](/cpb-aacip-512-028pc2v166)
+[](/cpb-aacip-512-0r9m32p30h)
+[](/cpb-aacip-512-154dn40k35)
+[](/cpb-aacip-512-1g0ht2h48t)
+[](/cpb-aacip-512-1v5bc3tn06)
+[](/cpb-aacip-512-2f7jq0tp0t)
+[](/cpb-aacip-512-3f4kk9531w)
+[](/cpb-aacip-512-3t9d50gs73)
+[](/cpb-aacip-512-3x83jx39t5x)
+[](/cpb-aacip-512-4f1mg7gm89)
+[](/cpb-aacip-512-4j09w09v2n)
+[](/cpb-aacip-512-4x54f1nc5p)
+[](/cpb-aacip-512-6w96689f06)
+[](/cpb-aacip-512-7659c6sv19)
+[](/cpb-aacip-512-7940r9n099)
+[](/cpb-aacip-512-8p5v69945b)
+[](/cpb-aacip-512-901zc7sm4c)
+[](/cpb-aacip-512-901zc7sp57)
+[](/cpb-aacip-512-9882j6926j)
+[](/cpb-aacip-512-9k45q4sh58)
+[](/cpb-aacip-512-9z90864382)
+[](/cpb-aacip-512-b56d21sd0c)
+[](/cpb-aacip-512-b853f4mj3k)
+[](/cpb-aacip-512-bz6154fm6p)
+[](/cpb-aacip-512-cr5n873x76)
+[](/cpb-aacip-512-cz3222s465)
+[](/cpb-aacip-512-f47gq6rz2w)
+[](/cpb-aacip-512-gb1xd0rs11)
+[](/cpb-aacip-512-hh6c24rp7v)
+[](/cpb-aacip-512-j38kd1rh4w)
+[](/cpb-aacip-512-n58cf9k96w)
+[](/cpb-aacip-512-ns0ks6k508)
+[](/cpb-aacip-512-pv6b27qs9d)
+[](/cpb-aacip-512-qj77s7jv10)
+[](/cpb-aacip-512-rb6vx0718m)
+[](/cpb-aacip-512-rr1pg1jn8b)
+[](/cpb-aacip-512-rx9377726q)
+[](/cpb-aacip-512-sj19k46w3j)
+[](/cpb-aacip-512-t14th8cn3p)
+[](/cpb-aacip-512-tm71v5cj4k)
+[](/cpb-aacip-512-w66930q07x)
+[](/cpb-aacip-512-wp9t14vt8n)
+[](/cpb-aacip-512-x05x63c90z)
+[](/cpb-aacip-512-x34mk66b0d)
+[](/cpb-aacip-512-zk55d8pm71)
+[](/cpb-aacip-15-9zg6g70c)
+[](/cpb-aacip-516-bg2h708x4d)
+[](/cpb-aacip-62-5m6251fv96)
