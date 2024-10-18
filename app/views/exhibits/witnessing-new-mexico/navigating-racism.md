@@ -1,6 +1,6 @@
 # Part 3: Navigating Racism
 
-4
+3
 
 ## Summary
 
