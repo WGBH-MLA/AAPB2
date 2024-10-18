@@ -1,6 +1,6 @@
 # Part 2: Sharing Stories
 
-3
+2
 
 ## Summary
 
