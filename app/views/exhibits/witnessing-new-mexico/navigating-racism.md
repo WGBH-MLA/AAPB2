@@ -1,6 +1,6 @@
 # Part 3: Navigating Racism
 
-3
+4
 
 ## Summary
 
@@ -82,3 +82,11 @@ COVID-19 has laid bare many systemic failures here in New Mexico, often revolvin
 [Illustrated Daily: Police Force](/catalog/cpb-aacip-68425d12a09) discusses excessive police force and the balance between upholding enforcement and maintaining individual civil rights.
 
 [The 77th: The Making of a Peace Officer](/catalog/cpb-aacip-191-25k98wcp) follows the 77th training class of the Albuquerque Police Department Academy.
+
+## Resources
+
+## Cover
+
+## Gallery
+
+## Records
