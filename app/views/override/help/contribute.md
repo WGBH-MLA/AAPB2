@@ -1,6 +1,6 @@
 # Contribute content to the AAPB!
 
-### <p align="center">Funding Available for You to Digitize and Preserve Your Public Broadcasting Materials</p>
+### **Funding Available for You to Digitize and Preserve Your Public Broadcasting Materials**
 
 The AAPB has received a generous [Mellon Foundation](https://www.mellon.org/grant-story/reel-talk-saving-americas-public-media) grant to fund and support the digitization and preservation of publicly broadcast radio and television programs from producers and stations across the United States.
 
@@ -11,7 +11,7 @@ The AAPB has received a generous [Mellon Foundation](https://www.mellon.org/gran
 -	**Preserve your programming's legacy** - Your programs will be safeguarded at the Library of Congress, ensuring that researchers and future generations can learn from and enjoy them.
 -	**Expert guidance** - AAPB archivists provide project management support throughout the preservation process.
 
-### <p align="center">Digitization Submission Procedures</p>
+### **Digitization Submission Procedures**
 
 The AAPB invites stations, producers, and archivists to submit their collections for the Mellon-funded Digital Preservation Project. To streamline the process, the AAPB has developed the following step-by-step guide:
 
@@ -23,7 +23,7 @@ The AAPB invites stations, producers, and archivists to submit their collections
 
 **Contact**: For any questions about working with the American Archive of Public Broadcasting you can email: aapb_submissions@wgbh.org.
 
-### <p align="center">Learn More About the AAPB and the Digital Preservation Project</p>
+### **Learn More About the AAPB and the Digital Preservation Project**
 
 In 2007, the Corporation for Public Broadcasting launched an initiative to develop a digital public broadcasting archive. The Library of Congress and GBH took over stewardship of the American Archive of Public Broadcasting in 2013 with the goal to preserve and make accessible significant historical content created by public media, and to coordinate a national effort to save at-risk public media before its content is lost to posterity. Since 2013, the AAPB has archived more than 190,000 items from more than 550 stations and producers.
 
