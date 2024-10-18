@@ -12,6 +12,12 @@ In addition to preserving the content for present and future generations, the NM
 
 NMPM Digitization Project’s fellows David P. Saiz and Dr. Rachel Snow have created *Witnessing New Mexico: The New Mexico Public Media Digitization Project*, a digital exhibit to celebrate the newly preserved collection. The exhibit invites viewers to witness numerous ways that communities in the state have historically been impacted by and offered resistance to processes of discrimination and marginalization. Television and radio programs produced by New Mexico public media since 1960 have covered the inequitable treatment of people based on differences in ethnicity, race, class, gender, sexual orientation, citizenship status, tribal affiliations, and intellectual and physical (dis)abilities. *Witnessing New Mexico* presents these programs with the goal of fostering more widespread awareness, while also inspiring community action, tolerance, understanding, and reflection.
 
+## Extended
+
+## Authors
+
+## Resources
+
 ## Main
 
 ### Introduction
@@ -20,4 +26,11 @@ NMPM Digitization Project’s fellows David P. Saiz and Dr. Rachel Snow have cre
 
 The word “witnessing” is key to understanding the intent of this exhibit because it underscores the vital role that contemporary viewers can play in the active, ongoing reinterpretation and relearning of New Mexico’s history. Throughout this exhibit, viewers can witness how language and civic life have changed in response to federal and state policies, social advocacy and resistance, and the re-visioning of historical narratives as conveyed through public media by communities that undergo constant discrimination. 
 
-With its three thematic sections, *Witnessing New Mexico* hopes to engage viewers in the process of watching and listening to first-hand, personal expressions of human experiences that have remained inaccessible for decades. The oral stories, conversations, and interviews in this exhibit present an expansive array of past and recent perspectives about New Mexico and its peoples that warrant the attention not only of New Mexicans but of other Americans as well. 
+With its three thematic sections, *Witnessing New Mexico* hopes to engage viewers in the process of watching and listening to first-hand, personal expressions of human experiences that have remained inaccessible for decades. The oral stories, conversations, and interviews in this exhibit present an expansive array of past and recent perspectives about New Mexico and its peoples that warrant the attention not only of New Mexicans but of other Americans as well.
+
+## Cover
+
+## Gallery 
+
+## Records
+
