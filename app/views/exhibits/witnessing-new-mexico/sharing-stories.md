@@ -1,6 +1,6 @@
 # Part 2: Sharing Stories
 
-2
+3
 
 ## Summary
 
@@ -111,3 +111,11 @@ Peace Talks Radio co-founders Paul Ingles and Suzanne Kryder discuss peacemaking
 In [*¡Colores!* Witness for the World](/catalog/cpb-aacip-191-547pvs4n), the Dalai Lama, Tensin Gyatso, champions the cause of peace through non-violence.
 
 Peace Pilgrim (Mildred Lisette Norman) walked across the United States for 28 years, speaking with others about peace. Witness her story in [Public Affairs: Peace Pilgrim](/catalog/cpb-aacip-207-16pzgp7h).
+
+## Resources
+
+## Cover
+
+## Gallery
+
+## Records
