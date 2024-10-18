@@ -1,7 +1,5 @@
 # Witnessing New Mexico: The New Mexico Public Media Digitization Project
 
-1
-
 ## Summary
 
 The New Mexico Public Media (NMPM) Digitization Project, an innovative statewide initiative of five leading New Mexico public media stations and the American Archive of Public Broadcasting (AAPB), was created to digitally preserve decades’ worth of irreplaceable public television and radio programs produced in New Mexico. The project was led by New Mexico PBS and funded through a generous grant from the Council on Library and Information Resources.  
