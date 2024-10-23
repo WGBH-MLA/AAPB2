@@ -171,11 +171,7 @@ class Exhibit < Cmless
   def thumbnail_url
     @thumbnail_url ||=
       begin
-        img = Nokogiri::HTML(cover_html).xpath('//img[1]/@src').first
-        img = Nokogiri::HTML(summary_html).xpath('//img[1]/@src').first unless img
-        img = Nokogiri::HTML(gallery_html).xpath('//img[1]/@src').first unless img
-        img = Nokogiri::HTML(main_html).xpath('//img[1]/@src').first unless img
-        img.text
+        Nokogiri::HTML(cover_html).xpath('//img[1]/@src').first.try(:text) || "/site-ui/aapb-square-logo.png"
       end
   end
 
