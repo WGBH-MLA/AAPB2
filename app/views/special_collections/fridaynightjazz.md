@@ -16,6 +16,8 @@ Listeners will find in Reuben’s selections an eclectic mix of jazz classics an
 
 *Friday Night Jazz with Reuben Jackson* was broadcast on Vermont Public Radio (VPR) Friday nights from 8pm to 11pm between 2012 and 2018. VPR contributed a collection of 145 programs from the series to AAPB from the years 2012, 2015, 2016, 2017, and 2018. Host Reuben Jackson selected a sample of 17 of these programs for online access in this collection.
 
+Reuben Jackson passed away on Friday, February 16, 2024, after suffering complications from a recent stroke. We are deeply honored to help celebrate Reuben's life through this collection.
+
 ## Featured
 
 [![October 26, 2012](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_527-862b854m0m)
@@ -23,7 +25,7 @@ Listeners will find in Reuben’s selections an eclectic mix of jazz classics an
 [![June 3, 2016](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_527-pk06w97j9x)
 [![August 11, 2017](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_527-6t0gt5gg4f)
 [![October 6, 2017](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_527-jm23b5xh14)
-[![January 26, 2018](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_527-6t0gt5gg4f)
+[![January 26, 2018](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-527-959c53g402)
  
 ## Resources
 

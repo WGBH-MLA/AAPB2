@@ -24,44 +24,34 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 <br>Chief Content Strategist, Levine Museum of the New South, Charlotte, North Carolina
 
 **Tom Bober (EduAC Co-Chair)**
-<br>District Library Coordinator, School District of Clayton, MO
+<br>School Librarian, School District of Clayton, MO
 
->”The American Archive of Public Broadcasting's [*Share a Segment*](https://americanarchivepb.wordpress.com/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/) feature makes the thousands of hours of programming and original materials accessible to students of all ages. Instead of sharing an hour-long program and asking students to find time-stamps, educators are able to share a link that targets students' attention to a segment of any length specific to their curriculum.”
+>"The American Archive of Public Broadcasting's Share a Segment feature makes the thousands of hours of programming and original materials accessible to students of all ages. Instead of sharing an hour-long program and asking students to find time-stamps, educators are able to share a link that targets students' attention to a segment of any length specific to their curriculum."
 
-**Joel Breakstone**
-<br>Director, Stanford History Education Group
+**Joel Breakstone (EduAC Co-Chair)**
+<br>Co-Founder and Executive Director, Digital Inquiry Guide, and Former Director, Stanford History Education Group
 
->”The American Archive of Public Broadcasting is an indispensable resource. Our team frequently turns to the AAPB's incredible collection of audio and visual sources when we are developing lesson plans. We also recommend it to teachers looking for materials for inquiry-based history instruction.”
+>"The American Archive of Public Broadcasting is an indispensable resource. Our team frequently turns to the AAPB's incredible collection of audio and visual sources when we are developing lesson plans. We also recommend it to teachers looking for materials for inquiry-based history instruction."
 
-**Laura Evans**
-<br>Director of Education, Georgia Public Broadcasting
+**María Carreira**
+<br>Executive Director, American Association of Teachers of Spanish & Portuguese
 
->”The American Archive of Public Broadcasting is a unique platform that draws on some of the most significant events in recent American memory. These resources are an invaluable addition to the universe of content available to educators and students through public media. Our Georgia educators are thrilled to be able to bring such intimate perspectives on our nation's history into their classrooms.“
+**Andrew (A.J.) Chambers**
+<br>Teacher and Media Advisor, Horse Creek Academy and Digital Media Committee Member, Journalism Education Association
 
 **Justin Jakovac**
 <br>Executive Director, Mountain-Plains Museums Association
 
 **Benjamin Leff**
-<br>Social Studies Teaching Associate, University Laboratory High School, Urbana, IL
+<br>Social Studies Teaching Associate, University Laboratory High School, University of Illinois, Urbana-Champaign
 
->”As a high school history teacher, it's wonderful to be able to point students to trusted websites like the American Archive of Public Broadcasting. The [national collection](https://urldefense.com/v3/__https:/americanarchive.org/participating-orgs__;!!DZ3fjg!pW7b0LZ3ec3R0EtusZlyBEvcO-Fp3HCyuOLOjVsgXvUanEIUvREZIL4DXo7emHjT$) of public radio and television content provide engaging primary sources, and the [Curated Exhibits](https://urldefense.com/v3/__https:/americanarchive.org/exhibits__;!!DZ3fjg!pW7b0LZ3ec3R0EtusZlyBEvcO-Fp3HCyuOLOjVsgXvUanEIUvREZIL4DXghciEEP$) contextualize these sources with historical and analytical analysis. Take for example the [Televising Black Politics in the Black Power Era: Black Journal and Soul!](https://urldefense.com/v3/__https:/americanarchive.org/exhibits/black-power__;!!DZ3fjg!pW7b0LZ3ec3R0EtusZlyBEvcO-Fp3HCyuOLOjVsgXvUanEIUvREZIL4DXnUQxNnh$) exhibit. It can be hard to find resources like this that provide students with accessible audiovisual content that efficiently contextualizes their importance. Sources like these provide the basis for stimulating classroom discussions, as well as a rich mine for student research projects.”
+>"As a high school history teacher, it's wonderful to be able to point students to trusted websites like the American Archive of Public Broadcasting. The [national collection](/participating-orgs) of public radio and television content provide engaging primary sources, and the [Curated Exhibits](/exhibits) contextualize these sources with historical and analytical analysis. Take for example the [Televising Black Politics in the Black Power Era: Black Journal and Soul!](/exhibits/black-power) exhibit. It can be hard to find resources like this that provide students with accessible audiovisual content that efficiently contextualizes their importance. Sources like these provide the basis for stimulating classroom discussions, as well as a rich mine for student research projects."
 
 **Kristin Lehner**
-<br>Director, Secondary Education Content & Curriculum Strategy, PBS Education
+<br>Senior Director of Content and Curriculum, PBS LearningMedia
 
-**Lawrence M. Paska, Ph.D**
-<br>Executive Director, National Council for the Social Studies
-
-**Lee Ann Potter (EduAC Co-Chair)**
-<br>Director of Learning and Innovation Office, Library of Congress
-
->”Primary sources are powerful teaching tools.  Unfortunately, finding free, multimedia primary sources from authoritative sources that are rights-free can be particularly challenging for teachers.  AAPB is a wonderful site for such materials!”
-
-**Jen Reidel**
-<br>Social Studies Teacher 9-12, Bellingham School District, WA
-
-**Nate Sleeter**
-<br>Research Assistant Professor, Roy Rosenzweig Center for History and New Media, George Mason University
+**Stephen Wesson**
+<br>Manager of Professional Learning Products, Library of Congress
 
 ---
 

@@ -233,6 +233,7 @@ $(function() {
   // JS default sort is lexicographic.
 
   var $player = $('#player_media_html5_api');
+
   // chrome needs this!!
   if($player[0]){
     var proxyStartTime = getParameterByName('proxy_start_time');
@@ -388,8 +389,8 @@ $(function() {
     updateTranscriptButton();
   }
 
-  $('#transcript-message-close').unbind('click').on('click', function() {
-    $('#transcript-message').slideUp(500);
+  $('.transcript-message-close').unbind('click').on('click', function() {
+    $('.transcript-message').slideUp(500);
   });
 
   $('.share-at-time').change(function() {
@@ -428,7 +429,7 @@ $(function() {
   });
 
   // check for this empty element to show modal
-  if($("#legal-modal").length > 0){
+  if($("#legal-modal").length > 2){
     let modalMsg = document.createElement("div")
     modalMsg.innerHTML = "By accessing this content you agree to the AAPB's <a href='/legal/orr-rules'>Online Reading Room Rules of Use</a>. Click this message to continue."
 

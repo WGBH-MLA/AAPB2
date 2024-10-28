@@ -25,21 +25,47 @@
   height: 97vh;
 }
 
-#exhibit-main iframe.exhibit-small-iframe {
+#exhibit-main iframe.exhibit-small-iframe, #collection-main iframe.exhibit-small-iframe, #exgal-main iframe.exhibit-small-iframe {
   width: 100%;
   height: auto;
   min-height: auto;
   aspect-ratio: 16 / 9;
 }
+
+#exgal-main iframe.exhibit-small-iframe {
+  margin-top: 2vh;
+}
+
+#exgal-modal-viewer iframe.exhibit-small-iframe {
+  width: 100%;
+  min-height: 68vh;
+  height: 68vh;
+}
+
+#exhibit-main iframe.exhibit-small-iframe.four-three, #collection-main iframe.exhibit-small-iframe.four-three {
+  aspect-ratio: 4 / 3;
+}
+
 @media only screen and (min-width: 992px) {
-#exhibit-main iframe.exhibit-small-iframe {
-  max-width: 80%;
-  margin-left: 10%;
+  #exhibit-main iframe.exhibit-small-iframe, #collection-main iframe.exhibit-small-iframe {
+    max-width: 80%;
+    margin-left: 10%;
+  }
 }
-}
+
 .exhibit-image {
   float: right;
   padding: 0 5px;
+}
+
+table.full-width {
+  width: 100%;
+}
+
+table.full-width caption {
+  float: left;
+  width: 50%;
+  margin-left: 25%;
 }
 
 table.exhibit-image.half-image {
@@ -77,17 +103,33 @@ table.exhibit-image.med-image {
   margin-bottom: 6vh !important;
   padding-left: 35%;  
 }
-
-
 table.exhibit-image.med-image img {
   max-height: 20em;
   max-width: 20em;
-/*  margin-left: 65%;*/
   padding: 0;
 }
 table.exhibit-image.med-image caption {
-/*  margin-left: 90%;
-  width: 50%;*/
+
+  padding: 0;
+}
+
+table.exhibit-image.medlarge-image {
+  text-align: center;
+  display: inline-block;
+  min-width: 100%;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 6vh !important;
+  padding-left: 30%;  
+}
+table.exhibit-image.medlarge-image img {
+  min-width: 30em;
+  max-height: 30em;
+  max-width: 30em;
+  padding: 0;
+}
+table.exhibit-image.medlarge-image caption {
+
   padding: 0;
 }
 

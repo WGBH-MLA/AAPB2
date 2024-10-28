@@ -27,7 +27,7 @@ This special collection was created by Ryan Lakin, graduate student at New York 
 
 ## Resources
 
-- [Pacifica Radio Archives Finding Aid](https://www.pacificaradioarchives.org/keyword-search)
+- [Pacifica Radio Archives Finding Aid](https://www.pacificaradioarchives.org/)
 - [The Pacifica Radio/UC Berkeley Social Activism Project](https://guides.lib.berkeley.edu/pacifica)
 - [Pacifica Network](https://pacificanetwork.org/)
 - [Pacifica Radio Archives’ “From the Vault”](http://fromthevaultradio.org/home/)
