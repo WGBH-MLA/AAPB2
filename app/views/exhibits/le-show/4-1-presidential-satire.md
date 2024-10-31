@@ -15,7 +15,7 @@ Shearer's Nixon runs across the history of *Le Show*, from cameo calls to "The L
 "Are you obsessed with Nixon?" Marc Maron asked Shearer in a 2015 interview, soon after the U.S. debut of Shearer's six-episode television series, *Nixon’s the One*.[<sup>78</sup>](/exhibits/le-show/notes#78) "Fascinated," Shearer replied. "I wouldn't say obsessed. You know, I don't dream about him."[<sup>79</sup>](/exhibits/le-show/notes#79) Shearer might well be obsessed with telephony, however, given how regularly it and devices for recording it are featured in *Le Show* sketches.
 
 <table class="exhibit-image med-image">
-<caption align="bottom" class="exhibit-caption">Shearer in *Nixon’s the One*, https://harryshearer.com/projects/nixons-the-one/.</caption>
+<caption align="bottom" class="exhibit-caption">Shearer in Nixon’s the One, https://harryshearer.com/projects/nixons-the-one/.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/OLI_7832-cropped.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/OLI_7832-cropped.jpg" alt="Shearer in *Nixon's the One*."/></a></td></tr>
 </table>
 
