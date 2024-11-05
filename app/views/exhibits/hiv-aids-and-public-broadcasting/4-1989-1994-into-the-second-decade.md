@@ -124,16 +124,8 @@ This educational radio program aimed to teach women how to protect themselves fr
 
 ## Resources
 
-- [*Frontline: The Age of AIDS* site](https://www.pbs.org/wgbh/pages/frontline/aids/)
-- [ACT UP Oral History Project](https://www.actuporalhistory.org/)
-- [ACT UP Historical Archive](https://actupny.org/)
-- [Bay Area Reporter Archives](https://archive.org/details/bayareareporter)
-- [Gay Community News](https://lgbtqahistory.library.northeastern.edu/gay-community-news/)
-- [Outweek Internet Archive](http://www.outweek.net/)
-- [National AIDS Memorial / NAMES Project AIDS Quilt](https://www.aidsmemorial.org/)
-- [AmfAR's "Snapshots of an Epidemic: An HIV/AIDS Timeline"](https://www.amfar.org/about-hiv-aids/hiv-aids-snapshots-of-an-epidemic/)
-- [ACT UP FDA Handbook by Jim Eigo, Mark Harrington, Margaret McCarthy, Stephen Spinella, and Rick Sugden (9/12/1988)](https://actupny.org/documents/FDAhandbook1.html)
-- [*How to Survive a Plague* (dir. David France, 2012)](https://www.kanopy.com/en/product/12157233)
+- [The AIDS Quarterly/The Health Quarterly (GBH Open Vault)](https://openvault.wgbh.org/collections/aqhq/collection-summary) 
+- [OutWeek Internet Archive](http://www.outweek.net)
 
 ## Cover
   <img title="Cover Image" alt="Newsnight Maryland HAART." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Newsnight Maryland HAART.PNG">
