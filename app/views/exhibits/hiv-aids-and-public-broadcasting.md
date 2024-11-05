@@ -70,6 +70,15 @@ A special thank you to Fabio Toblini, who granted the AAPB permission to add act
 
 #### Next: [1981-1985: Early Reporting on the "Gay Disease"](/exhibits/hiv-aids-and-public-broadcasting/2-1981-1985-early-reporting-on-the-gay-disease)
 
+## Resources
+
+- [HIV/AIDS Web Archive (National Library of Medicine)](https://archive-it.org/collections/8400)
+- [HIV and AIDS: 30 Years Ago (Smithsonian National Museum of American History)](https://hivaids.omeka.net/collections/browse)
+- [How To Survive a Plague (dir. David France, 2012)](https://www.kanopy.com/en/product/12157233)
+- [LGBTQIA+ Studies: A Resource Guide – HIV and AIDS (Library of Congress)](https://guides.loc.gov/lgbtq-studies/subject/hiv-aids)
+- [National AIDS Memorial / NAMES Project AIDS Quilt](https://www.aidsmemorial.org)
+- [Snapshots of an Epidemic: An HIV/AIDS Timeline (amfAR)](https://www.amfar.org/about-hiv-aids/hiv-aids-snapshots-of-an-epidemic/)
+
 ## Cover CHANGE
   <img title="Cover Image" alt="NJN New Jersey Helpline." src="https://s3.amazonaws.com/americanarchive.org/exhibits/6_NJN New Jersey Helpline 1988.PNG">
 
