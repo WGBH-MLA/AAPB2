@@ -72,22 +72,15 @@ With increased concern about AIDS spreading to the general population came furth
 Notably, Jackson was asked his opinion on accusations from the gay community that researchers and the government had failed people with AIDS in the early years of the epidemic. He noted perceptions that the Reagan administration, "because of its very high association with very fundamentalist religious principles and its conservatism, for a long time wanted to ignore the fact that AIDS was out there. And that there were a number of people who were supportive of that administration who felt, perhaps, the way many fundamentalists do that AIDS may in fact be a ravage that is caused by immoral behavior and what have you. I think we that we have gone past that now."
 
 At the end of 1985, 15,527 cases of AIDS had been reported, and there were 12,529 recorded deaths related to AIDS. President Reagan had yet to publicly address the epidemic, federal funding for HIV/AIDS research and prevention efforts were virtually non-existent, and news coverage was finally picking up.[<sup>38</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#38)     
- 
 
 #### Next: [1986-1988: The AIDS Special Program](/exhibits/hiv-aids-and-public-broadcasting/3-1986-1988-the-aids-special-program)
 
 ## Resources
 
-- [*Frontline: The Age of AIDS* site](https://www.pbs.org/wgbh/pages/frontline/aids/)
-- [ACT UP Oral History Project](https://www.actuporalhistory.org/)
-- [ACT UP Historical Archive](https://actupny.org/)
-- [Bay Area Reporter Archives](https://archive.org/details/bayareareporter)
-- [Gay Community News](https://lgbtqahistory.library.northeastern.edu/gay-community-news/)
-- [Outweek Internet Archive](http://www.outweek.net/)
-- [National AIDS Memorial / NAMES Project AIDS Quilt](https://www.aidsmemorial.org/)
-- [AmfAR's "Snapshots of an Epidemic: An HIV/AIDS Timeline"](https://www.amfar.org/about-hiv-aids/hiv-aids-snapshots-of-an-epidemic/)
-- [ACT UP FDA Handbook by Jim Eigo, Mark Harrington, Margaret McCarthy, Stephen Spinella, and Rick Sugden (9/12/1988)](https://actupny.org/documents/FDAhandbook1.html)
-- [*How to Survive a Plague* (dir. David France, 2012)](https://www.kanopy.com/en/product/12157233)
+- [HIV/AIDS Web Archive (National Library of Medicine)](https://archive-it.org/collections/8400)
+- [HIV and AIDS: 30 Years Ago (Smithsonian National Museum of American History)](https://hivaids.omeka.net/collections/browse)
+- [LGBTQIA+ Studies: A Resource Guide – HIV and AIDS (Library of Congress)](https://guides.loc.gov/lgbtq-studies/subject/hiv-aids)
+- [National AIDS Memorial / NAMES Project AIDS Quilt](https://www.aidsmemorial.org)
 
 ## Cover
   <img title="Cover Image" alt="NJN New Jersey Helpline." src="https://s3.amazonaws.com/americanarchive.org/exhibits/6_NJN New Jersey Helpline 1988.PNG">
