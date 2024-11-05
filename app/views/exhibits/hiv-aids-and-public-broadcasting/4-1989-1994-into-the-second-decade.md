@@ -119,3 +119,25 @@ This program marked ten years since AIDS had been identified. By 1991, more than
 **[“Women’s Educational Panel Promotional,”](/catalog/cpb-aacip-207-80ht7fhs) (KUNM, Albuquerque), June 17, 1994**
 
 This educational radio program aimed to teach women how to protect themselves from HIV/AIDS, which was “becoming more and more a heterosexual disease,” and promoted an educational event at a Presbyterian Church in Albuquerque. Information was provided by Jeannie Boyle, member of the Board of Directors of the New Mexico AIDS Services, who coordinated the panel.
+
+#### Next: [1989-1991: Broadcasting ACT UP Direct Action](/exhibits/hiv-aids-and-public-broadcasting/5-1989-1991-broadcasting-act-up-direct-action)
+
+## Resources
+
+- [*Frontline: The Age of AIDS* site](https://www.pbs.org/wgbh/pages/frontline/aids/)
+- [ACT UP Oral History Project](https://www.actuporalhistory.org/)
+- [ACT UP Historical Archive](https://actupny.org/)
+- [Bay Area Reporter Archives](https://archive.org/details/bayareareporter)
+- [Gay Community News](https://lgbtqahistory.library.northeastern.edu/gay-community-news/)
+- [Outweek Internet Archive](http://www.outweek.net/)
+- [National AIDS Memorial / NAMES Project AIDS Quilt](https://www.aidsmemorial.org/)
+- [AmfAR's "Snapshots of an Epidemic: An HIV/AIDS Timeline"](https://www.amfar.org/about-hiv-aids/hiv-aids-snapshots-of-an-epidemic/)
+- [ACT UP FDA Handbook by Jim Eigo, Mark Harrington, Margaret McCarthy, Stephen Spinella, and Rick Sugden (9/12/1988)](https://actupny.org/documents/FDAhandbook1.html)
+- [*How to Survive a Plague* (dir. David France, 2012)](https://www.kanopy.com/en/product/12157233)
+
+## Cover
+  <img title="Cover Image" alt="Newsnight Maryland HAART." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Newsnight Maryland HAART.PNG">
+
+## Gallery
+
+## Records
