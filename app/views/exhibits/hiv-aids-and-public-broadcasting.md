@@ -71,11 +71,11 @@ A special thank you to Fabio Toblini, who granted the AAPB permission to add act
 #### Next: [1981-1985: Early Reporting on the "Gay Disease"](/exhibits/hiv-aids-and-public-broadcasting/2-1981-1985-early-reporting-on-the-gay-disease)
 
 ## Cover CHANGE
-  <img title="Cover Image" alt="Jim Lehrer during a segment titled After the Fire." src="https://s3.amazonaws.com/americanarchive.org/exhibits/lehrer-afterthefire-borders.png">
+  <img title="Cover Image" alt="NJN New Jersey Helpline." src="https://s3.amazonaws.com/americanarchive.org/exhibits/6_NJN New Jersey Helpline 1988.PNG">
 
 ## Gallery
 
-## Records CHANGE
+## Records
 
 - [](/catalog/cpb-aacip-507-hh6c24rg48)
 - [](/catalog/cpb-aacip-507-jm23b5x502)
