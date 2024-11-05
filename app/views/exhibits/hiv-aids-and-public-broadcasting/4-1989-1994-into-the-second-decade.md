@@ -14,15 +14,23 @@
 
 By “the second decade” of the epidemic, rates of HIV/AIDS among heterosexual people, especially women of color and IV drug users, were rising. Gay men were still at the highest risk, but were less often the focus of educational campaigns, news reports, and radio and television programs. AIDS activist Phill Wilson called the focus on women with AIDS at the Tenth International AIDS Conference in 1994 an “‘at-risk group of the year’ approach to epidemiology.” While the media often focused on women and heterosexuals with HIV/AIDS, gay and lesbian organizations provided education to their own communities. The national AIDS educational mailer “Understanding AIDS,” based on Surgeon General Koop’s report, did not include any clearly indicated images of gay men and only mentioned them explicitly in statements about how people of all sexualities were at risk. Rather than provide targeted, useful information about the epidemic to gay men, the government and news outlets often focused on how heterosexuals could get HIV. 
 
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">On November 7, 1991, basketball star Magic Johnson announced that he was HIV-positive. Herbert Block. “Man, if it could happen to Magic—” Library of Congress, Prints & Photographs Division, [LC-DIG-hlb-12376]. A 1991 Herblock Cartoon, © The Herb Block Foundation.</caption>
+<img src="https://s3.amazonaws.com/americanarchive.org/exhibits/magic-cartoon.jpg" class="big-image" alt="On November 7, 1991, basketball star Magic Johnson announced that he was HIV-positive. Herbert Block. “Man, if it could happen to Magic—” Library of Congress, Prints & Photographs Division, [LC-DIG-hlb-12376]. A 1991 Herblock Cartoon, © The Herb Block Foundation."/></a></td></tr>
+</table>
+
 The programs in this section reflect a more organized approach to the HIV/AIDS epidemic. The basic facts of HIV/AIDS had been established, and the epidemic had been raging for a decade. In this section, readers will encounter *The AIDS Quarterly* and *The Health Quarterly*, two WGBH series that closely examined the epidemic for several years. *The AIDS Quarterly* covered a variety of topics relating to the epidemic, including racially segregated healthcare, women with AIDS, HIV/AIDS in prison, and the FDA drug approval process. Other radio and television broadcasts in this section include an interview with filmmaker Marlon Riggs, programs about women with AIDS, and one about protecting children from HIV/AIDS. This section also notes additional national coverage of the epidemic. 
-
-
 
 ### *The AIDS Quarterly*
 
 > The mission of this series is not to please one constituency or another, but to provide a forum for public debate on the [AIDS] issue. We’re producing the only ongoing national TV series about AIDS. Instances of controversy should in no way undercut the effectiveness of what we’ve done—and intend to do.  –  *The AIDS Quarterly* project director Renata Simone
 
 In 1989, WGBH in Boston began to produce *The AIDS Quarterly*, a PBS series that reported on the epidemic and was “widely regarded as television’s most ambitious and comprehensive look at the AIDS epidemic,” Joseph Kahn reported in the *Boston Globe*. The magazine-style program included news updates, interviews and analysis, and documentaries. Of all the programs featured in this exhibit, AIDS Quarterly is particularly important, because it was intended to help fill an absence of consistent, quality coverage of the epidemic. Host Peter Jennings made this clear at the beginning of the very first broadcast, when he criticized a lack of media coverage despite rising case numbers, and when he admitted, “We in the media have not always been very helpful to you in understanding AIDS.” This self-awareness and dedication to regular reporting uniquely positioned The AIDS Quarterly in the AIDS media landscape. Until *The AIDS Quarterly*, the public broadcasting series that most consistently discussed AIDS was *The MacNeil/Lehrer Report* and *NewsHour*, which had been examining the epidemic since 1982. 
+
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">The AIDS Quarterly; "The Education of Admiral Watkins; A Death in the Family" (WGBH, Boston, February 28, 1989), https://americanarchive.org/catalog/cpb-aacip_15-61rfjm96.</caption>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_15-61rfjm96" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/aids-quarterly-1.png" class="big-image" alt="The AIDS Quarterly; "The Education of Admiral Watkins; A Death in the Family" (WGBH, Boston, February 28, 1989)."/></a></td></tr>
+</table>
 
 The *AIDS Quarterly* inaugurated its magazine series with an overview of the epidemic. The [first episode](/catalog/cpb-aacip_15-61rfjm96), which premiered on February 28, 1989, began by following the work of the Reagan administration’s Presidential Commission on the Human Immunodeficiency Virus Epidemic, established in 1987 by [Executive Order 12601](https://www.presidency.ucsb.edu/documents/executive-order-12601-presidential-commission-the-human-immunodeficiency-virus-epidemic). The commission was tasked with writing a report on the state of the epidemic and recommendations for governmental action. The program thus started its examination of the epidemic through the eyes of the presidential commission and particularly through the perspective of Admiral James D. Watkins, who became its chairman and who explained the commission’s work throughout the segment. The commission, which experienced turnover and controversies during its tenure, eventually made almost 600 recommendations, including treatment on demand for people who use IV drugs, anti-discrimination legislation, and an overhaul of the healthcare system, which they determined was not equipped to respond to the epidemic. President Reagan did not act on the commission’s recommendations before leaving office. In Watkins’ footsteps, the program featured interviews from people across the country who had experienced discrimination because of AIDS, activists who criticized the lack of research funding and stalled drug approval, and researchers working on HIV/AIDS. The final segment included an interview with Malcolm, a gay man dying of AIDS who reconnected with his Mormon family in the final months of his life. 
 
@@ -78,13 +86,23 @@ The episode received both negative and positive reactions. Larry Kessler, chairm
 
 “Protect Yourself” aimed to explore the issue of sex education for children through a live Q&A, educational segments, and three discussion panels. The content of sex education in schools was a highly debated topic, and this program included a variety of opinions and recommendations popular at the time, including abstinence-only education and safe sex education.  
 
-**[Express, “Sweating It Out / All About Cleve”](catalog/cpb-aacip-55-ng4gm8242x?start=1063.00&end=1832) (KQED, San Francisco, CA, 1989)**
+**[*Express*, “Sweating It Out / All About Cleve”](catalog/cpb-aacip-55-ng4gm8242x?start=1063.00&end=1832) (KQED, San Francisco, CA, 1989)**
 
 This episode of the KQED series *Express* includes a segment on Cleve Jones, gay rights activist and founder of the NAMES Project AIDS Memorial Quilt. The program covered Jones’s involvement in politics, activism, his HIV diagnosis, and the NAMES Project. The NAMES Project AIDS Memorial Quilt requested submissions of quilt panels made in honor of people who died of AIDS-related causes. The quilt was displayed across the country beginning in 1987, when it was laid on the National Mall in Washington, D.C. At that time, the quilt was larger than a football field and was made up of 1,920 panels.
 
 The AIDS Memorial Quilt currently includes over 50,000 panels. It is [now considered the largest community art project in the world and can be accessed in full online](https://www.aidsmemorial.org/quilt35).
 
-**The Creative Mind, “Marlon Riggs” (KQED, San Francisco, June 19, 1991; June 26, 1991). Parts [One](/catalog/cpb-aacip_55-94vhjhqv) and [Two](/catalog/cpb-aacip-55-97xktjsp).** 
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">The NAMES Project AIDS Quilt on display at the National Mall in Washington, D.C. Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division, https://www.loc.gov/pictures/item/2011631696/.</caption>
+<tr><td><a href="https://www.loc.gov/pictures/item/2011631696/" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/memorial-quilt.jpg" class="big-image" alt="The NAMES Project AIDS Quilt on display at the National Mall in Washington, D.C. Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division"/></a></td></tr>
+</table>
+
+***The Creative Mind*, “Marlon Riggs” (KQED, San Francisco, June 19, 1991; June 26, 1991). Parts [One](/catalog/cpb-aacip_55-94vhjhqv) and [Two](/catalog/cpb-aacip-55-97xktjsp).** 
+
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">The Creative Mind, “Marlon Riggs” (KQED, San Francisco, CA, 6/19/1991), https://americanarchive.org/catalog/cpb-aacip-55-97xktjsp.</caption>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-55-97xktjsp" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/creative-mind.png" class="big-image" alt=“The Creative Mind, “Marlon Riggs” (KQED, San Francisco, CA, 6/19/1991)"/></a></td></tr>
+</table>
 
 This episode of *The Creative Mind*, a KQED series featuring in-depth interviews with artists, includes a conversation with documentary film artist Marlon Riggs, who explored anti-Black racism and homophobia in his work. Riggs, a Black gay man, said, “I don’t constantly think of death, but I know that there will be a time, and for that reason, my work has been a way of not running from death or trying to undo death, which will come—I’m not afraid of that—but rather it’s living beyond death in a way that continues to move people, to show them that there is a reason for living, that humanity is something that can be—occasionally is—virtuous.” 
 
@@ -110,10 +128,19 @@ Although activism had been growing since the early 1980s, coverage of activist d
 
 Commercial network television and public broadcasting coverage of their demonstrations played a significant role in communicating ACT UP’s messages and demands to the general public and to specific organizations. In 1990, *The MacNeil/Lehrer NewsHour* dedicated [a segment to examining the success and strategies of ACT UP](/catalog/cpb-aacip_507-3b5w669q4c). The segment included interviews with ACT UP founder Larry Kramer, ACT UPer Jorge Cortinas, AIDS Quilt creator Cleve Jones, Dr. Mervyn Silverman of amfAR, and Dr. Paul Volderbing, among others. John Roszak of KQED credited ACT UP with achieving the following successes: lowering the price of HIV drug AZT twice; speeding the release of Ganciclovir, which was used to prevent blindness in AIDS patients; and the invention and adoption of parallel tracking, which allowed people with AIDS to be prescribed new treatments while they were being tested.  The segment included footage from several ACT UP demonstrations, such as Stop the Church, a demonstration at St. Patrick’s Cathedral in New York City, which will be discussed more fully below; a protest against travel bans on people with HIV at the Sixth International AIDS Conference; and a human blockade of the Golden Gate Bridge in San Francisco. 
 
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">The MacNeil/Lehrer NewsHour, June 22, 1990, https://americanarchive.org/catalog/cpb-aacip_507-3b5w669q4c.</caption>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_507-3b5w669q4c" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/lehrer-news-hr-azt.png" class="big-image" alt="The MacNeil/Lehrer NewsHour, June 22, 1990"/></a></td></tr>
+</table>
+
 By broadcasting footage from direct action demonstrations, the programs included in this section aided the spread of ACT UP’s criticisms and demands on their own terms. In AIDS activist and author Vito Russo’s “Why We Fight” speech, he famously stated, “If I’m dying from anything, I’m dying from the sensationalism of newspapers and magazines and television shows, which are interested in me as a human interest story—only as long as I’m willing to be a helpless victim, but not if I’m fighting for my life.” ACT UP was consistently critical of media coverage of the epidemic, and their demonstrations were designed to use the news as a tool. Ann Northrop, journalist and activist, summed up the relationship of ACT UP to the media in Robert Hilferty’s controversial documentary *Stop the Church*: “We communicate through the media, not to the media.”  
 
 Notable items in this section include *Stop the Church: Issues and Outrage*, a KCET program about the controversy surrounding PBS’s cancellation of *Stop the Church*; an *AIDS Quarterly* segment on the experimental drug Compound Q; and a *MacNeil/Lehrer NewsHour* episode that was disrupted by ACT UP.
 
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">The MacNeil/Lehrer NewsHour, June 22, 1990, https://americanarchive.org/catalog/cpb-aacip_507-3b5w669q4c.</caption>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_507-3b5w669q4c" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/lehrer-news-hr-ACTUP.png" class="big-image" alt="The MacNeil/Lehrer NewsHour, June 22, 1990"/></a></td></tr>
+</table>
 
 ### Drug Approval
 
@@ -122,6 +149,11 @@ One of ACT UP’s main goals was to get treatments for HIV/AIDS approved efficie
 On October 11, 1988, ACT UP organized a demonstration at the FDA to demand the speedy approval of more HIV/AIDS treatments. Seize Control of the FDA was ACT UP’s first major protest, with 1,500 activists in attendance. Footage from Seize Control of the FDA was included in the [first installment of *The AIDS Quarterly*](/catalog/cpb-aacip-15-61rfjm96?start=2074.59&end=2183.98). This protest successfully led to the development of accelerated drug approval processes and new treatment regulations by the FDA, [described by FDA Commissioner Dr. Frank Young in a NewsHour interview](/catalog/cpb-aacip-507-0p0wp9tm5k?start=695.51&end=1459.25). In a retrospective essay on the action, activist Douglas Crimp wrote,
 
 > If ‘drugs into bodies’ had been central to ACT UP from the beginning, the protest at the FDA represented both a culmination of our early efforts and a turning point in both recognition by the government of the seriousness and legitimacy of our demands and national awareness of the AIDS activist movement. This turning point occurred for two interrelated reasons: 1) the demonstrated knowledge by AIDS activists of every detail of the complex FDA drug approval process, and 2) a professionally designed campaign that prepared the media to convey our treatment issues to the public.
+
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">The AIDS Quarterly, “The Trial of Compound Q; Money and Morals,” (WGBH, Boston, January 31, 1990).</caption>
+<img src="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour-FDA.jpg" class="big-image" alt="The AIDS Quarterly, “The Trial of Compound Q; Money and Morals,” (WGBH, Boston, January 31, 1990)."/></a></td></tr>
+</table>
 
 In 1990, ACT UP similarly demanded an increase in HIV/AIDS treatments and better representation of women and people of color in drug clinical trials at the National Institute of Health. In [coverage from the *MacNeil/Lehrer Newshour*](/catalog/cpb-aacip-507-pr7mp4wc9s?start=448.74&end=470.65), activists can be seen wrapped in “red tape” at the Bethesda campus. 
 
@@ -139,6 +171,11 @@ Perhaps ACT UP’s most well-known demonstration, Stop the Church was a controve
 
 On December 10, 1989, more than 5,000 people participated in an ACT UP and Women’s Health Action and Mobilization (WHAM!) protest at St. Patrick’s Cathedral in New York City. The protest, which took place while Cardinal O’Connor offered mass, consisted of a rally outside the cathedral and a die-in inside. Protestors disrupted the service by chanting “Stop killing us” and laid their bodies on the floor between pews, performing their own deaths, their friends’ deaths, and the deaths of other people with AIDS.
 
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">Left: Filmmaker Robert Hilferty at a Stop the Church planning meeting. Right: The die-in at St. Patrick’s Cathedral. Stop the Church: Issues and Outrage (KCET, Los Angeles, 1991), https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f.</caption>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/stop-the-church.jpg" class="big-image" alt="Left: Filmmaker Robert Hilferty at a Stop the Church planning meeting. Right: The die-in at St. Patrick’s Cathedral. Stop the Church: Issues and Outrage (KCET, Los Angeles, 1991)"/></a></td></tr>
+</table>
+
 Writer and activist Robert Hilferty’s footage from the planning of the protest offers an intimate look into the functioning of ACT UP. Hilferty, who became involved in ACT UP in 1987, used a Hi-8 camera to record the planning and execution of the protest. The Hi-8 was a new, handheld camera available in 1989 that recorded onto 8mm video tapes, and its portability allowed Hilferty to document activists up-close and in the moment.  Hilferty filmed as members debated the ethics of disrupting a church service, and both Catholics and non-Catholics involved in the action aired their criticisms of O’Connor and the Catholic Church at an organizing meeting. Using footage from ACT UP meetings and from the protest itself, Hilferty created a documentary called [*Stop the Church*](/catalog/cpb-aacip-526-8k74t6g61f?start=400.69&end=1779.12). 
 
 Hilferty’s film presented ACT UP in an entirely new way. ACT UP carefully strategized their television appearances, and this film documented an insider’s view, showing activists Ann Northrop, Larry Kramer, Michael Petrellis, and David Robinson, among many others, planning the demonstration. Stop the Church won the award for best documentary at the Ann Arbor Film Festival and was shown at the Whitney Museum of American Art. 
@@ -147,6 +184,11 @@ PBS picked up Stop the Church for its documentary series *POV*, but didn’t fla
 
 The cancellation of *Stop the Church* only fueled controversy. Scholar B. J. Bullert recorded more than sixty newspaper articles written about the cancellation within the first week of its announcement. Susan Dowling of WGBH in Boston said that by being overprotective of member stations, PBS was “perpetuating protection of content, and by extension, homophobia. Whatever the programmers’ claims, they have a damaging effect.” Although *Stop the Church* was removed from *POV*, local public television stations could still broadcast the documentary. KCET in Los Angeles designed a program around the documentary and controversy, and the station faced mixed reactions. Rev. Gregory Coiro from the public affairs office of the Los Angeles Catholic Archdiocese told Bullert, “We felt this was a very bigoted piece, and that it was anti-Catholic and had no place on television.” Director Robert Hilferty disagreed with accusations of “Catholic bashing” against the documentary and said, “It is a linguistic travesty to equate my political critique of Cardinal O’Connor with the fists, knives, and bats of gay bashers.” Hilferty here referred to “gay bashing,” or homophobic assaults against gay people, which had increased with the onset of the HIV/AIDS epidemic.  
 
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">Stop the Church: Issues and Outrage (KCET, Los Angeles, 1991), https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f.</caption>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/stop-the-church-2.png" class="big-image" alt="Stop the Church: Issues and Outrage (KCET, Los Angeles, 1991)"/></a></td></tr>
+</table>
+
 KCET’s program [*Stop the Church: Issues and Outrage*](/catalog/cpb-aacip-526-8k74t6g61f) was designed to fairly present the documentary and controversy. The program opened with a statement intended to address critics head-on. KCET President William Kobin prefaced the showing of the documentary by firmly stating,
 
 > One of the mandates of a public television station is to explore significant issues of controversy and present a wide diversity of opinion and programming, including opinions which may not be popular and material which may not be to everyone’s taste. Stop the Church is such a film, and we believe that you and every citizen should have the opportunity to see the film, hear the issues discussed, and make up your own mind.
@@ -154,6 +196,11 @@ KCET’s program [*Stop the Church: Issues and Outrage*](/catalog/cpb-aacip-526-
 Following the documentary, the program aired a taped press conference from Cardinal Roger Mahony, Archbishop of Los Angeles, who condemned the KCET program and said that KCET leadership “has abdicated its role of responsible community leadership by agreeing to air the blatantly anti-Catholic film *Stop the Church*.” Then host Jeffrey Kaye moderated a debate panel, which included Paul Freese from the Catholic League, Jesuit priest Father William Wood, Lee Klosinski of AIDS Project LA, and Rev. Stephen Pieters of Metro Community Churches. 
 
 The panel discussion represented many responses to the documentary and KCET’s decision to air it. The panelists debated the ethics of ACT UP’s tactics, the use of condoms to prevent HIV transmission, the Church’s influence on public policy, and safe sex education. On the effectiveness of ACT UP militancy, Pieters said, “I feel an urgency as a person with AIDS. I may not have a lot of time left. I want results now. And if it hadn’t been for ACT UP, I’m not sure that we would have the AZT that is keeping us alive longer. I’m not sure that we would have the DDI [Didanosine] that is helping us stay alive longer.” 
+
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">Stop the Church: Issues and Outrage (KCET, Los Angeles, 1991), https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f.</caption>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/stc-panel.png" class="big-image" alt="Stop the Church: Issues and Outrage (KCET, Los Angeles, 1991)"/></a></td></tr>
+</table>
 
 This panel was followed by a press conference that earlier had been given by William Kobin on KCET’s decision to broadcast the program, then another panel discussion with Tracy Westen, Professor of Media Law at the University of Southern California Annenberg School of Communications, and Van Gordon Sauter, former president of CBS News. Sauter called the documentary a “tantrum” and a “dreary film.” Westen, on the other hand, argued, “It is a legitimate, important point of view that needs articulation.”  
 
