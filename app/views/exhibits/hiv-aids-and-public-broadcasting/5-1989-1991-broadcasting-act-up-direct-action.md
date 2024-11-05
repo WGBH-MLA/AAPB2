@@ -1,5 +1,15 @@
 ## 1989-1991: Broadcasting ACT UP Direct Action
 
+5
+
+## Summary
+
+## Extended
+
+## Main
+
+### Introduction
+
 Although activism had been growing since the early 1980s, coverage of activist demonstrations increased significantly in 1989. The AIDS Coalition to Unleash Power (ACT UP), the most prominent AIDS activist group, was founded in 1987. ACT UP engaged in direct action, meaning that its protests creatively represented particular issues faced by people with AIDS and provided specific solutions to those problems. Direct action was also a strategy used during the Black Civil Rights Movement; similar to [sit-ins](/catalog/cpb-aacip_28-br8mc8rr6z), ACT UP’s die-ins involved the dramatized performance of a problem and demonstrated viable solutions. Sarah Schulman, a journalist and author who was involved in ACT UP during this period, wrote,
 
 > In this moment of collision, the message must be impossible to avoid. It can be funny, but it has to be attention getting; it needs to be insightful. It has to be visually arresting; it cannot be a cliché. In that brief moment of stepping into the sight line of the powerful, shunned people use direct action to be understood. And they are making two things clear: (1) the specific content of their demand for change, and (2) that they will never stop fighting for their survival.
