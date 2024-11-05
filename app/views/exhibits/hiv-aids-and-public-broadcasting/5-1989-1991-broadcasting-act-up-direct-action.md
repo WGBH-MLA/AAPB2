@@ -104,4 +104,26 @@ Five protestors entered the NewsHour’s WNET studio in New York in the middle o
 
 Despite their failure to appear onscreen, the protestors successfully communicated their message through *The MacNeil/Lehrer NewsHour*. The Day of Desperation disruptions also were covered by the *New York Times*. 
 
+#### Next: [1995-1997: New HIV/AIDS Therapies and Strategies](/exhibits/hiv-aids-and-public-broadcasting/6-1995-1997-new-hiv-aids-therapies-and-strategies)
+
+## Resources
+
+- [*Frontline: The Age of AIDS* site](https://www.pbs.org/wgbh/pages/frontline/aids/)
+- [ACT UP Oral History Project](https://www.actuporalhistory.org/)
+- [ACT UP Historical Archive](https://actupny.org/)
+- [Bay Area Reporter Archives](https://archive.org/details/bayareareporter)
+- [Gay Community News](https://lgbtqahistory.library.northeastern.edu/gay-community-news/)
+- [Outweek Internet Archive](http://www.outweek.net/)
+- [National AIDS Memorial / NAMES Project AIDS Quilt](https://www.aidsmemorial.org/)
+- [AmfAR's "Snapshots of an Epidemic: An HIV/AIDS Timeline"](https://www.amfar.org/about-hiv-aids/hiv-aids-snapshots-of-an-epidemic/)
+- [ACT UP FDA Handbook by Jim Eigo, Mark Harrington, Margaret McCarthy, Stephen Spinella, and Rick Sugden (9/12/1988)](https://actupny.org/documents/FDAhandbook1.html)
+- [*How to Survive a Plague* (dir. David France, 2012)](https://www.kanopy.com/en/product/12157233)
+
+## Cover
+  <img title="Cover Image" alt="STC Protestors." src="https://s3.amazonaws.com/americanarchive.org/exhibits/STC_Protestors_Signature img.PNG">
+
+## Gallery
+
+## Records
+
 
