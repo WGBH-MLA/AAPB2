@@ -89,8 +89,8 @@ At the end of 1985, 15,527 cases of AIDS had been reported, and there were 12,52
 - [ACT UP FDA Handbook by Jim Eigo, Mark Harrington, Margaret McCarthy, Stephen Spinella, and Rick Sugden (9/12/1988)](https://actupny.org/documents/FDAhandbook1.html)
 - [*How to Survive a Plague* (dir. David France, 2012)](https://www.kanopy.com/en/product/12157233)
 
-## Cover CHANGE
-  <img title="Cover Image" alt="Ingeniero de Radio Cadena" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg">
+## Cover
+  <img title="Cover Image" alt="NJN New Jersey Helpline." src="https://s3.amazonaws.com/americanarchive.org/exhibits/6_NJN New Jersey Helpline 1988.PNG">
 
 ## Gallery
 
