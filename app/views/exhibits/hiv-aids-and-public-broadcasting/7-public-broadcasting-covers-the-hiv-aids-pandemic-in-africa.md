@@ -198,18 +198,14 @@ When the COVID-19 pandemic emerged in 2020, many people drew comparisons to HIV/
 
 The materials featured in this exhibit offer a window into public broadcasting’s response to HIV/AIDS in the deadliest years of the epidemic. At a time when HIV is still highly stigmatized, sodomy laws are being debated,[<sup>93</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#93) and a monkeypox epidemic has seen the resurgence of homophobic rhetoric from the early years of AIDS,[<sup>94</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#94) these programs serve as a reference for anyone interested in learning from the mistakes and successes of public broadcasting’s coverage of a highly politicized epidemic.
 
-## Resources CHANGE
+## Resources
 
-- [*Frontline: The Age of AIDS* site](https://www.pbs.org/wgbh/pages/frontline/aids/)
-- [ACT UP Oral History Project](https://www.actuporalhistory.org/)
-- [ACT UP Historical Archive](https://actupny.org/)
-- [Bay Area Reporter Archives](https://archive.org/details/bayareareporter)
-- [Gay Community News](https://lgbtqahistory.library.northeastern.edu/gay-community-news/)
-- [Outweek Internet Archive](http://www.outweek.net/)
-- [National AIDS Memorial / NAMES Project AIDS Quilt](https://www.aidsmemorial.org/)
-- [AmfAR's "Snapshots of an Epidemic: An HIV/AIDS Timeline"](https://www.amfar.org/about-hiv-aids/hiv-aids-snapshots-of-an-epidemic/)
-- [ACT UP FDA Handbook by Jim Eigo, Mark Harrington, Margaret McCarthy, Stephen Spinella, and Rick Sugden (9/12/1988)](https://actupny.org/documents/FDAhandbook1.html)
-- [*How to Survive a Plague* (dir. David France, 2012)](https://www.kanopy.com/en/product/12157233)
+- [HIV/AIDS in Sub-Saharan Africa (National Library of Medicine)](https://www.ncbi.nlm.nih.gov/books/NBK2289/)
+- [HIV in Africa (Institute for Health Metrics and Evaluation)](https://www.hiv.gov/events/awareness-days/world-aids-day)
+- [Oral History of PEPFAR (George W. Bush Presidential Center)](https://www.bushcenter.org/publications/an-oral-history-of-pepfar-how-a-dream-big-partnership-is-saving-the-lives-of-millions)
+- [PEPFAR (KFF factsheet)](https://www.kff.org/global-health-policy/fact-sheet/the-u-s-presidents-emergency-plan-for-aids-relief-pepfar/) 
+- [The United States President’s Emergency Plan for AIDS Relief (U.S. Department of State)](https://www.state.gov/pepfar/)
+- [World AIDS Day](https://www.hiv.gov/events/awareness-days/world-aids-day)
 
 ## Cover CHANGE
   <img title="Cover Image" alt="Ingeniero de Radio Cadena" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg">
