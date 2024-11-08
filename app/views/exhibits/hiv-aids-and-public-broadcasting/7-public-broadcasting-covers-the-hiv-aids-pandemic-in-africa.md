@@ -198,6 +198,8 @@ When the COVID-19 pandemic emerged in 2020, many people drew comparisons to HIV/
 
 The materials featured in this exhibit offer a window into public broadcasting’s response to HIV/AIDS in the deadliest years of the epidemic. At a time when HIV is still highly stigmatized, sodomy laws are being debated,[<sup>93</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#93) and a monkeypox epidemic has seen the resurgence of homophobic rhetoric from the early years of AIDS,[<sup>94</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#94) these programs serve as a reference for anyone interested in learning from the mistakes and successes of public broadcasting’s coverage of a highly politicized epidemic.
 
+ #### Next: [1995-1997: New HIV/AIDS Therapies and Strategies](/exhibits/hiv-aids-and-public-broadcasting/6-1995-1997-new-hiv-aids-therapies-and-strategies)
+
 ## Resources
 
 - [HIV/AIDS in Sub-Saharan Africa (National Library of Medicine)](https://www.ncbi.nlm.nih.gov/books/NBK2289/)
