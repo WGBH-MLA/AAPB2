@@ -417,14 +417,14 @@ Created in 2011 by and for LGBTQ youth and straight allies, *OutCasting* is inte
 
 #### Next: [Additional Programs](/exhibits/hiv-aids-and-public-broadcasting/9-additional-programs.md)
 
-## Resources CHANGE
+## Resources
 
-- [HIV/AIDS Web Archive (National Library of Medicine)](https://archive-it.org/collections/8400)
-- [HIV and AIDS: 30 Years Ago (Smithsonian National Museum of American History)](https://hivaids.omeka.net/collections/browse)
-- [How To Survive a Plague (dir. David France, 2012)](https://www.kanopy.com/en/product/12157233)
-- [LGBTQIA+ Studies: A Resource Guide – HIV and AIDS (Library of Congress)](https://guides.loc.gov/lgbtq-studies/subject/hiv-aids)
-- [National AIDS Memorial / NAMES Project AIDS Quilt](https://www.aidsmemorial.org)
-- [Snapshots of an Epidemic: An HIV/AIDS Timeline (amfAR)](https://www.amfar.org/about-hiv-aids/hiv-aids-snapshots-of-an-epidemic/)
+- [*The AIDS Quarterly/The Health Quarterly* (GBH Open Vault)](https://openvault.wgbh.org/collections/aqhq/collection-summary)
+- [Frontline: The Age of AIDS](https://www.pbs.org/wgbh/pages/frontline/aids/)
+- [In the Life Collection (AAPB)](https://americanarchive.org/special_collections/ucla-inthelife)
+- [NOVA: Ending HIV in America (GBH)](https://www.pbs.org/wgbh/nova/video/ending-hiv-in-america/)
+- [Outcasting Collection (AAPB)](https://americanarchive.org/special_collections/outcasting)
+- [This Way Out Collection (AAPB)](https://americanarchive.org/special_collections/this-way-out)
 
 ## Cover CHANGE
   <img title="Cover Image" alt="Ingeniero de Radio Cadena" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg">
