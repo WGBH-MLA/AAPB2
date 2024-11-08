@@ -415,18 +415,16 @@ Created in 2011 by and for LGBTQ youth and straight allies, *OutCasting* is inte
 
 [**“HIV at 40 and How Youth Lose by Not Learning about Its Context”**](https://americanarchive.org/catalog/cpb-aacip-2c7b2e4fcd6) **(Media for the Public Good, July 1, 2021)**
 
+#### Next: [Additional Programs](/exhibits/hiv-aids-and-public-broadcasting/9-additional-programs.md)
+
 ## Resources CHANGE
 
-- [*Frontline: The Age of AIDS* site](https://www.pbs.org/wgbh/pages/frontline/aids/)
-- [ACT UP Oral History Project](https://www.actuporalhistory.org/)
-- [ACT UP Historical Archive](https://actupny.org/)
-- [Bay Area Reporter Archives](https://archive.org/details/bayareareporter)
-- [Gay Community News](https://lgbtqahistory.library.northeastern.edu/gay-community-news/)
-- [Outweek Internet Archive](http://www.outweek.net/)
-- [National AIDS Memorial / NAMES Project AIDS Quilt](https://www.aidsmemorial.org/)
-- [AmfAR's "Snapshots of an Epidemic: An HIV/AIDS Timeline"](https://www.amfar.org/about-hiv-aids/hiv-aids-snapshots-of-an-epidemic/)
-- [ACT UP FDA Handbook by Jim Eigo, Mark Harrington, Margaret McCarthy, Stephen Spinella, and Rick Sugden (9/12/1988)](https://actupny.org/documents/FDAhandbook1.html)
-- [*How to Survive a Plague* (dir. David France, 2012)](https://www.kanopy.com/en/product/12157233)
+- [HIV/AIDS Web Archive (National Library of Medicine)](https://archive-it.org/collections/8400)
+- [HIV and AIDS: 30 Years Ago (Smithsonian National Museum of American History)](https://hivaids.omeka.net/collections/browse)
+- [How To Survive a Plague (dir. David France, 2012)](https://www.kanopy.com/en/product/12157233)
+- [LGBTQIA+ Studies: A Resource Guide – HIV and AIDS (Library of Congress)](https://guides.loc.gov/lgbtq-studies/subject/hiv-aids)
+- [National AIDS Memorial / NAMES Project AIDS Quilt](https://www.aidsmemorial.org)
+- [Snapshots of an Epidemic: An HIV/AIDS Timeline (amfAR)](https://www.amfar.org/about-hiv-aids/hiv-aids-snapshots-of-an-epidemic/)
 
 ## Cover CHANGE
   <img title="Cover Image" alt="Ingeniero de Radio Cadena" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg">
