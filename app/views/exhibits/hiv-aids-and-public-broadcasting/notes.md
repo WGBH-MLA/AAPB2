@@ -118,144 +118,145 @@
 
 <a name="57"></a><sup>57</sup> Kinsella, *Covering the Plague*, 75, 122.
 
-<a name="58"></a><sup>58</sup> Centers for Disease Control, “Notice to Readers Clinical Update: Impact of HIV Protease Inhibitors on the Treatment of HIV-Infected Tuberculosis Patients with Rifampin,” *MMWR*, October 25, 1996, https://www.cdc.gov/mmwr/preview/mmwrhtml/00044186.htm. 
+<a name=”58”></a><sup>58</sup> United States Public Health Service, Office of the Surgeon General; and Centers for Disease Control, “Understanding AIDS: What Do You Really Know about AIDS?” (1988), https://stacks.cdc.gov/view/cdc/6927. 
 
-<a name=”59”></a><sup>59</sup> Joseph Kagaayi and David Serwadda, “The History of the HIV/AIDS Epidemic in Africa,” *Current HIV/AIDS Report* 13 (August 2016): 187-93, https://doi.org/10.1007/s11904-016-0318-8. 
+<a name=”59”></a><sup>59</sup> Heather G. Miller, Charles F. Turner, and Lincoln E. Moses, eds. (Committee on AIDS Research and the Behavioral, Social, and Statistical Sciences, Commission on the Behavioral and Social Sciences and Education, National Research Council), *AIDS: The Second Decade* (Washington: National Academies Press, 1990), 1, https://www.ncbi.nlm.nih.gov/books/NBK235359/. 
 
-<a name=”60”></a><sup>60</sup> Sanyu A. Majola, “AIDS in Africa: Progress and Obstacles,” *Current History*, vol. 116, no. 790 (May 2017): 170-75, https://www.jstor.org/stable/10.2307/48614258. 
+<a name=”60”></a><sup>60</sup> Altman, 18. 
 
-<a name=”61”></a><sup>61</sup> Susan Moeller, “Coverage of AIDS in Africa: The Media Are Silent No Longer,” *Neiman Reports* (Fall 2000), September 15, 2000, https://nieman.harvard.edu/articles/coverage-of-aids-in-africa-the-media-are-silent-no-longer-2/.
+<a name=”61”></a><sup>61</sup> hill Wilson, “Rising Sun?” *POZ*, October 1, 1994, https://www.poz.com/article/Rising-Sun-16349-4703. 
 
-<a name=”62”></a><sup>62</sup>  Moeller, “Coverage of AIDS in Africa.”
+<a name=”62”></a><sup>62</sup> Joseph P. Kahn, “‘AIDS Quarterly’ Draws Angry Reactions,” *Boston Globe*, October 17, 1989.
 
-<a name=”63”></a><sup>63</sup> Mollyann Brodie, et al. “AIDS at 21: Media Coverage of the HIV Epidemic 1981-2002,” supplement to *Columbia Journalism Review* (March/April 2004): 1, https://www.kff.org/wp-content/uploads/2013/01/aids-at-21-media-coverage-of-the-hiv-epidemic-1981-2002-supplement-to-the-march-april-2004-issue-of-cjr.pdf. 
+<a name=”63”></a><sup>63</sup> Kahn, “‘AIDS Quarterly’ Draws Angry Reactions.” 
 
-<a name=”64”></a><sup>64</sup> Lawrence K. Altman, “AIDS in Africa: A Pattern of Mystery,” *New York Times*, November 8, 1985, https://www.nytimes.com/1985/11/08/world/aids-in-africa-a-pattern-of-mystery.html?searchResultPosition=19. 
+<a name=”64”></a><sup>64</sup> Lisa Stodder, “Claude Rhodes: Outreach Worker Fought AIDS Among Addicts,” University of Illinois Chicago, Staff Advisory Council,  https://sac.uic.edu/claude-rhodes/.
 
-<a name=”65”></a><sup>65</sup> “World AIDS Day,” Centers for Disease Control and Prevention, last reviewed October 6, 2022, https://www.cdc.gov/worldaidsday/index.html. 
+<a name=”65”></a><sup>65</sup> Kahn, “‘AIDS Quarterly’ Draws Angry Reactions.”
 
-<a name=”66”></a><sup>66</sup> “1990s HIV/AIDS Timeline,” American Psychological Association, March 2017, https://www.apa.org/pi/aids/youth/nineties-timeline. 
+<a name=”66”></a><sup>66</sup> Kahn, “‘AIDS Quarterly’ Draws Angry Reactions.”
 
-<a name=”67”></a><sup>67</sup> Erik Eckholm and John Tierney, “AIDS in Africa: A Killer Rages On,” *New York Times*, September 16, 1990, https://www.nytimes.com/1990/09/16/world/aids-in-africa-a-killer-rages-on.html?searchResultPosition=16. 
+<a name=”67”></a><sup>67</sup> Richard A Knox, “A Powerfully Human ‘AIDS Quarterly,’” *Boston Globe*, September 26, 1989. 
 
-<a name=”68”></a><sup>68</sup> “Fred de Sam Lazaro,” *PBS NewsHour*, https://www.pbs.org/newshour/author/fred-de-sam-lazaro.
+<a name=”68”></a><sup>68</sup> William Hoynes, *Public Television for Sale: Media, the Market, and the Public Sphere* (Boulder: Westview Press, 1994), 126.
 
-<a name=”69”></a><sup>69</sup> Emily Bass, *To End a Plague: America’s Fight to Defeat AIDS in Africa* (New York: PublicAffairs, 2021), 27.
+<a name=”69”></a><sup>69</sup> Schulman, *Let the Record Show*, 65. 
 
-<a name=”70”></a><sup>70</sup> Bass, *To End a Plague*, 56.
+<a name=”70”></a><sup>70</sup> Vito Russo, “Why We Fight,” 1988, ACT UP, https://actupny.org/documents/whfight.html. 
 
-<a name=”71”></a><sup>71</sup> “An Unprecedented Problem: The Clinton Administration and HIV/AIDS in the United States,” Clinton Digital Library, https://clinton.presidentiallibraries.us/an-unprecedented-problem-the-clinton-administration-and-hiv/aids-in-the-united-states. 
+<a name=”71”></a><sup>71</sup> Douglas Crimp, “Before Occupy: How AIDS Activists Seized Control of the FDA in 1988,” *Atlantic*, December 6, 2011, https://www.theatlantic.com/health/archive/2011/12/before-occupy-how-aids-activists-seized-control-of-the-fda-in-1988/249302/. 
 
-<a name=”72”></a><sup>72</sup> *POV*, season 16, ep. 8, “State of Denial,” directed by Elaine Epstein, aired September 16, 2003, PBS https://www.kanopy.com/en/fairfaxlibrary/video/139751. 
+<a name=”72”></a><sup>72</sup> Daniel J. O’Shea, “AIDS Activism,” in *Mental Health Practitioner’s Guide to HIV/AIDS*, ed. Sana Loue (New York: Springer, 2013), 85. 
 
-<a name=”73”></a><sup>73</sup> Simphiwe Sesanti, “Thabo Mbeki’s ‘AIDS Denialism,’” *Theoria: A Journal of Social and Political Theory* 65, no. 3 (156) (September 2018): 27, https://www.jstor.org/stable/10.2307/48564454. 
+<a name=”73”></a><sup>73</sup> Schulman, *Let the Record Show*, 218.
 
-<a name=”74”></a><sup>74</sup> Bass, *To End a Plague*, 33.
+<a name=”74”></a><sup>74</sup> Todd S. Purdum, “Cardinal Says He Won’t Yield to Protests,” *New York Times*, December 12, 1989. 
 
-<a name=”75”></a><sup>75</sup> Scholar Simphiwe Sesanti has argued that Mbeki’s statements and policy decisions about AIDS should be viewed in the context of pan-Africanism and the African Renaissance. See Sesanti, “Thabo Mbeki,” 47-48. 
+<a name=”75”></a><sup>75</sup> Bullert, *Public Television*, 127.
 
-<a name=”76”></a><sup>76</sup> “Our Story: Twenty-five Years of Global Health Milestones,” International AIDS Vaccine Initiative, https://iavi25.iavi.org/our-story/.
+<a name=”76”></a><sup>76</sup> Bullert, *Public Television*, 123, 118.
 
-<a name=”77”></a><sup>77</sup> “The United States President’s Emergency Plan for AIDS Relief,” U.S. Department of State, https://www.state.gov/pepfar/.
+<a name=”77”></a><sup>77</sup> Bullert, *Public Television*, 129.  
 
-<a name=”78”></a><sup>78</sup> Bass, To End a Plague, 3.
+<a name=”78”></a><sup>78</sup> Bullert, *Public Television*, 129.  
 
-<a name=”79”></a><sup>79</sup> Clip, *The NewsHour with Jim Lehrer*, 2003-02-10, NewsHour Productions, American Archive of Public Broadcasting (GBH and the Library of Congress), Boston, MA and Washington, DC, accessed April 19, 2024, https://americanarchive.org/catalog/cpb-aacip-507-086348gz8h?start=2474.73&end=3377.3.
+<a name=”79”></a><sup>79</sup> Bullert, *Public Television*, 130.
 
-<a name=”80”></a><sup>80</sup> Bass, To End a Plague, 125.
+<a name=”80”></a><sup>80</sup> Sharon Bernstein, “PBS Network Hit by Charges of Censorship,” *Los Angeles Times*, August 14, 1991.
 
-<a name=”81”></a><sup>81</sup> “Global War on Terror,” George W. Bush Presidential Library and Museum, https://www.georgewbushlibrary.gov/research/topic-guides/global-war-terror.
+<a name=”81”></a><sup>81</sup> Bullert, *Public Television*, 133.
 
-<a name=”82”></a><sup>82</sup> Bass, *To End a Plague*, 321.
+<a name=”82”></a><sup>82</sup> Victor Zonana, “AIDS Activist Finds Creative Outlet in ‘Church,’” *Los Angeles Times*, September 6, 1991. 
 
-<a name=”83”></a><sup>83</sup> James Gruber, “Welcome to Phase Three of the Global Financial Crisis,” *Forbes*, January 29, 2014, https://www.forbes.com/sites/jamesgruber/2014/01/29/welcome-to-phase-three-of-the-global-financial-crisis/?sh=45bd58244a62. 
+<a name=”83”></a><sup>83</sup> Peter M. Nardi and Ralph Bolton, “Gay-Bashing: Violence and Aggression against Gay Men and Lesbians,” *Advances in Psychology*, 76 (1991), 350.
 
-<a name=”84”></a><sup>84</sup> Bass, *To End a Plague*, 387.
+<a name=”84”></a><sup>84</sup> George Weigel, “KCET’S Action: the Antithesis of Freedom,” *Los Angeles Times*, September 17, 1991. 
 
-<a name=”85”></a><sup>85</sup> Peter Sands, “COVID-19 Must Transform the Definition of Global Health Security,” *The Global Fund* blog, November 19, 2020, https://www.theglobalfund.org/en/blog/2020-11-19-covid-19-must-transform-the-definition-of-global-health-security/.
+<a name=”85”></a><sup>85</sup> Sharon Bernstein, “Views Split on KCET Airing of ‘Stop the Church,’” *Los Angeles Times*, September 8, 1991; Sharon Bernstein, “KCET Pays Price in Flap With Church,” *Los Angeles Times*, October 10, 1991. 
 
-<a name=”86”></a><sup>86</sup> Kevin M. De Cock, et al., “Reflections on 40 Years of AIDS,” *Emerging Infectious Diseases*, vol. 27, no. 6 (June 2021), https://wwwnc.cdc.gov/eid/article/27/6/21-0284_article.
+<a name=”86”></a><sup>86</sup> Schulman, *Let the Record Show*, 1003. 
 
-<a name=”87”></a><sup>87</sup> “With new infections 1 million higher than the 2020 target, UNAIDS and partners convene emergency meeting on HIV prevention,” UNAIDS, https://www.unaids.org/en/resources/presscentre/pressreleaseandstatementarchive/2022/october/20221010_stop-new-infections.
+<a name=”87”></a><sup>87</sup> Ann Northrop, interview by Sarah Schulman, May 28, 2003, ACT UP Oral History Project, https://actuporalhistory.org/numerical-interviews/027-ann-northrop?rq=ann%20northrop
 
-<a name=”88”></a><sup>88</sup> Ashley Kirzinger, Lunna Lopes, Bryan Wu, and Mollyanne Brodie, “KFF Health Tracking Poll – March 2019: Public Opinion on the Domestic HIV Epidemic, Affordable Care Act, and Medicare-for-all,” *Kaiser Family Foundation*,  March 26, 2019, https://www.kff.org/health-reform/poll-finding/kff-health-tracking-poll-march-2019/. 
+<a name=”88”></a><sup>88</sup> “AIDS Protesters Enter Sets of 2 Newscasts,” *New York Times*, January 23, 1991, https://www.nytimes.com/1991/01/23/arts/aids-protesters-enter-sets-of-2-newscasts.html. 
 
-<a name=”89”></a><sup>89</sup> Centers for Disease Control, “HIV Among Gay and Bisexual Men,” https://www.cdc.gov/nchhstp/newsroom/docs/factsheets/cdc-msm-508.pdf.   
+<a name=”89”></a><sup>89</sup> Stephen Tropiano, “The Time of Our Lives: In the Life – America’s LGBTQ News Magazine,” UCLA Library, Film & Television Archive, https://www.cinema.ucla.edu/collections/inthelife/history/time-of-our-lives. 
 
-<a name=”90”></a><sup>90</sup> Liz Hamel, Jamie Firth, Tina Hoff, Jennifer Kates, Sarah Levine, and Lindsey Dawson, “HIV/AIDS in the Lives of Gay and Bisexual Men in the United States,” *Kaiser Family Foundation*, September 25, 2014, https://www.kff.org/hivaids/report/hivaids-in-the-lives-of-gay-and-bisexual-men-in-the-united-states/. 
+<a name=”90”></a><sup>90</sup> B. J. Bullert, *Public Television: Politics & the Battle over Documentary Film* (New Brunswick: Rutgers University Press, 1997), 94.
 
-<a name=”91”></a><sup>91</sup> Francisco Illanes-Álvarez, Denisse Márquez-Ruiz, Mercedes Márquez-Coello, Sara Cuesta-Sancho, José Antonio Girón-González, “Similarities and Differences between HIV and SARS-CoV-2,” *International Journal of Medical Sciences*, vol. 18, no. 3 (2021), 849.
+<a name="91"></a><sup>91</sup> Centers for Disease Control, “Notice to Readers Clinical Update: Impact of HIV Protease Inhibitors on the Treatment of HIV-Infected Tuberculosis Patients with Rifampin,” *MMWR*, October 25, 1996, https://www.cdc.gov/mmwr/preview/mmwrhtml/00044186.htm. 
 
-<a name=”92”></a><sup>92</sup> “HIV/AIDS: A Minority Health Issue,” *The Medical Clinics of North America*, vol. 89 (2005), 900. 
+<a name=”92”></a><sup>92</sup> Joseph Kagaayi and David Serwadda, “The History of the HIV/AIDS Epidemic in Africa,” *Current HIV/AIDS Report* 13 (August 2016): 187-93, https://doi.org/10.1007/s11904-016-0318-8. 
 
-<a name=”93”></a><sup>93</sup> Timothy Bella, “Texas AG Says He’d Defend Sodomy Law if Supreme Court Revisits Ruling,” *Washington Post*, June 29, 2022., https://www.washingtonpost.com/politics/2022/06/29/texas-sodomy-supreme-court-lawrence-paxton-lgbtq/. 
+<a name=”93”></a><sup>93</sup> Sanyu A. Majola, “AIDS in Africa: Progress and Obstacles,” *Current History*, vol. 116, no. 790 (May 2017): 170-75, https://www.jstor.org/stable/10.2307/48614258. 
 
-<a name=”94”></a><sup>94</sup> Rachel Treisman, “As Monkeypox Spreads, Know the Difference between Warning and Stigmatizing People,” *NPR*, July 26, 2022, https://www.npr.org/2022/07/26/1113713684/monkeypox-stigma-gay-community. 
+<a name=”94”></a><sup>94</sup> Susan Moeller, “Coverage of AIDS in Africa: The Media Are Silent No Longer,” *Neiman Reports* (Fall 2000), September 15, 2000, https://nieman.harvard.edu/articles/coverage-of-aids-in-africa-the-media-are-silent-no-longer-2/.
 
-<a name=”95”></a><sup>95</sup> United States Public Health Service, Office of the Surgeon General; and Centers for Disease Control, “Understanding AIDS: What Do You Really Know about AIDS?” (1988), https://stacks.cdc.gov/view/cdc/6927. 
+<a name=”95”></a><sup>95</sup>  Moeller, “Coverage of AIDS in Africa.”
 
-<a name=”96”></a><sup>96</sup> Heather G. Miller, Charles F. Turner, and Lincoln E. Moses, eds. (Committee on AIDS Research and the Behavioral, Social, and Statistical Sciences, Commission on the Behavioral and Social Sciences and Education, National Research Council), *AIDS: The Second Decade* (Washington: National Academies Press, 1990), 1, https://www.ncbi.nlm.nih.gov/books/NBK235359/. 
+<a name=”96”></a><sup>96</sup> Mollyann Brodie, et al. “AIDS at 21: Media Coverage of the HIV Epidemic 1981-2002,” supplement to *Columbia Journalism Review* (March/April 2004): 1, https://www.kff.org/wp-content/uploads/2013/01/aids-at-21-media-coverage-of-the-hiv-epidemic-1981-2002-supplement-to-the-march-april-2004-issue-of-cjr.pdf. 
 
-<a name=”97”></a><sup>97</sup> Altman, 18. 
+<a name=”97”></a><sup>97</sup> Lawrence K. Altman, “AIDS in Africa: A Pattern of Mystery,” *New York Times*, November 8, 1985, https://www.nytimes.com/1985/11/08/world/aids-in-africa-a-pattern-of-mystery.html?searchResultPosition=19. 
 
-<a name=”98”></a><sup>98</sup> hill Wilson, “Rising Sun?” *POZ*, October 1, 1994, https://www.poz.com/article/Rising-Sun-16349-4703. 
+<a name=”98”></a><sup>98</sup> “World AIDS Day,” Centers for Disease Control and Prevention, last reviewed October 6, 2022, https://www.cdc.gov/worldaidsday/index.html. 
 
-<a name=”99”></a><sup>99</sup> Joseph P. Kahn, “‘AIDS Quarterly’ Draws Angry Reactions,” *Boston Globe*, October 17, 1989.
+<a name=”99”></a><sup>99</sup> “1990s HIV/AIDS Timeline,” American Psychological Association, March 2017, https://www.apa.org/pi/aids/youth/nineties-timeline. 
 
-<a name=”100”></a><sup>100</sup> Kahn, “‘AIDS Quarterly’ Draws Angry Reactions.” 
+<a name=”100”></a><sup>100</sup> Erik Eckholm and John Tierney, “AIDS in Africa: A Killer Rages On,” *New York Times*, September 16, 1990, https://www.nytimes.com/1990/09/16/world/aids-in-africa-a-killer-rages-on.html?searchResultPosition=16. 
 
-<a name=”101”></a><sup>101</sup> Lisa Stodder, “Claude Rhodes: Outreach Worker Fought AIDS Among Addicts,” University of Illinois Chicago, Staff Advisory Council,  https://sac.uic.edu/claude-rhodes/.
+<a name=”101”></a><sup>101</sup> “Fred de Sam Lazaro,” *PBS NewsHour*, https://www.pbs.org/newshour/author/fred-de-sam-lazaro.
 
-<a name=”102”></a><sup>102</sup> Kahn, “‘AIDS Quarterly’ Draws Angry Reactions.”
+<a name=”102”></a><sup>102</sup> Emily Bass, *To End a Plague: America’s Fight to Defeat AIDS in Africa* (New York: PublicAffairs, 2021), 27.
 
-<a name=”103”></a><sup>103</sup> Kahn, “‘AIDS Quarterly’ Draws Angry Reactions.”
+<a name=”103”></a><sup>103</sup> Bass, *To End a Plague*, 56.
 
-<a name=”104”></a><sup>104</sup> Richard A Knox, “A Powerfully Human ‘AIDS Quarterly,’” *Boston Globe*, September 26, 1989. 
+<a name=”104”></a><sup>104</sup> “An Unprecedented Problem: The Clinton Administration and HIV/AIDS in the United States,” Clinton Digital Library, https://clinton.presidentiallibraries.us/an-unprecedented-problem-the-clinton-administration-and-hiv/aids-in-the-united-states. 
 
-<a name=”105”></a><sup>105</sup> William Hoynes, *Public Television for Sale: Media, the Market, and the Public Sphere* (Boulder: Westview Press, 1994), 126.
+<a name=”105”></a><sup>105</sup> *POV*, season 16, ep. 8, “State of Denial,” directed by Elaine Epstein, aired September 16, 2003, PBS https://www.kanopy.com/en/fairfaxlibrary/video/139751. 
 
-<a name=”106”></a><sup>106</sup> Schulman, *Let the Record Show*, 65. 
+<a name=”106”></a><sup>106</sup> Simphiwe Sesanti, “Thabo Mbeki’s ‘AIDS Denialism,’” *Theoria: A Journal of Social and Political Theory* 65, no. 3 (156) (September 2018): 27, https://www.jstor.org/stable/10.2307/48564454. 
 
-<a name=”107”></a><sup>107</sup> Vito Russo, “Why We Fight,” 1988, ACT UP, https://actupny.org/documents/whfight.html. 
+<a name=”107”></a><sup>107</sup> Bass, *To End a Plague*, 33.
 
-<a name=”108”></a><sup>108</sup> Douglas Crimp, “Before Occupy: How AIDS Activists Seized Control of the FDA in 1988,” *Atlantic*, December 6, 2011, https://www.theatlantic.com/health/archive/2011/12/before-occupy-how-aids-activists-seized-control-of-the-fda-in-1988/249302/. 
+<a name=”108”></a><sup>108</sup> Scholar Simphiwe Sesanti has argued that Mbeki’s statements and policy decisions about AIDS should be viewed in the context of pan-Africanism and the African Renaissance. See Sesanti, “Thabo Mbeki,” 47-48. 
 
-<a name=”109”></a><sup>109</sup> Daniel J. O’Shea, “AIDS Activism,” in *Mental Health Practitioner’s Guide to HIV/AIDS*, ed. Sana Loue (New York: Springer, 2013), 85. 
+<a name=”109”></a><sup>109</sup> “Our Story: Twenty-five Years of Global Health Milestones,” International AIDS Vaccine Initiative, https://iavi25.iavi.org/our-story/.
 
-<a name=”110”></a><sup>110</sup> Schulman, *Let the Record Show*, 218.
+<a name=”110”></a><sup>110</sup> “The United States President’s Emergency Plan for AIDS Relief,” U.S. Department of State, https://www.state.gov/pepfar/.
 
-<a name=”111”></a><sup>111</sup> Todd S. Purdum, “Cardinal Says He Won’t Yield to Protests,” *New York Times*, December 12, 1989. 
+<a name=”111”></a><sup>111</sup> Bass, To End a Plague, 3.
 
-<a name=”112”></a><sup>112</sup> Bullert, *Public Television*, 127.
+<a name=”112”></a><sup>112</sup> Clip, *The NewsHour with Jim Lehrer*, 2003-02-10, NewsHour Productions, American Archive of Public Broadcasting (GBH and the Library of Congress), Boston, MA and Washington, DC, accessed April 19, 2024, https://americanarchive.org/catalog/cpb-aacip-507-086348gz8h?start=2474.73&end=3377.3.
 
-<a name=”113”></a><sup>113</sup> Bullert, *Public Television*, 123, 118.
+<a name=”113”></a><sup>113</sup> Bass, To End a Plague, 125.
 
-<a name=”114”></a><sup>114</sup> Bullert, *Public Television*, 129.  
+<a name=”114”></a><sup>114</sup> “Global War on Terror,” George W. Bush Presidential Library and Museum, https://www.georgewbushlibrary.gov/research/topic-guides/global-war-terror.
 
-<a name=”115”></a><sup>115</sup> Bullert, *Public Television*, 129.  
+<a name=”115”></a><sup>115</sup> Bass, *To End a Plague*, 321.
 
-<a name=”116”></a><sup>116</sup> Bullert, *Public Television*, 130.
+<a name=”116”></a><sup>116</sup> James Gruber, “Welcome to Phase Three of the Global Financial Crisis,” *Forbes*, January 29, 2014, https://www.forbes.com/sites/jamesgruber/2014/01/29/welcome-to-phase-three-of-the-global-financial-crisis/?sh=45bd58244a62. 
 
-<a name=”117”></a><sup>117</sup> Sharon Bernstein, “PBS Network Hit by Charges of Censorship,” *Los Angeles Times*, August 14, 1991.
+<a name=”117”></a><sup>117</sup> Bass, *To End a Plague*, 387.
 
-<a name=”118”></a><sup>118</sup> Bullert, *Public Television*, 133.
+<a name=”118”></a><sup>118</sup> Peter Sands, “COVID-19 Must Transform the Definition of Global Health Security,” *The Global Fund* blog, November 19, 2020, https://www.theglobalfund.org/en/blog/2020-11-19-covid-19-must-transform-the-definition-of-global-health-security/.
 
-<a name=”119”></a><sup>119</sup> Victor Zonana, “AIDS Activist Finds Creative Outlet in ‘Church,’” *Los Angeles Times*, September 6, 1991. 
+<a name=”119”></a><sup>119</sup> Kevin M. De Cock, et al., “Reflections on 40 Years of AIDS,” *Emerging Infectious Diseases*, vol. 27, no. 6 (June 2021), https://wwwnc.cdc.gov/eid/article/27/6/21-0284_article.
 
-<a name=”120”></a><sup>120</sup> Peter M. Nardi and Ralph Bolton, “Gay-Bashing: Violence and Aggression against Gay Men and Lesbians,” *Advances in Psychology*, 76 (1991), 350.
+<a name=”120”></a><sup>120</sup> “With new infections 1 million higher than the 2020 target, UNAIDS and partners convene emergency meeting on HIV prevention,” UNAIDS, https://www.unaids.org/en/resources/presscentre/pressreleaseandstatementarchive/2022/october/20221010_stop-new-infections.
 
-<a name=”121”></a><sup>121</sup> George Weigel, “KCET’S Action: the Antithesis of Freedom,” *Los Angeles Times*, September 17, 1991. 
+<a name=”121”></a><sup>121</sup> Ashley Kirzinger, Lunna Lopes, Bryan Wu, and Mollyanne Brodie, “KFF Health Tracking Poll – March 2019: Public Opinion on the Domestic HIV Epidemic, Affordable Care Act, and Medicare-for-all,” *Kaiser Family Foundation*,  March 26, 2019, https://www.kff.org/health-reform/poll-finding/kff-health-tracking-poll-march-2019/. 
 
-<a name=”122”></a><sup>122</sup> Sharon Bernstein, “Views Split on KCET Airing of ‘Stop the Church,’” *Los Angeles Times*, September 8, 1991; Sharon Bernstein, “KCET Pays Price in Flap With Church,” *Los Angeles Times*, October 10, 1991. 
+<a name=”122”></a><sup>122</sup> Centers for Disease Control, “HIV Among Gay and Bisexual Men,” https://www.cdc.gov/nchhstp/newsroom/docs/factsheets/cdc-msm-508.pdf.   
 
-<a name=”123”></a><sup>123</sup> Schulman, *Let the Record Show*, 1003. 
+<a name=”123”></a><sup>123</sup> Liz Hamel, Jamie Firth, Tina Hoff, Jennifer Kates, Sarah Levine, and Lindsey Dawson, “HIV/AIDS in the Lives of Gay and Bisexual Men in the United States,” *Kaiser Family Foundation*, September 25, 2014, https://www.kff.org/hivaids/report/hivaids-in-the-lives-of-gay-and-bisexual-men-in-the-united-states/. 
 
-<a name=”124”></a><sup>124</sup> Ann Northrop, interview by Sarah Schulman, May 28, 2003, ACT UP Oral History Project, https://actuporalhistory.org/numerical-interviews/027-ann-northrop?rq=ann%20northrop
+<a name=”124”></a><sup>124</sup> Francisco Illanes-Álvarez, Denisse Márquez-Ruiz, Mercedes Márquez-Coello, Sara Cuesta-Sancho, José Antonio Girón-González, “Similarities and Differences between HIV and SARS-CoV-2,” *International Journal of Medical Sciences*, vol. 18, no. 3 (2021), 849.
 
-<a name=”125”></a><sup>125</sup> “AIDS Protesters Enter Sets of 2 Newscasts,” *New York Times*, January 23, 1991, https://www.nytimes.com/1991/01/23/arts/aids-protesters-enter-sets-of-2-newscasts.html. 
+<a name=”125”></a><sup>125</sup> “HIV/AIDS: A Minority Health Issue,” *The Medical Clinics of North America*, vol. 89 (2005), 900. 
 
-<a name=”126”></a><sup>126</sup> Stephen Tropiano, “The Time of Our Lives: In the Life – America’s LGBTQ News Magazine,” UCLA Library, Film & Television Archive, https://www.cinema.ucla.edu/collections/inthelife/history/time-of-our-lives. 
+<a name=”126”></a><sup>126</sup> Timothy Bella, “Texas AG Says He’d Defend Sodomy Law if Supreme Court Revisits Ruling,” *Washington Post*, June 29, 2022., https://www.washingtonpost.com/politics/2022/06/29/texas-sodomy-supreme-court-lawrence-paxton-lgbtq/. 
 
-<a name=”127”></a><sup>127</sup> B. J. Bullert, *Public Television: Politics & the Battle over Documentary Film* (New Brunswick: Rutgers University Press, 1997), 94.
+<a name=”127”></a><sup>127</sup> Rachel Treisman, “As Monkeypox Spreads, Know the Difference between Warning and Stigmatizing People,” *NPR*, July 26, 2022, https://www.npr.org/2022/07/26/1113713684/monkeypox-stigma-gay-community. 
+
 
 ## Main
