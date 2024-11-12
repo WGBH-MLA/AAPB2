@@ -192,4 +192,72 @@
 
 <a name=”94”></a><sup>94</sup> Rachel Treisman, “As Monkeypox Spreads, Know the Difference between Warning and Stigmatizing People,” *NPR*, July 26, 2022, https://www.npr.org/2022/07/26/1113713684/monkeypox-stigma-gay-community. 
 
+<a name=”95”></a><sup>95</sup> United States Public Health Service, Office of the Surgeon General; and Centers for Disease Control, “Understanding AIDS: What Do You Really Know about AIDS?” (1988), https://stacks.cdc.gov/view/cdc/6927. 
+
+<a name=”96”></a><sup>96</sup> Heather G. Miller, Charles F. Turner, and Lincoln E. Moses, eds. (Committee on AIDS Research and the Behavioral, Social, and Statistical Sciences, Commission on the Behavioral and Social Sciences and Education, National Research Council), *AIDS: The Second Decade* (Washington: National Academies Press, 1990), 1, https://www.ncbi.nlm.nih.gov/books/NBK235359/. 
+
+<a name=”97”></a><sup>97</sup> Altman, 18. 
+
+<a name=”98”></a><sup>98</sup> hill Wilson, “Rising Sun?” *POZ*, October 1, 1994, https://www.poz.com/article/Rising-Sun-16349-4703. 
+
+<a name=”99”></a><sup>99</sup> Joseph P. Kahn, “‘AIDS Quarterly’ Draws Angry Reactions,” *Boston Globe*, October 17, 1989.
+
+<a name=”100”></a><sup>100</sup> Kahn, “‘AIDS Quarterly’ Draws Angry Reactions.” 
+
+<a name=”101”></a><sup>101</sup> Lisa Stodder, “Claude Rhodes: Outreach Worker Fought AIDS Among Addicts,” University of Illinois Chicago, Staff Advisory Council,  https://sac.uic.edu/claude-rhodes/.
+
+<a name=”102”></a><sup>102</sup> Kahn, “‘AIDS Quarterly’ Draws Angry Reactions.”
+
+<a name=”103”></a><sup>103</sup> Kahn, “‘AIDS Quarterly’ Draws Angry Reactions.”
+
+<a name=”104”></a><sup>104</sup> Richard A Knox, “A Powerfully Human ‘AIDS Quarterly,’” *Boston Globe*, September 26, 1989. 
+
+<a name=”105”></a><sup>105</sup> William Hoynes, *Public Television for Sale: Media, the Market, and the Public Sphere* (Boulder: Westview Press, 1994), 126.
+
+<a name=”106”></a><sup>106</sup> Schulman, *Let the Record Show*, 65. 
+
+<a name=”107”></a><sup>107</sup> Vito Russo, “Why We Fight,” 1988, ACT UP, https://actupny.org/documents/whfight.html. 
+
+<a name=”108”></a><sup>108</sup> Douglas Crimp, “Before Occupy: How AIDS Activists Seized Control of the FDA in 1988,” *Atlantic*, December 6, 2011, https://www.theatlantic.com/health/archive/2011/12/before-occupy-how-aids-activists-seized-control-of-the-fda-in-1988/249302/. 
+
+<a name=”109”></a><sup>109</sup> Daniel J. O’Shea, “AIDS Activism,” in *Mental Health Practitioner’s Guide to HIV/AIDS*, ed. Sana Loue (New York: Springer, 2013), 85. 
+
+<a name=”110”></a><sup>110</sup> Schulman, *Let the Record Show*, 218.
+
+<a name=”111”></a><sup>111</sup> Todd S. Purdum, “Cardinal Says He Won’t Yield to Protests,” *New York Times*, December 12, 1989. 
+
+<a name=”112”></a><sup>112</sup> Bullert, *Public Television*, 127.
+
+<a name=”113”></a><sup>113</sup> Bullert, *Public Television*, 123, 118.
+
+<a name=”114”></a><sup>114</sup> Bullert, *Public Television*, 129.  
+
+<a name=”115”></a><sup>115</sup> Bullert, *Public Television*, 129.  
+
+<a name=”116”></a><sup>116</sup> Bullert, *Public Television*, 130.
+
+<a name=”117”></a><sup>117</sup> Sharon Bernstein, “PBS Network Hit by Charges of Censorship,” *Los Angeles Times*, August 14, 1991.
+
+<a name=”118”></a><sup>118</sup> Bullert, *Public Television*, 133.
+
+<a name=”119”></a><sup>119</sup> Victor Zonana, “AIDS Activist Finds Creative Outlet in ‘Church,’” *Los Angeles Times*, September 6, 1991. 
+
+<a name=”120”></a><sup>120</sup> Peter M. Nardi and Ralph Bolton, “Gay-Bashing: Violence and Aggression against Gay Men and Lesbians,” *Advances in Psychology*, 76 (1991), 350.
+
+<a name=”121”></a><sup>121</sup> George Weigel, “KCET’S Action: the Antithesis of Freedom,” *Los Angeles Times*, September 17, 1991. 
+
+<a name=”122”></a><sup>122</sup> Sharon Bernstein, “Views Split on KCET Airing of ‘Stop the Church,’” *Los Angeles Times*, September 8, 1991; Sharon Bernstein, “KCET Pays Price in Flap With Church,” *Los Angeles Times*, October 10, 1991. 
+
+<a name=”123”></a><sup>123</sup> Schulman, *Let the Record Show*, 1003. 
+
+<a name=”124”></a><sup>124</sup> Ann Northrop, interview by Sarah Schulman, May 28, 2003, ACT UP Oral History Project, https://actuporalhistory.org/numerical-interviews/027-ann-northrop?rq=ann%20northrop
+
+<a name=”125”></a><sup>125</sup> “AIDS Protesters Enter Sets of 2 Newscasts,” *New York Times*, January 23, 1991, https://www.nytimes.com/1991/01/23/arts/aids-protesters-enter-sets-of-2-newscasts.html. 
+
+<a name=”126”></a><sup>126</sup> 
+
+<a name=”127”></a><sup>127</sup> 
+
+<a name=”128”></a><sup>128</sup> 
+
 ## Main
