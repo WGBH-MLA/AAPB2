@@ -254,10 +254,8 @@
 
 <a name=”125”></a><sup>125</sup> “AIDS Protesters Enter Sets of 2 Newscasts,” *New York Times*, January 23, 1991, https://www.nytimes.com/1991/01/23/arts/aids-protesters-enter-sets-of-2-newscasts.html. 
 
-<a name=”126”></a><sup>126</sup> 
+<a name=”126”></a><sup>126</sup> Stephen Tropiano, “The Time of Our Lives: In the Life – America’s LGBTQ News Magazine,” UCLA Library, Film & Television Archive, https://www.cinema.ucla.edu/collections/inthelife/history/time-of-our-lives. 
 
-<a name=”127”></a><sup>127</sup> 
-
-<a name=”128”></a><sup>128</sup> 
+<a name=”127”></a><sup>127</sup> B. J. Bullert, *Public Television: Politics & the Battle over Documentary Film* (New Brunswick: Rutgers University Press, 1997), 94.
 
 ## Main
