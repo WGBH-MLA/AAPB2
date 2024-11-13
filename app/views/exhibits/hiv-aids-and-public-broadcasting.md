@@ -79,8 +79,8 @@ A special thank you to Fabio Toblini, who granted the AAPB permission to add act
 - [National AIDS Memorial / NAMES Project AIDS Quilt](https://www.aidsmemorial.org)
 - [Snapshots of an Epidemic: An HIV/AIDS Timeline (amfAR)](https://www.amfar.org/about-hiv-aids/hiv-aids-snapshots-of-an-epidemic/)
 
-## Cover CHANGE
-  <img title="Cover Image" alt="NJN New Jersey Helpline." src="https://s3.amazonaws.com/americanarchive.org/exhibits/6_NJN New Jersey Helpline 1988.PNG">
+## Cover
+  <img title="Cover Image" alt="Silverlake Life Epilogue." src="https://s3.amazonaws.com/americanarchive.org/exhibits/HIV-AIDS signature image.png">
 
 ## Gallery
 
