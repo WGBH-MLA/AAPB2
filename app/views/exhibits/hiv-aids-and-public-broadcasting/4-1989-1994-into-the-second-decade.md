@@ -90,7 +90,7 @@ The episode received both negative and positive reactions. Larry Kessler, chairm
 
 “Protect Yourself” aimed to explore the issue of sex education for children through a live Q&A, educational segments, and three discussion panels. The content of sex education in schools was a highly debated topic, and this program included a variety of opinions and recommendations popular at the time, including abstinence-only education and safe sex education.  
 
-**[*Express*, “Sweating It Out / All About Cleve”](catalog/cpb-aacip-55-ng4gm8242x?start=1063.00&end=1832) (KQED, San Francisco, CA, 1989)**
+**[*Express*, “Sweating It Out / All About Cleve”](/catalog/cpb-aacip-55-ng4gm8242x?start=1063.00&end=1832) (KQED, San Francisco, CA, 1989)**
 
 This episode of the KQED series *Express* includes a segment on Cleve Jones, gay rights activist and founder of the NAMES Project AIDS Memorial Quilt. The program covered Jones’s involvement in politics, activism, his HIV diagnosis, and the NAMES Project. The NAMES Project AIDS Memorial Quilt requested submissions of quilt panels made in honor of people who died of AIDS-related causes. The quilt was displayed across the country beginning in 1987, when it was laid on the National Mall in Washington, D.C. At that time, the quilt was larger than a football field and was made up of 1,920 panels.
 
@@ -137,3 +137,13 @@ This educational radio program aimed to teach women how to protect themselves fr
 ## Gallery
 
 ## Records
+
+- [](/catalog/cpb-aacip_15-61rfjm96)
+- [](/catalog/cpb-aacip-526-wh2d796m92)
+- [](/catalog/cpb-aacip-55-ng4gm8242x?start=1063.00&end=1832)
+- [](/catalog/cpb-aacip_55-94vhjhqv)
+- [](/catalog/cpb-aacip-55-97xktjsp)
+- [](/catalog/cpb-aacip-50c989be918)
+- [](/catalog/cpb-aacip_55-vq2s46hp40)
+- [](/catalog/cpb-aacip-191-89r22j27)
+- [](/catalog/cpb-aacip-207-80ht7fhs)
