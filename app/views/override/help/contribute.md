@@ -22,6 +22,9 @@ The AAPB invites stations, producers, and archivists to submit their collections
 5. Receive Back Your Physical Media and Digital Files
  
 **Contact**: For any questions about working with the American Archive of Public Broadcasting you can email: aapb_submissions@wgbh.org.
+
+**Submitting Digital Material**
+The AAPB also welcomes pre-digitized and born-digital programming. Again, submitting your materials to the AAPB means they become even more discoverable and accessible to researchers, the public, and archival producers interested in licensing your content. They will also be preserved at the Library of Congress. To submit your digital programming, simply follow steps 1 - 3 above, then ship your materials to us on a hard drive. We can also explore transferring them through cloud-sharing services
  
 ### <p align="center">Learn More About the AAPB and the Digital Preservation Project</p>
  
