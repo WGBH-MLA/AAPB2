@@ -202,15 +202,15 @@ The materials featured in this exhibit offer a window into public broadcastingâ€
 
 ## Resources
 
-- [HIV/AIDS in Sub-Saharan Africa (National Library of Medicine)](https://www.ncbi.nlm.nih.gov/books/NBK2289/)
-- [HIV in Africa (Institute for Health Metrics and Evaluation)](https://www.hiv.gov/events/awareness-days/world-aids-day)
-- [Oral History of PEPFAR (George W. Bush Presidential Center)](https://www.bushcenter.org/publications/an-oral-history-of-pepfar-how-a-dream-big-partnership-is-saving-the-lives-of-millions)
-- [PEPFAR (KFF factsheet)](https://www.kff.org/global-health-policy/fact-sheet/the-u-s-presidents-emergency-plan-for-aids-relief-pepfar/) 
 - [The United States Presidentâ€™s Emergency Plan for AIDS Relief (U.S. Department of State)](https://www.state.gov/pepfar/)
 - [World AIDS Day](https://www.hiv.gov/events/awareness-days/world-aids-day)
+- [HIV in Africa (Institute for Health Metrics and Evaluation)](https://www.hiv.gov/events/awareness-days/world-aids-day)
+- [HIV/AIDS in Sub-Saharan Africa (National Library of Medicine)](https://www.ncbi.nlm.nih.gov/books/NBK2289/)
+- [PEPFAR (KFF factsheet)](https://www.kff.org/global-health-policy/fact-sheet/the-u-s-presidents-emergency-plan-for-aids-relief-pepfar/)
+- [Oral History of PEPFAR (George W. Bush Presidential Center)](https://www.bushcenter.org/publications/an-oral-history-of-pepfar-how-a-dream-big-partnership-is-saving-the-lives-of-millions)
 
-## Cover CHANGE
-  <img title="Cover Image" alt="Ingeniero de Radio Cadena" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg">
+## Cover
+  <img title="Cover Image" alt="Focus Fighting AIDS" src="https://s3.amazonaws.com/americanarchive.org/exhibits/FIGHTING.png">
 
 ## Gallery
 
