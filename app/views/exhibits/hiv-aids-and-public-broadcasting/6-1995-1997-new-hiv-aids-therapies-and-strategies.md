@@ -41,7 +41,7 @@ In 1996, the number of new AIDS cases in the U.S. declined for the first time si
 
 ## Records
 
-- [](/catalog/cpb-aacip-129-31cjt50j?start=746.80&end=1178.48)
+- [](/catalog/cpb-aacip-129-31cjt50j)
 - [](/catalog/cpb-aacip_77-63fxqtx1)
 - [](/catalog/cpb-aacip_394-15p8d15f)
-- [](/catalog/cpb-aacip-507-4t6f18t02f?start=1736.28&end=2473.57)
+- [](/catalog/cpb-aacip-507-4t6f18t02f)
