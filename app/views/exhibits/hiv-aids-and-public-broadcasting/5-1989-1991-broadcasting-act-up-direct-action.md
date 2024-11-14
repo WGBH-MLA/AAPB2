@@ -121,13 +121,13 @@ Despite their failure to appear onscreen, the protestors successfully communicat
 
 - [](/catalog/cpb-aacip_28-br8mc8rr6z)
 - [](/catalog/cpb-aacip_507-3b5w669q4c)
-- [](/catalog/cpb-aacip-15-61rfjm96?start=2074.59&end=2183.98)
-- [](/catalog/cpb-aacip-507-0p0wp9tm5k?start=695.51&end=1459.25)
-- [](/catalog/cpb-aacip-507-pr7mp4wc9s?start=448.74&end=470.65)
-- [](/catalog/cpb-aacip-43-56932bhs?start=1336.7&end=1810)
-- [](/catalog/cpb-aacip-526-8k74t6g61f?start=400.69&end=1779.12)
+- [](/catalog/cpb-aacip-15-61rfjm96)
+- [](/catalog/cpb-aacip-507-0p0wp9tm5k)
+- [](/catalog/cpb-aacip-507-pr7mp4wc9s)
+- [](/catalog/cpb-aacip-43-56932bhs)
+- [](/catalog/cpb-aacip-526-8k74t6g61f)
 - [](/catalog/cpb-aacip-526-8k74t6g61f)
 - [](/catalog/cpb-aacip_507-319s17t76g)
-- [](/catalog/cpb-aacip-507-319s17t76g?start=1370.8&end=1572.71)
+- [](/catalog/cpb-aacip-507-319s17t76g)
 
 
