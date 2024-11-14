@@ -6,6 +6,12 @@
 
 The HIV/AIDS epidemic radically changed public health policy, social attitudes toward gay men, and the course of LGBTQ+ history in the United States. This collection includes public broadcasting archival materials that demonstrate attitudes toward and responses to the epidemic. A resource for anyone interested in understanding how public broadcasting has covered HIV/AIDS, this exhibit places featured programs within a contextualized history of the course of the HIV/AIDS epidemic in the United States and the U.S. response to AIDS in Africa following the decline of new cases in the U.S.
 
+The exhibit was curated by two Library of Congress interns. Elizabeth Dinneny, a 2022 Library of Congress Junior Fellow and English PhD candidate at the University of Maryland, devised the exhibit and curated the sections on coverage of AIDS in the U.S. Sonia Prasad, an intern in the Library of Congress Archives, History, and Heritage Advanced Internship (AHHA) program and graduate of Williams College, curated the section on coverage of AIDS in Africa. 
+
+This project would not have been possible without the support of Mariah Marsden, Alan Gevinson, and Casey Davis. Thank you to those who helped make these programs available online: Robert Chehoski, Tina DiFeliciantonio, Peter Friedman, Amber Hollibaugh, Vivian Kleiman, Asad Muhammad, Richard Rask, Gini Reticker, and Jane Wagner. Thanks also to the exhibit’s anonymous reviewer.
+
+A special thank you to Fabio Toblini, who granted the AAPB permission to add activist and filmmaker Robert Hilferty’s historic, award-winning documentary *Stop the Church* to the Online Reading Room.  
+
 ## Extended
 
 ## Authors
@@ -19,17 +25,13 @@ The HIV/AIDS epidemic radically changed public health policy, social attitudes t
   
 ## Resources
 
-- [*Frontline: The Age of AIDS* site](https://www.pbs.org/wgbh/pages/frontline/aids/)
-- [ACT UP Oral History Project](https://www.actuporalhistory.org/)
-- [ACT UP Historical Archive](https://actupny.org/)
-- [Bay Area Reporter Archives](https://archive.org/details/bayareareporter)
-- [Gay Community News](https://lgbtqahistory.library.northeastern.edu/gay-community-news/)
-- [Outweek Internet Archive](http://www.outweek.net/)
-- [National AIDS Memorial / NAMES Project AIDS Quilt](https://www.aidsmemorial.org/)
-- [AmfAR's "Snapshots of an Epidemic: An HIV/AIDS Timeline"](https://www.amfar.org/about-hiv-aids/hiv-aids-snapshots-of-an-epidemic/)
-- [ACT UP FDA Handbook by Jim Eigo, Mark Harrington, Margaret McCarthy, Stephen Spinella, and Rick Sugden (9/12/1988)](https://actupny.org/documents/FDAhandbook1.html)
-- [*How to Survive a Plague* (dir. David France, 2012)](https://www.kanopy.com/en/product/12157233)
-
+- [HIV/AIDS Web Archive (National Library of Medicine)](https://archive-it.org/collections/8400)
+- [HIV and AIDS: 30 Years Ago (Smithsonian National Museum of American History)](https://hivaids.omeka.net/collections/browse)
+- [How To Survive a Plague (dir. David France, 2012)](https://www.kanopy.com/en/product/12157233)
+- [LGBTQIA+ Studies: A Resource Guide – HIV and AIDS (Library of Congress)](https://guides.loc.gov/lgbtq-studies/subject/hiv-aids)
+- [National AIDS Memorial / NAMES Project AIDS Quilt](https://www.aidsmemorial.org)
+- [Snapshots of an Epidemic: An HIV/AIDS Timeline (amfAR)](https://www.amfar.org/about-hiv-aids/hiv-aids-snapshots-of-an-epidemic/)
+  
 ## Main
 
 ### Introduction
@@ -63,21 +65,7 @@ Readers should keep in mind that the HIV/AIDS epidemic is still ongoing. While f
 Scholar James Kinsella identifies three surges in AIDS coverage: (1) in 1983, when the general public feared that AIDS was spread through casual contact; (2) in 1985, when actor Rock Hudson announced his AIDS diagnosis and Americans believed that anyone could contract the virus; and (3) in 1987, when conversations about stopping the spread and testing caused another panic.[<sup>16</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#16) These surges are reflected in public television and radio broadcasts, and in the organization of the exhibit. The first section, "1981-1985: Early Reporting on the 'Gay Disease,'" covers AIDS-related programs from the period before and immediately following Rock Hudson’s public announcement. The second section, "1986-1988: The AIDS Program Emerges," explores the sudden increase in public broadcasting's coverage of AIDS. It describes a controversy surrounding the 1986 Frontline documentary "AIDS: A National Inquiry" and analyzes two common types of programming from the period: legislative response coverage and local educational programming. The third section, "1989-1994: Beginning 'The Second Decade,'" provides a history of the AIDS Quarterly and other programs from this period. A fourth section, "1989-1991: Broadcasting ACT UP Direct Action," examines public broadcasting’s coverage of the AIDS Coalition to Unleash Power (ACT UP), the most well-known AIDS activist group. A fifth section, "1995-1997: New HIV/AIDS Therapies and Strategies," details the development of highly active antiretroviral therapy, which became the standard for treatment and made living with HIV/AIDS manageable. Following these five sections on coverage of AIDS in the U.S., the exhibit continues with four additional sections on coverage of AIDS in Africa, and concludes with an epilogue. While the essays can be read out of order, the exhibit is organized chronologically to clearly map shifts in media coverage, medical achievements, and government response. Listings of more than 50 additional nationally broadcast public television and radio programs in the AAPB collection end the exhibit.
 In addition to the many programs discussed in the exhibit, you can find a more comprehensive list of AIDS-related programming available for online access in AAPB by clicking "View all exhibit records." The AAPB collection includes programming that has been contributed to AAPB by more than 430 stations and producers, but there are many more public television and radio programs still in need of preservation.
 
-## Acknowledgements
-
-This project would not have been possible without the support of Mariah Marsden, Alan Gevinson, and Casey Davis. Thank you to those who helped make these programs available online: Robert Chehoski, Richard Rask, [others].
-A special thank you to Fabio Toblini, who granted the AAPB permission to add activist and filmmaker Robert Hilferty's historic, award-winning documentary *Stop the Church* to the Online Reading Room.  
-
 #### Next: [1981-1985: Early Reporting on the "Gay Disease"](/exhibits/hiv-aids-and-public-broadcasting/2-1981-1985-early-reporting-on-the-gay-disease)
-
-## Resources
-
-- [HIV/AIDS Web Archive (National Library of Medicine)](https://archive-it.org/collections/8400)
-- [HIV and AIDS: 30 Years Ago (Smithsonian National Museum of American History)](https://hivaids.omeka.net/collections/browse)
-- [How To Survive a Plague (dir. David France, 2012)](https://www.kanopy.com/en/product/12157233)
-- [LGBTQIA+ Studies: A Resource Guide – HIV and AIDS (Library of Congress)](https://guides.loc.gov/lgbtq-studies/subject/hiv-aids)
-- [National AIDS Memorial / NAMES Project AIDS Quilt](https://www.aidsmemorial.org)
-- [Snapshots of an Epidemic: An HIV/AIDS Timeline (amfAR)](https://www.amfar.org/about-hiv-aids/hiv-aids-snapshots-of-an-epidemic/)
 
 ## Cover
   <img title="Cover Image" alt="Silverlake Life Epilogue." src="https://s3.amazonaws.com/americanarchive.org/exhibits/HIV-AIDS signature image.png">
