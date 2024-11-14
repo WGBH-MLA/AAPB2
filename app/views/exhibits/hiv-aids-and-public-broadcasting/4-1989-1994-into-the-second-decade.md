@@ -46,7 +46,7 @@ The episode received both negative and positive reactions. Larry Kessler, chairm
 
 *The AIDS Quarterly* provided the most comprehensive coverage by public broadcasting of HIV/AIDS and was the only regularly scheduled program dedicated to examining the epidemic. Like many AIDS programs, the Quarterly was not without controversy, but it made significant contributions to public knowledge. One public television staffer, when discussing how public television measures success, gave *The AIDS Quarterly* as an example of a program that was successful because it made an impact on people’s lives, saying that the series was “causing people to have an intimacy with their own families, and to talk about the disease that they have and they hadn’t even had the nerve to tell them about. I mean, that’s just, that’s a huge thing to have done, even to one person[<sup>68</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#68).”
 
-*The AIDS Quarterly* ran from February 1989 to May 1990. Interviews conducted for *The AIDS Quarterly* and *The Health Quarterly* are available online in AAPB. Episodes of *The AIDS Quarterly* and its successor program, *The Health Quarterly*, which reported on issues of health in the U.S. and included an “AIDS Report” segment, are available to researchers on-site at the Library of Congress and GBH. 
+*The AIDS Quarterly* ran from February 1989 to May 1990. Episodes of *The AIDS Quarterly* and its successor program, *The Health Quarterly*, which reported on issues of health in the U.S. and included an “AIDS Report” segment, are available to researchers on-site at the Library of Congress and GBH. Interviews conducted for *The AIDS Quarterly* and *The Health Quarterly* are available online in AAPB.
 
 ***The AIDS Quarterly*, “The Education of Admiral Watkins” (WGBH, Boston, February 28, 1989).** 
 
@@ -99,14 +99,14 @@ The AIDS Memorial Quilt currently includes over 50,000 panels. It is [now consid
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">The NAMES Project AIDS Quilt on display at the National Mall in Washington, D.C. Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division, https://www.loc.gov/pictures/item/2011631696/.</caption>
 <tr><td><a href="https://www.loc.gov/pictures/item/2011631696/" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/memorial-quilt.jpg" class="big-image" alt="The NAMES Project AIDS Quilt on display at the National Mall in Washington, D.C. Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division"/></a></td></tr>
-</table>
-
-***The Creative Mind*, “Marlon Riggs” (KQED, San Francisco, June 19, 1991; June 26, 1991). Parts [One](/catalog/cpb-aacip_55-94vhjhqv) and [Two](/catalog/cpb-aacip-55-97xktjsp).** 
+</table> 
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">The Creative Mind, “Marlon Riggs” (KQED, San Francisco, CA, 6/19/1991), https://americanarchive.org/catalog/cpb-aacip-55-97xktjsp.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-55-97xktjsp" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/creative-mind.png" class="big-image" alt=“The Creative Mind, “Marlon Riggs” (KQED, San Francisco, CA, 6/19/1991)"/></a></td></tr>
 </table>
+
+***The Creative Mind*, “Marlon Riggs” (KQED, San Francisco, June 19, 1991; June 26, 1991). Parts [One](/catalog/cpb-aacip_55-94vhjhqv) and [Two](/catalog/cpb-aacip-55-97xktjsp).**
 
 This episode of *The Creative Mind*, a KQED series featuring in-depth interviews with artists, includes a conversation with documentary film artist Marlon Riggs, who explored anti-Black racism and homophobia in his work. Riggs, a Black gay man, said, “I don’t constantly think of death, but I know that there will be a time, and for that reason, my work has been a way of not running from death or trying to undo death, which will come—I’m not afraid of that—but rather it’s living beyond death in a way that continues to move people, to show them that there is a reason for living, that humanity is something that can be—occasionally is—virtuous.” 
 
