@@ -152,7 +152,6 @@ NAEB began operations in 1934 from a precursor organization that had been formed
 [](/catalog/cpb-aacip-512-tm71v5cj4k)
 [](/catalog/cpb-aacip-512-w66930q07x)
 [](/catalog/cpb-aacip-512-wp9t14vt8n)
-[](/catalog/cpb-aacip-512-x05x63c90z)
 [](/catalog/cpb-aacip-512-x34mk66b0d)
 [](/catalog/cpb-aacip-512-zk55d8pm71)
 [](/catalog/cpb-aacip-15-9zg6g70c)
