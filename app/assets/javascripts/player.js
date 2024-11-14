@@ -389,8 +389,8 @@ $(function() {
     updateTranscriptButton();
   }
 
-  $('#transcript-message-close').unbind('click').on('click', function() {
-    $('#transcript-message').slideUp(500);
+  $('.transcript-message-close').unbind('click').on('click', function() {
+    $('.transcript-message').slideUp(500);
   });
 
   $('.share-at-time').change(function() {

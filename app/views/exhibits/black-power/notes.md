@@ -26,7 +26,7 @@
 
 - Wald, Gayle. *It’s Been Beautiful: Soul! and Black Power Television*. Durham: Duke University Press, 2015.
 
-- WNET. “List of Black-Produced TV Shows Nationwide, from 1968- On,” February 27, 2009; https://www.thirteen.org/broadcastingwhileBlack/uncategorized/list-of-Black-produced-tv-shows-nationwide-from-1968-on/
+- WNET. “List of Black-Produced TV Shows Nationwide, from 1968- On,” February 27, 2009; https://www.thirteen.org/blog-post/list-of-black-produced-tv-shows-nationwide-from-1968-on/
 
 ### Notes to Televising Black Politics in the Black Power Era
 
