@@ -140,7 +140,7 @@ This educational radio program aimed to teach women how to protect themselves fr
 
 - [](/catalog/cpb-aacip_15-61rfjm96)
 - [](/catalog/cpb-aacip-526-wh2d796m92)
-- [](/catalog/cpb-aacip-55-ng4gm8242x?start=1063.00&end=1832)
+- [](/catalog/cpb-aacip-55-ng4gm8242x)
 - [](/catalog/cpb-aacip_55-94vhjhqv)
 - [](/catalog/cpb-aacip-55-97xktjsp)
 - [](/catalog/cpb-aacip-50c989be918)
