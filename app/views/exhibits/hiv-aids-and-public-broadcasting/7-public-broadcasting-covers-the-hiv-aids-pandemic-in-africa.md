@@ -84,7 +84,8 @@ Howard University's Andrew Rankin Memorial Chapel hosted a [meeting](/catalog/cp
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Clinton Presidential Library, https://clinton.presidentiallibraries.us/files/original/10ff7b6ee0341b08b151fbf0743154f5.jpg</caption>
-<tr><td><a href="https://clinton.presidentiallibraries.us/files/original/10ff7b6ee0341b08b151fbf0743154f5.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Clinton AIDs.jpg" class="big-image" alt="Clinton Presidential Library"/></a></td></tr></table>
+<tr><td><a href="https://clinton.presidentiallibraries.us/files/original/10ff7b6ee0341b08b151fbf0743154f5.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Clinton AIDs.jpg" class="big-image" alt="Clinton Presidential Library"/></a></td></tr>
+</table>
 
 In April 2001, a day before African leaders gathered in Nigeria to confer about AIDS, the [*NewsHour* aired a report by correspondent Elizabeth Farnsworth](/catalog/cpb-aacip-507-930ns0mg65?start=620.41&end=1469.7) from Malawi, where one million people out a population of ten million, were living with HIV. During the next month, the *NewsHour* aired a four-part [series](/catalog/cpb-aacip-507-mk6542k23s?start=1826.8&end=3212.38) by Farnsworth about AIDS in Africa, with a concentration on Malawi and Botswana, where she provided an in-depth look at the lives of those fighting AIDS on the ground. The first report began with Farnsworth telling the audience, “It’s hard to grasp the scope of the AIDS catastrophe engulfing southern Africa until you see it up close.” The segment included interviews with doctors, healthcare volunteers, patients, and the vice president of Malawi, Justin Malewezi. It also contained footage of the rural landscapes and impoverished communities of Malawi and Botswana. “There has often been hunger here, and life expectancy has always been low. But villagers said they have never seen anything more devastating than AIDS,” Farnsworth reported. “To serve all the people who need help, the vice president says a huge flow of aid from outside will be necessary.” Through the stories of individuals, Farnsworth’s interviews helped convey the bleak outlook held by Malawians who would continue to experience frustration and fear as long as they lacked access to treatment.   			
 
@@ -97,7 +98,8 @@ Farnsworth’s [report](https://americanarchive.org/catalog/cpb-aacip-507-v97zk5
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, May 15, 2001, https://americanarchive.org/catalog/cpb-aacip-507-v97zk56g94?start=1617.1&end=2465.77</caption>
-<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-v97zk56g94?start=1617.1&end=2465.77" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Botswana.png" class="big-image" alt="The NewsHour with Jim Lehrer, May 15, 2001"/></a></td></tr></table>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-v97zk56g94?start=1617.1&end=2465.77" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Botswana.png" class="big-image" alt="The NewsHour with Jim Lehrer, May 15, 2001"/></a></td></tr>
+</table>
 
 Before the last report of Farnsworth’s series, the *NewsHour* also aired one [segment](/catalog/cpb-aacip-507-z60bv7bs64?start=2039.91&end=2559.27) by Fred de Sam Lazaro about AIDS in Senegal. De Sam Lazaro detailed the country’s relatively successful techniques of preventing the disease through government programs, including one that required registration and regular screening for sex workers that had been in place even before the AIDS pandemic. Compared with other African countries with infection rates of at least 30%, Senegal’s was only 1.4%. Still, experts remained concerned about rural areas and emphasized the role of religious leaders in preventing AIDS by encouraging fidelity and educational campaigns to spread awareness in local communities.      
 
@@ -111,7 +113,8 @@ In much of the coverage, reporters repeatedly asked medical professionals whethe
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, June 19, 2002, https://americanarchive.org/catalog/cpb-aacip-507-7h1dj5927q?start=2247.04&end=2695.6</caption>
-<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-7h1dj5927q?start=2247.04&end=2695.6" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Fauci AIDs.png" class="big-image" alt="The NewsHour with Jim Lehrer, June 19, 2002"/></a></td></tr></table>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-7h1dj5927q?start=2247.04&end=2695.6" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Fauci AIDs.png" class="big-image" alt="The NewsHour with Jim Lehrer, June 19, 2002"/></a></td></tr>
+</table>
 
 During the International AIDS Conference of 2002, *NewsHour* health news correspondent Susan Dentzer [reported](/catalog/cpb-aacip-507-nv9959d17m?start=2213.94&end=3058.2) that experts believed the pandemic was only in its earliest stages and that the worst of it was yet to come. About a month later, following the United Nations Earth Summit in Johannesburg, Jonathan Silvers [covered](/catalog/cpb-aacip-507-5q4rj49b9c?start=2715.59&end=3247.88) how AIDS exacerbated the effects of drought and famine in Malawi. The segment explained how scarcity led to a breakdown of family support, destabilizing entire communities and the country itself. Women widowed by AIDS experienced dispossession, or “property-grabbing,” wherein their husband’s relatives would not recognize them as family, stripping the women of their property and other resources. Dispossession occurred much less frequently before the pandemic.
 
@@ -121,7 +124,8 @@ In his 2003 State of the Union address, President Bush announced the President�
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, February 10, 2003, https://americanarchive.org/catalog/cpb-aacip-507-086348gz8h?start=2474.73&end=3377.3</caption>
-<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-086348gz8h?start=2474.73&end=3377.3" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Bush Fighting AIDs.png" class="big-image" alt="The NewsHour with Jim Lehrer, February 10, 2003"/></a></td></tr></table>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-086348gz8h?start=2474.73&end=3377.3" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Bush Fighting AIDs.png" class="big-image" alt="The NewsHour with Jim Lehrer, February 10, 2003"/></a></td></tr>
+</table>
 
 On World AIDS Day in 2003, *The NewsHour with Jim Lehrer* aired a [segment](/catalog/cpb-aacip-507-vx05x26968?start=906.5&end=2031.51) discussing the 3 by 5 Initiative, a goal set by the WHO to provide 3 million people with treatment by 2005. Later that December, WILL Illinois Public Media’s radio call-in program *Focus 580* aired an [episode](/catalog/cpb-aacip-16-6d5p84443h?start=1631.23&end=2832) called “The Worldwide HIV/AIDS Pandemic,” in which Dr. Thomas C. Quinn of Johns Hopkins University’s School of Medicine spoke about studies he conducted in Africa regarding viral load, heterosexual transmission, and sexually transmitted diseases. He emphasized the importance of safe sex in preventing the spread of AIDS. “While we say the viral levels are the most predictive of transmission, the factors that enhance transmissibility are sexually transmitted diseases,” Dr. Quinn said. “Right now I'm just frustrated that I don't have the drugs to treat my African patients the way I do for my Baltimore patients.”
 
@@ -131,7 +135,8 @@ On World AIDS Day in 2004, the *NewsHour* aired a [segment](/catalog/cpb-aacip-5
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, December 1, 2004, courtesy of ABC News Nightime, https://americanarchive.org/catalog/cpb-aacip-507-gt5fb4xb08?start=2212.09&end=3226.2</caption>
-<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-gt5fb4xb08?start=2212.09&end=3226.2" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Nkosi Johnson.png" class="big-image" alt="The NewsHour with Jim Lehrer, December 1, 2004, courtesy of ABC News Nightime"/></a></td></tr></table>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-gt5fb4xb08?start=2212.09&end=3226.2" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Nkosi Johnson.png" class="big-image" alt="The NewsHour with Jim Lehrer, December 1, 2004, courtesy of ABC News Nightime"/></a></td></tr>
+</table>
 
 Public broadcasting continued to cover those fighting AIDS in African communities. In 2005, a *Focus 580* [episode](/catalog/cpb-aacip-16-mw28912805?start=635.1&end=899.83) called "Missionary Doctoring in Africa" covered the experience of Dr. Susan Nagele, a Catholic missionary who lived and worked in Tanzania, Sudan, and Kenya. She provided a more faith-based account of what it meant to alleviate the effects of the disease in Africa. The host raised the issue of the Catholic Church generally being unsupportive of contraception, such as condoms. In response, Dr. Nagele cited instances where condom use is not possible, including rape and war. Her interview was part of an ongoing conversation about the fact that a Republican president, much of whose constituency was Christian, had proposed an initiative that potentially encouraged family planning and that faith-based organizations had taken on some of the responsibility for global AIDS relief.[<sup>111</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#111)  
 
@@ -147,7 +152,8 @@ She noted previously stated concerns about the program that, aside from cost and
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, November 6, 2007, https://americanarchive.org/catalog/cpb-aacip-507-599z02zq9b?start=2708.55&end=3408.66</caption>
-<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-599z02zq9b?start=2708.55&end=3408.66" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Mark Dybul.png" class="big-image" alt="The NewsHour with Jim Lehrer, November 6, 2007"/></a></td></tr></table>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-599z02zq9b?start=2708.55&end=3408.66" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Mark Dybul.png" class="big-image" alt="The NewsHour with Jim Lehrer, November 6, 2007"/></a></td></tr>
+</table>
 
 As the new decade began, the AIDS pandemic in Africa continued to receive less coverage from the news media. In 2010, WGBH invited Unity Dow and Max Essex, authors of *Saturday Is for Funerals*, to speak about their new book at the Harvard Bookstore. *Saturday Is for Funerals* details the effects of AIDS in Dow’s home country, Botswana, telling the stories of real people while also explaining scientific developments.
 
@@ -155,7 +161,8 @@ The *PBS NewsHour* aired updates about AIDS from time to time. Experts debated w
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">December 1, 2011, NPR, courtesy of Evan Vucci/AP, https://media.npr.org/assets/img/2011/12/01/ap111201027252_wide-ee3943713679414d20dd3e72cd202f47689ee53b.jpg?s=1400>
-<tr><td><a href="https://media.npr.org/assets/img/2011/12/01/ap111201027252_wide-ee3943713679414d20dd3e72cd202f47689ee53b.jpg?s=1400" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/End of AIDs.jpg" class="big-image" alt="December 1, 2011, NPR, courtesy of Evan Vucci/AP"/></a></td></tr></table>
+<tr><td><a href="https://media.npr.org/assets/img/2011/12/01/ap111201027252_wide-ee3943713679414d20dd3e72cd202f47689ee53b.jpg?s=1400" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/End of AIDs.jpg" class="big-image" alt="December 1, 2011, NPR, courtesy of Evan Vucci/AP"/></a></td></tr>
+</table>
 
 Two years later, officials were still concerned about the state of the pandemic within the U.S., and the *NewsHour* [covered](/catalog/cpb-aacip-525-z02z31pt8p?start=160.28&end=365.13) Obama’s announcement of a $50 million initiative toward fighting AIDS domestically. Obama also called for PEPFAR to fund the distribution of ARVs to two million more people globally by 2013, despite a decision by the Global Fund to Fight AIDS, Tuberculosis, and Malaria to halt any new grants until 2014 due to the financial crisis at the time.[<sup>114</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#114)  	 	
 
@@ -167,7 +174,8 @@ In the same segment, Columbia University’s Dr. Wafaa El-Sadr spoke about apply
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Dr. Wafaa El-Sadir on PBS NewsHour July 20, 2012. Photo courtesy of Columbia University, https://americanarchive.org/catalog/cpb-aacip-525-w37kp7vz5c?start=1478.79&end=2455.69>
-<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-525-w37kp7vz5c?start=1478.79&end=2455.69" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Wafaa El Sadr.png" class="big-image" alt="Dr. Wafaa El-Sadir on PBS NewsHour July 20, 2012. Photo courtesy of Columbia University"/></a></td></tr></table>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-525-w37kp7vz5c?start=1478.79&end=2455.69" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Wafaa El Sadr.png" class="big-image" alt="Dr. Wafaa El-Sadir on PBS NewsHour July 20, 2012. Photo courtesy of Columbia University"/></a></td></tr>
+</table>
 
 In 2013, doctors in Mississippi made a breakthrough discovery when they cured a previously HIV-positive infant of the virus. WGBH aired a [segment](https://americanarchive.org/catalog/cpb-aacip-15-98w38210?start=379.53&end=851.95) on *The World*, interviewing doctors about how that discovery could be applied in Africa. The program included Dr. Donald Thea, the principal investigator of a Boston University project focusing on preventing mother-to-child transmission in Zambia. 
 
