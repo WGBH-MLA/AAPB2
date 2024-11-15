@@ -71,7 +71,8 @@ Some of the film’s subjects passed away before its completion and were memoria
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">State of Denial, airing on POV September 3, 2003, https://www.kanopy.com/en/product/139751</caption>
-<tr><td><a href="https://www.kanopy.com/en/product/139751" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Sick of Mbeki.jpg" class="big-image" alt="State of Denial, airing on POV September 3, 2003"/></a></td></tr></table>
+<tr><td><a href="https://www.kanopy.com/en/product/139751" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Sick of Mbeki.jpg" class="big-image" alt="State of Denial, airing on POV September 3, 2003"/></a></td></tr>
+</table>
 
 South African human rights lawyer Edwin Cameron, a Supreme Court of Appeal Judge, offered a nuanced view of President Mbeki related to South Africa’s “racist and colonial past.” He stated in a later [*NewsHour* interview](/catalog/cpb-aacip-507-m901z42m6b?start=2792.99&end=3214.24) that because of the nation’s new democratic institutions, including the media’s criticism of the president’s stance, Mbeki finally adopted a national treatment policy. Cameron’s book, *Witness to AIDS*, discussed his decision to go public about having AIDS. Cameron, whom Nelson Mandela characterized as one of South Africa’s new heroes, wrote the book to address the fact that the stigma attached to AIDS – because it is a sexually transmitted disease – had kept many people from seeking treatment.[<sup>106</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#106) 
 
