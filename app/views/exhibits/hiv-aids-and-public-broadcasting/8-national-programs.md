@@ -390,6 +390,64 @@ More than 230,000 women and girls are HIV-positive in the U.S., and many are not
 
 Latino communities are experiencing a growing health crisis as the number of HIV diagnoses among Latino gay, bisexual, and transgender men increases. A new report called “Here as I Am” investigates how social, economic, and political forces affect the health and well-being of Latino men living with HIV. The initiative found that many of these men with HIV are not receiving the care they need due to the stigma, fear, or discrimination faced by many communities of color. This is a special ahead of National Latino AIDS Awareness Day. Guest: Guillermo Chacón, President, AIDS Latino Commission, New York, NY. 
 
+[**Ending HIV in America”**](https://www.pbs.org/wgbh/nova/video/ending-hiv-in-america/) **(WGBH, Boston, October 5, 2022)**
+
+Science has made extraordinary progress against HIV. Can innovative drugs and therapies finally end it?”
+
+### *This Way Out*
+*This Way Out* is the only internationally distributed weekly LGBTQ radio program, currently broadcast over 200 local community radio stations worldwide. This award-winning newsmagazine covers major events impacting the queer community (NewsWrap) and explores important past events in the gay rights movement. This Way Out also features interviews with prominent LGBTQ figures and segments on music, literature, and entertainment.
+
+[***This Way Out*, #29**](https://americanarchive.org/catalog/cpb-aacip-c27b32f7040) **(This Way Out Radio, October 14, 1988)**
+Segments in this episode include NewsWrap / Sandy Dwyer and Tony Sullivan (4:25)| Dan Bradley speaking at the National March on Washington for Lesbian and Gay rights, October 11, 1987: representative for people with AIDS (2:35)| Names Project-AIDS quilt returns to Washington, D.C. / John Seh and Terra Siler (5:03)| AIDS activists shut down the U.S. Food and Drug Administration : October 11, 1988 / report by Rebecca Davis| interviews by Urvashi Vaid, Banks Wilkinson and David Barr (13:00).
+
+[***This Way Out*, #36**](https://americanarchive.org/catalog/cpb-aacip-562e53de3ba) **(This Way Out Radio, December 2, 1988)**
+Segments in this episode include NewsWrap / Sandy Dwyer, Tony Sullivan and Janice Windborne (6:26)| AIDS protest blocks morning commuter traffic on the San Francisco Golden Gate Bridge / Tim Kingston (4:06)| West Hollywood considers renewing L.A. County Sheriff's Department service, despite charges of gay-bashing / Edmund Calvin (6:21)| Peeking into Australian closets : a report on the gay history project of Australia / Gary Wotherspoon interviewed by Brian Newman (9:36).
+
+[***This Way Out*, #45**](https://americanarchive.org/catalog/cpb-aacip-06e10101ebc) **(This Way Out Radio, February 3, 1989)**
+Segments in this episode include NewsWrap / Sandy Dwyer, Tony Sullivan and Janice Windborne (6:26);  AIDS protest blocks morning commuter traffic on the San Francisco Golden Gate Bridge / Tim Kingston (4:06); West Hollywood considers renewing L.A. County Sheriff’s Department service, despite charges of gay-bashing / Edmund Calvin (6:21); Peeking into Australian closets : a report on the gay history project of Australia / Gary Wotherspoon, interviewed by Brian Newman (9:36).
+
+[***This Way Out*, #53**](https://americanarchive.org/catalog/cpb-aacip-bdda4501542) **(This Way Out Radio, March 31, 1989)**
+Segments in this episode include NewsWrap / Sandy Dwyer, Tony Sullivan and Mary Van Clay (5:35)| U.S. Armed Forces step up the lesbian witch-hunts / Henry yeager (3:10)| NewsWrap : April Fool's day special / Sandy Dwyer and Tony Sullivan (4:44)| AIDS, the artist's response : report on media portraits currently on display at Columbus, Ohio / Mike Alcalay and Coleman Jones (6:00)| Gay guerilla : or is that gorilla? / Len Richmond (4:56).
+
+[***This Way Out*, #73**](https://americanarchive.org/catalog/cpb-aacip-bb22514cb13) **(This Way Out Radio, August 21, 1989)**
+Segments in this episode include NewsWrap / Sandy Dwyer, Donald Herman and Mary Van Clay (5:55)| Homophobic synonyms provide poor education in the new Webster's Collegiate Thesaurus / Craig Davidson (2:35)| Sunset Junction Street Fair : a multi-ethnic/multi-cultural/multi sexual cooperative / Gabrielle Antolovich (5:10)| People of color AIDS conference in Washington, D.C. / introduced by Mike Alcalay| reported by Verna Avery Brown (3:50)| Report From the Holocaust : The Making of an AIDS Activist / by Larry Kramer  interviewed by Alan Ross (7:50).
+
+[***This Way Out*, #77**](https://americanarchive.org/catalog/cpb-aacip-42a694494b2) **(This Way Out Radio, September 18, 1989)**
+Segments in this episode include NewsWrap / Sandy Dwyer, Manuel Nunez, Thelma LaBreck and Steve Katz (6:45)| Protest of price-gouging by AIDS drug AZT manufacturer Burroughs-Wellcome / Mark Albert (4:45)| The Jewish community deals with theological obstacles to the AIDS crisis / Mike Alcalay and David Mandel (5:35)| Orange County celebrates lebsbian-gay pride weekend : the police confrontation / reported by Sandy Dwyer and Gabrielle Antolovich (8:50). 
+
+[***This Way Out*, #79**](https://americanarchive.org/catalog/cpb-aacip-c6165e2fea5) **(This Way Out Radio, October 2, 1989)** 
+Segments in this episode include NewsWrap / Sandy Dwyer and Manuel Nunez| report by Heidi Zemach (7:20)| An animal lover finds a way to help AIDS people : Emily Rosenberg (3:15)| Planning a 1,000 voice choir to sing for the 1990 Gay Games III and Cultural Festival, to be held in Vancouver, B.C. (5:05)| Report on the second annual U.S. National Coming Out Day.  
+
+[***This Way Out*, #82**](https://americanarchive.org/catalog/cpb-aacip-3a264c2c3df) **(This Way Out Radio, October 23, 1989)**
+Segments in this episode include NewsWrap / Sandy Dwyer, Manuel Nunez and Mary Van Clay (7:10)| Americans with AIDS seek lower priced drugs in foreign countries / Mike Alcalay and Michael Albert (3:35)| Mainstream media ignores gay issues : gay/bisexual stereotyping and homophobia in Rock 'n Roll / Craig Davidson (5:05)| The AIDS epidemic in South Africa : a gay Black anti-apartheid activist / Tseko Simon Nkoli interviewed by Keith Brown.
+
+[***This Way Out*, #83**](https://americanarchive.org/catalog/cpb-aacip-c343a2ea827) **(This Way Out Radio, October 30, 1989)** 
+Segments in this episode include NewsWrap / Sandy Dwyer, Manuel Nunez and Mary Van Clay (6:25)| Athletic registration and housing for Gay Games III : Vancouver, 1990 / Robb Atkinson and Kathee Muzim (6:05)| The U.S. response to the AIDS epidemic in the 1990's : health professionals gather in San Francisco / Mike Alcalay and Heidi Zemach (4:00)| Gay Black anti-apartheid activist : getting a passport for his European and North American speaking tour / Tseko Simon Nkoli interviewed by Keith Brown (7:20).
+
+[***This Way Out*, #87**](https://americanarchive.org/catalog/cpb-aacip-edb333b9624) **(This Way Out Radio, November 27, 1989)** 
+Segments in this episode include NewsWrap / Sandy Dwyer and Donald Herman (9:25)| Distribution of a bigoted "anti-prejudice" pamphlet by New York State / Karen Schwartz (2:50)| Exhibition of Dutch lesbian and gay historical and cultural memorabilia / Paul Verstraeten| interviewed by Jay McLaren (7:35)| Promos (1:40)| Inadequate media coverage of the AIDS epidemic / Jeff Cohen, of Fairness and Accuracy in Reporting interviewed by Mike Alcalay (4:40).
+
+[***This Way Out*, #91**](https://americanarchive.org/catalog/cpb-aacip-bc8ee394a06) **(This Way Out Radio, January 8, 1990)**
+Segments in this episode include NewsWrap / Sandy Dwyer, Manuel Nunez and Mary Van Clay (6:15)| Opposition to College ROTC programs because of the military's descrimination against lesbians and gays / Sharon Cybart (7:00)| Phranc : a Jewish lesbian folk singer, part 2 interviewed by Rosemary Welsch (7:45)| Built-in problems affecting media coverage of the AIDS epidemic / Paula Trichler introduced by Mike Alcalay (5:15).
+
+[***This Way Out*, #92**](https://americanarchive.org/catalog/cpb-aacip-887151b9e1b) **(This Way Out Radio, January 15, 1990)** 
+Segments in this episode include NewsWrap / Sandy Dwyer, Manuel Nunez, Mary Van Clay and Gabrielle Antolovich (8:05)| New York City pressures new schools Chancellor Joseph Fernandez to improve AIDS education in the classrooms / Evelyn Tully Costa (4:05)| "Men in Love" : first fiction film to deal with the AIDS crisis among gay men / directed by Mark Huestis, interviewed by Mike Alcalay (5:45)| When lesbians or gays become disabled: compromised rights / Karen Thompson and Sharon Kowalski, reported by David Sears (8:45).
+
+[***This Way Out*, #100**](https://americanarchive.org/catalog/cpb-aacip-604fbc9bb20) **(This Way Out Radio, March 12, 1990)** 
+Segments in this episode include Newswrap / Jim Schroeder, Lucia Chappelle, Greg Gordon, Mary Van Clay (6:45)| Anti-discrimination measure may pass in Pittsburgh / Abe Feldman (4:15)| Western Union charged with anti-gay employment discrimination : the legal counter-argument / Karin Schwartz (2:55)| $600,000,000 Comprehensive AIDS Resources Emergency Act of 1990 : Ted Kennedy and Orrin Hatch / Mark Bevis (5:35)| Out-Write : gay and lesbian writers meet in San Francisco and talk about AIDS / Mike Alcalay (6:55).
+
+[***This Way Out*, unnumbered***](https://americanarchive.org/catalog/cpb-aacip-38877f2c591) **(This Way Out Radio, April 23, 1990)** 
+Segments of this episode include  Newswrap (8:50)| Tongues Untied: Marlon Riggs / Mike Alcalay| Randy Shilts interview promo| Judy Grahn conclusion from Gay and Lesbian writer’s conference OutWrite.
+
+[***This Way Out*, #118**](https://americanarchive.org/catalog/cpb-aacip-953e5bc430e) **(This Way Out Radio, July 2, 1990)**
+Segments from this episode include Newswrap / Greg Gordon, Mary Van Clay, Judith Samuels, Sandy Dwyer and Richard Cisneros (9:55)| Homophobia can kill / Claudia Brenner (1:00)| Wrap-up of the 6th International AIDS Conference / Mike Alcalay (3:30)| Two negative reviews of the film Longtime Companion / Kirk Evan Billet (3:50)| Gay and Lesbian Freedom Day Celebration : Boise, Idaho / Linda Shirley (5:45)| Lest we forget : observing the 4th anniversary of the Bowers vs. Hardwick decision / Michael Hardwick interviewed by Alan Ross (2:15).
+
+[***This Way Out*, unnumbered**](https://americanarchive.org/catalog/cpb-aacip-4aa02995d04) **(This Way Out Radio, August 10, 1992)** 
+Audio is from August 3, 1992.
+
+[***This Way Out*, unnumbered**](https://americanarchive.org/catalog/cpb-aacip-520acec91fa) **(This Way Out Radio, July 12, 1993)** 
+Audio is from July 5, 1993.
+
 
 ### *OutCasting*
 
@@ -420,11 +478,11 @@ Created in 2011 by and for LGBTQ youth and straight allies, *OutCasting* is inte
 ## Resources
 
 - [*The AIDS Quarterly/The Health Quarterly* (GBH Open Vault)](https://openvault.wgbh.org/collections/aqhq/collection-summary)
-- [Frontline: The Age of AIDS](https://www.pbs.org/wgbh/pages/frontline/aids/)
-- [In the Life Collection (AAPB)](/special_collections/ucla-inthelife)
-- [NOVA: Ending HIV in America (GBH)](https://www.pbs.org/wgbh/nova/video/ending-hiv-in-america/)
-- [Outcasting Collection (AAPB)](/special_collections/outcasting)
-- [This Way Out Collection (AAPB)](/special_collections/this-way-out)
+- [*Frontline*: The Age of AIDS](https://www.pbs.org/wgbh/pages/frontline/aids/)
+- [*In the Life* Collection (AAPB)](/special_collections/ucla-inthelife)
+- [*NOVA*: Ending HIV in America (GBH)](https://www.pbs.org/wgbh/nova/video/ending-hiv-in-america/)
+- [*OutCasting* Collection (AAPB)](/special_collections/outcasting)
+- [*This Way Out* Collection (AAPB)](/special_collections/this-way-out)
 
 ## Cover
   <img title="Cover Image" alt="Silverlake Life: The View from Here" src="https://s3.amazonaws.com/americanarchive.org/exhibits/National Programs signature image.png">
