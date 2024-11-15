@@ -31,7 +31,7 @@ This collection of work from CPT&R was digitized in the Fall of 2019 and Spring 
 - [The University of Alabama Special Collections and Archives](https://www.lib.ua.edu/libraries/hoole/)
 - [The Alabama Department of Archives and History](https://archives.alabama.gov)
 - [Alabama, National Archives](https://www.archives.gov/nhprc/projects/states-territories/al.html)
-- [The Birmingham Public Library]( http://www.bplonline.org/locations/central/archives/)
+- [The Birmingham Public Library](https://www.cobpl.org/)
 
 
 ## Funders

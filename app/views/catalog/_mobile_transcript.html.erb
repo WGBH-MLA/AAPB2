@@ -14,18 +14,24 @@
           </div>
         </div>
         <div id="transcript" class="transcript-frame transcript-div transcript-view-show">
+
+          <% if @pbcore.transcript_message %>
+            <div class="transcript-message">
+
+              <div class="transcript-message-bar">
+                <button class="transcript-message-btn transcript-message-close">✖</button>
+              </div>
+
+              <div class="transcript-message-content">
+                <%= @pbcore.transcript_message.html_safe %>
+              </div>
+            </div>
+          <% end %>
+
           <div class="mobile-transcript-content">
            <%= raw @pbcore.transcript_html %>
           </div>
         </div>
-
-        <% if @transcript_message %>
-          <div id="transcript-message" class="">
-            <div class="mobile-transcript-content">
-              <%= @pbcore.transcript_message.html_safe %>
-            </div>
-          </div>
-        <% end %>
       </dl>
   </div>
 <% end %>

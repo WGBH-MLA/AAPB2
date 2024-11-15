@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= render_page_title %></title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <%= stylesheet_link_tag "application", media: "all" %>
+    <%= javascript_include_tag "application" if false %>
+    <%= csrf_meta_tags %>
+    <link href="https://vjs.zencdn.net/7.20.2/video-js.css" rel="stylesheet">
+    <script src="https://vjs.zencdn.net/7.20.2/video.min.js" ></script>
+    <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js" ></script>
+    <!-- Need VideoJS for our player.js file -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+    <%= javascript_include_tag 'player' %>
+    <%= javascript_include_tag 'videojs-offset.min' %>
+  </head>
+  <body class="<%= render_body_class %>" style="margin: 0px; padding: 0px; overflow: hidden;">
+    <div class="embed-lite-row row">
+      <%= yield %>
+    </div>
+  </body>
+</html>
+

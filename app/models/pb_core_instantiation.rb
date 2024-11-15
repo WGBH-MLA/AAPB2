@@ -60,7 +60,7 @@ class PBCoreInstantiation
   end
 
   def format
-    @format ||= read_format
+    @format ||= (digital || physical)
   end
 
   def annotations
@@ -69,6 +69,14 @@ class PBCoreInstantiation
 
   def display_text_fields
     @display_text ||= { identifier: identifier_display, format: format, generation: generations, color: colors, duration: duration }.compact
+  end
+
+  def digital
+    optional('instantiationDigital')
+  end
+
+  def physical
+    optional('instantiationPhysical')
   end
 
   private
@@ -90,11 +98,5 @@ class PBCoreInstantiation
   def optional_element_attribute(xpath, attribute)
     match = REXML::XPath.match(@rexml, xpath).first.attributes[attribute.to_s]
     match ? match : nil
-  end
-
-  def read_format
-    return optional('instantiationDigital') unless optional('instantiationDigital').nil?
-    return optional('instantiationPhysical') unless optional('instantiationPhysical').nil?
-    nil
   end
 end

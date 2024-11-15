@@ -6,6 +6,7 @@ class OrganizationsController < ApplicationController
 
   def show
     @org = Organization.find_by_id(params[:id])
+    raise ActionController::RoutingError.new('Organization Not Found') unless @org
     @page_title = @org.short_name
   end
 end

@@ -2,7 +2,7 @@
     render layout: 'home/carousel',
            locals: {
                     id: 'exhibits-carousel',
-                    items: Exhibit.all_top_level + [LinkExhibit.new(title: "Witnessing New Mexico: The New Mexico Public Media Digitization Project", external_url: "https://storymaps.arcgis.com/stories/39eecf9cbc484f36802799c4046ebd61", thumbnail_url: "https://s3.amazonaws.com/americanarchive.org/exhibits/nm_storymap_cover.png", new_tab: true)],
+                    items: Exhibit.all_top_level,
                     view_all: 'View All Exhibits',
                     view_all_href: '/exhibits'
                    } do |item| %>

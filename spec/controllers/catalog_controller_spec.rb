@@ -101,6 +101,19 @@ describe CatalogController do
           end
         end
       end
+
+      context 'when adding .iiif as a response format' do
+        before { get :show, id: id, format: 'iiif' }
+        let(:id) { 'cpb-aacip-114-90dv49m9' }
+        let(:response_hash) { JSON.parse(response.body) }
+
+        it 'returns a IIIF manifest for a given record' do
+          expect(response.status).to eq 200
+          expect(response.content_type).to eq 'application/json'
+          expect(response_hash['@context']).to eq "http://iiif.io/api/presentation/3/context.json"
+          expect(response_hash['id']).to match(/#{id}\.iiif\Z/)
+        end
+      end
     end
   end
 end

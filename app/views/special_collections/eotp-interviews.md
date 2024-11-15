@@ -31,7 +31,7 @@ The *Eyes on the Prize* Interviews were preserved during 2010-2016 thanks to a g
 
 - [AAPB Exhibit: Freedom Song: Interviews from *Eyes on the Prize: America’s Civil Rights Years, 1954-1965*](https://americanarchive.org/exhibits/eotp)
 - [*Eyes on the Prize* at Washington University Digital Gateway](http://digital.wustl.edu/eyesontheprize/)
-- [*Eyes on the Prize*, Then and Now, at World Channel](https://www.wgbh.org/program/world-channel/eyes-on-the-prize-then-and-now)
+- [*Eyes on the Prize*, Then and Now, at World Channel](https://www.pbs.org/video/world-channel-eyes-prize-then-and-now-episode/)
 - [Henry Hampton Collection, Washington University in St. Louis](https://library.wustl.edu/spec/henry-hampton-collection/)
 - [*Eyes on the Prize*: America’s Civil Rights Movement, 1954-1985, Facing History](https://www.facinghistory.org/resource-library/eyes-prize-americas-civil-rights-movement)
 - [‘*Eyes on the Prize*’ Producer on Making a Civil Rights Documentary before Its Time, by Lakshmi Singh at NPR](https://www.npr.org/2017/03/12/519925253/eyes-on-the-prize-producer-on-making-a-civil-rights-documentary-before-its-time)

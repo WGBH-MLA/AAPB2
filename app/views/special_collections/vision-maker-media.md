@@ -25,7 +25,7 @@ In 2016, Vision Maker Media celebrated its 40th anniversary by collaborating wit
 
 ## Resources
 
-- [Vision Maker Media](http://www.visionmakermedia.org/)
+- [Vision Maker Media](https://visionmakermedia.org/)
 - [*Presenting the Past*; Indigenous Public Media with Shirley Sneve, Vice President of Broadcasting for Indian Country Today (AAPB podcast)](https://youtu.be/ub15WzhtURQ)
 - [Native Voice One - Native American Radio Network](http://www.nv1.org/)
 - [Association of Tribal Archives, Libraries and Museums](http://www.atalm.org/)

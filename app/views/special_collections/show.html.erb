@@ -1,5 +1,5 @@
 <% content_for :main do %>
-  <div class="row">
+  <div id="collection-main" class="row">
     <div class="col-md-12 breadcrumb-row">
       <ol class="collection-breadcrumb hidden-xs" style="margin-top: 0px;">
         <li><a href="/special_collections">Back to Special Collections</a></li>
@@ -8,19 +8,19 @@
     <div class="col-md-6 collection-image">
       <img src="<%= @special_collection.thumbnail_url %>" alt="<%= @special_collection.title %>" aria-hidden="true">
       <%= render partial: 'collection_search' %>
-    <% if !@special_collection.resources.empty? %>
-      <div class="resources-row">
-        <h2>Other Resources</h2>
-        <div class="col-md-12 collection-resources">
-          <ul>
-            <% @special_collection.resources.each do |resource| %>
-                <li><%= link_to resource[0], resource[1], target: "_blank" %></li>
-            <% end %>
-          </ul>
+      <% if !@special_collection.resources.empty? %>
+        <div class="resources-row">
+          <h2>Other Resources</h2>
+          <div class="col-md-12 collection-resources">
+            <ul>
+              <% @special_collection.resources.each do |resource| %>
+                  <li><%= link_to resource[0], resource[1], target: "_blank" %></li>
+              <% end %>
+            </ul>
+          </div>
         </div>
-      </div>
-    <% end %>
-  </div>
+      <% end %>
+    </div>
     <div class="col-md-6 collection-about-col">
       <div class="collection-about">
         <h2>Collection Summary</h2>

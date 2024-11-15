@@ -92,3 +92,4 @@ gem 'bigdecimal', '1.4.4'
 gem 'httparty'
 
 gem 'pbcore', '~> 0.2.0'
+gem 'json-schema', '~> 2.8.0'

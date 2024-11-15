@@ -57,12 +57,12 @@ Rails.application.routes.draw do
   get 'about-the-american-archive/newsletter', to: 'forms#newsletter'
   get 'about-the-american-archive/newsletter_thanks', to: 'forms#newsletter_thanks'
   get 'about-the-american-archive/feedback', to: 'forms#feedback'
-  get 'about-the-american-archive/volunteer', to: 'forms#volunteer'
 
   match 'recaptcha', to: 'forms#validate_recaptcha', via: [:post]
 
   get '/timelines/eotp', to: 'timelines#eotp'
   get '/a-tribute-to-jim-lehrer', to: 'jims#index'
+  get '/a-tribute-to-robert-macneil', to: 'jims#robert_macneil'
 
   get '/exhibits', to: 'exhibits#index'
   get '/exhibits/*path', to: 'exhibits#show', constraints: override_constraints
@@ -80,6 +80,9 @@ Rails.application.routes.draw do
 
   get '/special_collections', to: 'special_collections#index'
   get '/special_collections/*path', to: 'special_collections#show', constraints: override_constraints
+  # support dashes too
+  get '/special-collections', to: 'special_collections#index'
+  get '/special-collections/*path', to: 'special_collections#show', constraints: override_constraints
   get '/plain_override/*path', to: 'plain_override#show', constraints: override_constraints
 
   get '/*path', to: 'override#show', constraints: override_constraints

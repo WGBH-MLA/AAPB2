@@ -156,3 +156,12 @@
   - "interviews-with-foreign-leaders/2-people"
   - "interviews-with-foreign-leaders/3-country"
   - "interviews-with-foreign-leaders/4-date"
+"stories-of-the-land":
+  sections:
+  - "stories-of-the-land/2-land"
+  - "stories-of-the-land/3-work"
+  - "stories-of-the-land/4-environment"
+  - "stories-of-the-land/5-culture"
+  - "stories-of-the-land/6-practice"
+  - "stories-of-the-land/7-politics"
+  - "stories-of-the-land/8-additional-reading"

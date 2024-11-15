@@ -5,7 +5,7 @@ on:
 jobs:
   rubocop:
     name: 🤖 Check code style with Rubocop
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
       - name: 📰 Checkout code
