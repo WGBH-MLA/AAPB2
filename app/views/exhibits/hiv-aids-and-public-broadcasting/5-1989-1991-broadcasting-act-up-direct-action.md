@@ -1,4 +1,4 @@
-## 1989-1991: Broadcasting ACT UP Direct Action
+# 1989-1991: Broadcasting ACT UP Direct Action
 
 5
 
