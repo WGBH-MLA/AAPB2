@@ -10,7 +10,8 @@ class Solr
   def initialize
     environment = ENV['RAILS_ENV'] || DEFAULT
     conf = YAML.load_file(Rails.root + 'config/blacklight.yml')
-    @connect = RSolr.connect(url: conf[environment]['url'])
+    solr_url = ENV['SOLR_URL'] || conf[environment]['url']
+    @connect = RSolr.connect(url: solr_url + 'blacklight-core')
   end
 
   attr_reader :connect

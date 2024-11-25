@@ -47,6 +47,8 @@ CMD bundle exec rake jetty:config \
 # Production Build Stage
 ############################
 FROM base as production
+ENV RAILS_ENV=production
+ENV AAPB_LOG=log/build.log
 
 # Set the RAILS_ENV to production. This affects several things in Rails.
 ENV RAILS_ENV=production
