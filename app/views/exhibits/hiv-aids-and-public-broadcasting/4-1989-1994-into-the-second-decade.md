@@ -32,7 +32,7 @@ The programs in this section reflect a more organized approach to the HIV/AIDS e
 In 1989, WGBH in Boston began to produce *The AIDS Quarterly*, a PBS series that reported on the epidemic and was “widely regarded as television’s most ambitious and comprehensive look at the AIDS epidemic,” Joseph Kahn reported in the *Boston Globe*.[<sup>63</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#63) The magazine-style program included news updates, interviews and analysis, and documentaries. Of all the programs featured in this exhibit, *AIDS Quarterly* is particularly important, because it was intended to help fill an absence of consistent, quality coverage of the epidemic. Host Peter Jennings made this clear at the beginning of the very first broadcast, when he criticized a lack of media coverage despite rising case numbers, and when he admitted, “We in the media have not always been very helpful to you in understanding AIDS.” This self-awareness and dedication to regular reporting uniquely positioned *The AIDS Quarterly* in the AIDS media landscape. Until *The AIDS Quarterly*, the public broadcasting series that most consistently discussed AIDS was *The MacNeil/Lehrer Report* and *NewsHour*, which had been examining the epidemic since 1982. 
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">The AIDS Quarterly; "The Education of Admiral Watkins; A Death in the Family" (WGBH, Boston, February 28, 1989), https://americanarchive.org/catalog/cpb-aacip-15-61rfjm96.</caption>
+<caption align="bottom" class="exhibit-caption">The AIDS Quarterly; "The Education of Admiral Watkins; A Death in the Family" (WGBH, Boston, February 28, 1989).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-15-61rfjm96" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/aids-quarterly-1.png" class="big-image" alt="The AIDS Quarterly; "The Education of Admiral Watkins; A Death in the Family" (WGBH, Boston, February 28, 1989)."/></a></td></tr>
 </table>
 
@@ -50,65 +50,65 @@ The episode received both negative and positive reactions. Larry Kessler, chairm
 
 ***The AIDS Quarterly*, “The Education of Admiral Watkins” (WGBH, Boston, February 28, 1989)** 
 
-> Provides an overview of the epidemic and interview with Admiral Watkins, chairman of President Reagan’s commission   on AIDS.
+Provides an overview of the epidemic and interview with Admiral Watkins, chairman of President Reagan’s commission   on AIDS.
 
 **The AIDS Quarterly, “Stopping AIDS: Stopping Drugs; The Art of Medicine” (WGBH, Boston, 1989)**
 
-> Focuses on the medical aspects of the epidemic. Included are segments on AIDS research and its implications for the science of psychoneuroimmunology (PNI): a profile of two doctors--one in Massachusetts, the other in Iowa--and how AIDS has affected their practice of medicine, and a look at how billions of dollars of federal research is spent and who gets it.
+Focuses on the medical aspects of the epidemic. Included are segments on AIDS research and its implications for the science of psychoneuroimmunology (PNI): a profile of two doctors--one in Massachusetts, the other in Iowa--and how AIDS has affected their practice of medicine, and a look at how billions of dollars of federal research is spent and who gets it.
 
 ***The AIDS Quarterly*, “A Question of Civil Rights; AIDS and the Second Sex” (WGBH, Boston, September 27, 1989)**
 
-> Explores how racially segregated healthcare in Chicago affects Black and Hispanic people’s access to HIV/AIDS information, prevention, and care. Also follows one woman living with AIDS.
+Explores how racially segregated healthcare in Chicago affects Black and Hispanic people’s access to HIV/AIDS information, prevention, and care. Also follows one woman living with AIDS.
 
 ***The AIDS Quarterly*, “Christmas at Starcross” (WGBH, Boston, December 19, 1989)**
 
-> This special edition of *The AIDS Quarterly* follows the care of children with AIDS at Starcross Christmas Tree Farm in Northern California. 
+This special edition of *The AIDS Quarterly* follows the care of children with AIDS at Starcross Christmas Tree Farm in Northern California. 
 
 ***The AIDS Quarterly*, “The Trial of Compound Q; Money and Morals” (WGBH, Boston, January 31, 1990)**
 
-> Examines the controversy surrounding the underground trials of Compound Q by Project Inform in San Francisco, in addition to the use of government funds for HIV/AIDS research and treatment. You can read more about Compound Q elsewhere in this exhibit.
+Examines the controversy surrounding the underground trials of Compound Q by Project Inform in San Francisco, in addition to the use of government funds for HIV/AIDS research and treatment. You can read more about Compound Q elsewhere in this exhibit.
 
 ***The AIDS Quarterly*, “Crisis in Texas; Prisoners of AIDS” (WGBH, Boston, May 23, 1990)**
 
-> Analyzes the HIV/AIDS epidemic in the state of Texas and the spread of HIV inside prisons.
+Analyzes the HIV/AIDS epidemic in the state of Texas and the spread of HIV inside prisons.
 
 **The AIDS Quarterly, “The Crisis in Poland; To Live with AIDS” (WGBH, Boston, November 26, 1990)**
 
-> Takes a global look at the epidemic with a trip to Poland where the epidemic is causing a crisis for the health care system. Second segment is a monologue by Edmund White, an influential American gay writer. White tested HIV positive in 1985 and speaks about what it is like living with a disease for which there is no cure.
+Takes a global look at the epidemic with a trip to Poland where the epidemic is causing a crisis for the health care system. Second segment is a monologue by Edmund White, an influential American gay writer. White tested HIV positive in 1985 and speaks about what it is like living with a disease for which there is no cure.
  
 **The Health Quarterly, 101 (WGBH, Boston, June 12, 1991)**
 
-> Includes three segments: "My Job, My Health," "An Answer From Government," and "The AIDS Report: Decade of the Virus.”
+Includes three segments: "My Job, My Health," "An Answer From Government," and "The AIDS Report: Decade of the Virus.”
 
 **The Health Quarterly, 102 (WGBH, Boston, September 23, 1991)**
 
 **The Health Quarterly, 103 (WGBH, Boston, December 1991)** 
 
-> Includes three segments: "Return to the Delta," "A Better Way to Help," and "The AIDS Report: Gloria."
+Includes three segments: "Return to the Delta," "A Better Way to Help," and "The AIDS Report: Gloria."
 
 **The Health Quarterly, 104 (WGBH, Boston, March 1992)** 
 
-> Includes three segments: "The Politics 1965-1992," "Reform Within Reach," and "The AIDS Report: To Keep Kids Safe."
+Includes three segments: "The Politics 1965-1992," "Reform Within Reach," and "The AIDS Report: To Keep Kids Safe."
 
 **The Health Quarterly, 201 (WGBH, Boston, June 1992)** 
 
-> Includes three segments: "Is Your Vote Good for Your Health?" "Children of DES," and "The AIDS Report: Dating in the Age of AIDS."
+Includes three segments: "Is Your Vote Good for Your Health?" "Children of DES," and "The AIDS Report: Dating in the Age of AIDS."
 
 **The Health Quarterly, 202 (WGBH, Boston, September 1992)** 
 
-> Includes two segments: "A Voter's Guide to Health Care" and "The AIDS Report: Advice to the Next President."
+Includes two segments: "A Voter's Guide to Health Care" and "The AIDS Report: Advice to the Next President."
 
 **The Health Quarterly, 203 (WGBH, Boston, December 1992)** 
 
-> Includes two segments: "Doctors and Dollars," "The Health Update: Promises & Reality," and "The AIDS Report: A Hidden Risk."
+Includes two segments: "Doctors and Dollars," "The Health Update: Promises & Reality," and "The AIDS Report: A Hidden Risk."
 
 **The Health Quarterly, 301 (WGBH, Boston, March 1993)** 
 
-> Includes two segments: "Focus Documentary on TB" and "The Future of Reform: A Debate."
+Includes two segments: "Focus Documentary on TB" and "The Future of Reform: A Debate."
 
 **The Health Quarterly, 302 (WGBH, Boston, June 1993)** 
 
-> Includes two segments: "Focus Documentary on Clinton's Health Care Bill" and "The Family Doctor."  
+Includes two segments: "Focus Documentary on Clinton's Health Care Bill" and "The Family Doctor."  
 
 ### Selected Additional Programming
 
@@ -121,7 +121,7 @@ The episode received both negative and positive reactions. Larry Kessler, chairm
 This episode of the KQED series *Express* includes a segment on Cleve Jones, gay rights activist and founder of the NAMES Project AIDS Memorial Quilt. The program covered Jones’s involvement in politics, activism, his HIV diagnosis, and the NAMES Project. The NAMES Project AIDS Memorial Quilt requested submissions of quilt panels made in honor of people who died of AIDS-related causes. The quilt was displayed across the country beginning in 1987, when it was laid on the National Mall in Washington, D.C. At that time, the quilt was larger than a football field and was made up of 1,920 panels.
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">The NAMES Project AIDS Quilt on display at the National Mall in Washington, D.C. Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division, https://www.loc.gov/pictures/item/2011631696/.</caption>
+<caption align="bottom" class="exhibit-caption">The NAMES Project AIDS Quilt on display at the National Mall in Washington, D.C. Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.</caption>
 <tr><td><a href="https://www.loc.gov/pictures/item/2011631696/" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/memorial-quilt.jpg" class="big-image" alt="The NAMES Project AIDS Quilt on display at the National Mall in Washington, D.C. Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division"/></a></td></tr>
 </table> 
 
@@ -132,7 +132,7 @@ The AIDS Memorial Quilt currently includes over 50,000 panels. It is [now consid
 This episode of *The Creative Mind*, a KQED series featuring in-depth interviews with artists, includes a conversation with documentary film artist Marlon Riggs, who explored anti-Black racism and homophobia in his work. Riggs, a Black gay man, said, “I don’t constantly think of death, but I know that there will be a time, and for that reason, my work has been a way of not running from death or trying to undo death, which will come—I’m not afraid of that—but rather it’s living beyond death in a way that continues to move people, to show them that there is a reason for living, that humanity is something that can be—occasionally is—virtuous.” 
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">The Creative Mind, “Marlon Riggs” (KQED, San Francisco, CA, June 19, 1991), https://americanarchive.org/catalog/cpb-aacip-55-97xktjsp.</caption>
+<caption align="bottom" class="exhibit-caption">The Creative Mind, “Marlon Riggs” (KQED, San Francisco, CA, June 19, 1991).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-55-97xktjsp" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/creative-mind.png" class="big-image" alt=“The Creative Mind, “Marlon Riggs” (KQED, San Francisco, CA, June 19, 1991)"/></a></td></tr>
 </table>
 
