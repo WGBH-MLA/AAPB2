@@ -128,7 +128,7 @@ The 1988 [*AIDS Lifeline*](https://americanarchive.org/catalog/cpb-aacip-293-816
 
 KUNM in Albuquerque, New Mexico, devoted an episode of *Focus on Education* to ["Legal Rights of Children with AIDS](https://americanarchive.org/catalog/cpb-aacip-207-50gthzkp)." The program consisted of a discussion with Dr. Ruth Luckasson, a lawyer and Associate Professor of Special Education at the University of New Mexico who also served on the American Bar Association Coordinating Committee on AIDS. The conversation covered legal issues relating to children with HIV/AIDS, who made up 2% of people with AIDS. Topics included strategies for communicating basic facts of HIV/AIDS, including HIV/AIDS in sex education curricula and children with AIDS in schools, which was a common concern among parents in the 1980s and 1990s. Dr. Luckasson responded to this concern by stating that there were no known cases of children spreading HIV in schools, because transmission occurs through blood and semen. Dr. Luckasson also noted that surveys indicated that most people believed schools should have AIDS education, but the explicitness of that education was debated. She argued that sex and drug risks related to HIV/AIDS should be "part of any school's good family living sex education curriculum," adjusted for age appropriateness. 
 
-#### Next: [1989-1994: Into "the Second Decade"](/exhibits/hiv-aids-and-public-broadcasting/4-1989-1994-into-the-second-decade)
+#### Next: [1989-1994: Into "the Second Decade"](/exhibits/hiv-aids-and-public-broadcasting/3-1989-1994-into-the-second-decade)
 
 ## Resources
 
