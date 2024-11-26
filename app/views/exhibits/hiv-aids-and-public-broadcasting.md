@@ -16,7 +16,7 @@ A special thank you to Fabio Toblini, who granted the AAPB permission to add act
 
 ## Authors
 
-- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Dinneny_E_headshot.png"/>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Dinnenyheadshot.png"/>
   <a class="name">Elizabeth Dinneny</a>
   <a class="title">English PhD candidate at the University of Maryland</a>
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Headshot-Sonia.jpg"/>
