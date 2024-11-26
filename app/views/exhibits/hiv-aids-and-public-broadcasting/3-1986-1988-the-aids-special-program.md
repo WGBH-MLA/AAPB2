@@ -14,7 +14,7 @@ Coverage of the AIDS epidemic increased dramatically in 1987 after a shift in AI
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Survival Kit: For Men at Risk in the Age of AIDS (PBS Wisconsin, April 2, 1986).</caption>
-<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_29-pn8x921x90" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/survivalkit.png" class="big-image" alt="Survival Kit: For Men at Risk in the Age of AIDS (PBS Wisconsin, April 2, 1986)."/></a></td></tr>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-29-pn8x921x90" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/survivalkit.png" class="big-image" alt="Survival Kit: For Men at Risk in the Age of AIDS (PBS Wisconsin, April 2, 1986)."/></a></td></tr>
 </table>
 
 The programs in this section start with the surge in media coverage following actor Rock Hudson's public announcement that he had AIDS[<sup>40</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#40) and indicate a more widespread fear in the general public of people with AIDS. The section provides an examination of a few moments in public broadcasting history from this period, beginning with a broadcast in March 1986 of the PBS documentary series *Frontline*. "AIDS: A National Inquiry," the first HIV/AIDS-related *Frontline* program, sparked national controversy around the filmmakers' treatment and representation of Fabian Bridges, a Black gay man living with AIDS. The next part looks at public broadcasting's coverage of legislative responses to the epidemic, including California Proposition 64, legislation regarding testing requirements and privacy, and congressional spending. Finally, the section ends with an analysis of local educational programming designed to dispel common myths about HIV/AIDS. Although gay men were at the highest risk of getting HIV, the programs rarely provided education specific to gay men. These educational programs focused on providing basic information about the disease.
@@ -63,13 +63,13 @@ The proposal also was [examined in a *MacNeil/Lehrer NewsHour* segment](https://
 
 Mandatory HIV testing was the subject of another legislative proposal put forward during this period. In 1987, [*The MacNeil/Lehrer NewsHour* reported on proposals to target certain individuals for HIV testing](/catalog/cpb-aacip-507-b56d21s658?start=616.92&end=2583.66). Those targeted included marriage license applicants, hospital patients, pregnant women, and venereal disease patients. Kristine Gebbie, chairman of the AIDS Committee of the Association of State and Territorial Health Officials, stated on the program that public health officials were looking for a "funnel" for testing people who are likely to test positive, rather than testing the general population. Targeting people who apply for marriage licenses and hospital patients, she argued, would not be particularly useful. This proposal also did not succeed. 
 
-Legislative proposal debates frequently addressed issues of medical confidentiality for people with AIDS. In October 1988, Congress passed a bill that increased funding for AIDS research, education, and treatment by $1 billion.[<sup>50</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#50) The bill, which was signed seven years after the first MMWR on pneumonia in gay men, was blocked by North Carolina Senator Jesse Helms for almost two weeks. He insisted the Senate remove the House-passed confidentiality protections for people who tested positive for HIV antibodies and eventually the change was made. Helms also demanded that educational materials and campaigns not "promote or encourage homosexuality" or include language that suggested homosexuality was "normal," "natural," or "healthy." The Senate reached a compromise, and the final bill stated that educational materials could not be "designed to promote or encourage, directly, intravenous drug abuse or sexual activity, homosexual or heterosexual."[<sup>51</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#51) In an [episode of Minnesota Public Radio's *Midday*](https://americanarchive.org/catalog/cpb-aacip_43-38jdg316), Rep. James Oberstar answered a call-in question about his support of the bill when it was being negotiated. He responded that Helms's other proposed amendment, that people with AIDS be forbidden from handling food, "adds to public hysteria about this issue." 
+Legislative proposal debates frequently addressed issues of medical confidentiality for people with AIDS. In October 1988, Congress passed a bill that increased funding for AIDS research, education, and treatment by $1 billion.[<sup>50</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#50) The bill, which was signed seven years after the first MMWR on pneumonia in gay men, was blocked by North Carolina Senator Jesse Helms for almost two weeks. He insisted the Senate remove the House-passed confidentiality protections for people who tested positive for HIV antibodies and eventually the change was made. Helms also demanded that educational materials and campaigns not "promote or encourage homosexuality" or include language that suggested homosexuality was "normal," "natural," or "healthy." The Senate reached a compromise, and the final bill stated that educational materials could not be "designed to promote or encourage, directly, intravenous drug abuse or sexual activity, homosexual or heterosexual."[<sup>51</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#51) In an [episode of Minnesota Public Radio's *Midday*](https://americanarchive.org/catalog/cpb-aacip-43-38jdg316), Rep. James Oberstar answered a call-in question about his support of the bill when it was being negotiated. He responded that Helms's other proposed amendment, that people with AIDS be forbidden from handling food, "adds to public hysteria about this issue." 
 
 The Reagan administration had many internal disagreements over how to respond to the epidemic, which had become highly politicized. HHS, for example, argued against mandatory testing, while White House aides and Education Secretary William Bennett supported it. [*NewsHour* coverage from May 15, 1987](/catalog/cpb-aacip-507-4q7qn5zv5q?start=1128.22&end=2508.39), included a panel discussion between *NewsHour* correspondent Judy Woodruff, Steven Roberts, New York Times White House correspondent, and Fred Barnes, senior editor of the *New Republic*. Roberts claimed that Reagan, who had advocated for abstinence to prevent the spread of HIV, had "a vested interest in the moral aspect" of the epidemic. Barnes, however, noted that Reagan had supported Surgeon General Koop's report, which encouraged condom usage. He argued, "Basically, the President hasn't made up his mind. He hasn't set a policy." The discussion provided a close examination of culture wars and power dynamics within the conservative Reagan administration.
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">The MacNeil/Lehrer NewsHour (May 15, 1987).</caption>
-<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_507-4q7qn5zv5q" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour1987.jpg" class="big-image" alt="The MacNeil/Lehrer NewsHour (May 15, 1987)."/></a></td></tr>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-4q7qn5zv5q" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour1987.jpg" class="big-image" alt="The MacNeil/Lehrer NewsHour (May 15, 1987)."/></a></td></tr>
 </table>
 
 Woodruff reported that if the administration adopted the U.S. Public Health Service recommendation that all people immigrating to the U.S. must be tested for HIV/AIDS, AIDS would be added to the U.S. immigration medical screening process. The addition, which was adopted one month after this broadcast, disqualified people from becoming U.S. residents if they were HIV positive.[<sup>52</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#52) Woodruff also reported on AIDS legislation put forward by Sen. Edward Kennedy, who was shown criticizing the Reagan administration. Kennedy claimed the Reagan administration had "offered nothing but ideological disputes and paper policies" throughout the course of the epidemic. 
@@ -80,11 +80,11 @@ Public broadcasting coverage offers us a closer look at a few of the numerous lo
 
 Homophobia continued to inflect HIV/AIDS-related legislation, media coverage, and debates broadcast on public television and radio. In an effort to fairly present these conversations, public broadcasting stations aired educational programs that provided factual information about the epidemic and sometimes featured panels of experts, who answered call-in questions about HIV and AIDS. The programming in this section shows a range of common misunderstandings about HIV/AIDS and features a number of well-known HIV/AIDS specialists. As with other educational campaigns, these programs often did not focus on providing information specific to gay men, who were most at risk, but to the general population.[<sup>53</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#53) 
 
-One exception was PBS Wisconsin’s 1986 broadcast, [*Survival Kit: For Men at Risk in the Age of AIDS*](https://americanarchive.org/catalog/cpb-aacip_29-pn8x921x90). The program opened with music and gay men dancing in a bar. In a voiceover, host Jay Jones narrated, "From New York to California, and in all the states between, gay and bisexual men, as well as intravenous drug users, are now living in the age of AIDS." 
+One exception was PBS Wisconsin’s 1986 broadcast, [*Survival Kit: For Men at Risk in the Age of AIDS*](https://americanarchive.org/catalog/cpb-aacip-29-pn8x921x90). The program opened with music and gay men dancing in a bar. In a voiceover, host Jay Jones narrated, "From New York to California, and in all the states between, gay and bisexual men, as well as intravenous drug users, are now living in the age of AIDS." 
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Survival Kit: For Men at Risk in the Age of AIDS (PBS Wisconsin, April 2, 1986).</caption>
-<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_29-pn8x921x90" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/survivalkitformenatrisk.png" class="big-image" alt="Survival Kit: For Men at Risk in the Age of AIDS (PBS Wisconsin, April 2, 1986)."/></a></td></tr>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-29-pn8x921x90" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/survivalkitformenatrisk.png" class="big-image" alt="Survival Kit: For Men at Risk in the Age of AIDS (PBS Wisconsin, April 2, 1986)."/></a></td></tr>
 </table>
 
 The program presented interviews with several people on the topic of antibody tests. Interviewees included Doug Johnson of the Brady East Sexually Transmitted Disease Clinic in Milwaukee, Katy Morrison from the Wisconsin Department of Health, Dr. Dennis Maki from University of Wisconsin Hospitals, and several gay men who were identified by first name only. Morrison underlined the importance of confidentiality and anonymity at clinics where the antibody test was being administered: "There are some people who might be frightened at going to the doctor's, because they may be afraid that their name will end up on some sort of list, and it could result in them losing their job, or losing their apartment, or something like that." Other interviewees explained that anonymity was necessary to encourage testing and protect individuals who tested positive. 
@@ -124,7 +124,7 @@ HIV/AIDS had become a major issue in minority communities. [Another *In Black Am
 
 The 1988 [*AIDS Lifeline*](https://americanarchive.org/catalog/cpb-aacip-293-816m97kw) program, produced by Howard University's WHMM in Washington, D.C., featured a panel discussion hosted by Carol Randolph between community leaders who worked on the local epidemic response. Panelists included James McLaurin, a volunteer for the Whitman-Walker Clinic who was living with AIDS; Patricia Kelly, training director of the Northern Virginia AIDS Ministry; David Brubeck, founder and executive director of the Maryland AIDS Foundation; and Dr. Wayne Greaves, medical director in the Howard University Hospital Infectious Disease department. The program did not assume its audience knew any factual information about HIV/AIDS. Randolph's opening question set the tone of this educational program: "Just how dumb are we when it comes to AIDS?" 
 
-[*AIDS: Why Take Chances?*](https://americanarchive.org/catalog/cpb-aacip_29-r20rr1q24s) (WHA-TV, Madison, Wisconsin, March 2, 1988) addressed young people's concerns about AIDS. It included written-in questions, an informational quiz, a Q&A with panelists, and condom education, as well as information about testing reliability, drug effectiveness, and other topics. The host and panelists frankly discussed sex, which was rare in television coverage of HIV/AIDS, but was something that many activists and health officials recommended.[<sup>57</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#57) Panelists Dr. Jim Vergeront, Supervisor of the Department of Health and Social Services AIDS Program; Sue Dietz, Executive Director of the Milwaukee AIDS Project; Vickie Wilson, Teen Peer Educator from Planned Parenthood of Milwaukee; and Dr. James Allen, Assistant Director for the AIDS Program at the CDC, answered questions that viewers called into the program either on-air or privately. On-air questions evidenced common misunderstandings about AIDS and concerns about contact with people with AIDS. For example, one viewer asked the panel why the names of teachers with AIDS were not made publicly available "to protect the children," just as the results of teachers' required tuberculosis testing is in the public record. Dr. Vergeront responded that tuberculosis could be spread through casual contact, whereas HIV could not. He also underlined the importance of confidentiality for people with AIDS and people who are HIV-positive, because they should feel safe getting tested "without the fact that they're infected—their name spread in the newspaper, and all sorts of people in their workplace know that they're infected, especially in settings where there's just no other risk to the other individuals." When asked if progress had been made in curbing discrimination, Dietz said that there were still instances of people with AIDS being rejected by their families, fired from their jobs, and evicted from their homes.  
+[*AIDS: Why Take Chances?*](https://americanarchive.org/catalog/cpb-aacip-29-r20rr1q24s) (WHA-TV, Madison, Wisconsin, March 2, 1988) addressed young people's concerns about AIDS. It included written-in questions, an informational quiz, a Q&A with panelists, and condom education, as well as information about testing reliability, drug effectiveness, and other topics. The host and panelists frankly discussed sex, which was rare in television coverage of HIV/AIDS, but was something that many activists and health officials recommended.[<sup>57</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#57) Panelists Dr. Jim Vergeront, Supervisor of the Department of Health and Social Services AIDS Program; Sue Dietz, Executive Director of the Milwaukee AIDS Project; Vickie Wilson, Teen Peer Educator from Planned Parenthood of Milwaukee; and Dr. James Allen, Assistant Director for the AIDS Program at the CDC, answered questions that viewers called into the program either on-air or privately. On-air questions evidenced common misunderstandings about AIDS and concerns about contact with people with AIDS. For example, one viewer asked the panel why the names of teachers with AIDS were not made publicly available "to protect the children," just as the results of teachers' required tuberculosis testing is in the public record. Dr. Vergeront responded that tuberculosis could be spread through casual contact, whereas HIV could not. He also underlined the importance of confidentiality for people with AIDS and people who are HIV-positive, because they should feel safe getting tested "without the fact that they're infected—their name spread in the newspaper, and all sorts of people in their workplace know that they're infected, especially in settings where there's just no other risk to the other individuals." When asked if progress had been made in curbing discrimination, Dietz said that there were still instances of people with AIDS being rejected by their families, fired from their jobs, and evicted from their homes.  
 
 KUNM in Albuquerque, New Mexico, devoted an episode of *Focus on Education* to ["Legal Rights of Children with AIDS](https://americanarchive.org/catalog/cpb-aacip-207-50gthzkp)." The program consisted of a discussion with Dr. Ruth Luckasson, a lawyer and Associate Professor of Special Education at the University of New Mexico who also served on the American Bar Association Coordinating Committee on AIDS. The conversation covered legal issues relating to children with HIV/AIDS, who made up 2% of people with AIDS. Topics included strategies for communicating basic facts of HIV/AIDS, including HIV/AIDS in sex education curricula and children with AIDS in schools, which was a common concern among parents in the 1980s and 1990s. Dr. Luckasson responded to this concern by stating that there were no known cases of children spreading HIV in schools, because transmission occurs through blood and semen. Dr. Luckasson also noted that surveys indicated that most people believed schools should have AIDS education, but the explicitness of that education was debated. She argued that sex and drug risks related to HIV/AIDS should be "part of any school's good family living sex education curriculum," adjusted for age appropriateness. 
 
@@ -145,52 +145,52 @@ KUNM in Albuquerque, New Mexico, devoted an episode of *Focus on Education* to [
 
 - [](/catalog/cpb-aacip-526-wh2d796m8r)
 - [](/catalog/cpb-aacip-82ee0b8f4f6)
-- [](/catalog/cpb-aacip/529-xd0qr4q65j)
-- [](/catalog/cpb-aacip/221-0966t6nh)
-- [](/catalog/cpb-aacip/29-pn8x921x90)
-- [](/catalog/cpb-aacip/507-c24qj78k4w)
-- [](/catalog/cpb-aacip/507-6h4cn6zk04)
-- [](/catalog/cpb-aacip/507-m32n58db14)
-- [](/catalog/cpb-aacip/507-br8mc8s35n)
+- [](/catalog/cpb-aacip-529-xd0qr4q65j)
+- [](/catalog/cpb-aacip-221-0966t6nh)
+- [](/catalog/cpb-aacip-29-pn8x921x90)
+- [](/catalog/cpb-aacip-507-c24qj78k4w)
+- [](/catalog/cpb-aacip-507-6h4cn6zk04)
+- [](/catalog/cpb-aacip-507-m32n58db14)
+- [](/catalog/cpb-aacip-507-br8mc8s35n)
 - [](/catalog/cpb-aacip-526-ws8hd7q36n)
-- [](/catalog/cpb-aacip/529-7h1dj59q41)
-- [](/catalog/cpb-aacip/507-3j3902007b)
+- [](/catalog/cpb-aacip-529-7h1dj59q41)
+- [](/catalog/cpb-aacip-507-3j3902007b)
 - [](/catalog/cpb-aacip-b730bdf796a)
-- [](/catalog/cpb-aacip/507-zw18k75t8n)
-- [](/catalog/cpb-aacip/507-4q7qn5zv5q)
-- [](/catalog/cpb-aacip/221-60qrfvd6)
-- [](/catalog/cpb-aacip/507-b56d21s658)
-- [](/catalog/cpb-aacip/507-4f1mg7gc8c)
-- [](/catalog/cpb-aacip/52-22h70v4w)
-- [](/catalog/cpb-aacip/17-13906jr9)
+- [](/catalog/cpb-aacip-507-zw18k75t8n)
+- [](/catalog/cpb-aacip-507-4q7qn5zv5q)
+- [](/catalog/cpb-aacip-221-60qrfvd6)
+- [](/catalog/cpb-aacip-507-b56d21s658)
+- [](/catalog/cpb-aacip-507-4f1mg7gc8c)
+- [](/catalog/cpb-aacip-52-22h70v4w)
+- [](/catalog/cpb-aacip-17-13906jr9)
 - [](/catalog/cpb-aacip-526-b56d21sm1b)
-- [](/catalog/cpb-aacip/29-r20rr1q24s)
-- [](/catalog/cpb-aacip/43-40ksngf4)
+- [](/catalog/cpb-aacip-29-r20rr1q24s)
+- [](/catalog/cpb-aacip-43-40ksngf4)
 - [](/catalog/cpb-aacip-526-pr7mp4wv5d)
-- [](/catalog/cpb-aacip/293-816m97kw)
-- [](/catalog/cpb-aacip/529-028pc2v76v)
+- [](/catalog/cpb-aacip-293-816m97kw)
+- [](/catalog/cpb-aacip-529-028pc2v76v)
 - [](/catalog/cpb-aacip-526-8c9r20sw49)
 - [](/catalog/cpb-aacip-259-jq0sv51r)
-- [](/catalog/cpb-aacip/514-6q1sf2n08n)
+- [](/catalog/cpb-aacip-514-6q1sf2n08n)
 - [](/catalog/cpb-aacip-207-50gthzkp)
-- [](/catalog/cpb-aacip/43-01pg4vsw)
-- [](/catalog/cpb-aacip/43-38jdg316)
-- [](/catalog/cpb-aacip/15-61rfjm96)
+- [](/catalog/cpb-aacip-43-01pg4vsw)
+- [](/catalog/cpb-aacip-43-38jdg316)
+- [](/catalog/cpb-aacip-15-61rfjm96)
 - [](/catalog/cpb-aacip-526-3r0pr7ns0j)
-- [](/catalog/cpb-aacip/41-43nvx4x6)
-- [](/catalog/cpb--aacip-16-ng4gm8250k)
+- [](/catalog/cpb-aacip-41-43nvx4x6)
+- [](/catalog/cpb-aacip-16-ng4gm8250k)
 - [](/catalog/cpb-aacip-526-z892806c3h)
 - [](/catalog/cpb-aacip-394-41zcrq37)
-- [](/catalog/cpb-aacip/529-8c9r20t285)
-- [](/catalog/cpb-aacip/52-08hdr912)
+- [](/catalog/cpb-aacip-529-8c9r20t285)
+- [](/catalog/cpb-aacip-52-08hdr912)
 - [](/catalog/cpb-aacip-d54c221e450)
-- [](/catalog/cpb-aacip/187-59c5b8bw)
-- [](/catalog/cpb-aacip/187-98z8wpvv)
+- [](/catalog/cpb-aacip-187-59c5b8bw)
+- [](/catalog/cpb-aacip-187-98z8wpvv)
 - [](/catalog/cpb-aacip-207-13mw6nj1)
-- [](/catalog/cpb-aacip/41-89280rgz)
-- [](/catalog/cpb-aacip/187-623bkdc1)
-- [](/catalog/cpb-aacip/187-59c5b8bw)
-- [](/catalog/cpb-aacip/187-98z8wpvv)
-- [](/catalog/cpb-aacip/187-03cz90k5)
-- [](/catalog/cpb-aacip/187-00ns1vf6)
-- [](/catalog/cpb-aacip/187-67wm3k8b)
+- [](/catalog/cpb-aacip-41-89280rgz)
+- [](/catalog/cpb-aacip-187-623bkdc1)
+- [](/catalog/cpb-aacip-187-59c5b8bw)
+- [](/catalog/cpb-aacip-187-98z8wpvv)
+- [](/catalog/cpb-aacip-187-03cz90k5)
+- [](/catalog/cpb-aacip-187-00ns1vf6)
+- [](/catalog/cpb-aacip-187-67wm3k8b)
