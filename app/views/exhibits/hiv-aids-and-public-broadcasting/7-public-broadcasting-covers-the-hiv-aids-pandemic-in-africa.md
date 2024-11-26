@@ -30,9 +30,7 @@ The WHO first designated December 1 as World AIDS Day in 1988.[<sup>96</sup>](/e
 Like World AIDS Day, the International AIDS Conference, begun in 1985 and held biennially since 1994, became an occasion for public broadcasting to air reports on the pandemic. In 1991, *The MacNeil/Lehrer NewsHour* [covered](/catalog/cpb-aacip-507-r20rr1qc6w?start=2107.27&end=3247.85) the seventh International AIDS Conference and gave updates on AIDS in Africa, where at the time, an estimated six million adults and 500,000 infants were infected, and in Asia, where high infection rates among prostitutes in cities caused alarm. The broadcast included reports filmed in Uganda and Thailand. On World AIDS Day in 1992, *The MacNeil/Lehrer NewsHour* aired another [report](/catalog/cpb-aacip-507-x639z91c6q?start=2094.7&end=3418.7) about AIDS in Uganda, where in some areas 30 percent of the population were HIV positive with figures doubling annually. Discussion centered on the just-released major report “AIDS in the World,” put out by the Global AIDS Policy Coalition.
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">NewsNight Minnesota, December 6, 1995
-https://americanarchive.org/catalog/cpb-aacip-77-25k99qwp?start=555.02&end=1404.78
-</caption>
+<caption align="bottom" class="exhibit-caption">NewsNight Minnesota, December 6, 1995.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-77-25k99qwp?start=555.02&end=1404.78" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Fred de Sam.png" class="big-image" alt="NewsNight Minnesota, December 6, 1995"/></a></td></tr>
 </table>
 
@@ -55,7 +53,7 @@ President Clinton’s 2000 State of the Union address included his announcement 
 South African president Thabo Mbeki, who had succeeded Nelson Mandela in 1999, received repeated coverage by the *NewsHour* after he expressed doubts over whether HIV caused AIDS and questioned the safety of life-extending drugs as well as the motives of the pharmaceutical companies that made them. In May 2000, during a visit by Mbeki to Washington, Fred de Sam Lazaro [covered](/catalog/cpb-aacip-507-st7dr2q44f?start=923.35&end=1484.5) AIDS in South Africa again, and Gwen Ifill [interviewed](/catalog/cpb-aacip-507-3x83j39m58?start=2465.76&end=3345.2) the country’s president, reporting, “Mbeki’s statements and his stature as leader of one of Africa’s most powerful countries carries weight elsewhere on the continent.” The newly post-apartheid South Africa had “the largest number of people with HIV/AIDS of any country in the world” in 2000,[<sup>103</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#103) yet the high cost of ARVs combined with Mbeki’s policies meant that treatment was out of reach to the majority of HIV-positive South Africans. Harvard researchers estimated that Mbeki’s policies blocking the flow of AIDS drugs into the country led to the deaths of more than 300,000 people.[<sup>104</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#104)
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, May 23, 2000, https://americanarchive.org/catalog/cpb-aacip-507-3x83j39m58?start=2465.76&end=3345.2</caption>
+<caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, May 23, 2000.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-3x83j39m58?start=2465.76&end=3345.2" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Mbeki Interview.png" class="big-image" alt="The NewsHour with Jim Lehrer, May 23, 2000"/></a></td></tr>
 </table>
 
@@ -64,7 +62,7 @@ Many resented Mbeki for not taking action to reduce the price of HIV drugs due t
 The documentary [*State of Denial*](https://www.kanopy.com/en/product/139751) (dir. Elaine Epstein, Lovett Productions, 2003; airing on *POV* September 3, 2003), explained how the history of South Africa’s apartheid state contributed to the spread of the disease. Filmed primarily during 2000 in Durban, Johannesburg, Cape Town, and their surrounding areas, the documentary related that high taxes imposed on black South Africans prompted men to seek work in the mines, where they spent most of the year away from their families, leading to a high demand for sex work. The film also focused on Mbeki’s attitude as a main cause for the scale of the disease and included interviews with doctors, patients, activists, and political officials, accompanied by statistics. 
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">State of Denial, airing on POV September 3, 2003, https://www.kanopy.com/en/product/139751</caption>
+<caption align="bottom" class="exhibit-caption">State of Denial, airing on POV September 3, 2003.</caption>
 <tr><td><a href="https://www.kanopy.com/en/product/139751" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Sick of Mbeki.jpg" class="big-image" alt="State of Denial, airing on POV September 3, 2003"/></a></td></tr>
 </table>
 
@@ -83,21 +81,21 @@ Also during the 2000 Conference, WNYC’s series *On the Line* [interviewed](/ca
 Howard University's Andrew Rankin Memorial Chapel hosted a [meeting](/catalog/cpb-aacip-293-97kps24q) with several international speakers, including President Clinton, on December 1, 2000, World AIDS Day, which WHUT recorded. During his speech, Clinton discussed the importance of faith-based organizations and the role of wealthier countries in fighting the AIDS pandemic. 
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">Clinton Presidential Library, https://clinton.presidentiallibraries.us/files/original/10ff7b6ee0341b08b151fbf0743154f5.jpg</caption>
+<caption align="bottom" class="exhibit-caption">Clinton Presidential Library.</caption>
 <tr><td><a href="https://clinton.presidentiallibraries.us/files/original/10ff7b6ee0341b08b151fbf0743154f5.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Clinton AIDs.jpg" class="big-image" alt="Clinton Presidential Library"/></a></td></tr>
 </table>
 
 In April 2001, a day before African leaders gathered in Nigeria to confer about AIDS, the [*NewsHour* aired a report by correspondent Elizabeth Farnsworth](/catalog/cpb-aacip-507-930ns0mg65?start=620.41&end=1469.7) from Malawi, where one million people out a population of ten million, were living with HIV. During the next month, the *NewsHour* aired a four-part [series](/catalog/cpb-aacip-507-mk6542k23s?start=1826.8&end=3212.38) by Farnsworth about AIDS in Africa, with a concentration on Malawi and Botswana, where she provided an in-depth look at the lives of those fighting AIDS on the ground. The first report began with Farnsworth telling the audience, “It’s hard to grasp the scope of the AIDS catastrophe engulfing southern Africa until you see it up close.” The segment included interviews with doctors, healthcare volunteers, patients, and the vice president of Malawi, Justin Malewezi. It also contained footage of the rural landscapes and impoverished communities of Malawi and Botswana. “There has often been hunger here, and life expectancy has always been low. But villagers said they have never seen anything more devastating than AIDS,” Farnsworth reported. “To serve all the people who need help, the vice president says a huge flow of aid from outside will be necessary.” Through the stories of individuals, Farnsworth’s interviews helped convey the bleak outlook held by Malawians who would continue to experience frustration and fear as long as they lacked access to treatment.   			
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, May 25, 2001, https://americanarchive.org/catalog/cpb-aacip-507-930ns0mg65?start=613.65&end=1450.32</caption>
+<caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, May 25, 2001.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-930ns0mg65?" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Malawians.jpg" class="big-image" alt="The NewsHour with Jim Lehrer, May 25, 2001"/></a></td></tr>
 </table>
 
 Farnsworth’s [report](https://americanarchive.org/catalog/cpb-aacip-507-v97zk56g94?start=1617.1&end=2465.77) from Botswana opened with the funeral of a person who had died from AIDS. “We’ve come to Francistown to answer basic questions about Africa’s AIDS epidemic,” she explained, directly addressing the audience. “The mounds of earth in this cemetery cover the young, who died at an age when they should begin to really live. Why? What’s being done about it, and what can the rest of the world do to help?” 
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, May 15, 2001, https://americanarchive.org/catalog/cpb-aacip-507-v97zk56g94?start=1617.1&end=2465.77</caption>
+<caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, May 15, 2001.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-v97zk56g94?start=1617.1&end=2465.77" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Botswana.png" class="big-image" alt="The NewsHour with Jim Lehrer, May 15, 2001"/></a></td></tr>
 </table>
 
@@ -110,7 +108,7 @@ The NewsHour’s coverage of global AIDS in 2001 concluded with an [update](/cat
 Reporter Jonathan Silvers [covered](/catalog/cpb-aacip-507-vx05x2695z?start=1493.0&end=2148.65) AIDS in Zambia in May 2002, specifically the disease’s effects on orphaned children. He interviewed several Zambian community members who expressed concerns about what would happen to children who had lost their parents or grandparents. Though the country’s cultural traditions encouraged communities to care for orphans, the segment featured some who supported themselves after their communities rejected them, due to the stigma surrounding their parents’ deaths. “The task of aiding orphans and vulnerable children has fallen on charities and nongovernmental organizations,” Silvers reported. At the end of the segment, Jim Lehrer stated that the UN hoped to form a plan to alleviate the effects of AIDS on children.
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, June 19, 2002, https://americanarchive.org/catalog/cpb-aacip-507-7h1dj5927q?start=2247.04&end=2695.6</caption>
+<caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, June 19, 2002.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-7h1dj5927q?start=2247.04&end=2695.6" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Fauci AIDs.png" class="big-image" alt="The NewsHour with Jim Lehrer, June 19, 2002"/></a></td></tr>
 </table>
 
@@ -123,14 +121,14 @@ U.S. national security concerns heightened in the aftermath of 9/11. In October 
 In his 2003 State of the Union address, President Bush announced the President’s Emergency Plan for AIDS Relief (PEPFAR), an initiative that began as a $15 billion investment over five years and has since grown to nearly $100 billion dollars. PEPFAR eventually would save 21 million lives across more than 50 countries, mainly in Africa.[<sup>108</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#108) With this announcement, U.S. officials continued to present the AIDS pandemic as both a moral and strategic concern. Emily Bass has written, “[Bush’s] words ended years of American negligence…. He also brought to an end an era of shameful American heel-dragging over whether people in Africa living with HIV and dying of AIDS deserved access to the medications that had changed HIV from a death sentence to a chronic disease in people who could afford them.”[<sup>109</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#109)  In his address, President Bush called PEPFAR a “work of mercy,”[<sup>110</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#110)  and in May 2003, Senator Bill Frist, a physician, in a [segment](/catalog/cpb-aacip-507-c24qj78h6z?start=410.14&end=647.07) of *The NewsHour with Jim Lehrer* stated, “I give the credit to the president because it was in the State of the Union message that he laid it out, and Congress has appropriately followed.” When asked, “Where does AIDS in Africa and the Caribbean fit into U.S. priorities?” the senator responded: “It is a main priority. It shows that the United States is a caring nation, a compassionate nation.” Public broadcasting also covered President Bush’s visit to Africa in July 2003 in a [segment](/catalog/cpb-aacip-507-3t9d50gh0q?start=1002.6&end=1969.73) that acknowledged his administration’s changed attitude towards the continent since his presidential campaign, when he stated that the Africa did not fit into U.S. strategic interests.
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, February 10, 2003, https://americanarchive.org/catalog/cpb-aacip-507-086348gz8h?start=2474.73&end=3377.3</caption>
+<caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, February 10, 2003.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-086348gz8h?start=2474.73&end=3377.3" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Bush Fighting AIDs.png" class="big-image" alt="The NewsHour with Jim Lehrer, February 10, 2003"/></a></td></tr>
 </table>
 
 On World AIDS Day in 2003, *The NewsHour with Jim Lehrer* aired a [segment](/catalog/cpb-aacip-507-vx05x26968?start=906.5&end=2031.51) discussing the 3 by 5 Initiative, a goal set by the WHO to provide 3 million people with treatment by 2005. Later that December, WILL Illinois Public Media’s radio call-in program *Focus 580* aired an [episode](/catalog/cpb-aacip-16-6d5p84443h?start=1631.23&end=2832) called “The Worldwide HIV/AIDS Pandemic,” in which Dr. Thomas C. Quinn of Johns Hopkins University’s School of Medicine spoke about studies he conducted in Africa regarding viral load, heterosexual transmission, and sexually transmitted diseases. He emphasized the importance of safe sex in preventing the spread of AIDS. “While we say the viral levels are the most predictive of transmission, the factors that enhance transmissibility are sexually transmitted diseases,” Dr. Quinn said. “Right now I'm just frustrated that I don't have the drugs to treat my African patients the way I do for my Baltimore patients.”
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, December 1, 2004, courtesy of ABC News Nightime, https://americanarchive.org/catalog/cpb-aacip-507-gt5fb4xb08?start=2212.09&end=3226.2</caption>
+<caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, December 1, 2004, courtesy of ABC News Nightime.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-gt5fb4xb08?start=2212.09&end=3226.2" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Nkosi Johnson.png" class="big-image" alt="The NewsHour with Jim Lehrer, December 1, 2004, courtesy of ABC News Nightime"/></a></td></tr>
 </table>
 
@@ -147,7 +145,7 @@ By the end of the year, scientists and journalists alike looked for results. On 
 After 2005, the frequency of *NewsHour* segments about the AIDS pandemic in Africa declined. There was little to no coverage from 2006. Public broadcasting from that year devoted much of its global news coverage to events in the Middle East, including Iraq, Iran, and Lebanon, as the Bush administration continued the post-9/11 War on Terror.[<sup>112</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#112)   
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, November 6, 2007, https://americanarchive.org/catalog/cpb-aacip-507-599z02zq9b?start=2708.55&end=3408.66</caption>
+<caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer, November 6, 2007.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-599z02zq9b?start=2708.55&end=3408.66" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Mark Dybul.png" class="big-image" alt="The NewsHour with Jim Lehrer, November 6, 2007"/></a></td></tr>
 </table>
 
@@ -160,7 +158,7 @@ As the new decade began, the AIDS pandemic in Africa continued to receive less c
 The *PBS NewsHour* aired updates about AIDS from time to time. Experts debated ways to apply successful methods of treatment and prevention in areas in need, as well as the funding required to implement such methods. In 2009, the Obama administration rebranded and expanded PEPFAR as the Global Health Initiative (GHI). Emily Bass has written that, despite flat funding, PEPFAR “exceeded the 6 million treatment target, reaching a cumulative total of 6.7 million people on antiretrovirals as a result of PEPFAR support. This was a fourfold increase from the figure at the start of the Obama administration.”[<sup>113</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#113) 
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">December 1, 2011, NPR, courtesy of Evan Vucci/AP, https://media.npr.org/assets/img/2011/12/01/ap111201027252_wide-ee3943713679414d20dd3e72cd202f47689ee53b.jpg?s=1400>
+<caption align="bottom" class="exhibit-caption">December 1, 2011, NPR, courtesy of Evan Vucci/AP</caption>
 <tr><td><a href="https://media.npr.org/assets/img/2011/12/01/ap111201027252_wide-ee3943713679414d20dd3e72cd202f47689ee53b.jpg?s=1400" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/End of AIDs.jpg" class="big-image" alt="December 1, 2011, NPR, courtesy of Evan Vucci/AP"/></a></td></tr>
 </table>
 
@@ -171,7 +169,7 @@ Complementing its coverage of large-scale global initiatives, a 2011 *PBS NewsHo
 Ahead of the 2012 International AIDS Conference, Executive Director of UNAIDS Michel Sidibe appeared on a [segment](/catalog/cpb-aacip-525-w37kp7vz5c?start=1478.79&end=2455.69) of the *PBS NewsHour* and expressed guarded optimism, pointing out that many countries had successfully begun to fund their own AIDS response instead of waiting for foreign aid. “We are seeing President Obama’s full commitment to make sure that we can come with a new narrative which is about sharing responsibility, making sure that we can sustain our gain, and that it is also starting to pay off,” Sidibe stated.  
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">Dr. Wafaa El-Sadir on PBS NewsHour July 20, 2012. Photo courtesy of Columbia University, https://americanarchive.org/catalog/cpb-aacip-525-w37kp7vz5c?start=1478.79&end=2455.69>
+<caption align="bottom" class="exhibit-caption">Dr. Wafaa El-Sadir on PBS NewsHour July 20, 2012. Photo courtesy of Columbia University</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-525-w37kp7vz5c?start=1478.79&end=2455.69" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/Wafaa El Sadr.png" class="big-image" alt="Dr. Wafaa El-Sadir on PBS NewsHour July 20, 2012. Photo courtesy of Columbia University"/></a></td></tr>
 </table>
  
