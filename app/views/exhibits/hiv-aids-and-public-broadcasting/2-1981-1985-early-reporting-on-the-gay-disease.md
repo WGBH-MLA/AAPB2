@@ -39,7 +39,7 @@ In September 1983, KTCA in Minnesota aired an [episode of *People and Causes*](h
 The next month, KCTS in Seattle broadcast the documentary "[Diagnosis: AIDS](https://americanarchive.org/catalog/cpb-aacip-526-2z12n50j78)," a close look at medical research, activist protests, and homophobic rhetoric inflamed by the epidemic. Early in the program, common misconceptions about AIDS were identified and refuted. These misconceptions, determined by a Gallup survey, included the idea that AIDS spreads in public pools and restrooms, at restaurants, and in the workplace.  
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">Dr. Anthony Fauci in Diagnosis: AIDS (KCTS, October 6, 1983), https://americanarchive.org/catalog/cpb-aacip-526-2z12n50j78.</caption>
+<caption align="bottom" class="exhibit-caption">Dr. Anthony Fauci in Diagnosis: AIDS (KCTS, October 6, 1983).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-526-2z12n50j78" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/anthonyfauci.png" class="big-image" alt="Dr. Anthony Fauci in Diagnosis: AIDS (KCTS, October 6, 1983)."/></a></td></tr>
 </table>
 
@@ -50,7 +50,7 @@ The question of how to prevent the spread of disease was central to the program.
 Campbell also discussed examples of prejudice that people with AIDS faced, including a man whose roommates burned his belongings and insisted he move out of their home. Dr. Fauci clarified that AIDS cannot be contracted through casual contact like common respiratory viruses, and the program's narrator stated that no healthcare workers had contracted the disease from patients, as many had feared. 
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">The MacNeil/Lehrer NewsHour (September 16, 1983), https://americanarchive.org/catalog/cpb-aacip-507-v11vd6px6x?start=1895.55&end=2467.25.</caption>
+<caption align="bottom" class="exhibit-caption">The MacNeil/Lehrer NewsHour (September 16, 1983).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-v11vd6px6x?start=1895.55&end=2467.25" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/macneillehrer.png" class="big-image" alt="The MacNeil/Lehrer NewsHour (September 16, 1983)."/></a></td></tr>
 </table>
 
@@ -61,7 +61,7 @@ A tonal shift occurred in broadcast coverage in July 1985, when the [news broke 
 Signaling that AIDS was becoming a national issue, Hudson's diagnosis led to more reporting on AIDS and contradicted the general public's belief that only certain populations were vulnerable to the disease.[<sup>34</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#34) Although Hudson was a gay man, he had not publicly disclosed his sexuality. A column in the gay magazine *Outweek* read, "Not until Rock Hudson was afflicted and scientists began to warn about the possibility of a spread into the 'general population' did this dire national emergency become a big story."[<sup>35</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#35) As the public began to believe that AIDS was not only a problem for gay men and people who used IV drugs, there was a surge in news coverage.[<sup>36</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#36) In addition to being a beloved celebrity, Hudson was also a close friend of President Ronald Reagan, who still had not acknowledged the epidemic in public. Hudson's diagnosis and death prompted the president to consult the White House physician and to ask Surgeon General C. Everett Koop to write a report on AIDS the next year.[<sup>37</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#37)  
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">"AIDS: Beginning to Touch Us All," Carolina Journal (SCETV, August 28, 1985), https://americanarchive.org/catalog/cpb-aacip_41-56zw3x9j.</caption>
+<caption align="bottom" class="exhibit-caption">"AIDS: Beginning to Touch Us All," Carolina Journal (SCETV, August 28, 1985).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_41-56zw3x9j" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/aidsbeginningtotouchusall.png" class="big-image" alt="AIDS: Beginning to Touch Us All, Carolina Journal (SCETV, August 28, 1985)."/></a></td></tr>
 </table>
 
