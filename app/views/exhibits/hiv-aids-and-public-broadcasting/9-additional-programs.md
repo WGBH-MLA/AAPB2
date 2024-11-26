@@ -16,7 +16,7 @@ Dr. Mike Cohen of the UNC School of Medicine and Dr. Campbell McMillan of the NC
 
 **[*Express*, “AIDS: A Mixed Reaction”](/catalog/cpb-aacip-55-9g5gb1xs7p) (KQED, San Francisco, January 3, 1985)**
 
-**[“Houston in the Age of AIDS”](/catalog/cpb-aacip_513-4j09w09n4m) (KUHT-TV, Houston, TX, April 5, 1985)**
+**[“Houston in the Age of AIDS”](/catalog/cpb-aacip-513-4j09w09n4m) (KUHT-TV, Houston, TX, April 5, 1985)**
 
 Houston has the fourth highest rate of AIDS in the United States.
 
@@ -68,7 +68,7 @@ New Jersey has the fifth largest AIDS population in the country.
 
 **[“AIDS Lifeline”](/catalog/cpb-aacip-293-816m97kw) (WHUT, Washington, DC, June 22, 1988)**
 
-**[*Iowa Students Look At …* “AIDS”](/catalog/cpb-aacip_37-29b5mp8j) (Iowa Public Television, October 24, 1988)** 
+**[*Iowa Students Look At …* “AIDS”](/catalog/cpb-aacip-37-29b5mp8j) (Iowa Public Television, October 24, 1988)** 
 
 **[*Highway 40*, “Masters and Johnson and the Threat of AIDS”](/catalog/cpb-aacip-110-16c2ftdq) (KETC-TV, St. Louis, MO, 1988)**
 
@@ -92,13 +92,13 @@ New Jersey has the fifth largest AIDS population in the country.
 
 **[*Buenas Noches*, “Awareness about AIDS”](/catalog/cpb-aacip-199-05fbg8b9) (KDNA, Granger, WA, September 25, 1990)** 
 
-**[*Living with AIDS*](/catalog/cpb-aacip_513-mp4vh5db5p) (KUHT-TV, Houston, TX, November 21, 1990)**
+**[*Living with AIDS*](/catalog/cpb-aacip-513-mp4vh5db5p) (KUHT-TV, Houston, TX, November 21, 1990)**
 
 **[*AIDS at the Crossroads*](/catalog/cpb-aacip-55-rn3028q00f) (KQED, San Francisco, 1990)**
 
 **[*At Week’s End*, “Women with AIDS”](/catalog/cpb-aacip-191-53wstws8) (KNME-TV, Albuquerque, NM, February 1, 1991)**
 
-**[*The Challenge of Grief... AIDS and Seven Choices*](/catalog/cpb-aacip_513-rj48p5w838) (KUHT-TV, Houston, TX, June 1991)** 
+**[*The Challenge of Grief... AIDS and Seven Choices*](/catalog/cpb-aacip-513-rj48p5w838) (KUHT-TV, Houston, TX, June 1991)** 
 
 **[*WTTW Journal*, “Protect Yourself: Teaching Your Children about AIDS”](/catalog/cpb-aacip-526-wh2d796m92) (WTTW, Chicago, IL, 1991)**
 
@@ -185,7 +185,7 @@ New Jersey has the fifth largest AIDS population in the country.
 - [](/catalog/cpb-aacip-dc436cacc02)
 - [](/catalog/cpb-aacip-507-zg6g15v91h)
 - [](/catalog/cpb-aacip-55-9g5gb1xs7p)
-- [](/catalog/cpb-aacip_513-4j09w09n4m)
+- [](/catalog/cpb-aacip-513-4j09w09n4m)
 - [](/catalog/cpb-aacip-006d5989b8a)
 - [](/catalog/cpb-aacip-191-50tqjvx5)
 - [](/catalog/cpb-aacip-191-515mkrvv)
@@ -209,7 +209,7 @@ New Jersey has the fifth largest AIDS population in the country.
 - [](/catalog/cpb-aacip-514-6q1sf2n08n)
 - [](/catalog/cpb-aacip-207-50gthzkp)
 - [](/catalog/cpb-aacip-293-816m97kw)
-- [](/catalog/cpb-aacip_37-29b5mp8j)
+- [](/catalog/cpb-aacip-37-29b5mp8j)
 - [](/catalog/cpb-aacip-110-16c2ftdq)
 - [](/catalog/cpb-aacip-526-pr7mp4wv5d)
 - [](/catalog/cpb-aacip-16-ng4gm8250k)
@@ -221,10 +221,10 @@ New Jersey has the fifth largest AIDS population in the country.
 - [](/catalog/cpb-aacip-55-x05x63bn51)
 - [](/catalog/cpb-aacip-95ab219b7e3)
 - [](/catalog/cpb-aacip-199-05fbg8b9)
-- [](/catalog/cpb-aacip_513-mp4vh5db5p)
+- [](/catalog/cpb-aacip-513-mp4vh5db5p)
 - [](/catalog/cpb-aacip-55-rn3028q00f)
 - [](/catalog/cpb-aacip-191-53wstws8)
-- [](/catalog/cpb-aacip_513-rj48p5w838)
+- [](/catalog/cpb-aacip-513-rj48p5w838)
 - [](/catalog/cpb-aacip-526-wh2d796m92)
 - [](/catalog/cpb-aacip-529-j38kd1rx0z)
 - [](/catalog/cpb-aacip-2809ed5491c)

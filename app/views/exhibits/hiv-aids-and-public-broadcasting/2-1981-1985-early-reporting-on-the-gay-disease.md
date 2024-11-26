@@ -25,9 +25,9 @@ Rep. Henry Waxman called the first congressional meeting in April 1982 on what w
 
 Early reporting on AIDS closely associated the disease with gay men. While gay men were disproportionately affected by the disease, this kind of reporting, in addition to the CDC's identification of male homosexuality as a major "risk factor," contributed to the general impression that only gay men should be concerned about contracting the disease and that AIDS was not a national concern. In addition, such discourse fed into homophobic stereotypes that associated gay men with recklessness and with suffering. Scholar Paula A. Treichler writes, "The 'promiscuous' gay male body… made clear that, even if AIDS turned out to be a sexually transmitted disease, it would not be a commonplace one."[<sup>24</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#24) The portrayal of AIDS as a "gay disease" also interfered with proper diagnoses in women and children. For example, CDC surveillance definitions of AIDS in the early 1980s excluded gynecologic symptoms, and women were excluded from research and drug trials.[<sup>25</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#25)
 
-Public television's nightly national news analysis program, *The MacNeil/Lehrer Report*, first covered AIDS on August 26, 1982, in an episode titled "[AIDS: The Mysterious Disease](https://americanarchive.org/catalog/cpb-aacip_507-5m6251g785)." As Jim Lehrer reported, "It's considered bizarre because, unlike other diseases, it suppresses a person's natural immunity against various infections and certain types of cancer." Correspondent Charlayne Hunter-Gault interviewed Dr. Bijan Safai, chief of dermatology at the Memorial Sloan Kettering Cancer Center in New York City, who had been treating patients with AIDS for two years. Dr. Safai explained what had been identified as the common signs of AIDS, including Kaposi's sarcoma, infection, and "wasting syndrome." Most importantly, he made clear that scientists believed "the agent" that caused AIDS was transmitted through sexual contact and blood. This fact would be strongly supported by a CDC report in January 1983.[<sup>26</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#26) Later public broadcasting programs frequently repeated this information to viewers, who more likely than not believed that HIV could be spread through casual contact. In September 1985, years after the 1983 CDC statement, the *New York Times* reported that "half of the American people believe AIDS can be transmitted through casual contact despite what Federal scientists say is overwhelming evidence to the contrary."[<sup>27</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#27)  
+Public television's nightly national news analysis program, *The MacNeil/Lehrer Report*, first covered AIDS on August 26, 1982, in an episode titled "[AIDS: The Mysterious Disease](https://americanarchive.org/catalog/cpb-aacip-507-5m6251g785)." As Jim Lehrer reported, "It's considered bizarre because, unlike other diseases, it suppresses a person's natural immunity against various infections and certain types of cancer." Correspondent Charlayne Hunter-Gault interviewed Dr. Bijan Safai, chief of dermatology at the Memorial Sloan Kettering Cancer Center in New York City, who had been treating patients with AIDS for two years. Dr. Safai explained what had been identified as the common signs of AIDS, including Kaposi's sarcoma, infection, and "wasting syndrome." Most importantly, he made clear that scientists believed "the agent" that caused AIDS was transmitted through sexual contact and blood. This fact would be strongly supported by a CDC report in January 1983.[<sup>26</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#26) Later public broadcasting programs frequently repeated this information to viewers, who more likely than not believed that HIV could be spread through casual contact. In September 1985, years after the 1983 CDC statement, the *New York Times* reported that "half of the American people believe AIDS can be transmitted through casual contact despite what Federal scientists say is overwhelming evidence to the contrary."[<sup>27</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#27)  
 
-Later in the *Report*, Jim Lehrer interviewed Dr. James Curran, leader of the CDC's AIDS task force, who asserted that the spread was epidemic-level. Dr. Curran [stated that AIDS had been found in gay communities, among people who use IV drugs in specific cities, and hemophiliacs](https://americanarchive.org/catalog/cpb-aacip_507-5m6251g785). By the end of the year, 771 cases of AIDS had been reported in the U.S., and 618 people had died from AIDS-related complications. The CDC established the National AIDS Hotline in February 1983.[<sup>28</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#28) 
+Later in the *Report*, Jim Lehrer interviewed Dr. James Curran, leader of the CDC's AIDS task force, who asserted that the spread was epidemic-level. Dr. Curran [stated that AIDS had been found in gay communities, among people who use IV drugs in specific cities, and hemophiliacs](https://americanarchive.org/catalog/cpb-aacip-507-5m6251g785). By the end of the year, 771 cases of AIDS had been reported in the U.S., and 618 people had died from AIDS-related complications. The CDC established the National AIDS Hotline in February 1983.[<sup>28</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#28) 
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">CDC employees working AIDS Hotline (ca. 1983) Photo courtesy of CDC.</caption>
@@ -56,16 +56,16 @@ Campbell also discussed examples of prejudice that people with AIDS faced, inclu
 
 The KTCA and KCTS programs were rare for this period of the epidemic. After *MacNeil/Lehrer* expanded in fall 1983 to become the nation's first hour-long nightly news program, the series covered AIDS as breaking news about the epidemic emerged. [In September 1983, *The MacNeil/Lehrer NewsHour* reported on a nun who had died in 1981](https://americanarchive.org/catalog/cpb-aacip-507-v11vd6px6x?start=1895.55&end=2467.25) and who, doctors believed, had contracted HIV in Haiti in the 1970s. The program also included a segment, produced by KCTA in Minneapolis that followed Bill Runyon, who had experienced social ostracization and unemployment following his AIDS diagnosis. [In another *NewsHour* segment, Robert MacNeil reported](https://americanarchive.org/catalog/cpb-aacip-507-1g0ht2gv3t?start=3045.42&end=3114.43) that scientists had located a leukemia virus they suspected caused AIDS. 
 
-A tonal shift occurred in broadcast coverage in July 1985, when the [news broke that the famous actor Rock Hudson was diagnosed with AIDS](https://americanarchive.org/catalog/cpb-aacip_507-tb0xp6vv3s). The *NewsHour* closely followed the event, offering daily updates on Hudson's status. Jim Lehrer even mentioned the impending availability of HPA-23, a then-experimental antiretroviral drug used to treat HIV, which was prescribed for Hudson.[<sup>31</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#31) [One 1985 *NewsHour* segment profiled John Coffee](https://americanarchive.org/catalog/cpb-aacip-507-tb0xp6vv3s?start=1908.17&end=3015.36), who also was treated with HPA-23. Both Hudson and Coffee travelled to France for treatment with the drug, which was one of several AIDS drugs that had not been approved by the FDA. In fact, by this time, the FDA had yet to approve any drugs for AIDS treatment. In October, the Senate voted to increase funding of AIDS research and treatment programs by $221 million.[<sup>32</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#32) An article from *Science* suggested that "at least part of the credit for this new push [to increase spending and research for HIV/AIDS treatments] should go to actor Rock Hudson, whose much publicized trip to Paris for experimental therapy focused public and political attention on the desperate plight of those diagnosed with AIDS."[<sup>33</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#33)
+A tonal shift occurred in broadcast coverage in July 1985, when the [news broke that the famous actor Rock Hudson was diagnosed with AIDS](https://americanarchive.org/catalog/cpb-aacip-507-tb0xp6vv3s). The *NewsHour* closely followed the event, offering daily updates on Hudson's status. Jim Lehrer even mentioned the impending availability of HPA-23, a then-experimental antiretroviral drug used to treat HIV, which was prescribed for Hudson.[<sup>31</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#31) [One 1985 *NewsHour* segment profiled John Coffee](https://americanarchive.org/catalog/cpb-aacip-507-tb0xp6vv3s?start=1908.17&end=3015.36), who also was treated with HPA-23. Both Hudson and Coffee travelled to France for treatment with the drug, which was one of several AIDS drugs that had not been approved by the FDA. In fact, by this time, the FDA had yet to approve any drugs for AIDS treatment. In October, the Senate voted to increase funding of AIDS research and treatment programs by $221 million.[<sup>32</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#32) An article from *Science* suggested that "at least part of the credit for this new push [to increase spending and research for HIV/AIDS treatments] should go to actor Rock Hudson, whose much publicized trip to Paris for experimental therapy focused public and political attention on the desperate plight of those diagnosed with AIDS."[<sup>33</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#33)
 
 Signaling that AIDS was becoming a national issue, Hudson's diagnosis led to more reporting on AIDS and contradicted the general public's belief that only certain populations were vulnerable to the disease.[<sup>34</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#34) Although Hudson was a gay man, he had not publicly disclosed his sexuality. A column in the gay magazine *Outweek* read, "Not until Rock Hudson was afflicted and scientists began to warn about the possibility of a spread into the 'general population' did this dire national emergency become a big story."[<sup>35</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#35) As the public began to believe that AIDS was not only a problem for gay men and people who used IV drugs, there was a surge in news coverage.[<sup>36</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#36) In addition to being a beloved celebrity, Hudson was also a close friend of President Ronald Reagan, who still had not acknowledged the epidemic in public. Hudson's diagnosis and death prompted the president to consult the White House physician and to ask Surgeon General C. Everett Koop to write a report on AIDS the next year.[<sup>37</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#37)  
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">"AIDS: Beginning to Touch Us All," Carolina Journal (SCETV, August 28, 1985).</caption>
-<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_41-56zw3x9j" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/aidsbeginningtotouchusall.png" class="big-image" alt="AIDS: Beginning to Touch Us All, Carolina Journal (SCETV, August 28, 1985)."/></a></td></tr>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-41-56zw3x9j" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/aidsbeginningtotouchusall.png" class="big-image" alt="AIDS: Beginning to Touch Us All, Carolina Journal (SCETV, August 28, 1985)."/></a></td></tr>
 </table>
 
-With increased concern about AIDS spreading to the general population came further misunderstandings about how the virus that causes AIDS spreads. In August 1985, the South Carolina Educational Television Network (SCETV) aired a *Carolina Journal* segment titled "[AIDS: Beginning to Touch Us All](https://americanarchive.org/catalog/cpb-aacip_41-56zw3x9j)." The program featured an interview with Robert Jackson, Commissioner of the South Carolina Department of Health and Environmental Control. In response to growing panic about children with AIDS in schools and adults with AIDS in workplaces, Jackson insisted there was no risk of transmission in those circumstances. 
+With increased concern about AIDS spreading to the general population came further misunderstandings about how the virus that causes AIDS spreads. In August 1985, the South Carolina Educational Television Network (SCETV) aired a *Carolina Journal* segment titled "[AIDS: Beginning to Touch Us All](https://americanarchive.org/catalog/cpb-aacip-41-56zw3x9j)." The program featured an interview with Robert Jackson, Commissioner of the South Carolina Department of Health and Environmental Control. In response to growing panic about children with AIDS in schools and adults with AIDS in workplaces, Jackson insisted there was no risk of transmission in those circumstances. 
 
 Notably, Jackson was asked his opinion on accusations from the gay community that researchers and the government had failed people with AIDS in the early years of the epidemic. He noted perceptions that the Reagan administration, "because of its very high association with very fundamentalist religious principles and its conservatism, for a long time wanted to ignore the fact that AIDS was out there. And that there were a number of people who were supportive of that administration who felt, perhaps, the way many fundamentalists do that AIDS may in fact be a ravage that is caused by immoral behavior and what have you. I think that we have gone past that now."
 
@@ -87,32 +87,32 @@ At the end of 1985, 15,527 cases of AIDS had been reported, and there were 12,52
 
 ## Records
 
-- [](/catalog/cpb-aacip/507-5m6251g785)
+- [](/catalog/cpb-aacip-507-5m6251g785)
 - [](/catalog/cpb-aacip-526-2z12n50j78)
-- [](/catalog/cpb-aacip/507-zg6g15v91h)
-- [](/catalog/cpb-aacip/77-50gtjz22)
-- [](/catalog/cpb-aacip/507-v11vd6px6x)
-- [](/catalog/cpb-aacip/507-wh2d79674g)
-- [](/catalog/cpb-aacip/507-1g0ht2gv3t)
-- [](/catalog/cpb-aacip/507-bz6154fd4d)
-- [](/catalog/cpb-aacip/55-dv1cj87z3h)
-- [](/catalog/cpb-aacip/41-56zw3x9j)
-- [](/catalog/cpb-aacip/507-qz22b8w64p)
-- [](/catalog/cpb-aacip/507-154dn40c26)
-- [](/catalog/cpb-aacip/17-418kqns3)
-- [](/catalog/cpb-aacip/55-9g5gb1xs7p)
-- [](/catalog/cpb-aacip/507-0v89g5gz0b)
-- [](/catalog/cpb-aacip/507-q23qv3cv7q)
-- [](/catalog/cpb-aacip/507-tb0xp6vv3s)
-- [](/catalog/cpb-aacip/507-mp4vh5d81w)
-- [](/catalog/cpb-aacip/507-jm23b5x12k)
-- [](/catalog/cpb-aacip/507-mp4vh5d793)
-- [](/catalog/cpb-aacip/43-69z0932b)
+- [](/catalog/cpb-aacip-507-zg6g15v91h)
+- [](/catalog/cpb-aacip-77-50gtjz22)
+- [](/catalog/cpb-aacip-507-v11vd6px6x)
+- [](/catalog/cpb-aacip-507-wh2d79674g)
+- [](/catalog/cpb-aacip-507-1g0ht2gv3t)
+- [](/catalog/cpb-aacip-507-bz6154fd4d)
+- [](/catalog/cpb-aacip-55-dv1cj87z3h)
+- [](/catalog/cpb-aacip-41-56zw3x9j)
+- [](/catalog/cpb-aacip-507-qz22b8w64p)
+- [](/catalog/cpb-aacip-507-154dn40c26)
+- [](/catalog/cpb-aacip-17-418kqns3)
+- [](/catalog/cpb-aacip-55-9g5gb1xs7p)
+- [](/catalog/cpb-aacip-507-0v89g5gz0b)
+- [](/catalog/cpb-aacip-507-q23qv3cv7q)
+- [](/catalog/cpb-aacip-507-tb0xp6vv3s)
+- [](/catalog/cpb-aacip-507-mp4vh5d81w)
+- [](/catalog/cpb-aacip-507-jm23b5x12k)
+- [](/catalog/cpb-aacip-507-mp4vh5d793)
+- [](/catalog/cpb-aacip-43-69z0932b)
 - [](/catalog/cpb-aacip-006d5989b8a)
-- [](/catalog/cpb-aacip/43-01pg4m5w)
-- [](/catalog/cpb-aacip/15-pr7mp4vv7s)
-- [](/catalog/cpb-aacip/507-mp4vh5d793)
-- [](/catalog/cpb-aacip/43-69z0932b)
+- [](/catalog/cpb-aacip-43-01pg4m5w)
+- [](/catalog/cpb-aacip-15-pr7mp4vv7s)
+- [](/catalog/cpb-aacip-507-mp4vh5d793)
+- [](/catalog/cpb-aacip-43-69z0932b)
 - [](/catalog/cpb-aacip-006d5989b8a)
-- [](/catalog/cpb-aacip/43-01pg4m5w)
-- [](/catalog/cpb-aacip/15-pr7mp4vv7s)
+- [](/catalog/cpb-aacip-43-01pg4m5w)
+- [](/catalog/cpb-aacip-15-pr7mp4vv7s)
