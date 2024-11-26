@@ -15,7 +15,7 @@ On [an episode of *North Carolina Now*](/catalog/cpb-aacip-129-31cjt50j?start=74
 Optimism about protease inhibitors and multi-drug treatments continued to grow. [A 1996 episode of *NewsNight Minnesota*](/catalog/cpb-aacip_77-63fxqtx1), in addition to exploring the HIV/AIDS epidemic and responses in Uganda, looked at the three FDA-approved protease inhibitors used in drug cocktails. The program was clear that the treatments did not cure HIV, but decreased the amount of virus in the body and in some cases were so successful that the virus became undetectable. The program included a panel discussion on topics like managing a complex treatment regimen, resistance to protease inhibitors, insurance coverage of FDA-approved drugs, HIV/AIDS prevention programs, and the financial cost of HIV/AIDS treatments. 
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">Newsnight Maryland (Maryland Public Television, December 1, 1997), https://americanarchive.org/catalog/cpb-aacip_394-15p8d15f.</caption>
+<caption align="bottom" class="exhibit-caption">Newsnight Maryland (Maryland Public Television, December 1, 1997).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_394-15p8d15f" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/newsnight-maryland-1997-james-ball-cocktail.png" class="big-image" alt="Newsnight Maryland (Maryland Public Television, December 1, 1997)"/></a></td></tr>
 </table>
 
