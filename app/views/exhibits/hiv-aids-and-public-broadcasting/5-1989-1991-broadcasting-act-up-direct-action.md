@@ -15,7 +15,7 @@ Although activism had been growing since the early 1980s, coverage of activist d
 > In this moment of collision, the message must be impossible to avoid. It can be funny, but it has to be attention getting; it needs to be insightful. It has to be visually arresting; it cannot be a cliché. In that brief moment of stepping into the sight line of the powerful, shunned people use direct action to be understood. And they are making two things clear: (1) the specific content of their demand for change, and (2) that they will never stop fighting for their survival.[<sup>69</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#106)
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">The MacNeil/Lehrer NewsHour, June 22, 1990, https://americanarchive.org/catalog/cpb-aacip_507-3b5w669q4c.</caption>
+<caption align="bottom" class="exhibit-caption">The MacNeil/Lehrer NewsHour, June 22, 1990.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_507-3b5w669q4c" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/lehrer-news-hr-azt.png" class="big-image" alt="The MacNeil/Lehrer NewsHour, June 22, 1990"/></a></td></tr>
 </table>
 
@@ -24,7 +24,7 @@ Commercial network television and public broadcasting coverage of their demonstr
 By broadcasting footage from direct action demonstrations, the programs included in this section aided the spread of ACT UP’s criticisms and demands on their own terms. In AIDS activist and author Vito Russo’s “Why We Fight” speech, he famously stated, “If I’m dying from anything, I’m dying from the sensationalism of newspapers and magazines and television shows, which are interested in me as a human interest story—only as long as I’m willing to be a helpless victim, but not if I’m fighting for my life."[<sup>70</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#70) ACT UP was consistently critical of media coverage of the epidemic, and their demonstrations were designed to use the news as a tool. Ann Northrop, journalist and activist, summed up the relationship of ACT UP to the media in Robert Hilferty’s controversial documentary *Stop the Church*: “We communicate through the media, not to the media.”  
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">The MacNeil/Lehrer NewsHour, June 22, 1990, https://americanarchive.org/catalog/cpb-aacip_507-3b5w669q4c.</caption>
+<caption align="bottom" class="exhibit-caption">The MacNeil/Lehrer NewsHour, June 22, 1990.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_507-3b5w669q4c" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/lehrer-news-hr-ACTUP.png" class="big-image" alt="The MacNeil/Lehrer NewsHour, June 22, 1990"/></a></td></tr>
 </table>
 
@@ -60,7 +60,7 @@ Perhaps ACT UP’s most well-known demonstration, Stop the Church was a controve
 On December 10, 1989, more than 5,000 people participated in an ACT UP and Women’s Health Action and Mobilization (WHAM!) protest at St. Patrick’s Cathedral in New York City. The protest, which took place while Cardinal O’Connor offered mass, consisted of a rally outside the cathedral and a die-in inside. Protestors disrupted the service by chanting “Stop killing us” and laid their bodies on the floor between pews, performing their own deaths, their friends’ deaths, and the deaths of other people with AIDS.
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">Left: Filmmaker Robert Hilferty at a Stop the Church planning meeting. Right: The die-in at St. Patrick’s Cathedral. Stop the Church: Issues and Outrage (KCET, Los Angeles, 1991), https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f.</caption>
+<caption align="bottom" class="exhibit-caption">Left: Filmmaker Robert Hilferty at a Stop the Church planning meeting. Right: The die-in at St. Patrick’s Cathedral. Stop the Church: Issues and Outrage (KCET, Los Angeles, 1991).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/stop-the-church.jpg" class="big-image" alt="Left: Filmmaker Robert Hilferty at a Stop the Church planning meeting. Right: The die-in at St. Patrick’s Cathedral. Stop the Church: Issues and Outrage (KCET, Los Angeles, 1991)"/></a></td></tr>
 </table>
 
@@ -73,7 +73,7 @@ PBS picked up Stop the Church for its documentary series *POV*, but didn’t fla
 The cancellation of *Stop the Church* only fueled controversy. Scholar B. J. Bullert recorded more than sixty newspaper articles written about the cancellation within the first week of its announcement.[<sup>79</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#79) Susan Dowling of WGBH in Boston said that by being overprotective of member stations, PBS was “perpetuating protection of content, and by extension, homophobia. Whatever the programmers’ claims, they have a damaging effect."[<sup>80</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#80) Although *Stop the Church* was removed from *POV*, local public television stations could still broadcast the documentary. KCET in Los Angeles designed a program around the documentary and controversy, and the station faced mixed reactions. Rev. Gregory Coiro from the public affairs office of the Los Angeles Catholic Archdiocese told Bullert, “We felt this was a very bigoted piece, and that it was anti-Catholic and had no place on television."[<sup>81</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#81) Director Robert Hilferty disagreed with accusations of “Catholic bashing” against the documentary and said, “It is a linguistic travesty to equate my political critique of Cardinal O’Connor with the fists, knives, and bats of gay bashers."[<sup>82</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#82) Hilferty here referred to “gay bashing,” or homophobic assaults against gay people, which had increased with the onset of the HIV/AIDS epidemic.[<sup>83</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#83)  
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">Stop the Church: Issues and Outrage (KCET, Los Angeles, 1991), https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f.</caption>
+<caption align="bottom" class="exhibit-caption">Stop the Church: Issues and Outrage (KCET, Los Angeles, 1991).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/stop-the-church-2.png" class="big-image" alt="Stop the Church: Issues and Outrage (KCET, Los Angeles, 1991)"/></a></td></tr>
 </table>
 
@@ -86,7 +86,7 @@ Following the documentary, the program aired a taped press conference from Cardi
 The panel discussion represented many responses to the documentary and KCET’s decision to air it. The panelists debated the ethics of ACT UP’s tactics, the use of condoms to prevent HIV transmission, the Church’s influence on public policy, and safe sex education. On the effectiveness of ACT UP militancy, Pieters said, “I feel an urgency as a person with AIDS. I may not have a lot of time left. I want results now. And if it hadn’t been for ACT UP, I’m not sure that we would have the AZT that is keeping us alive longer. I’m not sure that we would have the DDI [Didanosine] that is helping us stay alive longer.” 
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">Stop the Church: Issues and Outrage (KCET, Los Angeles, 1991), https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f.</caption>
+<caption align="bottom" class="exhibit-caption">Stop the Church: Issues and Outrage (KCET, Los Angeles, 1991).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/stc-panel.png" class="big-image" alt="Stop the Church: Issues and Outrage (KCET, Los Angeles, 1991)"/></a></td></tr>
 </table>
 
