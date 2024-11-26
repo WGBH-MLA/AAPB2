@@ -9,6 +9,7 @@
 ## Main
 
 **[“AIDS Attack”](/catalog/cpb-aacip-dc436cacc02) (WUNC, Chapel Hill, NC, March 15, 1983)**
+
 Dr. Mike Cohen of the UNC School of Medicine and Dr. Campbell McMillan of the NCMH Hemophilia Center discuss AIDS in March 1983, six months after the CDC introduced the term “Acquired Immune Deficiency Syndrome.”
 
 **[*The MacNeil/Lehrer Report*, “AIDS Alarm”](/catalog/cpb-aacip-507-zg6g15v91h) (Educational Broadcasting Corporation and GWETA, June 27, 1983)**
@@ -16,9 +17,11 @@ Dr. Mike Cohen of the UNC School of Medicine and Dr. Campbell McMillan of the NC
 **[*Express*, “AIDS: A Mixed Reaction”](/catalog/cpb-aacip-55-9g5gb1xs7p) (KQED, San Francisco, January 3, 1985)**
 
 **[“Houston in the Age of AIDS”](/catalog/cpb-aacip_513-4j09w09n4m) (KUHT-TV, Houston, TX, April 5, 1985)**
+
 Houston has the fourth highest rate of AIDS in the United States.
 
 **[*Illustrated Daily*, "AIDS"](/catalog/cpb-aacip-006d5989b8a), (KNME-TV, Albuquerque, NM, May 9 and 10, 1985)**
+
 New Mexico AIDS cases are increasing faster than the national pattern and are prone to attack "risk groups" (i.e., male homosexuals, intravenous drug users, prostitutes, and hemophiliacs). New understanding of the AIDS virus is presented.
 
 **[*Illustrated Daily*, “The AIDS Epidemic in New Mexico Grows”](/catalog/cpb-aacip-191-515mkrvv) (KNME-TV, Albuquerque, NM, October 14, 1985)**
@@ -44,6 +47,7 @@ New Mexico AIDS cases are increasing faster than the national pattern and are pr
 **[“AIDS: The San Diego Story”](/catalog/cpb-aacip-526-vt1gh9ck1n) (KPBS, San Diego, CA, September 30, 1987)**
 
 **[*On the Record*, “Living with AIDS”](/catalog/cpb-aacip-526-db7vm43x8v) (New Jersey Network, October 1, 1987)** 
+
 New Jersey has the fifth largest AIDS population in the country.
 
 **[*Iowa Press*, “AIDS”](/catalog/cpb-aacip-37-53wstzbm) (Iowa Public Television, November 1, 1987)** 
@@ -90,7 +94,6 @@ New Jersey has the fifth largest AIDS population in the country.
 
 **[*Living with AIDS*](/catalog/cpb-aacip_513-mp4vh5db5p) (KUHT-TV, Houston, TX, November 21, 1990)**
 
-
 **[*AIDS at the Crossroads*](/catalog/cpb-aacip-55-rn3028q00f) (KQED, San Francisco, 1990)**
 
 **[*At Week’s End*, “Women with AIDS”](/catalog/cpb-aacip-191-53wstws8) (KNME-TV, Albuquerque, NM, February 1, 1991)**
@@ -107,7 +110,7 @@ New Jersey has the fifth largest AIDS population in the country.
 
 **[*Images/Imagenes*, “Hispanics & AIDS”](/catalog/cpb-aacip-259-5717p64c) (New Jersey Network, April 6, 1994)** 
 
-**[*Open Air, New England*, “The Forgotten Mothers](/catalog/cpb-aacip-526-2f7jq0ts7t) and [Children of the AIDS Epidemic”](/catalog/cpb-aacip-da9aab32b16) (Connecticut Public Radio, 1994)**
+**[*Open Air, New England*, “The Forgotten Mothers and [Children of the AIDS Epidemic”](/catalog/cpb-aacip-526-2f7jq0ts7t) (Connecticut Public Radio, 1994)**
 
 **[“On the Path to an AIDS Vaccine”](/catalog/cpb-aacip-514-3j3902063r) (Commonwealth Club of California, December 1, 1998)**
 
@@ -129,7 +132,9 @@ New Jersey has the fifth largest AIDS population in the country.
 
 **[World AIDS Day](/catalog/cpb-aacip-514-8911n7zf90) (Commonwealth Club of California, December 1, 2006)** 
 
-**[*New Mexico in Focus*, “AIDS: NMAS](/catalog/cpb-aacip-12897ca55f0) [(New Mexico AIDS Services) Participants”](/catalog/cpb-aacip-51949cb2e23) (KNME-TV, Albuquerque, NM, 2006)**
+**[*New Mexico in Focus*, “AIDS: NMAS](/catalog/cpb-aacip-12897ca55f0) [(New Mexico AIDS Services) Participants - Sabrina”](/catalog/cpb-aacip-51949cb2e23) (KNME-TV, Albuquerque, NM, 2006)**
+
+**[*New Mexico in Focus*, “AIDS: NMAS](/catalog/cpb-aacip-12897ca55f0) [(New Mexico AIDS Services) Participants - Christine and Gloria"](/catalog/cpb-aacip-51949cb2e23)(KNME-TV, Albuquerque, NM, 2006)**
 
 **[*ViewPoint*, “Age of AIDS in Micronesia,” Part 2](/catalog/cpb-aacip-333-773txjjt) (PBS Guam, 2006)**
 
