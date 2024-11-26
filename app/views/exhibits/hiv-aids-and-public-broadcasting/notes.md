@@ -52,7 +52,7 @@
 
 <a name="24"></a><sup>24</sup> Treichler, *How to Have Theory in an Epidemic*, 50. 
 
-<a name="25"></a><sup>25</sup> Ramani Durvasula, "A History of HIV/AIDS in Women: Shifting Narrative and a Structural Call to Arms," *Psychology and AIDS Exchange Newsletter* (American Psychological Association), March 2018, https://www.apa.org/pi/aids/resources/exchange/2018/03/history-women.
+<a name="25"></a><sup>25</sup> Ramani Durvasula, "A History of HIV/AIDS in Women: Shifting Narrative and a Structural Call to Arms," *Psychology and AIDS Exchange Newsletter* (American Psychological Association), March 2018.
 
 <a name="26"></a><sup>26</sup> Centers for Disease Control, "Epidemiologic Notes and Reports Immunodeficiency among Female Sexual Partners of Males with Acquired Immune Deficiency Syndrome (AIDS) – New York," *MMWR* 31, no. 52, January 7, 1983: 697-98, https://www.cdc.gov/mmwr/preview/mmwrhtml/00001221.htm.
 
@@ -124,7 +124,7 @@
 
 <a name=”60”></a><sup>60</sup> Altman, 18. 
 
-<a name=”61”></a><sup>61</sup> hill Wilson, “Rising Sun?” *POZ*, October 1, 1994, https://www.poz.com/article/Rising-Sun-16349-4703. 
+<a name=”61”></a><sup>61</sup> Phill Wilson, “Rising Sun?” *POZ*, October 1, 1994, https://www.poz.com/article/Rising-Sun-16349-4703. 
 
 <a name=”62”></a><sup>62</sup> Joseph P. Kahn, “‘AIDS Quarterly’ Draws Angry Reactions,” *Boston Globe*, October 17, 1989.
 
@@ -186,7 +186,7 @@
 
 <a name=”91”></a><sup>91</sup> Sanyu A. Majola, “AIDS in Africa: Progress and Obstacles,” *Current History*, vol. 116, no. 790 (May 2017): 170-75, https://www.jstor.org/stable/10.2307/48614258. 
 
-<a name=”92”></a><sup>92</sup> Susan Moeller, “Coverage of AIDS in Africa: The Media Are Silent No Longer,” *Neiman Reports* (Fall 2000), September 15, 2000, https://nieman.harvard.edu/articles/coverage-of-aids-in-africa-the-media-are-silent-no-longer-2/.
+<a name=”92”></a><sup>92</sup> Susan Moeller, “Coverage of AIDS in Africa: The Media Are Silent No Longer,” *Neiman Reports* (Fall 2000), September 15, 2000, https://niemanreports.org/coverage-of-aids-in-africa-the-media-are-silent-no-longer/
 
 <a name=”93”></a><sup>93</sup>  Moeller, “Coverage of AIDS in Africa.”
 
@@ -234,7 +234,7 @@
 
 <a name=”115”></a><sup>115</sup> Bass, *To End a Plague*, 387.
 
-<a name=”116”></a><sup>116</sup> Peter Sands, “COVID-19 Must Transform the Definition of Global Health Security,” *The Global Fund* blog, November 19, 2020, https://www.theglobalfund.org/en/blog/2020-11-19-covid-19-must-transform-the-definition-of-global-health-security/.
+<a name=”116”></a><sup>116</sup> Peter Sands, “COVID-19 Must Transform the Definition of Global Health Security,” *The Global Fund* blog, November 19, 2020, https://www.theglobalfund.org/en/opinion/2020/2020-11-19-covid-19-must-transform-the-definition-of-global-health-security/
 
 <a name=”117”></a><sup>117</sup> Kevin M. De Cock, et al., “Reflections on 40 Years of AIDS,” *Emerging Infectious Diseases*, vol. 27, no. 6 (June 2021), https://wwwnc.cdc.gov/eid/article/27/6/21-0284_article.
 
@@ -242,7 +242,7 @@
 
 <a name=”119”></a><sup>119</sup> Ashley Kirzinger, Lunna Lopes, Bryan Wu, and Mollyanne Brodie, “KFF Health Tracking Poll – March 2019: Public Opinion on the Domestic HIV Epidemic, Affordable Care Act, and Medicare-for-all,” *Kaiser Family Foundation*,  March 26, 2019, https://www.kff.org/health-reform/poll-finding/kff-health-tracking-poll-march-2019/. 
 
-<a name=”120”></a><sup>120</sup> Centers for Disease Control, “HIV Among Gay and Bisexual Men,” https://www.cdc.gov/nchhstp/newsroom/docs/factsheets/cdc-msm-508.pdf.   
+<a name=”120”></a><sup>120</sup> Centers for Disease Control, “HIV Among Gay and Bisexual Men,” https://stacks.cdc.gov/view/cdc_49807_DS1.pdf.
 
 <a name=”121”></a><sup>121</sup> Liz Hamel, Jamie Firth, Tina Hoff, Jennifer Kates, Sarah Levine, and Lindsey Dawson, “HIV/AIDS in the Lives of Gay and Bisexual Men in the United States,” *Kaiser Family Foundation*, September 25, 2014, https://www.kff.org/hivaids/report/hivaids-in-the-lives-of-gay-and-bisexual-men-in-the-united-states/. 
 
@@ -256,6 +256,6 @@
 
 <a name=”126”></a><sup>126</sup> Stephen Tropiano, “The Time of Our Lives: In the Life – America’s LGBTQ News Magazine,” UCLA Library, Film & Television Archive, https://www.cinema.ucla.edu/collections/inthelife/history/time-of-our-lives. 
 
-<a name=”127”></a><sup>127</sup> B. J. Bullert, *Public Television: Politics & the Battle over Documentary Film* (New Brunswick: Rutgers University Press, 1997), 94.
+<a name=”127”></a><sup>127</sup> B. J. Bullert, *Public Television*, 94.
 
 ## Main
