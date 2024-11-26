@@ -229,7 +229,7 @@ Though most of the films about AIDS followed subjects in the United States, one 
 
 Follows Todd Coleman, a 22-year-old gay man, and his caretakers during the last few weeks of his life.
 
-[***Absolutely Positive***](/catalog/cpb-aacip_55-cf9j38kt93) **(dir. Peter Adair, 1991; broadcast on *POV*, June 18, 1991)**
+[***Absolutely Positive***](/catalog/cpb-aacip-55-cf9j38kt93) **(dir. Peter Adair, 1991; broadcast on *POV*, June 18, 1991)**
 
 *Absolutely Positive* conveys the experiences of twelve HIV-positive people, covering how they contracted it, what it felt like to find out, and the emotional effects of their positive status on their friends, partners, and family members. The documentary consists almost entirely of interviews with director Peter Adair, who also provides narration about the disease as well as about himself and the subjects. He contemplates their outlooks on life and how they came to terms with the disease.  This film is available for viewing at the Library of Congress and GBH. 
 
@@ -561,7 +561,7 @@ Created in 2011 by and for LGBTQ youth and straight allies, *OutCasting* is inte
 - [](/catalog/cpb-aacip-fbe0d3e05ce)
 - [](/catalog/cpb-aacip-d65266e7551)
 - [](/catalog/cpb-aacip-28aa05d3a12)
-- [](/catalog/cpb-aacip_55-cf9j38kt93)
+- [](/catalog/cpb-aacip-55-cf9j38kt93)
 - [](/catalog/cpb-aacip-50c989be918)
 - [](/catalog/cpb-aacip-41-22v41rq7)
 - [](/catalog/cpb-aacip-41472412366)
