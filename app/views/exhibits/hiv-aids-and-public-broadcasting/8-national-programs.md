@@ -221,7 +221,7 @@ Since 1988, PBS has aired more than 500 independent nonfiction films as part of 
 
 Though most of the films about AIDS followed subjects in the United States, one documentary, *State of Denial* (dir. Elaine Epstein, 2003), covered the AIDS pandemic in South Africa and will be discussed in a later section about AIDS in Africa. 
 
-***Living with AIDS* (dir. Tina DiFeliciantonio, 1987; broadcast on *POV*, July 19, 1988)**
+[***Living with AIDS***](/catalog/cpb-aacip-7d3448f8cd2) **(dir. Tina DiFeliciantonio, 1987; broadcast on *POV*, July 19, 1988)**
 
 Follows Todd Coleman, a 22-year-old gay man, and his caretakers during the last few weeks of his life.
 
