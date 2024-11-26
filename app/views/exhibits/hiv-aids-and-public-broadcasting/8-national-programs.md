@@ -8,9 +8,9 @@
 
 ## Main
 
-*Frontline*'s 1986 program “AIDS: A National Inquiry,” examined in the previous section of this exhibit, was one of the first of many approaches to the epidemic produced for national distribution. While some of these materials are not available in the AAPB Online Reading Room, many can be accessed on-site at the Library of Congress and at GBH, and others are available online elsewhere.
+*Frontline*'s 1986 program “AIDS: A National Inquiry,” examined in [a previous section of this exhibit](/exhibits/hiv-aids-and-public-broadcasting/3-1986-1988-the-aids-special-program), was one of the first of many approaches to the epidemic produced for national distribution. While some of these materials are not available in the AAPB Online Reading Room, many can be accessed on-site at the Library of Congress and at GBH, and others are available online elsewhere. Listings for episodes of The AIDS Quarterly and The Health Quarterly can be found in the exhibit section [1989-1994: Into “the Second Decade”](/exhibits/hiv-aids-and-public-broadcasting/4-1989-1994-into-the-second-decade).
 
-Three nationally distributed public radio series in the AAPB collection have broadcast more than thirty programs on HIV/AIDS: In Black America from KUT Radio in Austin, Texas; the Spanish-language public radio series *Línea Abierta*, broadcast on the Radio Bilingüe network; and *Outcasting*, syndicated on Pacifica and PRX.
+Four nationally distributed public and local community radio series in the AAPB collection have broadcast more than fifty programs on HIV/AIDS: *In Black America* from KUT Radio in Austin, Texas; the Spanish-language public radio series *Línea Abierta*, broadcast on the Radio Bilingüe network; *This Way Out*, an internationally distributed weekly LGBTQ radio program; and *Outcasting*, syndicated on Pacifica and PRX.
 
 ### Television
 
@@ -18,7 +18,7 @@ Three nationally distributed public radio series in the AAPB collection have bro
 
 **“AIDS: A National Inquiry” (WGBH, Boston, March 25, 1986)**
 
-Follows Fabian Bridges, a Black gay man with AIDS, as he experiences homelessness and public scrutiny after filmmakers informed public health officials that he was sexually active. The program is followed by a discussion panel on the right to privacy of people with AIDS, among other topics. You can read more about this program in the section above titled “Frontline Controversy.”
+Follows Fabian Bridges, a Black gay man with AIDS, as he experiences homelessness and public scrutiny after filmmakers informed public health officials that he was sexually active. The program is followed by a discussion panel on the right to privacy of people with AIDS, among other topics. You can read more about this program in the exhibit subsection titled “Frontline Controversy" in the section [“1986-1988: The AIDS Special Program"](/exhibits/hiv-aids-and-public-broadcasting/3-1986-1988-the-aids-special-program).
 
 **“Who Pays for AIDS?” (WGBH, Boston, July 7, 1988)**
 
@@ -45,7 +45,7 @@ Examines how the AIDS epidemic disproportionately affects Black people in the Un
 This monthly series of half-hour programs broadcast between 1992 and 2012, television’s first and longest-running LGBTQ+ news magazine, featured newsmagazine segments on a variety of topics including LGBTQ+ life, politics, arts, history, activism, health, religion, race, rights, and sports. The series was presented by WNYC until 1996 and by WNET after that. PBS did not distribute the series, but after an effort by series producers and staff to promote it to station managers throughout the U.S., by 2005, it was airing on 125 stations in 30 states. Regarding coverage by the series of the AIDS epidemic, media historian Stephen Tropiano writes:
 > One of the show’s most important and lasting contributions was its ongoing coverage of the HIV/AIDS, particularly when the media no longer considered the disease “front-page news.”  In December 1996, an episode entitled [“The State of AIDS”](/catalog/cpb-aacip-b3a9f15d7ba) featured segments on protease inhibitors, and profiles of AIDS activist Michelle Lopez and composer John Corigliano, whose “Symphony #1” was inspired by the AIDS crisis. Four years later, in recognition of World AIDS Day, [“AIDS is Still a Big Deal”](/catalog/cpb-aacip-afb5402a066) (Episode #1803) featured stories on high-risk behavior among HIV+ young gay men, discrimination in the workplace, and an on-camera discussion on the current state of the pandemic featuring Dr. Mathilde Krim, founding chairman of the American Foundation for AIDS Research (amFAR). In 2010, [“The Cost of Stigma”](/catalog/cpb-aacip-d945517440d) (Episode #2003) offered an in-depth look at how fear and misinformation are at the root of the criminalization of HIV transmission. These and the many other AIDS-related episodes and segments that aired throughout the show’s 20-year run served as a painful, yet much needed reminder that the AIDS crisis was far from over.[<sup>126</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#126)
 
-[**Episode 203; Season 1; “From Hollywood to Broadway”**](/catalog/cpb-aacip-b7cea452a98) **(In the Life Media, WNYC-TV, December 1992).**
+[**Episode 203; Season 1; “From Hollywood to Broadway”**](/catalog/cpb-aacip-b7cea452a98) **(In the Life Media, WNYC-TV, December 1992)**
 
 The segment “AIDS Memorial Quilt” features Liza Minnelli, Lily Tomlin, Bonnie Franklin, Shari Belafonte, Judith Light, and Joel Grey.
 
@@ -173,7 +173,7 @@ The segment “Taylor v. Rice” is about a suit against the Department of State
 
 In the final segment, CEO of Gay Men's Health Crisis Dr. Marjorie Hill speaks with Wilson Cruz about the AIDS epidemic and the continuing importance of education in confronting the disease and LGBT stereotypes.
 
-[**Episode 1803; Season 17; “AIDS Is Still a Big Deal”** **(In the Life Media, WNET/Thirteen, December 2008)**](/catalog/cpb-aacip-afb5402a066)
+[**Episode 1803; Season 17; “AIDS Is Still a Big Deal”**](/catalog/cpb-aacip-afb5402a066) **(In the Life Media, WNET/Thirteen, December 2008)**
 
 The episode begins with “HIV Is Still a Big Deal,” a segment about a web-based AIDS/HIV prevention campaign, a collaboration of New York public health professionals and New York University. “Taylor v. Rice”: an update follows up on a segment from episode 1612, about a suit against the Department of State for employment discrimination in the Foreign Service that spurred the lifting of its ban on hiring HIV-positive officers. The “A Conversation with—" segment features Dr. Mathilde Krim and Phill Wilson discussing the fight against AIDS and the current state of the epidemic.
 
@@ -201,7 +201,7 @@ The episode begins with “Women, HIV & Criminal Law,” a segment that investig
 
 **“AIDS: Chapter One” (WGBH, Boston, February 12, 1985)**
 
-The first NOVA program dedicated to the epidemic, “AIDS: Chapter One” reflects on the first four years of the epidemic and current scientific research. 
+The first *NOVA* program dedicated to the epidemic, “AIDS: Chapter One” reflects on the first four years of the epidemic and current scientific research. 
 
 **“Can AIDS Be Stopped?” (WGBH, Boston, November 11, 1986)**
 
@@ -215,47 +215,63 @@ Features former Surgeon General Dr. C. Everett Koop, who wrote a presidential re
 
 Analyzes recent scientific breakthroughs and challenges in HIV/AIDS treatment and prevention.
 
+**“Ending HIB in America” (WGBH, Boston, October 5, 2022)** [**companion website**](https://www.pbs.org/wgbh/nova/video/ending-hiv-in-america) 
+
+Science has made extraordinary progress against HIV. Can innovative drugs and therapies finally end it?
+
 ### *POV*
 
 Since 1988, PBS has aired more than 500 independent nonfiction films as part of its series POV, an abbreviation used by filmmakers for “point of view.” The series has provided intimate views of various areas of society, including nine documentaries about the lived experiences of people with HIV/AIDS. POV’s goal is “to provide a platform for voices not present elsewhere on television and in this society.”  In addition to documenting the disease itself, the films explored issues of race, poverty, homophobia, faith, mortality, and grief, and they helped humanize those affected by AIDS.  
 
-Though most of the films about AIDS followed subjects in the United States, one documentary, *State of Denial* (dir. Elaine Epstein, 2003), covered the AIDS pandemic in South Africa and will be discussed in a later section about AIDS in Africa. 
+Though most of the films about AIDS followed subjects in the United States, one documentary, *State of Denial* (dir. Elaine Epstein, 2003), covered the AIDS pandemic in South Africa and is discussed in a the exhibit section [“Public Broadcasting Covers the HIV/AIDS Pandemic in Africa”](/exhibits/hiv-aids-and-public-broadcasting/7-public-broadcasting-covers-the-hiv-aids-pandemic-in-africa). 
 
 [***Living with AIDS***](/catalog/cpb-aacip-7d3448f8cd2) **(dir. Tina DiFeliciantonio, 1987; broadcast on *POV*, July 19, 1988)**
 
 Follows Todd Coleman, a 22-year-old gay man, and his caretakers during the last few weeks of his life.
 
-[***Absolutely Positive***](/catalog/cpb-aacip_55-cf9j38kt93) **(dir. Peter Adair, 1991; broadcast on ***POV***, June 18, 1991)** 
+[***Absolutely Positive***](/catalog/cpb-aacip_55-cf9j38kt93) **(dir. Peter Adair, 1991; broadcast on *POV*, June 18, 1991)**
 
-*Absolutely Positive* conveys the experiences of twelve HIV-positive people, covering how they contracted it, what it felt like to find out, and the emotional effects of their positive status on their friends, partners, and family members. The documentary consists almost entirely of interviews with director Peter Adair, who also provides narration about the disease as well as about himself and the subjects. He contemplates their outlooks on life and how they came to terms with the disease.  
+*Absolutely Positive* conveys the experiences of twelve HIV-positive people, covering how they contracted it, what it felt like to find out, and the emotional effects of their positive status on their friends, partners, and family members. The documentary consists almost entirely of interviews with director Peter Adair, who also provides narration about the disease as well as about himself and the subjects. He contemplates their outlooks on life and how they came to terms with the disease.  This film is available for viewing at the Library of Congress and GBH. 
 
-[***Tongues Untied***](/catalog/cpb-aacip-50c989be918) **(dir. Marlon Riggs, 1989; broadcast on ***POV***, July 16, 1991)**    
+*POV* interviews about the film with director Peter Adair and producer Janet Cole are [available online](/catalog?f%5Bcontributing_organizations%5D%5B%5D=POV+%28NY%29&q=%22absolutely+positive%22&utf8=%E2%9C%93&f[access_types][]=online).
 
-Emmy Award-winning writer and director Marlon Riggs emphasized themes of Blackness, sexuality, and art in his work. In Tongues Untied, he used “dance, music, poetry to passionately tell his compelling story of searching for acceptance in a society with racist whites who stigmatize him for being black, and antigay blacks who stigmatize him for being gay,” B. J. Bullert, author of a study on documentaries airing on public television, has written. [<sup>127</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#127) *Tongues Untied* proved controversial for programmers and station managers, who had to weigh the risk of airing content considered obscene by some, against *POV*’s mission to deliver unorthodox views to the public.  
+[***Tongues Untied***](/catalog/cpb-aacip-50c989be918) **(dir. Marlon Riggs, 1989; broadcast on *POV*, July 16, 1991)**    
 
-[***Silverlake Life: The View from Here***](/catalog/cpb-aacip-41-22v41rq7) **(dir. Tom Joslin and Peter Friedman, 1993; broadcast on ***POV***, June 15, 1993)**
+Emmy Award-winning writer and director Marlon Riggs emphasized themes of Blackness, sexuality, and art in his work. In *Tongues Untied*, he used “dance, music, poetry to passionately tell his compelling story of searching for acceptance in a society with racist whites who stigmatize him for being black, and antigay blacks who stigmatize him for being gay,” B. J. Bullert, author of a study on documentaries airing on public television, has written.[<sup>127</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#127) *Tongues Untied* proved controversial for programmers and station managers, who had to weigh the risk of airing content considered obscene by some, against *POV*’s mission to deliver unorthodox views to the public. 
+
+A *POV* interview about the film with Marlon Riggs is [available online](/catalog/cpb-aacip-a7e52fb129e).
+
+[***Silverlake Life: The View from Here***](/catalog/cpb-aacip-41-22v41rq7) **(dir. Tom Joslin and Peter Friedman, 1993; broadcast on *POV*, June 15, 1993)**
 
 The uniqueness of *Silverlake Life* comes from Tom Joslin’s choice to act as both the director of the film and one of the main subjects. He and his partner, Mark Massi, battled AIDS together and provided support for one another after their diagnoses. Joslin shot much of the film at their home in the Los Angeles neighborhood of Silverlake in a video diary style, and as a result, it contained extremely personal imagery and focused on the couple’s romantic relationship as they experienced both challenges and moments of happiness from one day to the next. Joslin died before he could complete the project and left the footage to filmmaker Peter Friedman, a former student of Joslin’s, who made the final film. Ten years later, Friedman made an [epilogue](/catalog/cpb-aacip-41472412366) to Silverlake Life after Massi also had passed away. 
 
+*POV* interviews about the film with director Peter Friedman, an “Extreme CloseUp” discussion by Friedman, and a “Taking Back” video letter are [available online](/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=POV+%28NY%29&q=%22silverlake+life%22)!.
+
 The year before *Silverlake Life*, Friedman produced a 28-minute documentary about an HIV-positive man titled [*Fighting in Southwest Louisiana*](/catalog/cpb-aacip-022be8c989c), which aired over public broadcasting stations, but gained less visibility when Friedman released *Silverlake Life* shortly afterwards.
 
-[***The Heart of the Matter***](/catalog/cpb-aacip-44b4cc0ff45) **(dir. Amber Hollibaugh and Gini Reticker, 1994; broadcast on ***POV***, July 12, 1994)**
+[***The Heart of the Matter***](/catalog/cpb-aacip-44b4cc0ff45) **(dir. Amber Hollibaugh and Gini Reticker, 1994; broadcast on *POV*, July 12, 1994)**
 
 According to producer Amber Hollibaugh, *The Heart of the Matter* is “not a film about HIV. It’s a film about women.” The film followed the story of Janice Jirau, an HIV-positive Black woman, and the comfort she found through the women in her life and her religious community. It also grappled with broader issues of stigma and discussed how women with AIDS did not receive very much visibility, support, or education in the areas of safe sex and HIV/AIDS. 
 
-[***The Transformation***](https://www.kanopy.com/en/product/181617) **(dir. Carlos Aparicio and Susana Aiken, 1996; broadcast on ***POV***, July 9, 1996)**
+*POV* interviews about the film with producers and directors Gini Reticker and Amber Hollibaugh are [available online](/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=POV+%28NY%29&q=%22heart+of+the+matter%22).
+
+[***The Transformation***](https://www.kanopy.com/en/product/181617) **(dir. Carlos Aparicio and Susana Aiken, 1996; broadcast on *POV*, July 9, 1996)**
 
 Ricardo, the film’s main subject, previously lived as a gay man and a transgender woman. He renounced both of these identities after finding out his HIV-positive status. A Christian man took him in from the streets, and Ricardo’s faith strengthened. He married a woman and lived as a straight man for the rest of his life. At the end of the documentary, however, Ricardo stated that if he could still choose, he would choose to be a woman. 
+
+*POV* interviews about the film with directors Carlos Aparicio and Susana Aiken are [available online](/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=POV+%28NY%29&q=%22transformation%22).
 
 ***The Smith Family*** **(dir. Tasha Oldham, 2002; broadcast on *POV*, June 25, 2002)**
 
 A documentary about a Mormon family grappling with two HIV-positive parents.
 
-***State of Denial*** **(dir. Elaine Epstein, 2003; broadcast on ***POV***, September 16, 2003)**
+[***State of Denial***](https://www.kanopy.com/en/product/139751) **(dir. Elaine Epstein, 2003; broadcast on *POV*, September 16, 2003)**
 
 Examines the HIV/AIDS epidemic in South Africa, which had the highest number of people living with HIV in the world. See [Public Broadcasting Covers the HIV/Aids Pandemic in Africa](/exhibits/hiv-aids-and-public-broadcasting/5-public-broadcasting-covers-the-hiv-aids-pandemic-in-africa).
 
-[***Memories of a Penitent Heart***](https://web-windows.tubitv.com/movies/595668/memories-of-a-penitent-heart) **(dir. Cecilia Aldarondo, 2016; broadcast on ***POV***, July 31, 2017)** 
+A *POV* interview about the film with director Elaine Epstein is [available online](https://americanarchive.org/catalog/cpb-aacip-a7c4fcd4f61).
+
+[***Memories of a Penitent Heart***](https://web-windows.tubitv.com/movies/595668/memories-of-a-penitent-heart) **(dir. Cecilia Aldarondo, 2016; broadcast on *POV*, July 31, 2017)** 
 
 Cecilia Aldarondo decided to pursue the project out of curiosity about her uncle, who died of AIDS when she was young. She tracked down his partner and, upon finding and interviewing him, discovered the homophobia they experienced from Aldarondo’s religious family. She also looked for answers regarding her uncle’s complex choice to repent for his homosexuality before his death. Much of the film was comprised of interviews as well as Aldarondo’s narration as she processed the information that surfaced throughout the film.
 
@@ -263,7 +279,7 @@ Cecilia Aldarondo decided to pursue the project out of curiosity about her uncle
 
 ### *In Black America*
 
-KUT Radio in Austin, Texas, has produced the nationally syndicated interview program In Black America since 1970. John L. Hanson Jr. has produced and hosted the weekly series since 1980. The following In Black America episodes focus on the AIDS epidemic in the Black community: 
+KUT Radio in Austin, Texas, has produced the nationally syndicated interview program *In Black America* since 1970. John L. Hanson Jr. has produced and hosted the weekly series since 1980. The following *In Black America* episodes focus on the AIDS epidemic in the Black community: 
 
 [***“AIDS in the Black Community, Part 1”***](/catalog/cpb-aacip-529-0c4sj1bq1t) **(KUT Radio, Austin, TX, October 6, 1987)**
 
@@ -287,21 +303,21 @@ Producer/Host John L. Hanson Jr. speaks with Dr. Donna Hubbard McCree, Associate
 
 Producer/Host John L. Hanson Jr. speaks with Dr. Laura Cheever, MD, Associate Administrator, HIV/AIDS Bureau, Health Resources and Services Administration, regarding HIV/AIDS in the African American community.
 
-
 ### *Línea Abierta*
 
-Launched as a one-hour program in February 1995 on the Radio Bilingüe network, Línea Abierta, the only daily Spanish-language public radio call-in show aired nationally, expanded to two hours in August 1996. It is carried by affiliated stations throughout the U.S., Mexico, and Puerto Rico. Topics covered include farmworkers’ issues, civil rights, health, race, bilingual education, and Mexican culture. The AIDS epidemic in the U.S. and in Mexico was covered in depth in the following programs:
+Launched as a one-hour program in February 1995 on the Radio Bilingüe network, *Línea Abierta*, the only daily Spanish-language public radio call-in show aired nationally, expanded to two hours in August 1996. It is carried by affiliated stations throughout the U.S., Mexico, and Puerto Rico. Topics covered include farmworkers’ issues, civil rights, health, race, bilingual education, and Mexican culture. The AIDS epidemic in the U.S. and in Mexico was covered in depth in the following programs:
 
-[“Latino Communities Need More AIDS Prevention Programs”](/catalog/cpb-aacip-392e07cf719) **(Radio Bilingüe, July 13, 1998)**
+[**“Latino Communities Need More AIDS Prevention Programs”**](/catalog/cpb-aacip-392e07cf719) **(Radio Bilingüe, July 13, 1998)**
 
 The director of the Committee for Hispanic Children and Families, Elba Montalbo, participated in the 12th World AIDS Conference, which recently had taken place in Geneva. Ms. Montalbo talked about the main concerns presented by Third World researchers and activists, as well as by people who work in poor neighborhoods and rural areas in the U.S. She related that new treatments are not being made available for low-income people and that most of the money available for research is focused on treatment, while prevention programs that are effective are not receiving enough funding. 
 
 [**“Mexico Edition”**](/catalog/cpb-aacip-7940afddd04) **(Radio Bilingüe, August 20, 1998)**
+
 This episode of the "Voz Publica" series, with comments from Mexican listeners on current events, includes an interview about AIDS with Dr. Carmen Feliciano-Biuda de Melesio from the Department of Health in Puerto Rico.
 
 [**“AIDS in Mexico: A Backlash”**](/catalog/cpb-aacip-031522a0482) **(Radio Bilingüe, September 21, 1998)**
 
-The legislature of Michoacan, a state in Western Mexico with a large migrant population, passed a bill penalizing with up to three years in prison the intentional transmission of HIV. Michoacan became the first state in the nation in penalizing transmission of HIV. The leaders of the initiative pointed to the staggering figure of AIDS deaths: 730 since 1985. Opponents noted the legal problem of proving intentions and also the lack of access to health care and education for people at risk of HIV infection. This roundtable featured Congressman Santiago Padilla, president of the Health Commission of Mexican Congress; Rep, Agustin Trujillo, from Michoacan's State legislature; Jorge Saavedra, advisor on AIDS issues for Mexico's federal Health Department, and Jorge Huerdo, ex-coordinator of the National Front of HIV-infected People. 
+The legislature of Michoacan, a state in Western Mexico with a large migrant population, passed a bill penalizing with up to three years in prison the intentional transmission of HIV. Michoacan became the first state in the nation in penalizing transmission of HIV. The leaders of the initiative pointed to the staggering figure of AIDS deaths: 730 since 1985. Opponents noted the legal problem of proving intentions and also the lack of access to health care and education for people at risk of HIV infection. This roundtable featured Congressman Santiago Padilla, president of the Health Commission of Mexican Congress; Rep. Agustin Trujillo, from Michoacan's State legislature; Jorge Saavedra, advisor on AIDS issues for Mexico's federal Health Department, and Jorge Huerdo, ex-coordinator of the National Front of HIV-infected People. 
 
 [**“AIDS and Public Health in Michoacan, Mexico”**](/catalog/cpb-aacip-05ca60d0b67) **(Radio Bilingüe, November 10, 1998)**
 
@@ -332,6 +348,7 @@ Radio Bilingüe in the U.S. and Sistema Jalisciense de Radio y Television in Gua
 On occasion of World AIDS Day, this program discussed cross-border collaboration efforts to stem the epidemic. What’s being done at the Mexico-U.S. border to reach out to the youth, the poor, migrants, and other at-risk, hard-hit communities? Dr. Elmer Huerta, a regular commentator, joined this edition to discuss the issue. Dr. Huerta also answered listener concerns.
 
 [**“HIV/AIDS Prevention”**](/catalog/cpb-aacip-ed9375eb1d6) **(Radio Bilingüe, August 7, 2002)**
+
 Many young Latinos are not heeding warnings on the risks of HIV/AIDS infection, and the epidemic threatens the youth and women. The rate of new cases is growing among these populations. This program, aired in collaboration with the National Alliance for Hispanic Health, focused on preventive measures and testing for HIV. Guest: Antonia M. Villarruel, Ph.D., director of Center for Health Promotion and associate professor at University of Michigan, www.hispanichealth.org. CALLS & COMMENTS: Six calls. Maria de Jesus (Toppenish) pointed to the need of investing in more outreach and education among migrants and the youth. Gabriel (Sunnyside): Few movies encourage safe sex; and condoms distributed by health agencies to the poor are usually of poor quality and thick and few people use them. Antonio (Modesto) shared the experience of a friend who infected his wife back in Mexico. Victor (Blythe): A woman friend in Tijuana has knowingly infected other men - is that a punishable crime? Javier (Visalia): The youth are not heeding the prevention message because they haven't seen people dying of AIDS like in the 80s, there are medicines that help HIV patients survive, and there are suicidal individuals who don't care.
 
 [**“Health Edition – AIDS Day”**](/catalog/cpb-aacip-976bd318100) **(Radio Bilingüe, December 2, 2002)**
@@ -364,7 +381,7 @@ In coincidence with the International AIDS Conference in Mexico City, this round
 
 [**“AIDS in the Deep South”**](/catalog/cpb-aacip-443c42aa8e2) **(Radio Bilingüe, December 8, 2008)**
 
-Latinos in seven southern states are being infected with the AIDS virus at increasing speed and in disproportionately high numbers. Despite this threat, Latinos, especially immigrants, face exclusionary practices, government restrictions, discrimination, and other obstacles to access health care and receive preventative education. This program includes news on the report "Shaping the New Response: HIV/AIDS and Latinos in the Deep South," released in coincidence of World AIDS Day. Guests: Tim Frasca, Program Coordinator, Deep South Project, Latino Commission on AIDS, New York, NY, [www.latinoaids.org](https://www.latinoaids.org/); Yvonne Torres, Director, Wake County HIV/AIDS Program, Raleigh, NC [www.wakegove.com](https://www.wakegove.com/); Dr. Rodrigo R. Gamarra, MD, Louisiana Latino Project Coordinator and Perinatal Outreach Coordinator, HIV/AIDS Program, Louisiana Office of Public Health, New Orleans, LA. [www.dhh.louisiana.gov/offices/?ID=264](https://ldh.la.gov/offices/?ID=264).
+Latinos in seven southern states are being infected with the AIDS virus at increasing speed and in disproportionately high numbers. Despite this threat, Latinos, especially immigrants, face exclusionary practices, government restrictions, discrimination, and other obstacles to access health care and receive preventative education. This program includes news on the report "Shaping the New Response: HIV/AIDS and Latinos in the Deep South," released in coincidence of World AIDS Day. Guests: Tim Frasca, Program Coordinator, Deep South Project, Latino Commission on AIDS, New York, NY, [www.latinoaids.org](https://www.latinoaids.org/); Yvonne Torres, Director, Wake County HIV/AIDS Program, Raleigh, NC [www.wakegove.com](https://www.wakegove.com/); Dr. Rodrigo R. Gamarra, MD, Louisiana Latino Project Coordinator and Perinatal Outreach Coordinator, HIV/AIDS Program, Louisiana Office of Public Health, New Orleans, LA. 
 
 [**“National Latino AIDS Day”**](/catalog/cpb-aacip-ea96b845472) **(Radio Bilingüe, October 15, 2009)**
 
@@ -372,7 +389,7 @@ Advocacy groups urge Congress to better understand the Latino HIV/AIDS crisis. T
 
 [**“Closing the Gap to Fight AIDS”**](/catalog/cpb-aacip-9654c5f244e) **(Radio Bilingüe, August 10, 2010)**
 
-African American and Latino men and women are more likely to be infected with HIV and more likely to die early from AIDS than whites. For the first time ever, the White House recently released a national strategy on HIV/AIDS in the U.S., which calls to reduce these disparities and others that affect gay and bisexual men, as well as decreasing new HIV infections and connecting more people to care sooner after they test positive. Guests: Daniel Leyva, Director of Prevention Services, The Latino Commission on AIDS, New York, NY, [www.latinoaids.org](www.latinoaids.org); James Albino, Senior Program Manager, White House Office of National AIDS Policy, Washington, DC, http://www.whitehouse.gov/administration/eop/onap, http://aids.gov/federal-resources/policies/national-hiv-aids-strategy/; Jose Vargas Bidot, Director, Community Initiative, San Juan, Puerto Rico, www.iniciativacomunitaria.org; Julie Turkewitz, Advocacy Communications Associate, Housing Works, New York, NY, www.housingworks.org. 
+African American and Latino men and women are more likely to be infected with HIV and more likely to die early from AIDS than whites. For the first time ever, the White House recently released a national strategy on HIV/AIDS in the U.S., which calls to reduce these disparities and others that affect gay and bisexual men, as well as decreasing new HIV infections and connecting more people to care sooner after they test positive. Guests: Daniel Leyva, Director of Prevention Services, The Latino Commission on AIDS, New York, NY, [www.latinoaids.org](www.latinoaids.org); James Albino, Senior Program Manager, White House Office of National AIDS Policy, Washington, DC; Jose Vargas Bidot, Director, Community Initiative, San Juan, Puerto Rico, www.iniciativacomunitaria.org; Julie Turkewitz, Advocacy Communications Associate, Housing Works, New York, NY, www.housingworks.org. 
 
 [**“Affordable AIDS Care”**](/catalog/cpb-aacip-3f52a5514e4) **(Radio Bilingüe, November 30, 2011)**
 
@@ -390,12 +407,9 @@ More than 230,000 women and girls are HIV-positive in the U.S., and many are not
 
 Latino communities are experiencing a growing health crisis as the number of HIV diagnoses among Latino gay, bisexual, and transgender men increases. A new report called “Here as I Am” investigates how social, economic, and political forces affect the health and well-being of Latino men living with HIV. The initiative found that many of these men with HIV are not receiving the care they need due to the stigma, fear, or discrimination faced by many communities of color. This is a special ahead of National Latino AIDS Awareness Day. Guest: Guillermo Chacón, President, AIDS Latino Commission, New York, NY. 
 
-[**Ending HIV in America”**](https://www.pbs.org/wgbh/nova/video/ending-hiv-in-america/) **(WGBH, Boston, October 5, 2022)**
-
-Science has made extraordinary progress against HIV. Can innovative drugs and therapies finally end it?”
-
 ### *This Way Out*
-*This Way Out* is the only internationally distributed weekly LGBTQ radio program, currently broadcast over 200 local community radio stations worldwide. This award-winning newsmagazine covers major events impacting the queer community (NewsWrap) and explores important past events in the gay rights movement. This Way Out also features interviews with prominent LGBTQ figures and segments on music, literature, and entertainment.
+
+*This Way Out* is the only internationally distributed weekly LGBTQ radio program, currently broadcast over 200 local community radio stations worldwide. This award-winning newsmagazine covers major events impacting the queer community (NewsWrap) and explores important past events in the gay rights movement. *This Way Out* also features interviews with prominent LGBTQ figures and segments on music, literature, and entertainment.
 
 [***This Way Out*, #29**](https://americanarchive.org/catalog/cpb-aacip-c27b32f7040) **(This Way Out Radio, October 14, 1988)**
 
@@ -403,7 +417,7 @@ Segments in this episode include NewsWrap / Sandy Dwyer and Tony Sullivan (4:25)
 
 [***This Way Out*, #36**](https://americanarchive.org/catalog/cpb-aacip-562e53de3ba) **(This Way Out Radio, December 2, 1988)**
 
-Segments in this episode include NewsWrap / Sandy Dwyer, Tony Sullivan and Janice Windborne (6:26)| AIDS protest blocks morning commuter traffic on the San Francisco Golden Gate Bridge / Tim Kingston (4:06)| West Hollywood considers renewing L.A. County Sheriff's Department service, despite charges of gay-bashing / Edmund Calvin (6:21)| Peeking into Australian closets : a report on the gay history project of Australia / Gary Wotherspoon interviewed by Brian Newman (9:36).
+Segments in this episode include NewsWrap / Sandy Dwyer and Tony Sullivan (3:21)| "Out in Washington" : on the NGLTF-sponsored Creating Change Conference in Washington D.C., 18-20 November, 1988 / Sue Hyde (2:57)| Immortal Fire : the gay life of Benjamin Britten, part 2 / produced by Hugh Young| narrated by Barry Empson (7:50)| Harvey Milk Remembrance Day : November 27th, in San Francisco and Houston / Peter Cashman and Robb Ditto (7:12)| World AIDS day, December 1 / Sandy Dwyer (5:24).
 
 [***This Way Out*, #45**](https://americanarchive.org/catalog/cpb-aacip-06e10101ebc) **(This Way Out Radio, February 3, 1989)**
 
@@ -457,11 +471,12 @@ Segments of this episode include  Newswrap (8:50)| Tongues Untied: Marlon Riggs 
 Segments from this episode include Newswrap / Greg Gordon, Mary Van Clay, Judith Samuels, Sandy Dwyer and Richard Cisneros (9:55)| Homophobia can kill / Claudia Brenner (1:00)| Wrap-up of the 6th International AIDS Conference / Mike Alcalay (3:30)| Two negative reviews of the film Longtime Companion / Kirk Evan Billet (3:50)| Gay and Lesbian Freedom Day Celebration : Boise, Idaho / Linda Shirley (5:45)| Lest we forget : observing the 4th anniversary of the Bowers vs. Hardwick decision / Michael Hardwick interviewed by Alan Ross (2:15).
 
 [***This Way Out*, unnumbered**](https://americanarchive.org/catalog/cpb-aacip-4aa02995d04) **(This Way Out Radio, August 10, 1992)** 
-Audio is from August 3, 1992.
+
+Segments in this episode include an interview with AIDS activist Tomás Fábregas.”
 
 [***This Way Out*, unnumbered**](https://americanarchive.org/catalog/cpb-aacip-520acec91fa) **(This Way Out Radio, July 12, 1993)** 
-Audio is from July 5, 1993.
 
+Segments in this episode include reports about an International AIDS Conference debate over the benefits of AZT that has forced the National Institutes of Health to re-evaluate the world’s most prescribed AIDS drug; and an ad-hoc National AIDS Commission report that included a strong challenge to the Clinton administration.”
 
 ### *OutCasting*
 
@@ -475,7 +490,7 @@ Created in 2011 by and for LGBTQ youth and straight allies, *OutCasting* is inte
 
 [**“The Covid-19 and AIDS Pandemics — Similarities and Notable Differences”**](/catalog/cpb-aacip-10ab6c398ce) **(Media for the Public Good, April 1, 2020)**
 
-[**“Pandemics – Covid-19 and AIDS, Part I”**](/catalog/cpb-aacip-f15975a5a95) **(Media for the Public Good, May 1, 2020
+[**“Pandemics – Covid-19 and AIDS, Part I”**](/catalog/cpb-aacip-f15975a5a95) **(Media for the Public Good, May 1, 2020)**
 
 [**“Pandemics – Covid-19 and AIDS, Part II”**](/catalog/cpb-aacip-c995daedafa) **(Media for the Public Good, June 1, 2020)**
 
