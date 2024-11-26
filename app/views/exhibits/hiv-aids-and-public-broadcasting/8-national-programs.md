@@ -267,11 +267,11 @@ A documentary about a Mormon family grappling with two HIV-positive parents.
 
 [***State of Denial***](https://www.kanopy.com/en/product/139751) **(dir. Elaine Epstein, 2003; broadcast on *POV*, September 16, 2003)**
 
-Examines the HIV/AIDS epidemic in South Africa, which had the highest number of people living with HIV in the world. See [Public Broadcasting Covers the HIV/Aids Pandemic in Africa](/exhibits/hiv-aids-and-public-broadcasting/5-public-broadcasting-covers-the-hiv-aids-pandemic-in-africa).
+Examines the HIV/AIDS epidemic in South Africa, which had the highest number of people living with HIV in the world. See [Public Broadcasting Covers the HIV/Aids Pandemic in Africa](/exhibits/hiv-aids-and-public-broadcasting/7-public-broadcasting-covers-the-hiv-aids-pandemic-in-africa).
 
 A *POV* interview about the film with director Elaine Epstein is [available online](https://americanarchive.org/catalog/cpb-aacip-a7c4fcd4f61).
 
-[***Memories of a Penitent Heart***](https://web-windows.tubitv.com/movies/595668/memories-of-a-penitent-heart) **(dir. Cecilia Aldarondo, 2016; broadcast on *POV*, July 31, 2017)** 
+***Memories of a Penitent Heart*** **(dir. Cecilia Aldarondo, 2016; broadcast on *POV*, July 31, 2017)** 
 
 Cecilia Aldarondo decided to pursue the project out of curiosity about her uncle, who died of AIDS when she was young. She tracked down his partner and, upon finding and interviewing him, discovered the homophobia they experienced from Aldarondo’s religious family. She also looked for answers regarding her uncle’s complex choice to repent for his homosexuality before his death. Much of the film was comprised of interviews as well as Aldarondo’s narration as she processed the information that surfaced throughout the film.
 
@@ -389,7 +389,7 @@ Advocacy groups urge Congress to better understand the Latino HIV/AIDS crisis. T
 
 [**“Closing the Gap to Fight AIDS”**](/catalog/cpb-aacip-9654c5f244e) **(Radio Bilingüe, August 10, 2010)**
 
-African American and Latino men and women are more likely to be infected with HIV and more likely to die early from AIDS than whites. For the first time ever, the White House recently released a national strategy on HIV/AIDS in the U.S., which calls to reduce these disparities and others that affect gay and bisexual men, as well as decreasing new HIV infections and connecting more people to care sooner after they test positive. Guests: Daniel Leyva, Director of Prevention Services, The Latino Commission on AIDS, New York, NY, [www.latinoaids.org](www.latinoaids.org); James Albino, Senior Program Manager, White House Office of National AIDS Policy, Washington, DC; Jose Vargas Bidot, Director, Community Initiative, San Juan, Puerto Rico, www.iniciativacomunitaria.org; Julie Turkewitz, Advocacy Communications Associate, Housing Works, New York, NY, www.housingworks.org. 
+African American and Latino men and women are more likely to be infected with HIV and more likely to die early from AIDS than whites. For the first time ever, the White House recently released a national strategy on HIV/AIDS in the U.S., which calls to reduce these disparities and others that affect gay and bisexual men, as well as decreasing new HIV infections and connecting more people to care sooner after they test positive. Guests: Daniel Leyva, Director of Prevention Services, The Latino Commission on AIDS, New York, NY, www.latinoaids.org; James Albino, Senior Program Manager, White House Office of National AIDS Policy, Washington, DC; Jose Vargas Bidot, Director, Community Initiative, San Juan, Puerto Rico, www.iniciativacomunitaria.org; Julie Turkewitz, Advocacy Communications Associate, Housing Works, New York, NY, www.housingworks.org. 
 
 [**“Affordable AIDS Care”**](/catalog/cpb-aacip-3f52a5514e4) **(Radio Bilingüe, November 30, 2011)**
 
