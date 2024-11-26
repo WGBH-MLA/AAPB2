@@ -10,13 +10,13 @@
 
 ### Introduction
 
-Although activism had been growing since the early 1980s, coverage of activist demonstrations increased significantly in 1989. The AIDS Coalition to Unleash Power (ACT UP), the most prominent AIDS activist group, was founded in 1987. ACT UP engaged in direct action, meaning that its protests creatively represented particular issues faced by people with AIDS and provided specific solutions to those problems. Direct action was also a strategy used during the Black Civil Rights Movement; similar to [sit-ins](/catalog/cpb-aacip_28-br8mc8rr6z), ACT UP’s die-ins involved the dramatized performance of a problem and demonstrated viable solutions. Sarah Schulman, a journalist and author who was involved in ACT UP during this period, wrote,
+Although activism had been growing since the early 1980s, coverage of activist demonstrations increased significantly in 1989. The AIDS Coalition to Unleash Power (ACT UP), the most prominent AIDS activist group, was founded in 1987. ACT UP engaged in direct action, meaning that its protests creatively represented particular issues faced by people with AIDS and provided specific solutions to those problems. Direct action was also a strategy used during the Black Civil Rights Movement; similar to [sit-ins](/catalog/cpb-aacip-28-br8mc8rr6z), ACT UP’s die-ins involved the dramatized performance of a problem and demonstrated viable solutions. Sarah Schulman, a journalist and author who was involved in ACT UP during this period, wrote,
 
 > In this moment of collision, the message must be impossible to avoid. It can be funny, but it has to be attention getting; it needs to be insightful. It has to be visually arresting; it cannot be a cliché. In that brief moment of stepping into the sight line of the powerful, shunned people use direct action to be understood. And they are making two things clear: (1) the specific content of their demand for change, and (2) that they will never stop fighting for their survival.[<sup>69</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#106)
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">The MacNeil/Lehrer NewsHour, June 22, 1990.</caption>
-<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_507-3b5w669q4c" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/lehrer-news-hr-azt.png" class="big-image" alt="The MacNeil/Lehrer NewsHour, June 22, 1990"/></a></td></tr>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-3b5w669q4c" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/lehrer-news-hr-azt.png" class="big-image" alt="The MacNeil/Lehrer NewsHour, June 22, 1990"/></a></td></tr>
 </table>
 
 Commercial network television and public broadcasting coverage of their demonstrations played a significant role in communicating ACT UP’s messages and demands to the general public and to specific organizations. In 1990, *The MacNeil/Lehrer NewsHour* dedicated [a segment to examining the success and strategies of ACT UP](/catalog/cpb-aacip-507-3b5w669q4c?start=2340.41&end=2863.44). The segment included interviews with ACT UP founder Larry Kramer, ACT UPer Jorge Cortinas, AIDS Quilt creator Cleve Jones, Dr. Mervyn Silverman of amfAR, and Dr. Paul Volderbing, among others. John Roszak of KQED credited ACT UP with achieving the following successes: lowering the price of HIV drug AZT twice; speeding the release of Ganciclovir, which was used to prevent blindness in AIDS patients; and the invention and adoption of parallel tracking, which allowed people with AIDS to be prescribed new treatments while they were being tested.  The segment included footage from several ACT UP demonstrations, such as Stop the Church, a demonstration at St. Patrick’s Cathedral in New York City, which will be discussed more fully below; a protest against travel bans on people with HIV at the Sixth International AIDS Conference; and a human blockade of the Golden Gate Bridge in San Francisco. 
@@ -25,7 +25,7 @@ By broadcasting footage from direct action demonstrations, the programs included
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">The MacNeil/Lehrer NewsHour, June 22, 1990.</caption>
-<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_507-3b5w669q4c" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/lehrer-news-hr-ACTUP.png" class="big-image" alt="The MacNeil/Lehrer NewsHour, June 22, 1990"/></a></td></tr>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-3b5w669q4c" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/lehrer-news-hr-ACTUP.png" class="big-image" alt="The MacNeil/Lehrer NewsHour, June 22, 1990"/></a></td></tr>
 </table>
 
 Notable items in this section include *Stop the Church: Issues and Outrage*, a KCET program about the controversy surrounding PBS’s cancellation of *Stop the Church*; an *AIDS Quarterly* segment on the experimental drug Compound Q; and a *MacNeil/Lehrer NewsHour* episode that was disrupted by ACT UP.
@@ -40,7 +40,7 @@ On October 11, 1988, ACT UP organized a demonstration at the FDA to demand the s
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">The AIDS Quarterly, “The Trial of Compound Q; Money and Morals,” (WGBH, Boston, January 31, 1990).</caption>
-<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_15-22v42p83" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour-FDA.jpg" class="big-image" alt="The AIDS Quarterly, “The Trial of Compound Q; Money and Morals,” (WGBH, Boston, January 31, 1990)."/></a></td></tr>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-15-22v42p83" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour-FDA.jpg" class="big-image" alt="The AIDS Quarterly, “The Trial of Compound Q; Money and Morals,” (WGBH, Boston, January 31, 1990)."/></a></td></tr>
 </table>
 
 In 1990, ACT UP similarly demanded an increase in HIV/AIDS treatments and better representation of women and people of color in drug clinical trials at the National Institute of Health. In [coverage from the *MacNeil/Lehrer Newshour*](/catalog/cpb-aacip-507-pr7mp4wc9s?start=448.74&end=470.65), activists can be seen wrapped in “red tape” at the Bethesda campus. 
@@ -98,7 +98,7 @@ KCET was both praised and criticized for the program. George Weigel, president o
 
 On January 22, 1991, ACT UP staged the Day of Desperation, a series of protests that aimed to bring attention to the desperation of people with AIDS. ACT UP members argued that media attention about the Gulf War, which began on January 16, 1991, was “accompanied by manufactured anti-Arab sentiment and generalized fear” and was “a monumental distraction from the real problems of the AIDS crisis, a huge waste of money, and an exploitative use of racism to justify a war."[<sup>86</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#86) As part of the Day of Desperation, several groups of ACT UPers successfully disrupted two news programs: the CBS *Evening News* and *The MacNeil/Lehrer NewsHour*. On CBS, a [protestor was shown chanting “Fight AIDS, not Arabs”](https://www.youtube.com/watch?v=Im_VektDXqM) before the network cut to a commercial. 
 
-Five protestors entered the NewsHour’s WNET studio in New York in the middle of [the telecast, which focused on the Gulf War](/catalog/cpb-aacip_507-319s17t76g). At that time, co-anchor Robert MacNeil was off-camera, so the protest was not broadcast. Instead, co-anchor Jim Lehrer in the NewsHour’s WETA studio in Washington prolonged his interview and [let viewers know that demonstrators had infiltrated the New York studio](/catalog/cpb-aacip-507-319s17t76g?start=1370.8&end=1572.71). Several ACT UPers handcuffed themselves to MacNeil’s desk. In an interview for the ACT UP Oral History Project, Ann Northrop, who was involved in the CBS disruption, said that MacNeil talked to the activists for a while before they were removed by police.[<sup>87</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#87) After they were removed, MacNeil went back on air and explained the disruption: 
+Five protestors entered the NewsHour’s WNET studio in New York in the middle of [the telecast, which focused on the Gulf War](/catalog/cpb-aacip-507-319s17t76g). At that time, co-anchor Robert MacNeil was off-camera, so the protest was not broadcast. Instead, co-anchor Jim Lehrer in the NewsHour’s WETA studio in Washington prolonged his interview and [let viewers know that demonstrators had infiltrated the New York studio](/catalog/cpb-aacip-507-319s17t76g?start=1370.8&end=1572.71). Several ACT UPers handcuffed themselves to MacNeil’s desk. In an interview for the ACT UP Oral History Project, Ann Northrop, who was involved in the CBS disruption, said that MacNeil talked to the activists for a while before they were removed by police.[<sup>87</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#87) After they were removed, MacNeil went back on air and explained the disruption: 
 
 > It was a group of people who called themselves ‘non-violent demonstrators’ from the ACT UP AIDS group, who complain that we and the media are spending too much time and attention on the war in the Middle East, which they say will never kill as many people as are dying of AIDS. And I told them that this program has spent a lot of time on the AIDS matter and will continue to be interested in it, and we will be covering it more in the future.
 
@@ -119,15 +119,15 @@ Despite their failure to appear onscreen, the protestors successfully communicat
 
 ## Records
 
-- [](/catalog/cpb-aacip_28-br8mc8rr6z)
-- [](/catalog/cpb-aacip_507-3b5w669q4c)
+- [](/catalog/cpb-aacip-28-br8mc8rr6z)
+- [](/catalog/cpb-aacip-507-3b5w669q4c)
 - [](/catalog/cpb-aacip-15-61rfjm96)
 - [](/catalog/cpb-aacip-507-0p0wp9tm5k)
 - [](/catalog/cpb-aacip-507-pr7mp4wc9s)
 - [](/catalog/cpb-aacip-43-56932bhs)
 - [](/catalog/cpb-aacip-526-8k74t6g61f)
 - [](/catalog/cpb-aacip-526-8k74t6g61f)
-- [](/catalog/cpb-aacip_507-319s17t76g)
+- [](/catalog/cpb-aacip-507-319s17t76g)
 - [](/catalog/cpb-aacip-507-319s17t76g)
 
 
