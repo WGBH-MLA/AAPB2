@@ -1,6 +1,6 @@
 Rails.application.configure do
   # copied from production.rb, we just need to know if this is the demo box, but config is the same
-  
+
   # Settings specified here will take precedence over those in config/application.rb.
 
   # Code is not reloaded between requests.
