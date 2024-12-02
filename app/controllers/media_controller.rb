@@ -6,7 +6,8 @@ class MediaController < ApplicationController
 
   def show
     if can?(:access_media_url, pbcore)
-      # TODO wrap in conditional after testing
+      # TODO: wrap in conditional specific to CORS-allowed requests once confirmed
+      # that the headers are correctly being set.
       allow_cors!
       redirect_to media_url
     else

@@ -6,7 +6,7 @@ class User
   DARTMOUTH_HOST_RE = /^(.+\.)?meptest\.dartmouth\.edu$/
   DARTMOUTH_HOST_2_RE = /^(.+\.)?pub\.dartmouth\.edu$/
   GITHUB_IO = /^(.+\.)?github\.io$/
-  AVIARY_PLATFORM = /^(.+\.)?iiif\.aviaryplatform\.com$/
+  AVIARY_PLATFORM = /^(.+)?iiif\.aviaryplatform\.com$/
   POPUP_HOST_RE = /^(.+\.)?popuparchive\.com$/
   AAPB_HOST_RE = /^(.+\.)?americanarchive\.org$/
   AWS_HOST_RE = /^(.+\.)?wgbh-mla\.org$/
