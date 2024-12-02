@@ -50,6 +50,7 @@ class MediaController < ApplicationController
   end
 
   def allow_cors!
+    Rails.logger.info("Allowing CORS access to media content.")
     headers['Access-Control-Allow-Origin'] = '*'
     headers['Access-Control-Allow-Methods'] = 'GET, OPTIONS'
     headers['Access-Control-Request-Method'] = '*'
