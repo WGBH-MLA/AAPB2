@@ -166,7 +166,7 @@ New Jersey has the fifth largest AIDS population in the country.
 
 **[*Mountain News & World Report*, News Segment on AIDS Education](/catalog/cpb-aacip-138-881jx2hv) (Appalshop, Whitesburg, KY, date unknown)**
 
-#### Next: [Epilogue](/exhibits/hiv-aids-and-public-broadcasting/epilogue.md)
+#### Next: [Epilogue](/exhibits/hiv-aids-and-public-broadcasting/10-epilogue.md)
 
 ## Resources
 
