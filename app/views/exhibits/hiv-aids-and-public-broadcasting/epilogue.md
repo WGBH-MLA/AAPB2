@@ -8,8 +8,6 @@
 
 ## Main
 
-### Introduction
-
 The HIV/AIDS epidemic is not over. One million people in the U.S. are currently living with HIV, and almost half of those living with HIV are Black. Stigma associated with HIV discourages testing, which has the potential to save lives, and PrEP is not always accessible to those who need it. People with HIV continue to experience discrimination, sometimes even in healthcare spaces.  Despite consistent and clear CDC guidance that HIV cannot be spread through casual contact, many Americans are still uncomfortable sharing a living space with someone who is HIV positive.[<sup>121</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#121)
 
 Since the 1980s, more than 300,000 gay and bisexual men have died of AIDS in the U.S.[<sup>122</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#122) A generation of gay men was intimately affected by the epidemic; nearly half of gay men older than 35 have lost someone close to them to AIDS.[<sup>123</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#123) The anger, sadness, and grief created by the epidemic has been poured into countless memorial projects and artistic expressions, like film, poetry, and visual art. Some of these artworks, like Marlon Riggs’s [Tongues Untied](https://americanarchive.org/catalog/cpb-aacip-50c989be918) and Robert Hilferty’s [Stop the Church](https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f?start=400.69&end=1779.12), are included in this exhibit. 
