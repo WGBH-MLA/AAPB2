@@ -119,7 +119,6 @@ Despite their failure to appear onscreen, the protestors successfully communicat
 
 ## Records
 
-- [](/catalog/cpb-aacip-28-br8mc8rr6z)
 - [](/catalog/cpb-aacip-507-3b5w669q4c)
 - [](/catalog/cpb-aacip-15-61rfjm96)
 - [](/catalog/cpb-aacip-507-0p0wp9tm5k)
