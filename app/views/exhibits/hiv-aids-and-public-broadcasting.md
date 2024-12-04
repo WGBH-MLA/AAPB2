@@ -18,10 +18,10 @@ A special thank you to Fabio Toblini, who granted the AAPB permission to add act
 
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Dinnenyheadshot.png"/>
   <a class="name">Elizabeth Dinneny</a>
-  <a class="title">English PhD candidate at the University of Maryland</a>
+  <a class="title">2022 Library of Congress Junior Fellow and English PhD candidate at the University of Maryland</a>
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Headshot-Sonia.jpg"/>
   <a class="name">Sonia Prasad</a>
-  <a class="title">Williams College graduate and intern in the 2022 Library of Congress Archives, History, and Heritage Advanced Internship (AHHA) program</a>
+  <a class="title">“Intern,2022 Library of Congress Archives, History, and Heritage Advanced Internship (AHHA) programand graduate of Williams College</a>
   
 ## Resources
 
