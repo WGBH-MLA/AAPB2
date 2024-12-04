@@ -238,22 +238,22 @@
 
 <a name=”118”></a><sup>118</sup> “With new infections 1 million higher than the 2020 target, UNAIDS and partners convene emergency meeting on HIV prevention,” UNAIDS, https://www.unaids.org/en/resources/presscentre/pressreleaseandstatementarchive/2022/october/20221010_stop-new-infections.
 
-<a name=”119”></a><sup>119</sup> Ashley Kirzinger, Lunna Lopes, Bryan Wu, and Mollyanne Brodie, “KFF Health Tracking Poll – March 2019: Public Opinion on the Domestic HIV Epidemic, Affordable Care Act, and Medicare-for-all,” *Kaiser Family Foundation*,  March 26, 2019, https://www.kff.org/health-reform/poll-finding/kff-health-tracking-poll-march-2019/. 
+<a name=”119”></a><sup>126</sup> Stephen Tropiano, “The Time of Our Lives: In the Life – America’s LGBTQ News Magazine,” UCLA Library, Film & Television Archive, https://www.cinema.ucla.edu/collections/inthelife/history/time-of-our-lives. 
 
-<a name=”120”></a><sup>120</sup> Centers for Disease Control, “HIV Among Gay and Bisexual Men,” https://stacks.cdc.gov/view/cdc_49807_DS1.pdf.
+<a name=”120”></a><sup>127</sup> B. J. Bullert, *Public Television*, 94.
 
-<a name=”121”></a><sup>121</sup> Liz Hamel, Jamie Firth, Tina Hoff, Jennifer Kates, Sarah Levine, and Lindsey Dawson, “HIV/AIDS in the Lives of Gay and Bisexual Men in the United States,” *Kaiser Family Foundation*, September 25, 2014, https://www.kff.org/hivaids/report/hivaids-in-the-lives-of-gay-and-bisexual-men-in-the-united-states/. 
+<a name=”121”></a><sup>119</sup> Ashley Kirzinger, Lunna Lopes, Bryan Wu, and Mollyanne Brodie, “KFF Health Tracking Poll – March 2019: Public Opinion on the Domestic HIV Epidemic, Affordable Care Act, and Medicare-for-all,” *Kaiser Family Foundation*,  March 26, 2019, https://www.kff.org/health-reform/poll-finding/kff-health-tracking-poll-march-2019/. 
 
-<a name=”122”></a><sup>122</sup> Francisco Illanes-Álvarez, Denisse Márquez-Ruiz, Mercedes Márquez-Coello, Sara Cuesta-Sancho, José Antonio Girón-González, “Similarities and Differences between HIV and SARS-CoV-2,” *International Journal of Medical Sciences*, vol. 18, no. 3 (2021), 849.
+<a name=”122”></a><sup>120</sup> Centers for Disease Control, “HIV Among Gay and Bisexual Men,” https://stacks.cdc.gov/view/cdc_49807_DS1.pdf.
 
-<a name=”123”></a><sup>123</sup> “HIV/AIDS: A Minority Health Issue,” *The Medical Clinics of North America*, vol. 89 (2005), 900. 
+<a name=”123”></a><sup>121</sup> Liz Hamel, Jamie Firth, Tina Hoff, Jennifer Kates, Sarah Levine, and Lindsey Dawson, “HIV/AIDS in the Lives of Gay and Bisexual Men in the United States,” *Kaiser Family Foundation*, September 25, 2014, https://www.kff.org/hivaids/report/hivaids-in-the-lives-of-gay-and-bisexual-men-in-the-united-states/. 
 
-<a name=”124”></a><sup>124</sup> Timothy Bella, “Texas AG Says He’d Defend Sodomy Law if Supreme Court Revisits Ruling,” *Washington Post*, June 29, 2022., https://www.washingtonpost.com/politics/2022/06/29/texas-sodomy-supreme-court-lawrence-paxton-lgbtq/. 
+<a name=”124”></a><sup>122</sup> Francisco Illanes-Álvarez, Denisse Márquez-Ruiz, Mercedes Márquez-Coello, Sara Cuesta-Sancho, José Antonio Girón-González, “Similarities and Differences between HIV and SARS-CoV-2,” *International Journal of Medical Sciences*, vol. 18, no. 3 (2021), 849.
 
-<a name=”125”></a><sup>125</sup> Rachel Treisman, “As Monkeypox Spreads, Know the Difference between Warning and Stigmatizing People,” *NPR*, July 26, 2022, https://www.npr.org/2022/07/26/1113713684/monkeypox-stigma-gay-community. 
+<a name=”125”></a><sup>123</sup> “HIV/AIDS: A Minority Health Issue,” *The Medical Clinics of North America*, vol. 89 (2005), 900. 
 
-<a name=”126”></a><sup>126</sup> Stephen Tropiano, “The Time of Our Lives: In the Life – America’s LGBTQ News Magazine,” UCLA Library, Film & Television Archive, https://www.cinema.ucla.edu/collections/inthelife/history/time-of-our-lives. 
+<a name=”126”></a><sup>124</sup> Timothy Bella, “Texas AG Says He’d Defend Sodomy Law if Supreme Court Revisits Ruling,” *Washington Post*, June 29, 2022., https://www.washingtonpost.com/politics/2022/06/29/texas-sodomy-supreme-court-lawrence-paxton-lgbtq/. 
 
-<a name=”127”></a><sup>127</sup> B. J. Bullert, *Public Television*, 94.
+<a name=”127”></a><sup>125</sup> Rachel Treisman, “As Monkeypox Spreads, Know the Difference between Warning and Stigmatizing People,” *NPR*, July 26, 2022, https://www.npr.org/2022/07/26/1113713684/monkeypox-stigma-gay-community. 
 
 ## Main
