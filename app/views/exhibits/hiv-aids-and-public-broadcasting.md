@@ -21,7 +21,7 @@ A special thank you to Fabio Toblini, who granted the AAPB permission to add act
   <a class="title">2022 Library of Congress Junior Fellow and English PhD candidate at the University of Maryland</a>
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Headshot-Sonia.jpg"/>
   <a class="name">Sonia Prasad</a>
-  <a class="title">“Intern,2022 Library of Congress Archives, History, and Heritage Advanced Internship (AHHA) programand graduate of Williams College</a>
+  <a class="title">Intern, 2022 Library of Congress Archives, History, and Heritage Advanced Internship (AHHA) program and graduate of Williams College</a>
   
 ## Resources
 
