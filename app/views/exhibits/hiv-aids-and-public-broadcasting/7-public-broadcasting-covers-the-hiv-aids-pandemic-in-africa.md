@@ -223,8 +223,6 @@ The materials featured in this exhibit offer a window into public broadcastingâ€
 
 ## Records
 
-- [](/catalog/cpb-aacip-507-st7dr2q44f)
-- [](/catalog/cpb-aacip-507-3x83j39m58)
 - [](/catalog/cpb-aacip-507-m901z42m6b)
 - [](/catalog/cpb-aacip-507-2j6833nh7x)
 - [](/catalog/cpb-aacip-80-53jwthmv)
