@@ -8,7 +8,7 @@
 
 ## Main
 
-*Frontline*'s 1986 program “AIDS: A National Inquiry,” examined in [a previous section of this exhibit](/exhibits/hiv-aids-and-public-broadcasting/3-1986-1988-the-aids-special-program), was one of the first of many approaches to the epidemic produced for national distribution. While some of these materials are not available in the AAPB Online Reading Room, many can be accessed on-site at the Library of Congress and at GBH, and others are available online elsewhere. Listings for episodes of The AIDS Quarterly and The Health Quarterly can be found in the exhibit section [1989-1994: Into “the Second Decade”](/exhibits/hiv-aids-and-public-broadcasting/4-1989-1994-into-the-second-decade).
+*Frontline*'s 1986 program “AIDS: A National Inquiry,” examined in [a previous section of this exhibit](/exhibits/hiv-aids-and-public-broadcasting/3-1986-1988-the-aids-special-program), was one of the first of many approaches to the epidemic produced for national distribution. While some of these materials are not available in the AAPB Online Reading Room, many can be accessed on-site at the Library of Congress and at GBH, and others are available online elsewhere. Listings for episodes of *The AIDS Quarterly* and *The Health Quarterly* can be found in the exhibit section [1989-1994: Into “the Second Decade”](/exhibits/hiv-aids-and-public-broadcasting/4-1989-1994-into-the-second-decade).
 
 Four nationally distributed public and local community radio series in the AAPB collection have broadcast more than fifty programs on HIV/AIDS: *In Black America* from KUT Radio in Austin, Texas; the Spanish-language public radio series *Línea Abierta*, broadcast on the Radio Bilingüe network; *This Way Out*, an internationally distributed weekly LGBTQ radio program; and *Outcasting*, syndicated on Pacifica and PRX.
 
@@ -215,7 +215,7 @@ Features former Surgeon General Dr. C. Everett Koop, who wrote a presidential re
 
 Analyzes recent scientific breakthroughs and challenges in HIV/AIDS treatment and prevention.
 
-**“Ending HIB in America” (WGBH, Boston, October 5, 2022)** [**companion website**](https://www.pbs.org/wgbh/nova/video/ending-hiv-in-america) 
+**“Ending HIV in America” (WGBH, Boston, October 5, 2022)** [**companion website**](https://www.pbs.org/wgbh/nova/video/ending-hiv-in-america) 
 
 Science has made extraordinary progress against HIV. Can innovative drugs and therapies finally end it?
 
@@ -223,7 +223,7 @@ Science has made extraordinary progress against HIV. Can innovative drugs and th
 
 Since 1988, PBS has aired more than 500 independent nonfiction films as part of its series POV, an abbreviation used by filmmakers for “point of view.” The series has provided intimate views of various areas of society, including nine documentaries about the lived experiences of people with HIV/AIDS. POV’s goal is “to provide a platform for voices not present elsewhere on television and in this society.”  In addition to documenting the disease itself, the films explored issues of race, poverty, homophobia, faith, mortality, and grief, and they helped humanize those affected by AIDS.  
 
-Though most of the films about AIDS followed subjects in the United States, one documentary, *State of Denial* (dir. Elaine Epstein, 2003), covered the AIDS pandemic in South Africa and is discussed in a the exhibit section [“Public Broadcasting Covers the HIV/AIDS Pandemic in Africa”](/exhibits/hiv-aids-and-public-broadcasting/7-public-broadcasting-covers-the-hiv-aids-pandemic-in-africa). 
+Though most of the films about AIDS followed subjects in the United States, one documentary, *State of Denial* (dir. Elaine Epstein, 2003), covered the AIDS pandemic in South Africa and is discussed in the exhibit section [“Public Broadcasting Covers the HIV/AIDS Pandemic in Africa”](/exhibits/hiv-aids-and-public-broadcasting/7-public-broadcasting-covers-the-hiv-aids-pandemic-in-africa). 
 
 [***Living with AIDS***](/catalog/cpb-aacip-7d3448f8cd2) **(dir. Tina DiFeliciantonio, 1987; broadcast on *POV*, July 19, 1988)**
 
@@ -462,7 +462,7 @@ Segments in this episode include NewsWrap / Sandy Dwyer, Manuel Nunez, Mary Van 
 
 Segments in this episode include Newswrap / Jim Schroeder, Lucia Chappelle, Greg Gordon, Mary Van Clay (6:45)| Anti-discrimination measure may pass in Pittsburgh / Abe Feldman (4:15)| Western Union charged with anti-gay employment discrimination : the legal counter-argument / Karin Schwartz (2:55)| $600,000,000 Comprehensive AIDS Resources Emergency Act of 1990 : Ted Kennedy and Orrin Hatch / Mark Bevis (5:35)| Out-Write : gay and lesbian writers meet in San Francisco and talk about AIDS / Mike Alcalay (6:55).
 
-[***This Way Out*, unnumbered***](https://americanarchive.org/catalog/cpb-aacip-38877f2c591) **(This Way Out Radio, April 23, 1990)** 
+[***This Way Out*, unnumbered**](https://americanarchive.org/catalog/cpb-aacip-38877f2c591) **(This Way Out Radio, April 23, 1990)** 
 
 Segments of this episode include  Newswrap (8:50)| Tongues Untied: Marlon Riggs / Mike Alcalay| Randy Shilts interview promo| Judy Grahn conclusion from Gay and Lesbian writer’s conference OutWrite.
 
@@ -476,7 +476,7 @@ Segments in this episode include an interview with AIDS activist Tomás Fábrega
 
 [***This Way Out*, unnumbered**](https://americanarchive.org/catalog/cpb-aacip-520acec91fa) **(This Way Out Radio, July 12, 1993)** 
 
-Segments in this episode include reports about an International AIDS Conference debate over the benefits of AZT that has forced the National Institutes of Health to re-evaluate the world’s most prescribed AIDS drug; and an ad-hoc National AIDS Commission report that included a strong challenge to the Clinton administration.”
+Segments in this episode include reports about an International AIDS Conference debate over the benefits of AZT that has forced the National Institutes of Health to re-evaluate the world’s most prescribed AIDS drug; and an ad-hoc National AIDS Commission report that included a strong challenge to the Clinton administration.
 
 ### *OutCasting*
 
