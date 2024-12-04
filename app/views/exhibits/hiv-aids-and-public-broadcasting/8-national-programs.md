@@ -472,7 +472,7 @@ Segments from this episode include Newswrap / Greg Gordon, Mary Van Clay, Judith
 
 [***This Way Out*, unnumbered**](https://americanarchive.org/catalog/cpb-aacip-4aa02995d04) **(This Way Out Radio, August 10, 1992)** 
 
-Segments in this episode include an interview with AIDS activist Tomás Fábregas.”
+Segments in this episode include an interview with AIDS activist Tomás Fábregas.
 
 [***This Way Out*, unnumbered**](https://americanarchive.org/catalog/cpb-aacip-520acec91fa) **(This Way Out Radio, July 12, 1993)** 
 
