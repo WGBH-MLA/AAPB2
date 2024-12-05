@@ -110,7 +110,7 @@ New Jersey has the fifth largest AIDS population in the country.
 
 **[*Images/Imagenes*, “Hispanics & AIDS”](/catalog/cpb-aacip-259-5717p64c) (New Jersey Network, April 6, 1994)** 
 
-**[*Open Air, New England*, “The Forgotten Mothers and [Children of the AIDS Epidemic”](/catalog/cpb-aacip-526-2f7jq0ts7t) (Connecticut Public Radio, 1994)**
+**[*Open Air, New England*, “The Forgotten Mothers and Children of the AIDS Epidemic”](/catalog/cpb-aacip-526-2f7jq0ts7t) (Connecticut Public Radio, 1994)**
 
 **[“On the Path to an AIDS Vaccine”](/catalog/cpb-aacip-514-3j3902063r) (Commonwealth Club of California, December 1, 1998)**
 
@@ -132,7 +132,7 @@ New Jersey has the fifth largest AIDS population in the country.
 
 **[World AIDS Day](/catalog/cpb-aacip-514-8911n7zf90) (Commonwealth Club of California, December 1, 2006)** 
 
-**[*New Mexico in Focus*, “AIDS: NMAS](/catalog/cpb-aacip-12897ca55f0) [(New Mexico AIDS Services) Participants - Sabrina”](/catalog/cpb-aacip-51949cb2e23) (KNME-TV, Albuquerque, NM, 2006)**
+**[*New Mexico in Focus*, “AIDS: NMAS (New Mexico AIDS Services) Participants - Sabrina”](/catalog/cpb-aacip-12897ca55f0) (KNME-TV, Albuquerque, NM, 2006)**
 
 **[*New Mexico in Focus*, “AIDS: NMAS](/catalog/cpb-aacip-12897ca55f0) [(New Mexico AIDS Services) Participants - Christine and Gloria"](/catalog/cpb-aacip-51949cb2e23)(KNME-TV, Albuquerque, NM, 2006)**
 
@@ -165,6 +165,8 @@ New Jersey has the fifth largest AIDS population in the country.
 **[HIV Interviews](/catalog/cpb-aacip-389b480d322) (KMUW, Wichita, KS, date unknown)**
 
 **[*Mountain News & World Report*, News Segment on AIDS Education](/catalog/cpb-aacip-138-881jx2hv) (Appalshop, Whitesburg, KY, date unknown)**
+
+#### Next: [Epilogue](/exhibits/hiv-aids-and-public-broadcasting/10-epilogue.md)
 
 ## Resources
 

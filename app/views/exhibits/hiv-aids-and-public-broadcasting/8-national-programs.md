@@ -8,7 +8,7 @@
 
 ## Main
 
-*Frontline*'s 1986 program “AIDS: A National Inquiry,” examined in [a previous section of this exhibit](/exhibits/hiv-aids-and-public-broadcasting/3-1986-1988-the-aids-special-program), was one of the first of many approaches to the epidemic produced for national distribution. While some of these materials are not available in the AAPB Online Reading Room, many can be accessed on-site at the Library of Congress and at GBH, and others are available online elsewhere. Listings for episodes of The AIDS Quarterly and The Health Quarterly can be found in the exhibit section [1989-1994: Into “the Second Decade”](/exhibits/hiv-aids-and-public-broadcasting/4-1989-1994-into-the-second-decade).
+*Frontline*'s 1986 program “AIDS: A National Inquiry,” examined in [a previous section of this exhibit](/exhibits/hiv-aids-and-public-broadcasting/3-1986-1988-the-aids-special-program), was one of the first of many approaches to the epidemic produced for national distribution. While some of these materials are not available in the AAPB Online Reading Room, many can be accessed on-site at the Library of Congress and at GBH, and others are available online elsewhere. Listings for episodes of *The AIDS Quarterly* and *The Health Quarterly* can be found in the exhibit section [1989-1994: Into “the Second Decade”](/exhibits/hiv-aids-and-public-broadcasting/4-1989-1994-into-the-second-decade).
 
 Four nationally distributed public and local community radio series in the AAPB collection have broadcast more than fifty programs on HIV/AIDS: *In Black America* from KUT Radio in Austin, Texas; the Spanish-language public radio series *Línea Abierta*, broadcast on the Radio Bilingüe network; *This Way Out*, an internationally distributed weekly LGBTQ radio program; and *Outcasting*, syndicated on Pacifica and PRX.
 
@@ -43,7 +43,7 @@ Examines how the AIDS epidemic disproportionately affects Black people in the Un
 ### [*In the Life*](/special_collections/ucla-inthelife)
 
 This monthly series of half-hour programs broadcast between 1992 and 2012, television’s first and longest-running LGBTQ+ news magazine, featured newsmagazine segments on a variety of topics including LGBTQ+ life, politics, arts, history, activism, health, religion, race, rights, and sports. The series was presented by WNYC until 1996 and by WNET after that. PBS did not distribute the series, but after an effort by series producers and staff to promote it to station managers throughout the U.S., by 2005, it was airing on 125 stations in 30 states. Regarding coverage by the series of the AIDS epidemic, media historian Stephen Tropiano writes:
-> One of the show’s most important and lasting contributions was its ongoing coverage of the HIV/AIDS, particularly when the media no longer considered the disease “front-page news.”  In December 1996, an episode entitled [“The State of AIDS”](/catalog/cpb-aacip-b3a9f15d7ba) featured segments on protease inhibitors, and profiles of AIDS activist Michelle Lopez and composer John Corigliano, whose “Symphony #1” was inspired by the AIDS crisis. Four years later, in recognition of World AIDS Day, [“AIDS is Still a Big Deal”](/catalog/cpb-aacip-afb5402a066) (Episode #1803) featured stories on high-risk behavior among HIV+ young gay men, discrimination in the workplace, and an on-camera discussion on the current state of the pandemic featuring Dr. Mathilde Krim, founding chairman of the American Foundation for AIDS Research (amFAR). In 2010, [“The Cost of Stigma”](/catalog/cpb-aacip-d945517440d) (Episode #2003) offered an in-depth look at how fear and misinformation are at the root of the criminalization of HIV transmission. These and the many other AIDS-related episodes and segments that aired throughout the show’s 20-year run served as a painful, yet much needed reminder that the AIDS crisis was far from over.[<sup>126</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#126)
+> One of the show’s most important and lasting contributions was its ongoing coverage of the HIV/AIDS, particularly when the media no longer considered the disease “front-page news.”  In December 1996, an episode entitled [“The State of AIDS”](/catalog/cpb-aacip-b3a9f15d7ba) featured segments on protease inhibitors, and profiles of AIDS activist Michelle Lopez and composer John Corigliano, whose “Symphony #1” was inspired by the AIDS crisis. Four years later, in recognition of World AIDS Day, [“AIDS is Still a Big Deal”](/catalog/cpb-aacip-afb5402a066) (Episode #1803) featured stories on high-risk behavior among HIV+ young gay men, discrimination in the workplace, and an on-camera discussion on the current state of the pandemic featuring Dr. Mathilde Krim, founding chairman of the American Foundation for AIDS Research (amFAR). In 2010, [“The Cost of Stigma”](/catalog/cpb-aacip-d945517440d) (Episode #2003) offered an in-depth look at how fear and misinformation are at the root of the criminalization of HIV transmission. These and the many other AIDS-related episodes and segments that aired throughout the show’s 20-year run served as a painful, yet much needed reminder that the AIDS crisis was far from over.[<sup>119</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#119)
 
 [**Episode 203; Season 1; “From Hollywood to Broadway”**](/catalog/cpb-aacip-b7cea452a98) **(In the Life Media, WNYC-TV, December 1992)**
 
@@ -215,7 +215,7 @@ Features former Surgeon General Dr. C. Everett Koop, who wrote a presidential re
 
 Analyzes recent scientific breakthroughs and challenges in HIV/AIDS treatment and prevention.
 
-**“Ending HIB in America” (WGBH, Boston, October 5, 2022)** [**companion website**](https://www.pbs.org/wgbh/nova/video/ending-hiv-in-america) 
+**“Ending HIV in America” (WGBH, Boston, October 5, 2022)** [**companion website**](https://www.pbs.org/wgbh/nova/video/ending-hiv-in-america) 
 
 Science has made extraordinary progress against HIV. Can innovative drugs and therapies finally end it?
 
@@ -223,7 +223,7 @@ Science has made extraordinary progress against HIV. Can innovative drugs and th
 
 Since 1988, PBS has aired more than 500 independent nonfiction films as part of its series POV, an abbreviation used by filmmakers for “point of view.” The series has provided intimate views of various areas of society, including nine documentaries about the lived experiences of people with HIV/AIDS. POV’s goal is “to provide a platform for voices not present elsewhere on television and in this society.”  In addition to documenting the disease itself, the films explored issues of race, poverty, homophobia, faith, mortality, and grief, and they helped humanize those affected by AIDS.  
 
-Though most of the films about AIDS followed subjects in the United States, one documentary, *State of Denial* (dir. Elaine Epstein, 2003), covered the AIDS pandemic in South Africa and is discussed in a the exhibit section [“Public Broadcasting Covers the HIV/AIDS Pandemic in Africa”](/exhibits/hiv-aids-and-public-broadcasting/7-public-broadcasting-covers-the-hiv-aids-pandemic-in-africa). 
+Though most of the films about AIDS followed subjects in the United States, one documentary, *State of Denial* (dir. Elaine Epstein, 2003), covered the AIDS pandemic in South Africa and is discussed in the exhibit section [“Public Broadcasting Covers the HIV/AIDS Pandemic in Africa”](/exhibits/hiv-aids-and-public-broadcasting/7-public-broadcasting-covers-the-hiv-aids-pandemic-in-africa). 
 
 [***Living with AIDS***](/catalog/cpb-aacip-7d3448f8cd2) **(dir. Tina DiFeliciantonio, 1987; broadcast on *POV*, July 19, 1988)**
 
@@ -237,7 +237,7 @@ Follows Todd Coleman, a 22-year-old gay man, and his caretakers during the last 
 
 [***Tongues Untied***](/catalog/cpb-aacip-50c989be918) **(dir. Marlon Riggs, 1989; broadcast on *POV*, July 16, 1991)**    
 
-Emmy Award-winning writer and director Marlon Riggs emphasized themes of Blackness, sexuality, and art in his work. In *Tongues Untied*, he used “dance, music, poetry to passionately tell his compelling story of searching for acceptance in a society with racist whites who stigmatize him for being black, and antigay blacks who stigmatize him for being gay,” B. J. Bullert, author of a study on documentaries airing on public television, has written.[<sup>127</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#127) *Tongues Untied* proved controversial for programmers and station managers, who had to weigh the risk of airing content considered obscene by some, against *POV*’s mission to deliver unorthodox views to the public. 
+Emmy Award-winning writer and director Marlon Riggs emphasized themes of Blackness, sexuality, and art in his work. In *Tongues Untied*, he used “dance, music, poetry to passionately tell his compelling story of searching for acceptance in a society with racist whites who stigmatize him for being black, and antigay blacks who stigmatize him for being gay,” B. J. Bullert, author of a study on documentaries airing on public television, has written.[<sup>120</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#120) *Tongues Untied* proved controversial for programmers and station managers, who had to weigh the risk of airing content considered obscene by some, against *POV*’s mission to deliver unorthodox views to the public. 
 
 A *POV* interview about the film with Marlon Riggs is [available online](/catalog/cpb-aacip-a7e52fb129e).
 
@@ -462,7 +462,7 @@ Segments in this episode include NewsWrap / Sandy Dwyer, Manuel Nunez, Mary Van 
 
 Segments in this episode include Newswrap / Jim Schroeder, Lucia Chappelle, Greg Gordon, Mary Van Clay (6:45)| Anti-discrimination measure may pass in Pittsburgh / Abe Feldman (4:15)| Western Union charged with anti-gay employment discrimination : the legal counter-argument / Karin Schwartz (2:55)| $600,000,000 Comprehensive AIDS Resources Emergency Act of 1990 : Ted Kennedy and Orrin Hatch / Mark Bevis (5:35)| Out-Write : gay and lesbian writers meet in San Francisco and talk about AIDS / Mike Alcalay (6:55).
 
-[***This Way Out*, unnumbered***](https://americanarchive.org/catalog/cpb-aacip-38877f2c591) **(This Way Out Radio, April 23, 1990)** 
+[***This Way Out*, unnumbered**](https://americanarchive.org/catalog/cpb-aacip-38877f2c591) **(This Way Out Radio, April 23, 1990)** 
 
 Segments of this episode include  Newswrap (8:50)| Tongues Untied: Marlon Riggs / Mike Alcalay| Randy Shilts interview promo| Judy Grahn conclusion from Gay and Lesbian writer’s conference OutWrite.
 
@@ -472,11 +472,11 @@ Segments from this episode include Newswrap / Greg Gordon, Mary Van Clay, Judith
 
 [***This Way Out*, unnumbered**](https://americanarchive.org/catalog/cpb-aacip-4aa02995d04) **(This Way Out Radio, August 10, 1992)** 
 
-Segments in this episode include an interview with AIDS activist Tomás Fábregas.”
+Segments in this episode include an interview with AIDS activist Tomás Fábregas.
 
 [***This Way Out*, unnumbered**](https://americanarchive.org/catalog/cpb-aacip-520acec91fa) **(This Way Out Radio, July 12, 1993)** 
 
-Segments in this episode include reports about an International AIDS Conference debate over the benefits of AZT that has forced the National Institutes of Health to re-evaluate the world’s most prescribed AIDS drug; and an ad-hoc National AIDS Commission report that included a strong challenge to the Clinton administration.”
+Segments in this episode include reports about an International AIDS Conference debate over the benefits of AZT that has forced the National Institutes of Health to re-evaluate the world’s most prescribed AIDS drug; and an ad-hoc National AIDS Commission report that included a strong challenge to the Clinton administration.
 
 ### *OutCasting*
 
