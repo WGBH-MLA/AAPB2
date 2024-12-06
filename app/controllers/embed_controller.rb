@@ -40,10 +40,12 @@ class EmbedController < CatalogController
       if @pbcore.proxy_start_time && params["proxy_start_time"].nil? && !media_start_time?(params)
         params["proxy_start_time"] = @pbcore.proxy_start_time
       end
-    end
 
-    response.headers.delete('X-Frame-Options')
-    response.headers['Content-Security-Policy'] = 'frame-ancestors https://ov.wgbh-mla.org http://localhost:4000 http://localhost:3000;'
+      response.headers.delete('X-Frame-Options')
+      response.headers['Content-Security-Policy'] = 'frame-ancestors https://ov.wgbh-mla.org http://localhost:4000 http://localhost:3000;'
+    else
+      render status: :unauthorized, json: { error: "Unauthorized" }
+    end
   end
 
   def video
