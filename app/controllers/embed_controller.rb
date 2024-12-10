@@ -40,7 +40,7 @@ class EmbedController < CatalogController
 
     response.headers.delete('X-Frame-Options')
     response.headers['Content-Security-Policy'] = 'frame-ancestors https://ov.wgbh-mla.org http://localhost:4000 http://localhost:3000;'
-    
+
     if can? :play, @pbcore
       # can? play because we're inside this block
       if @pbcore.proxy_start_time && params["proxy_start_time"].nil? && !media_start_time?(params)
@@ -67,6 +67,5 @@ class EmbedController < CatalogController
     else
       head :unauthorized
     end
-
   end
 end
