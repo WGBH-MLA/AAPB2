@@ -18,16 +18,18 @@ class EmbedController < CatalogController
     raise Blacklight::Exceptions::RecordNotFound unless @document
     xml = @document['xml']
     @pbcore = PBCorePresenter.new(xml)
+
+    response.headers.delete('X-Frame-Options')
     if can? :play_embedded, @pbcore
       # can? play because we're inside this block
       if @pbcore.proxy_start_time && params["proxy_start_time"].nil? && !media_start_time?(params)
         params["proxy_start_time"] = @pbcore.proxy_start_time
       end
+
+      render 'lite', layout: 'lite_embed'
+    else
+      head :unauthorized
     end
-
-    response.headers.delete('X-Frame-Options')
-
-    render 'lite', layout: 'lite_embed'
   end
 
   def openvault
@@ -35,15 +37,18 @@ class EmbedController < CatalogController
     raise Blacklight::Exceptions::RecordNotFound unless @document
     xml = @document['xml']
     @pbcore = PBCorePresenter.new(xml)
+
+    response.headers.delete('X-Frame-Options')
+    response.headers['Content-Security-Policy'] = 'frame-ancestors https://ov.wgbh-mla.org http://localhost:4000 http://localhost:3000;'
+
     if can? :play, @pbcore
       # can? play because we're inside this block
       if @pbcore.proxy_start_time && params["proxy_start_time"].nil? && !media_start_time?(params)
         params["proxy_start_time"] = @pbcore.proxy_start_time
       end
+    else
+      head :unauthorized
     end
-
-    response.headers.delete('X-Frame-Options')
-    response.headers['Content-Security-Policy'] = 'frame-ancestors https://ov.wgbh-mla.org http://localhost:4000 http://localhost:3000;'
   end
 
   def video
@@ -51,13 +56,16 @@ class EmbedController < CatalogController
     raise Blacklight::Exceptions::RecordNotFound unless @document
     xml = @document['xml']
     @pbcore = PBCorePresenter.new(xml)
+
+    response.headers.delete('X-Frame-Options')
+
     if can? :play, @pbcore
       # can? play because we're inside this block
       if @pbcore.proxy_start_time && params["proxy_start_time"].nil? && !media_start_time?(params)
         params["proxy_start_time"] = @pbcore.proxy_start_time
       end
+    else
+      head :unauthorized
     end
-
-    response.headers.delete('X-Frame-Options')
   end
 end
