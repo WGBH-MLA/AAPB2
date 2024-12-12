@@ -10,10 +10,12 @@
 
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/Christine_Headshot.jpg"/>
   <a class="name">Christine Acham</a>
-  <a class="title">Chair, Professor, Academy for Creative Media, University of Hawai'i at Mānoa</a>
+  <a class="title">Chair, Professor, School of Cinematic Arts
+University of Hawai'i at Mānoa</a>
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/Ashley_Headshot.jpg"/>
   <a class="name">Ashley S. Young</a>
-  <a class="title">Assistant Professor, School of Visual Art and Design, University of South Carolina (2022-present); Ph.D., Cinema and Media Studies, University of Southern California (2021)</a>
+  <a class="title">Assistant Professor, School of Visual Art and Design
+University of South Carolina</a>
 
 ## Resources
 
