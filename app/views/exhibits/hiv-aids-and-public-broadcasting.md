@@ -18,10 +18,10 @@ A special thank you to Fabio Toblini, who granted the AAPB permission to add act
 
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Dinnenyheadshot.png"/>
   <a class="name">Elizabeth Dinneny</a>
-  <a class="title">English PhD candidate at the University of Maryland</a>
+  <a class="title">2022 Library of Congress Junior Fellow and English PhD candidate at the University of Maryland</a>
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Headshot-Sonia.jpg"/>
   <a class="name">Sonia Prasad</a>
-  <a class="title">Williams College graduate and intern in the 2022 Library of Congress Archives, History, and Heritage Advanced Internship (AHHA) program</a>
+  <a class="title">Intern, 2022 Library of Congress Archives, History, and Heritage Advanced Internship (AHHA) program and graduate of Williams College</a>
   
 ## Resources
 
@@ -58,7 +58,7 @@ While examining this wide collection of HIV/AIDS-related programming, we should 
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-526-2z12n50j78" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/bobbicampbell-diagnosisaids.png" class="big-image" alt="Activist Bobbi Campbell in Diagnosis: AIDS (KCET, 1989)"/></a></td></tr>
 </table>
 
-Readers should keep in mind that the HIV/AIDS epidemic is still ongoing. While featured materials mostly cover news, education, and research during the first 25 years of the epidemic, scientific developments still occur, and more than one million people across the country are living with HIV.[<sup>14</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#14) Black, Latino, and LGBTQ+ people are acutely disproportionately affected by HIV, and access to treatment is not equal. Minority patients are significantly less likely to receive primary and emergency care for HIV/AIDS.[<sup>15</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#15) For more information about the current state of the epidemic and tools for HIV prevention and treatment, you can visit the Centers for Disease Control (CDC) HIV Basics hub and [this exhibit's epilogue](/exhibits/hiv-aids-and-public-broadcasting/7-public-broadcasting-covers-the-hiv-aids-pandemic-in-africa). 
+Readers should keep in mind that the HIV/AIDS epidemic is still ongoing. While featured materials mostly cover news, education, and research during the first 25 years of the epidemic, scientific developments still occur, and more than one million people across the country are living with HIV.[<sup>14</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#14) Black, Latino, and LGBTQ+ people are acutely disproportionately affected by HIV, and access to treatment is not equal. Minority patients are significantly less likely to receive primary and emergency care for HIV/AIDS.[<sup>15</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#15) For more information about the current state of the epidemic and tools for HIV prevention and treatment, you can visit the Centers for Disease Control (CDC) HIV Basics hub and [this exhibit's epilogue](/exhibits/hiv-aids-and-public-broadcasting/10-epilogue). 
 
 ### How to Use This Exhibit
 
