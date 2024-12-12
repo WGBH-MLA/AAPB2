@@ -8,7 +8,7 @@ The HIV/AIDS epidemic radically changed public health policy, social attitudes t
 
 The exhibit was devised and curated by Elizabeth Dinneny, a 2022 Library of Congress Junior Fellow and English PhD candidate at the University of Maryland. Sonia Prasad, an intern in the Library of Congress Archives, History, and Heritage Advanced Internship (AHHA) program and graduate of Williams College, curated the section on coverage of AIDS in Africa.
 
-This project would not have been possible without the support of Mariah Marsden, Alan Gevinson, and Casey Davis. Thank you to those who helped make these programs available online: Robert Chehoski, Tina DiFeliciantonio, Peter Friedman, Amber Hollibaugh, Vivian Kleiman, Asad Muhammad, Richard Rasch, Gini Reticker, and Jane Wagner. Thanks also to the exhibit’s anonymous reviewer.
+This project would not have been possible without the support of Mariah Marsden, Alan Gevinson, and Casey Davis. Thank you to those who helped make these programs available online: Robert Chehoski, Tina DiFeliciantonio, Peter Friedman, Amber Hollibaugh, Vivian Kleiman, Asad Muhammad, Richard Rasch, Gini Reticker, Jane Wagner, and Hannah Weber. Thanks also to the exhibit’s anonymous reviewer.
 
 A special thank you to Fabio Toblini, who granted the AAPB permission to add activist and filmmaker Robert Hilferty’s historic, award-winning documentary [*Stop the Church*](/catalog/cpb-aacip-526-8k74t6g61f?start=400.69&end=1779.12) to the Online Reading Room.  
 
