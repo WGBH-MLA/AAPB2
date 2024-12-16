@@ -1,5 +1,5 @@
 # Do not build this rake task when in production environment.
-if Rails && !Rails.env.production?
+if Rails && !Rails.env.production? && Rails.env != 'demo'
 
   require 'rspec/core/rake_task'
 
