@@ -26,4 +26,4 @@ production:
 
 demo:
   <<: *default
-  database: db/production.sqlite3
+  database: db/demo.sqlite3
