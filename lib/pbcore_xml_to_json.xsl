@@ -8,6 +8,22 @@
 		<xsl:text>}</xsl:text>
 	</xsl:template>
 
+	<xsl:template name="escape-quotes">
+		<xsl:param name="text"/>
+		<xsl:choose>
+			<xsl:when test="contains($text, '&quot;')">
+				<xsl:value-of select="substring-before($text, '&quot;')"/>
+				<xsl:text>\"</xsl:text>
+				<xsl:call-template name="escape-quotes">
+					<xsl:with-param name="text" select="substring-after($text, '&quot;')"/>
+				</xsl:call-template>
+			</xsl:when>
+			<xsl:otherwise>
+					<xsl:value-of select="$text"/>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>
+
 	<xsl:template match="*" mode="detect">
 		<xsl:choose>
 			<xsl:when test="name(preceding-sibling::*[1]) = name(current()) and name(following-sibling::*[1]) != name(current())">
@@ -28,7 +44,11 @@
 				<xsl:if test="count(following-sibling::*) &gt; 0">, </xsl:if>
 			</xsl:when>
 			<xsl:when test="count(./child::*) = 0">
-				<xsl:text>"</xsl:text><xsl:value-of select="name()"/>" : "<xsl:apply-templates select="."/><xsl:text>"</xsl:text>
+				<xsl:text>"</xsl:text><xsl:value-of select="name()"/><xsl:text>" : "</xsl:text>
+				<xsl:call-template name="escape-quotes">
+					<xsl:with-param name="text" select="."/>
+				</xsl:call-template>
+				<xsl:text>"</xsl:text>
 				<xsl:if test="count(following-sibling::*) &gt; 0">, </xsl:if>
 			</xsl:when>
 		</xsl:choose>
