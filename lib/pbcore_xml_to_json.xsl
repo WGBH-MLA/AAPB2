@@ -8,14 +8,40 @@
 		<xsl:text>}</xsl:text>
 	</xsl:template>
 
-	<xsl:template name="escape-quotes">
+	<xsl:template name="escape-characters">
 		<xsl:param name="text" />
+		<!-- Replace quotes -->
+		<xsl:variable name="escapedQuotes">
+			<xsl:call-template name="replace">
+				<xsl:with-param name="text" select="$text" />
+				<xsl:with-param name="search" select="'&quot;'" />
+				<xsl:with-param name="replace" select="'\&quot;'" />
+			</xsl:call-template>
+		</xsl:variable>
+		<!-- Replace newline characters -->
+		<xsl:variable name="escapedNewlines">
+			<xsl:call-template name="replace">
+				<xsl:with-param name="text" select="$escapedQuotes" />
+				<xsl:with-param name="search" select="'&#xA;'" />
+				<xsl:with-param name="replace" select="'\n'" />
+			</xsl:call-template>
+		</xsl:variable>
+		<xsl:value-of select="$escapedNewlines" />
+	</xsl:template>
+
+	<!-- Utility template to perform string replacement -->
+	<xsl:template name="replace">
+		<xsl:param name="text" />
+		<xsl:param name="search" />
+		<xsl:param name="replace" />
 		<xsl:choose>
-			<xsl:when test="contains($text, '&quot;')">
-				<xsl:value-of select="substring-before($text, '&quot;')" />
-				<xsl:text>\"</xsl:text>
-				<xsl:call-template name="escape-quotes">
-					<xsl:with-param name="text" select="substring-after($text, '&quot;')" />
+			<xsl:when test="contains($text, $search)">
+				<xsl:value-of select="substring-before($text, $search)" />
+				<xsl:value-of select="$replace" />
+				<xsl:call-template name="replace">
+					<xsl:with-param name="text" select="substring-after($text, $search)" />
+					<xsl:with-param name="search" select="$search" />
+					<xsl:with-param name="replace" select="$replace" />
 				</xsl:call-template>
 			</xsl:when>
 			<xsl:otherwise>
@@ -23,7 +49,6 @@
 			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
-
 	<xsl:template match="*" mode="detect">
 		<xsl:choose>
 			<xsl:when
@@ -52,7 +77,7 @@
 				<xsl:text>"</xsl:text>
 				<xsl:value-of select="name()" />
 				<xsl:text>" : "</xsl:text>
-				<xsl:call-template name="escape-quotes">
+				<xsl:call-template name="escape-characters">
 					<xsl:with-param name="text" select="." />
 				</xsl:call-template>
 				<xsl:text>"</xsl:text>
@@ -88,13 +113,14 @@
 	<xsl:template match="node/@TEXT | text()" name="removeBreaks">
 		<xsl:param name="pText" select="normalize-space(.)" />
 		<xsl:choose>
-			<xsl:when test="not(contains($pText, '&#xA;'))">
+			<xsl:when test="not(contains($pText, ' &#xA;'))">
 				<xsl:copy-of select="$pText" />
 			</xsl:when>
 			<xsl:otherwise>
-				<xsl:value-of select="concat(substring-before($pText, '&#xD;&#xA;'), ' ')" />
+				<xsl:value-of select="concat(substring-before($pText, ' &#xD;&#xA;'), ' ')" />
 				<xsl:call-template name="removeBreaks">
-					<xsl:with-param name="pText" select="substring-after($pText, '&#xD;&#xA;')" />
+					<xsl:with-param name="pText" select="substring-after($pText, '
+	&#xD;&#xA;')" />
 				</xsl:call-template>
 			</xsl:otherwise>
 		</xsl:choose>
