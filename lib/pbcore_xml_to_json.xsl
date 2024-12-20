@@ -10,10 +10,18 @@
 
 	<xsl:template name="escape-characters">
 		<xsl:param name="text" />
+		<!-- Replace backslashes -->
+		<xsl:variable name="escapedBackslashes">
+			<xsl:call-template name="replace">
+				<xsl:with-param name="text" select="$text" />
+				<xsl:with-param name="search" select="'\'" />
+				<xsl:with-param name="replace" select="'\\'" />
+			</xsl:call-template>
+		</xsl:variable>
 		<!-- Replace quotes -->
 		<xsl:variable name="escapedQuotes">
 			<xsl:call-template name="replace">
-				<xsl:with-param name="text" select="$text" />
+				<xsl:with-param name="text" select="$escapedBackslashes" />
 				<xsl:with-param name="search" select="'&quot;'" />
 				<xsl:with-param name="replace" select="'\&quot;'" />
 			</xsl:call-template>
@@ -49,6 +57,8 @@
 			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
+
+	<!-- Detect the type of node and apply the appropriate template -->
 	<xsl:template match="*" mode="detect">
 		<xsl:choose>
 			<xsl:when
@@ -86,6 +96,7 @@
 		</xsl:choose>
 	</xsl:template>
 
+	<!-- Output the content of the node -->
 	<xsl:template match="*" mode="obj-content">
 		<xsl:text>{</xsl:text>
 		<xsl:apply-templates select="@*" mode="attr" />
@@ -97,19 +108,23 @@
 		</xsl:if>
 		<xsl:if test="count(child::*) = 0 and text() and @*">
 			<xsl:text>"text" : "</xsl:text>
-			<xsl:value-of select="normalize-space(text())" />
+			<xsl:call-template name="escape-characters">
+				<xsl:with-param name="text" select="normalize-space(.)" />
+			</xsl:call-template>
 			<xsl:text>"</xsl:text>
 		</xsl:if>
 		<xsl:text>}</xsl:text>
 		<xsl:if test="position() &lt; last()">, </xsl:if>
 	</xsl:template>
 
+	<!-- Output the attributes of the node -->
 	<xsl:template match="@*" mode="attr">
 		<xsl:text>"</xsl:text><xsl:value-of select="name()" />" : "<xsl:value-of select="." /><xsl:text>"</xsl:text>
 		<xsl:if
 			test="position() &lt; last()">,</xsl:if>
 	</xsl:template>
 
+	<!-- Remove line breaks from text nodes -->
 	<xsl:template match="node/@TEXT | text()" name="removeBreaks">
 		<xsl:param name="pText" select="normalize-space(.)" />
 		<xsl:choose>
