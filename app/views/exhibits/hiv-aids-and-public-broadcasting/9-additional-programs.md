@@ -42,6 +42,8 @@ New Mexico AIDS cases are increasing faster than the national pattern and are pr
 
 **[*Managing Our Miracles: Healthcare in America*, “AIDS: In Search of a Miracle”](/catalog/cpb-aacip-526-wh2d796m8r) (WQED, Pittsburgh, PA, 1986)** 
 
+**[*Midday; Mike Osterholm on AIDS*](/catalog/cpb-aacip-43-40ksngf4) (Minnesota Public Radio, May 12, 1987)**
+
 **[“A.I.D.S.: A Regional Report”](/catalog/cpb-aacip-394-4947dgch) (Maryland Public Television, May 26, 1987)** 
 
 **[“AIDS: The San Diego Story”](/catalog/cpb-aacip-526-vt1gh9ck1n) (KPBS, San Diego, CA, September 30, 1987)**
