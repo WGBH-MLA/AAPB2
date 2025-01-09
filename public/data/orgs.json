@@ -2272,4 +2272,12 @@
     "Url": "https://libraries.uark.edu/",
     "location": [36.0693, -94.1736]
   }
+   "NCSG55178": {
+    "Short name": "KUAC",
+    "State": "Alaska",
+    "City": "Fairbanks",
+    "Logo": "kuac-logo.jpb",
+    "Url": "https://kuac.org/",
+    "location": [64.8573, -147.8194]
+  }
 }
