@@ -930,13 +930,12 @@
     "location": [40.115027, -88.2238336]
   },
   "1770": {
-    "Short name": "Iowa Public Television",
+    "Short name": "Iowa PBS",
     "State": "Iowa",
     "City": "Johnston",
-    "Logo": "",
-    "Url": "https://www.iptv.org/",
-    "About": "",
-    "Productions": "",
+    "Logo": "iowapbsbluelogo-google.jpg",
+    "Url": "http//www.iowapbs.org/",
+    "About": "Iowa is at the heart of Iowa PBS. We offer Iowans a partner in their quest for community and lifelong learning by engaging people of all ages with trusted services and programming that both educate and inspire. A statewide hub for public policy and a platform for civic and civil discourse, we provide news and information with historical perspective that enhances the lives of Iowans from all backgrounds, all generations, and all walks of life. We are committed to delivering high-quality and innovative media and services that create insight, fulfillment, and growth while offering companionship, comfort, and entertainment. Iowa PBS provides the lens through which Iowans may better see their world.",
     "Name": "Iowa Public Television",
     "location": [41.6641025, -93.7084421]
   },
