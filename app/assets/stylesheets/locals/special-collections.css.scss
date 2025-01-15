@@ -19,6 +19,13 @@
   border-bottom: rgb(209,205,224) solid 1px;
 }
 
+.collection-video {
+  margin-left: 2em;
+  min-height: 22em;
+  height: 22em;
+  aspect-ratio: 4 / 3;
+}
+
 .collection-resources {
   border-top: 1px;
   ul {
@@ -202,6 +209,13 @@
       margin: 0;
     }
   }
+}
+
+.collection-features .featured-item h3.tribute-box {
+  font-size: 12px;
+  padding-top: 1em;
+  padding-left: 2em;
+  padding-right: 2em;
 }
 
 /* Search Index */

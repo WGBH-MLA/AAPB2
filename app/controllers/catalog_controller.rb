@@ -236,7 +236,9 @@ class CatalogController < ApplicationController
 
   def show
     # From BlacklightGUIDFetcher
-    @response, @document = fetch_from_solr(params['id'])
+    id = params[:id].sub(/cpb-aacip./, "cpb-aacip?")
+    @response, @document = fetch_from_solr(id)
+
     # If we didn't end up getting a @document, 404
     raise ActionController::RoutingError.new('Not Found') unless @document
 
@@ -279,6 +281,10 @@ class CatalogController < ApplicationController
       end
       format.mods do
         render text: PBCorePresenter.new(xml).to_mods
+      end
+      format.iiif do
+        allow_cors!
+        render json: PBCorePresenter.new(xml).iiif_manifest
       end
     end
   end
@@ -335,5 +341,12 @@ class CatalogController < ApplicationController
         nil
       end
     end
+  end
+
+  def allow_cors!
+    headers['Access-Control-Allow-Origin'] = '*'
+    headers['Access-Control-Allow-Methods'] = 'GET, OPTIONS'
+    headers['Access-Control-Request-Method'] = '*'
+    headers['Access-Control-Allow-Headers'] = 'Origin, X-Requested-With, Content-Type, Accept, Authorization'
   end
 end

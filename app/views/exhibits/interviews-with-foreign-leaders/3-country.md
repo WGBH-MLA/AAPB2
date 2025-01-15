@@ -181,7 +181,7 @@ See also Yugoslavia
 - [October 27, 1978, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-zc7rn3152m) | WNET and WETA<br/>
 
 ##### Helmut Schmidt (1918-2015), Chancellor of West Germany, 1974-1982
-- [January 23, 1975, *Bill Moyers Journal: International Report*](https://americanarchive.org/catalog/cpb-aacip-3e634de1b59) | WNET<br/>
+- [January 23, 1975, *Bill Moyers Journal: International Report*](https://americanarchive.org/catalog/cpb-aacip-ad0b2d8f021) | WNET<br/>
 - [November 12, 1987, *War and Peace in the Nuclear Age* interview](https://americanarchive.org/catalog/cpb-aacip-15-6d5p843v5p) | WGBH<br/>
 - [February 21, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-9g5gb1z37d?start=485&end=1614) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 

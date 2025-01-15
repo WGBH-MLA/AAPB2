@@ -37,7 +37,11 @@ class ApiController < ApplicationController
 
   def show
     @solr = Solr.instance.connect
-    data = @solr.get('select', params: { q: "id:#{params[:id]}", fl: 'xml' })
+    # Replace the delimiter at the end fo the AAPB ID prefix with a single character wildcard
+    # to return any docs that are indexed with old-style ID's, having a slash, or sometimes an underscore
+    # instead of a dash. Eventually, all records should have new-style IDs with the dashes. Until then, this.
+    id = params[:id].sub(/cpb-aacip./, "cpb-aacip?")
+    data = @solr.get('select', params: { q: "id:#{id}", fl: 'xml' })
 
     return render_not_found(params[:id]) unless data['response']['docs'] && data['response']['docs'][0]
     xml = data['response']['docs'][0]['xml']

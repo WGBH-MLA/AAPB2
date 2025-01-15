@@ -32,7 +32,7 @@ W$W examined the economic news from the US and abroad and looked at changes, cha
 - [<em>Wall $treet Week</em>, Bloomberg](https://www.bloomberg.com/series/wall-street-week)
 - ["Bloomberg Will Revive ‘Wall Street Week,’" Variety](https://variety.com/2020/tv/news/bloomberg-wall-street-week-david-westin-1203462740/)
 - [<em>Wall $treet Week</em>, Forbes](https://www.forbes.com/sites/wallstreetweek/#2c59a1157ec0)
-- [Louis Rukeyser Obituary, Chicago Tribune](https://www.chicagotribune.com/zap-louisrukeyserobit050306-story.html)
+- [Louis Rukeyser Obituary, PBS News](https://www.pbs.org/newshour/nation/remember-jan-june06-rukeyser_05-03-06)
 
 ## Funders
 

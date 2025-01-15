@@ -45,13 +45,13 @@ Rails.application.configure do
   # config.force_ssl = true
 
   # Set to :debug to see everything in the log.
-  config.log_level = :info
+  config.log_level = :warn
 
   # Prepend all log lines with the following tags.
   # config.log_tags = [ :subdomain, :uuid ]
 
   # Only keep up to 10 log files of ~ 1MB each.
-  config.logger = ActiveSupport::Logger.new('/var/www/aapb/current/log/production.log', 10, 1.megabytes)
+  config.logger = ActiveSupport::Logger.new(File.expand_path('../../../log/production.log', __FILE__), 10, 1.megabytes)
 
   # Use a different cache store in production.
   # config.cache_store = :mem_cache_store
@@ -82,4 +82,6 @@ Rails.application.configure do
 
   # Do not dump schema after migrations.
   config.active_record.dump_schema_after_migration = false
+
+  config.middleware.use('RedirectMiddleware')
 end

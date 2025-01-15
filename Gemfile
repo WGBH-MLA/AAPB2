@@ -83,7 +83,7 @@ gem 'pry', :group => :development
 gem 'pry-nav', :group => :development
 # gem 'xray-rails', :group => :development
 
-gem 'passenger', :group => :production
+gem 'passenger', :group => [:production, :demo]
 
 gem 'nokogiri', '~> 1.10.4'
 
@@ -92,3 +92,4 @@ gem 'bigdecimal', '1.4.4'
 gem 'httparty'
 
 gem 'pbcore', '~> 0.2.0'
+gem 'json-schema', '~> 2.8.0'

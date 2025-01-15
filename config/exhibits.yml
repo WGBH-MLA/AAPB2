@@ -156,3 +156,23 @@
   - "interviews-with-foreign-leaders/2-people"
   - "interviews-with-foreign-leaders/3-country"
   - "interviews-with-foreign-leaders/4-date"
+"stories-of-the-land":
+  sections:
+  - "stories-of-the-land/2-land"
+  - "stories-of-the-land/3-work"
+  - "stories-of-the-land/4-environment"
+  - "stories-of-the-land/5-culture"
+  - "stories-of-the-land/6-practice"
+  - "stories-of-the-land/7-politics"
+  - "stories-of-the-land/8-additional-reading"
+"hiv-aids-and-public-broadcasting":
+  sections: 
+  - "hiv-aids-and-public-broadcasting/2-1981-1985-early-reporting-on-the-gay-disease"
+  - "hiv-aids-and-public-broadcasting/3-1986-1988-the-aids-special-program"
+  - "hiv-aids-and-public-broadcasting/4-1989-1994-into-the-second-decade"
+  - "hiv-aids-and-public-broadcasting/5-1989-1991-broadcasting-act-up-direct-action"
+  - "hiv-aids-and-public-broadcasting/6-1995-1997-new-hiv-aids-therapies-and-strategies"
+  - "hiv-aids-and-public-broadcasting/7-public-broadcasting-covers-the-hiv-aids-pandemic-in-africa"
+  - "hiv-aids-and-public-broadcasting/8-national-programs"
+  - "hiv-aids-and-public-broadcasting/9-additional-programs"
+  - "hiv-aids-and-public-broadcasting/10-epilogue"
