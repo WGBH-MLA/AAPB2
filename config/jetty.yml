@@ -5,8 +5,6 @@ default: &default
   jetty_port: <%= ENV['JETTY_PORT'] || 8983 %>
   jetty_home: <%= ENV['JETTY_HOME'] || File.expand_path(File.join(File.dirname(File.dirname(__FILE__)), 'jetty')) %>
   solr_core: <%= ENV['SOLR_CORE'] || 'blacklight-core' %>
-demo:
-  <<: *default
 development:
   <<: *default
 test:

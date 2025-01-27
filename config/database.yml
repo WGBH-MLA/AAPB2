@@ -23,7 +23,3 @@ test:
 production:
   <<: *default
   database: db/production.sqlite3
-
-demo:
-  <<: *default
-  database: db/production.sqlite3
