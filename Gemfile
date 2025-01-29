@@ -83,7 +83,7 @@ gem 'pry', :group => :development
 gem 'pry-nav', :group => :development
 # gem 'xray-rails', :group => :development
 
-gem 'passenger', :group => :production
+gem 'passenger', :group => [:production, :demo]
 
 gem 'nokogiri', '~> 1.10.4'
 

@@ -6,9 +6,9 @@
 
 The HIV/AIDS epidemic radically changed public health policy, social attitudes toward gay men, and the course of LGBTQ+ history in the United States. This collection includes public broadcasting archival materials that demonstrate attitudes toward and responses to the epidemic. A resource for anyone interested in understanding how public broadcasting has covered HIV/AIDS, this exhibit places featured programs within a contextualized history of the course of the HIV/AIDS epidemic in the United States and the U.S. response to AIDS in Africa following the decline of new cases in the U.S.
 
-The exhibit was curated by two Library of Congress interns. Elizabeth Dinneny, a 2022 Library of Congress Junior Fellow and English PhD candidate at the University of Maryland, devised the exhibit and curated the sections on coverage of AIDS in the U.S. Sonia Prasad, an intern in the Library of Congress Archives, History, and Heritage Advanced Internship (AHHA) program and graduate of Williams College, curated the section on coverage of AIDS in Africa. 
+The exhibit was devised and curated by Elizabeth Dinneny, a 2022 Library of Congress Junior Fellow and English PhD candidate at the University of Maryland. Sonia Prasad, an intern in the Library of Congress Archives, History, and Heritage Advanced Internship (AHHA) program and graduate of Williams College, curated the section on coverage of AIDS in Africa.
 
-This project would not have been possible without the support of Mariah Marsden, Alan Gevinson, and Casey Davis. Thank you to those who helped make these programs available online: Robert Chehoski, Tina DiFeliciantonio, Peter Friedman, Amber Hollibaugh, Vivian Kleiman, Asad Muhammad, Richard Rask, Gini Reticker, and Jane Wagner. Thanks also to the exhibit’s anonymous reviewer.
+This project would not have been possible without the support of Mariah Marsden, Alan Gevinson, and Casey Davis. Thank you to those who helped make these programs available online: Robert Chehoski, Tina DiFeliciantonio, Peter Friedman, Amber Hollibaugh, Vivian Kleiman, Asad Muhammad, Richard Rasch, Gini Reticker, Jane Wagner, and Hannah Weber. Thanks also to the exhibit’s anonymous reviewer.
 
 A special thank you to Fabio Toblini, who granted the AAPB permission to add activist and filmmaker Robert Hilferty’s historic, award-winning documentary [*Stop the Church*](/catalog/cpb-aacip-526-8k74t6g61f?start=400.69&end=1779.12) to the Online Reading Room.  
 
@@ -18,10 +18,10 @@ A special thank you to Fabio Toblini, who granted the AAPB permission to add act
 
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Dinnenyheadshot.png"/>
   <a class="name">Elizabeth Dinneny</a>
-  <a class="title">English PhD candidate at the University of Maryland</a>
+  <a class="title">2022 Library of Congress Junior Fellow and English PhD candidate at the University of Maryland</a>
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Headshot-Sonia.jpg"/>
   <a class="name">Sonia Prasad</a>
-  <a class="title">Williams College graduate and intern in the 2022 Library of Congress Archives, History, and Heritage Advanced Internship (AHHA) program</a>
+  <a class="title">Intern, 2022 Library of Congress Archives, History, and Heritage Advanced Internship (AHHA) program and graduate of Williams College</a>
   
 ## Resources
 
@@ -58,7 +58,7 @@ While examining this wide collection of HIV/AIDS-related programming, we should 
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-526-2z12n50j78" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/bobbicampbell-diagnosisaids.png" class="big-image" alt="Activist Bobbi Campbell in Diagnosis: AIDS (KCET, 1989)"/></a></td></tr>
 </table>
 
-Readers should keep in mind that the HIV/AIDS epidemic is still ongoing. While featured materials mostly cover news, education, and research during the first 25 years of the epidemic, scientific developments still occur, and more than one million people across the country are living with HIV.[<sup>14</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#14) Black, Latino, and LGBTQ+ people are acutely disproportionately affected by HIV, and access to treatment is not equal. Minority patients are significantly less likely to receive primary and emergency care for HIV/AIDS.[<sup>15</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#15) For more information about the current state of the epidemic and tools for HIV prevention and treatment, you can visit the Centers for Disease Control (CDC) HIV Basics hub and [this exhibit's epilogue](/exhibits/hiv-aids-and-public-broadcasting/7-public-broadcasting-covers-the-hiv-aids-pandemic-in-africa). 
+Readers should keep in mind that the HIV/AIDS epidemic is still ongoing. While featured materials mostly cover news, education, and research during the first 25 years of the epidemic, scientific developments still occur, and more than one million people across the country are living with HIV.[<sup>14</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#14) Black, Latino, and LGBTQ+ people are acutely disproportionately affected by HIV, and access to treatment is not equal. Minority patients are significantly less likely to receive primary and emergency care for HIV/AIDS.[<sup>15</sup>](/exhibits/hiv-aids-and-public-broadcasting/notes#15) For more information about the current state of the epidemic and tools for HIV prevention and treatment, you can visit the Centers for Disease Control (CDC) HIV Basics hub and [this exhibit's epilogue](/exhibits/hiv-aids-and-public-broadcasting/10-epilogue). 
 
 ### How to Use This Exhibit
 

@@ -6,6 +6,10 @@
 
   -->
   <head>
+    <% if ENV["DONT_GOOGLE_INDEX"] # dont allow search engine indexing if demo site %>
+      <meta name="robots" content="noindex">
+    <% end %>
+
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

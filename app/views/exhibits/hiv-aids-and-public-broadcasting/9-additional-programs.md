@@ -42,6 +42,8 @@ New Mexico AIDS cases are increasing faster than the national pattern and are pr
 
 **[*Managing Our Miracles: Healthcare in America*, “AIDS: In Search of a Miracle”](/catalog/cpb-aacip-526-wh2d796m8r) (WQED, Pittsburgh, PA, 1986)** 
 
+**[*Midday; Mike Osterholm on AIDS*](/catalog/cpb-aacip-43-40ksngf4) (Minnesota Public Radio, May 12, 1987)**
+
 **[“A.I.D.S.: A Regional Report”](/catalog/cpb-aacip-394-4947dgch) (Maryland Public Television, May 26, 1987)** 
 
 **[“AIDS: The San Diego Story”](/catalog/cpb-aacip-526-vt1gh9ck1n) (KPBS, San Diego, CA, September 30, 1987)**
@@ -110,7 +112,7 @@ New Jersey has the fifth largest AIDS population in the country.
 
 **[*Images/Imagenes*, “Hispanics & AIDS”](/catalog/cpb-aacip-259-5717p64c) (New Jersey Network, April 6, 1994)** 
 
-**[*Open Air, New England*, “The Forgotten Mothers and [Children of the AIDS Epidemic”](/catalog/cpb-aacip-526-2f7jq0ts7t) (Connecticut Public Radio, 1994)**
+**[*Open Air, New England*, “The Forgotten Mothers and Children of the AIDS Epidemic”](/catalog/cpb-aacip-526-2f7jq0ts7t) (Connecticut Public Radio, 1994)**
 
 **[“On the Path to an AIDS Vaccine”](/catalog/cpb-aacip-514-3j3902063r) (Commonwealth Club of California, December 1, 1998)**
 
@@ -132,7 +134,7 @@ New Jersey has the fifth largest AIDS population in the country.
 
 **[World AIDS Day](/catalog/cpb-aacip-514-8911n7zf90) (Commonwealth Club of California, December 1, 2006)** 
 
-**[*New Mexico in Focus*, “AIDS: NMAS](/catalog/cpb-aacip-12897ca55f0) [(New Mexico AIDS Services) Participants - Sabrina”](/catalog/cpb-aacip-51949cb2e23) (KNME-TV, Albuquerque, NM, 2006)**
+**[*New Mexico in Focus*, “AIDS: NMAS (New Mexico AIDS Services) Participants - Sabrina”](/catalog/cpb-aacip-12897ca55f0) (KNME-TV, Albuquerque, NM, 2006)**
 
 **[*New Mexico in Focus*, “AIDS: NMAS](/catalog/cpb-aacip-12897ca55f0) [(New Mexico AIDS Services) Participants - Christine and Gloria"](/catalog/cpb-aacip-51949cb2e23)(KNME-TV, Albuquerque, NM, 2006)**
 
@@ -165,6 +167,8 @@ New Jersey has the fifth largest AIDS population in the country.
 **[HIV Interviews](/catalog/cpb-aacip-389b480d322) (KMUW, Wichita, KS, date unknown)**
 
 **[*Mountain News & World Report*, News Segment on AIDS Education](/catalog/cpb-aacip-138-881jx2hv) (Appalshop, Whitesburg, KY, date unknown)**
+
+#### Next: [Epilogue](/exhibits/hiv-aids-and-public-broadcasting/10-epilogue.md)
 
 ## Resources
 
