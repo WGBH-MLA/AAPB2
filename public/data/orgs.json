@@ -2290,5 +2290,14 @@
     "Url": "https://kuac.org/",
     "Name": "KUAC-TV",
     "location": [64.8573, -147.8194]
+  },
+   "NCSG55178": {
+    "Short name": "PBS Reno",
+    "State": "Nevada",
+    "City": "Reno",
+    "Logo": "pbs-reno.png",
+    "Url": "https://www.pbsreno.org/",
+    "Name": "PBS Reno",
+    "location": [39.5524, -119.8194]
   }
 }
