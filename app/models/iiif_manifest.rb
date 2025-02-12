@@ -77,7 +77,7 @@ module IIIFManifest
   end
 
   def aapb_host
-    'https://americanarchive.org'
+    'https://demo.aapb.wgbh-mla.org'
   end
 
   def media_format
