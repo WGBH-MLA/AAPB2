@@ -1,4 +1,11 @@
 module IIIFManifest
+
+  # map PBCore media types to IIIF media types
+  MEDIA_TYPES = {
+    'Moving Image' => 'Video',
+    'Sound' => 'Sound'
+  }
+
   def iiif_manifest
     {
       "@context" => "http://iiif.io/api/presentation/3/context.json",
@@ -29,7 +36,7 @@ module IIIFManifest
                   "motivation" => "painting",
                   "body" => {
                     "id" => location, # TODO: URI for media file, player will consume this and expect bits. Redirects ok.
-                    "type" => media_type, # TODO: map to "Sound" or "Video"
+                    "type" => MEDIA_TYPES[media_type], # TODO: map to "Sound" or "Video"
                     "format" => media_format,
                     "duration" => duration_seconds # TODO: just ensure it's in seconds
                   },
