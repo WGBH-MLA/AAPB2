@@ -42,7 +42,7 @@ In 2023, the National Endowment for Humanities and the National Historical Publi
 ## Funders
 
 - [![NEH](https://s3.amazonaws.com/americanarchive.org/org-logos/neh-logo-preferred.jpg "NEH logo")](https://www.neh.gov/)
-- [![NHPRC](https://s3.amazonaws.com/americanarchive.org/special-collections/nhprc-logo.png "NHPRC logo")](https://www.archives.gov/nhprc)
+- [![NHPRC](https://s3.amazonaws.com/americanarchive.org/org-logos/nhprc-logo.png "NHPRC logo")](https://www.archives.gov/nhprc)
   
 ## Timeline
 
