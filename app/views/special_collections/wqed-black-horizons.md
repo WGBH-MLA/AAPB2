@@ -20,12 +20,12 @@ In 2023, the National Endowment for Humanities and the National Historical Publi
 
 ## Featured
 
-[![*Black Horizons*, "Black Writers (June 1, 1991)](https://s3.amazonaws.com/americanarchive.org/special-collections/writers.jpeg)](/catalog/cpb-aacip-dced182b3c4)
-[![*Black Horizons*, "Harambee II” (August 1, 1992)](https://s3.amazonaws.com/americanarchive.org/special-collections/harmabee-ii-square.jpeg)](/catalog/cpb-aacip-d8bfdb9ded8)
-[![*Black Horizons*, "Aftermath” (October 5, 2001)](https://s3.amazonaws.com/americanarchive.org/special-collections/aftermath.jpeg)](/catalog/cpb-aacip-3b8f7996b35)  
-[![*Black Horizons*, "Leroy’s Blues” (October 3,2003)](https://s3.amazonaws.com/americanarchive.org/special-collections/leroys-blues-square.jpeg)](/catalog/cpb-aacip-ee4a62ba5a1)
-[![*Black Horizons*, 3812 - "History” (January 26, 2007)](https://s3.amazonaws.com/americanarchive.org/special-collections/history-square.jpeg)](/catalog/cpb-aacip-cb53fc1ce19)
-[![*Black Horizons*, "Inauguration” (Obama) (January 25, 2009)](https://s3.amazonaws.com/americanarchive.org/special-collections/inauguration.jpeg)](/catalog/cpb-aacip-23163b1697e)
+[![Black Writers](https://s3.amazonaws.com/americanarchive.org/special-collections/writers.jpeg)](/catalog/cpb-aacip-dced182b3c4)
+[![Harambee II](https://s3.amazonaws.com/americanarchive.org/special-collections/harmabee-ii-square.jpeg)](/catalog/cpb-aacip-d8bfdb9ded8)
+[![Aftermath](https://s3.amazonaws.com/americanarchive.org/special-collections/aftermath.jpeg)](/catalog/cpb-aacip-3b8f7996b35)  
+[![Leroy’s Blues](https://s3.amazonaws.com/americanarchive.org/special-collections/leroys-blues-square.jpeg)](/catalog/cpb-aacip-ee4a62ba5a1)
+[![History](https://s3.amazonaws.com/americanarchive.org/special-collections/history-square.jpeg)](/catalog/cpb-aacip-cb53fc1ce19)
+[![Inauguration (Obama)](https://s3.amazonaws.com/americanarchive.org/special-collections/inauguration.jpeg)](/catalog/cpb-aacip-23163b1697e)
 
 ## Resources
 
