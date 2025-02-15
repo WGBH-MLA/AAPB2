@@ -235,58 +235,64 @@ class CatalogController < ApplicationController
   end
 
   def show
-    # From BlacklightGUIDFetcher
-    id = params[:id].sub(/cpb-aacip./, "cpb-aacip?")
-    @response, @document = fetch_from_solr(id)
 
-    # If we didn't end up getting a @document, 404
-    raise ActionController::RoutingError.new('Not Found') unless @document
+    require 'benchmark'
+    time = Benchmark.realtime do
 
-    xml = @document['xml']
-    respond_to do |format|
-      format.html do
-        @pbcore = PBCorePresenter.new(xml)
-        @exhibits = @pbcore.top_exhibits
-        @skip_orr_terms = can? :skip_tos, @pbcore
+      # From BlacklightGUIDFetcher
+      id = params[:id].sub(/cpb-aacip./, "cpb-aacip?")
+      @response, @document = fetch_from_solr(id)
 
-        @captions = CaptionFile.retrieve_captions(@pbcore.id)
+      # If we didn't end up getting a @document, 404
+      raise ActionController::RoutingError.new('Not Found') unless @document
 
-        if can? :play, @pbcore
-          # can? play because we're inside this block
-          @available_and_playable = !@pbcore.media_srcs.empty? && @pbcore.outside_urls.empty?
+      xml = @document['xml']
+      respond_to do |format|
+        format.html do
+          @pbcore = PBCorePresenter.new(xml)
+          @exhibits = @pbcore.top_exhibits
+          @skip_orr_terms = can? :skip_tos, @pbcore
 
-          if redirect_to_proxy_start_time?(@pbcore, params)
-            redirect_to catalog_path(params["id"], proxy_start_time: @pbcore.proxy_start_time) and return
-          elsif params["start"] && params["end"] && @pbcore.media_type != "other"
-            # media type: 'other' records can exist, but they shouldnt have media, so no segmenter
+          @captions = CaptionFile.retrieve_captions(@pbcore.id)
 
-            media_type_verb = @pbcore.media_type == "Moving Image" ? "view" : "listen to"
+          if can? :play, @pbcore
+            # can? play because we're inside this block
+            @available_and_playable = !@pbcore.media_srcs.empty? && @pbcore.outside_urls.empty?
 
-            # proxy start time takes precendence, this is for 'share a segment'
-            @clip_message = %(This is a segment of a longer program (#{ seconds_to_hms(params['start']) }-#{ seconds_to_hms(params['end']) }). <a href="/catalog/#{ @pbcore.id }">Click here to #{ media_type_verb } full-length item.</a>)
+            if redirect_to_proxy_start_time?(@pbcore, params)
+              redirect_to catalog_path(params["id"], proxy_start_time: @pbcore.proxy_start_time) and return
+            elsif params["start"] && params["end"] && @pbcore.media_type != "other"
+              # media type: 'other' records can exist, but they shouldnt have media, so no segmenter
+
+              media_type_verb = @pbcore.media_type == "Moving Image" ? "view" : "listen to"
+
+              # proxy start time takes precendence, this is for 'share a segment'
+              @clip_message = %(This is a segment of a longer program (#{ seconds_to_hms(params['start']) }-#{ seconds_to_hms(params['end']) }). <a href="/catalog/#{ @pbcore.id }">Click here to #{ media_type_verb } full-length item.</a>)
+            end
           end
-        end
 
-        if can? :access_transcript, @pbcore
-          # If @transcript_search_term not in param, it just doesn't get populated on search input
-          @transcript_search_term = params['term']
-          # how shown are we talkin here?
-          @transcript_open = @pbcore.correct_transcript? ? true : false
-        end
+          if can? :access_transcript, @pbcore
+            # If @transcript_search_term not in param, it just doesn't get populated on search input
+            @transcript_search_term = params['term']
+            # how shown are we talkin here?
+            @transcript_open = @pbcore.correct_transcript? ? true : false
+          end
 
-        render
-      end
-      format.pbcore do
-        render text: xml
-      end
-      format.mods do
-        render text: PBCorePresenter.new(xml).to_mods
-      end
-      format.iiif do
-        allow_cors!
-        render json: PBCorePresenter.new(xml).iiif_manifest
+          render
+        end
+        format.pbcore do
+          render text: xml
+        end
+        format.mods do
+          render text: PBCorePresenter.new(xml).to_mods
+        end
+        format.iiif do
+          allow_cors!
+          render json: PBCorePresenter.new(xml).iiif_manifest
+        end
       end
     end
+    Rails.logger.info "\n\n\nTime elapsed #{time} seconds\n\n\n"
   end
 
   def terms_target
