@@ -292,7 +292,7 @@ class CatalogController < ApplicationController
         end
       end
     end
-    Rails.logger.info "\n\n\nTime elapsed #{time} seconds\n\n\n"
+    Rails.logger.warn "\n\n\nTime elapsed #{time} seconds\n\n\n"
   end
 
   def terms_target
