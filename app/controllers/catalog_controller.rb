@@ -238,7 +238,7 @@ class CatalogController < ApplicationController
 
     require 'benchmark'
     times = {}
-    times['Catalog#show (total)'] << Benchmark.realtime do
+    times['Catalog#show (total)'] = Benchmark.realtime do
 
       # From BlacklightGUIDFetcher
       id = params[:id].sub(/cpb-aacip./, "cpb-aacip?")
