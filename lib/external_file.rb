@@ -22,13 +22,21 @@ class ExternalFile
 
   # TODO: cache this too
   def file_content
-    if file_present?
-      @file_content ||= begin
-        HTTParty.get(external_url).body
-      rescue Errno::ECONNREFUSED, SocketError
-        nil
+
+    require 'benchmark'
+    times = {}
+    times['ExternalFile#file_content'] = Benchmark.realtime do
+      if file_present?
+        @file_content ||= begin
+          HTTParty.get(external_url).body
+        rescue Errno::ECONNREFUSED, SocketError
+          nil
+        end
       end
     end
+
+    Rails.logger.warn "\n\nBenchmark times:\n#{times.map{|k,v| "#{k}: #{v}"}.join("\n")}\n\n"
+    return @file_content
   end
 
   def head_file

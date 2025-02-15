@@ -40,12 +40,21 @@ class TranscriptFile < ExternalFile
 
   def structured_content
     return unless file_present?
-    @structured_content ||=
-      case file_type
-      when TranscriptFile::JSON_FILE
-        TranscriptConverter.json_parts(file_content, @start_time, @end_time)
-      when TranscriptFile::TEXT_FILE
-        TranscriptConverter.text_parts(file_content)
-      end
+
+    require 'benchmark'
+    times = {}
+    times['TranscriptFile#structured_content'] = Benchmark.realtime do
+      @structured_content ||=
+        case file_type
+        when TranscriptFile::JSON_FILE
+          TranscriptConverter.json_parts(file_content, @start_time, @end_time)
+        when TranscriptFile::TEXT_FILE
+          TranscriptConverter.text_parts(file_content)
+        end
+    end
+
+    Rails.logger.warn "\n\nBenchmark times:\n#{times.map{|k,v| "#{k}: #{v}"}.join("\n")}\n\n"
+
+    return @structured_content
   end
 end

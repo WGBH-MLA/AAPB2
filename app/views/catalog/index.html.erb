@@ -46,7 +46,7 @@
     <% if @query.present? && @snippets && @snippets.keys.present? %>
       var guids = <%= raw(@snippets.keys).to_s %>
       var q = `<%= raw @query %>`
-      # getSnippets(guids, q)
+      getSnippets(guids, q)
     <% end %>
   })
 </script>

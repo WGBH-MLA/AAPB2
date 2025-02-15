@@ -187,51 +187,70 @@ class CatalogController < ApplicationController
   end
 
   def index
-    # If we are looking at search results for a particular exhibit or special collection, then fetch
-    # the exhibit or special collection for additional display logic.
-    @exhibit = exhibit_from_url
-    @special_collection = special_collection_from_url
-    # Cleans up user query for manipulation of caption text in the view.
 
-    # pull this out because we're going to mutate it inside terms_array method
-    @query = params[:q].dup
-    @terms_array = QueryToTermsArray.new(@query).terms_array
+    require 'benchmark'
+    times = {}
+    times['Catalog#index (total)'] = Benchmark.realtime do
+  
+      # If we are looking at search results for a particular exhibit or special collection, then fetch
+      # the exhibit or special collection for additional display logic.
 
-    if !params[:f] || !params[:f][:access_types]
-      # Sets Access Level
-      default_search_access(params)
-    else
-      super
-    end
+      times['exhibit_from_url'] = Benchmark.realtime do
+        @exhibit = exhibit_from_url
+      end
 
-    # check whether we have enough search results to get to the page specified, if not, go to page 1
-    if params[:page] && params[:page].to_i > 1
-      per_page = params[:per_page] ? params[:per_page].to_i : 20
+      times['special_collection_from_url'] = Benchmark.realtime do
+        @special_collection = special_collection_from_url
+      end
+      
+      # Cleans up user query for manipulation of caption text in the view.
 
-      # ensure we have enough records to fill to previous page + 1
-      page = params[:page].to_i - 1
-      num_for_newpage = (page * per_page) + 1
+      # pull this out because we're going to mutate it inside terms_array method
+      @query = params[:q].dup
+      @terms_array = QueryToTermsArray.new(@query).terms_array
 
-      if @response['response']['numFound'] < num_for_newpage
-        params[:page] = 1
-        super
+      if !params[:f] || !params[:f][:access_types]
+        # Sets Access Level
+        default_search_access(params)
+      else
+
+        times['CatalogController#index (calling super)'] = Benchmark.realtime do
+          super
+        end
+      end
+
+      # check whether we have enough search results to get to the page specified, if not, go to page 1
+      if params[:page] && params[:page].to_i > 1
+        per_page = params[:per_page] ? params[:per_page].to_i : 20
+
+        # ensure we have enough records to fill to previous page + 1
+        page = params[:page].to_i - 1
+        num_for_newpage = (page * per_page) + 1
+
+        if @response['response']['numFound'] < num_for_newpage
+          params[:page] = 1
+          super
+        end
+      end
+
+      # mark results for captions and transcripts
+      if @document_list && @document_list.first
+        text_field_match_guids = @document_list.first.response['highlighting'].keys.map { |guid| normalize_guid(guid) }
+      end
+
+      # we got some dang highlit matches
+      if text_field_match_guids
+        @snippets = {}
+        text_field_match_guids.each do |guid|
+          # store a true so that we can do the ajax
+          this_id = normalize_guid(guid)
+          @snippets[this_id] = true
+        end
       end
     end
 
-    # mark results for captions and transcripts
-    if @document_list && @document_list.first
-      text_field_match_guids = @document_list.first.response['highlighting'].keys.map { |guid| normalize_guid(guid) }
-    end
+    Rails.logger.warn "\n\nBenchmark times:\n#{times.map{|k,v| "#{k}: #{v}"}.join("\n")}\n\n"
 
-    # we got some dang highlit matches
-    if text_field_match_guids
-      @snippets = {}
-      text_field_match_guids.each do |guid|
-        # store a true so that we can do the ajax
-        this_id = normalize_guid(guid)
-        @snippets[this_id] = true
-      end
-    end
   end
 
   def show
@@ -246,8 +265,6 @@ class CatalogController < ApplicationController
       times['Fetch_from_solr'] = Benchmark.realtime do
         @response, @document = fetch_from_solr(id)
       end
-
-      
 
       # If we didn't end up getting a @document, 404
       raise ActionController::RoutingError.new('Not Found') unless @document
@@ -343,6 +360,7 @@ class CatalogController < ApplicationController
              else
                PBCorePresenter::PUBLIC_ACCESS
              end
+    Rails.logger  "No access type specified, redirecting #{access}..."
     redirect_to "/catalog?#{base_query}&f[access_types][]=#{access}"
   end
 
