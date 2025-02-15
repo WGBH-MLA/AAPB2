@@ -237,11 +237,17 @@ class CatalogController < ApplicationController
   def show
 
     require 'benchmark'
-    time = Benchmark.realtime do
+    times = {}
+    times['Catalog#show (total)'] << Benchmark.realtime do
 
       # From BlacklightGUIDFetcher
       id = params[:id].sub(/cpb-aacip./, "cpb-aacip?")
-      @response, @document = fetch_from_solr(id)
+
+      times['Fetch_from_solr'] = Benchmark.realtime do
+        @response, @document = fetch_from_solr(id)
+      end
+
+      
 
       # If we didn't end up getting a @document, 404
       raise ActionController::RoutingError.new('Not Found') unless @document
@@ -250,16 +256,30 @@ class CatalogController < ApplicationController
       respond_to do |format|
         format.html do
           @pbcore = PBCorePresenter.new(xml)
-          @exhibits = @pbcore.top_exhibits
-          @skip_orr_terms = can? :skip_tos, @pbcore
 
-          @captions = CaptionFile.retrieve_captions(@pbcore.id)
+          times['PBCorePresenter#top_exhibits'] = Benchmark.realtime do
+            @exhibits = @pbcore.top_exhibits
+          end
+
+          times['can? :skip_tos'] = Benchmark.realtime do
+            @skip_orr_terms = can? :skip_tos, @pbcore
+          end
+          
+          times['CaptionFikle.retrieve_captions'] = Benchmark.realtime do
+            @captions = CaptionFile.retrieve_captions(@pbcore.id)
+          end
+
+          times['can? :play @pbcore'] = Benchmark.realtime do
+            can? :play, @pbcore
+          end
+          
 
           if can? :play, @pbcore
             # can? play because we're inside this block
             @available_and_playable = !@pbcore.media_srcs.empty? && @pbcore.outside_urls.empty?
 
             if redirect_to_proxy_start_time?(@pbcore, params)
+              Rails.logger.warn "\n\nRedirecting to proxy start time\n\n"
               redirect_to catalog_path(params["id"], proxy_start_time: @pbcore.proxy_start_time) and return
             elsif params["start"] && params["end"] && @pbcore.media_type != "other"
               # media type: 'other' records can exist, but they shouldnt have media, so no segmenter
@@ -271,6 +291,10 @@ class CatalogController < ApplicationController
             end
           end
 
+          times['can? :access_transcript'] = Benchmark.realtime do
+            can? :access_transcript, @pbcore
+          end
+
           if can? :access_transcript, @pbcore
             # If @transcript_search_term not in param, it just doesn't get populated on search input
             @transcript_search_term = params['term']
@@ -278,7 +302,9 @@ class CatalogController < ApplicationController
             @transcript_open = @pbcore.correct_transcript? ? true : false
           end
 
-          render
+          times['render'] = Benchmark.realtime do
+            render
+          end
         end
         format.pbcore do
           render text: xml
@@ -292,7 +318,8 @@ class CatalogController < ApplicationController
         end
       end
     end
-    Rails.logger.warn "\n\n\nTime elapsed #{time} seconds\n\n\n"
+
+    Rails.logger.warn "\n\nBenchmark times:\n#{times.map{|k,v| "#{k}: #{v}"}.join("\n")}\n\n"
   end
 
   def terms_target
