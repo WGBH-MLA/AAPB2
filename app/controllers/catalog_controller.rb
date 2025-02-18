@@ -360,7 +360,7 @@ class CatalogController < ApplicationController
              else
                PBCorePresenter::PUBLIC_ACCESS
              end
-    Rails.logger  "No access type specified, redirecting #{access}..."
+    Rails.logger.warn  "No access type specified, redirecting #{access}..."
     redirect_to "/catalog?#{base_query}&f[access_types][]=#{access}"
   end
 
