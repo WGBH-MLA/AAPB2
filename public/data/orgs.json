@@ -2299,5 +2299,14 @@
     "Url": "https://www.pbsreno.org/",
     "Name": "PBS Reno",
     "location": [39.5524, -119.8194]
+  },
+   "NCSG55181": {
+    "Short name": "WETA",
+    "State": "Virginia",
+    "City": "Arlington",
+    "Logo": "weta-logo.png",
+    "Url": "https://weta/org/",
+    "Name": "WETA",
+    "location": [38.8430, -77.0828]
   }
 }
