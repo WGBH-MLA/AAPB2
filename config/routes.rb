@@ -29,7 +29,8 @@ Rails.application.routes.draw do
   resources 'transcripts',
             only: [:show]
 
-  post '/snippets.json', to: "snippets#show"
+  # TEMP: disabling this to not download transcript files
+  # post '/snippets.json', to: "snippets#show"
 
   resources 'oai',
             only: [:index]
