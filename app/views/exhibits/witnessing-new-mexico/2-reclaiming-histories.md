@@ -10,6 +10,10 @@ This section features programs about communities, institutions, and movements th
 
 > "We want our kids to succeed. We have dreams for our children, too. We don't dream of our children one of these days ending up in the penitentiary." — Nadine Cordova, *New Mexico in Focus*
 
+## Extended
+
+## Main
+
 <table class="full-width">
   <tbody>
     <tr>
@@ -19,10 +23,6 @@ This section features programs about communities, institutions, and movements th
     </tr>
   </tbody>
 </table>
-
-## Extended
-
-## Main
 
 **[*Surviving Columbus: The Story of the Pueblo People*](/catalog/cpb-aacip-526-jh3cz33930) (KNME-TV, Albuquerque, NM, October 12, 1992)**
 
