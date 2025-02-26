@@ -51,6 +51,8 @@ The word “witnessing” is key to understanding the intent of this exhibit bec
 
 With its three thematic sections, *Witnessing New Mexico* hopes to engage viewers in the process of watching and listening to first-hand, personal expressions of human experiences that have remained inaccessible for decades. The oral stories, conversations, and interviews in this exhibit present an expansive array of past and recent perspectives about New Mexico and its peoples that warrant the attention not only of New Mexicans but of other Americans as well.  
 
+#### Next: [Part 1: Reclaiming Histories](/exhibits/witnessing-nm/3-sharing-stories.md)
+
 ## Cover
   <img title="Cover Image" alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/nm_storymap_cover.png">
 
