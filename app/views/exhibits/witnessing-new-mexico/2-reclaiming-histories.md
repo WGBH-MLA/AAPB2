@@ -36,7 +36,7 @@ The Columbus Day Workshop critically examines the myth of Columbus' impact in th
 
 In Report from Santa Fe, Herman Agoyo (San Juan Pueblo) and sculptor Cliff Fragua (Jemez Pueblo) discuss the artist's sculpture of Po'pay in the National Statuary Hall. 
 
-**[New Mexico in Focus: Juan de Oñate Statue Protest](/catalog/cpb-aacip-686d1be50d9) (KNME-TV, Albuquerque, NM, June 19, 2020)**
+**[New Mexico in Focus: Juan de Oñate Statue Protest](/catalog/cpb-aacip-686d1be50d9)(KNME-TV, Albuquerque, NM, June 19, 2020)**
 
 New Mexico in Focus: Juan de Oñate Statue Protest shows a bitter fight over the proper historical place for one of the most controversial figures in the history of the Southwest. As protestors in Albuquerque tried to yank down his likeness a self-appointed group of armed guards riled the crowd and shot a demonstrator. 
 
@@ -52,11 +52,11 @@ In New Mexico in Focus: Black Lives Matter Protests, correspondent Megan Kameric
 
 In Young Organizers and Activists of Black Lives Matter, organizers and activists from the Learning Alliance of New Mexico and Fight for Our Lives discuss the Black Lives Matter movement and institutional reforms. 
 
-**[At Week's End: The American Dream](/catalog/cpb-aacip-191-418kpwwx) (New Mexico PBS, Albuquerque, NM)**
+**[At Week's End: The American Dream](/catalog/cpb-aacip-191-418kpwwx)(New Mexico PBS, Albuquerque, NM)**
 
 In response to the L.A. riots after the Rodney King trial, people at a rally view the rioting as a revolt against the failure of American democracy in At Week's End: The American Dream. 
 
-**[Angela Davis](/catalog/cpb-aacip-207-08v9s5dd) (KUNM, Albuquerque, NM, November 19, 1973)**
+**[Angela Davis](/catalog/cpb-aacip-207-08v9s5dd)(KUNM, Albuquerque, NM, November 19, 1973)**
 
 Angela Davis speaks at Popejoy Hall at the University of New Mexico. She talks about the power of organized masses of people speaking against racism and oppression. 
 
@@ -68,7 +68,7 @@ The New Mexico State Penitentiary riot in February 1980 was one of the most viol
 
 Illustrated Daily: New Penitentiary Facilities provides additional background information about the 1980 riots at the New Mexico State Penitentiary in Santa Fe. 
 
-**[Monuments to Failure: America's Prison Crisis](/catalog/cpb-aacip-191-66j0zwpr) (KNME-TV, Albuquerque, NM, 1988)**
+**[Monuments to Failure: America's Prison Crisis](/catalog/cpb-aacip-191-66j0zwpr)(KNME-TV, Albuquerque, NM, 1988)**
 
 Filmed in California, Texas, Minnesota, Georgia, and New Mexico, the award-winning Monuments to Failure: America's Prison Crisis looks at the U.S. prison crisis.  
 
@@ -80,7 +80,7 @@ Illustrated Daily: Grant's Women's Prison captures a protest at the women's pris
 
 In New Mexico in Focus: Luminarios, Nadine and Patsy Cordova were teaching Hispanic students about their people’s struggle for civil rights until the school district fired them on February 28, 1997. They later won a half-million-dollar lawsuit. 
 
-**[¡Colores! Los Valientes](/catalog/cpb-aacip-191-84zgn1z2) (New Mexico PBS, Albuquerque, NM, March 29, 1994)**
+**[¡Colores! Los Valientes](/catalog/cpb-aacip-191-84zgn1z2)(New Mexico PBS, Albuquerque, NM, March 29, 1994)**
 
 ¡Colores! Los Valientes celebrates the unknown people of Hispanic northern New Mexico communities.  
 
@@ -150,42 +150,111 @@ At Week's End: Women with AIDS shows that AIDS no longer strikes just gay popula
 
 In Focus on Education: Legal Rights of Children with AIDS, Dr. Ruth Luckasson discusses legal issues related to educating children with HIV and AIDS. 
 
-**[Report from Santa Fe](/catalog/cpb-aacip-c88897eda6f)(KNME-TV, Albuquerque, NM, October 12, 1992)** 
+**[New Mexico in Focus: HIV Updates in New Mexico](/catalog/cpb-aacip-9c92065cf28?start=2071.79&end=2937.61)(KNME-TV, Albuquerque, NM, April 24, 2015)** 
 
-[New Mexico in Focus: HIV Updates in New Mexico](/catalog/cpb-aacip-9c92065cf28?start=2071.79&end=2937.61), provides details on HIV prevention and treatment in New Mexico. 
+New Mexico in Focus: HIV Updates in New Mexico provides details on HIV prevention and treatment in New Mexico. 
 
-**[Report from Santa Fe](/catalog/cpb-aacip-c88897eda6f)(KNME-TV, Albuquerque, NM, October 12, 1992)** 
+**[Report from Santa Fe; Martha Burk](/catalog/cpb-aacip-558f425b766)(KNME-TV, Albuquerque, NM, July 26, 2008)** 
 
-In [Report from Santa Fe; Martha Burk](/catalog/cpb-aacip-558f425b766), Dr. Martha Burk discusses the "glass ceiling," pay equity, and childcare in New Mexico. 
+In Report from Santa Fe; Martha Burk, Dr. Martha Burk discusses the "glass ceiling," pay equity, and childcare in New Mexico. 
 
-**[Report from Santa Fe](/catalog/cpb-aacip-c88897eda6f)(KNME-TV, Albuquerque, NM, October 12, 1992)** 
+**[New Mexico in Focus: Women's Right to Vote in New Mexico](/catalog/cpb-aacip-a50ba289541?start=774.27&end=1273.8)(KNME-TV, Albuquerque, NM, July 3, 2020)** 
 
-In [New Mexico in Focus: Women's Right to Vote in New Mexico](/catalog/cpb-aacip-a50ba289541?start=774.27&end=1273.8), Correspondent Megan Kamerick leads a conversation about the history of women’s suffrage in New Mexico. 
+In New Mexico in Focus: Women's Right to Vote in New Mexico, Correspondent Megan Kamerick leads a conversation about the history of women’s suffrage in New Mexico. 
 
-**[Report from Santa Fe](/catalog/cpb-aacip-c88897eda6f)(KNME-TV, Albuquerque, NM, October 12, 1992)** 
+**[Equal Rights Amendment (ERA)](/catalog/cpb-aacip-207-03qv9snj)(KUNM, Albuquerque, NM, February 24, 1975)** 
 
-KUNM presents a program on the move to repeal New Mexico's ratification of the [Equal Rights Amendment (ERA)](/catalog/cpb-aacip-207-03qv9snj) with Sarah Bradly (Pro-ERA) and Joe Carraro (Anti-ERA). 
+KUNM presents a program on the move to repeal New Mexico's ratification of the Equal Rights Amendment (ERA) with Sarah Bradly (Pro-ERA) and Joe Carraro (Anti-ERA). 
 
-**[Report from Santa Fe](/catalog/cpb-aacip-c88897eda6f)(KNME-TV, Albuquerque, NM, October 12, 1992)** 
+**[Focus on Education: International Women's Day](/catalog/cpb-aacip-207-859cnxj6)(KUNM, Albuquerque, NM, March 3, 1988)** 
 
-In [Focus on Education: International Women's Day](/catalog/cpb-aacip-207-859cnxj6), International Women's Day is recognized by a conversation between Ann Nihlen and Dr. Jane Slaughter about gender equality and policies. 
+In Focus on Education: International Women's Day, International Women's Day is recognized by a conversation between Ann Nihlen and Dr. Jane Slaughter about gender equality and policies. 
 
-**[Report from Santa Fe](/catalog/cpb-aacip-c88897eda6f)(KNME-TV, Albuquerque, NM, October 12, 1992)** 
+**[*Invisible Children*](/catalog/cpb-aacip-191-3976hjmf)(KNME-TV, Albuquerque, NM)** 
 
-"Invisible children" are the invisible victims of our country's prison system, the children of incarcerated parents. KNME's documentary [*Invisible Children*](/catalog/cpb-aacip-191-3976hjmf) looks at the challenges these children face, how they cope with losing a parent to prison, and their courageous struggle to overcome their parents' examples. 
+"Invisible children" are the invisible victims of our country's prison system, the children of incarcerated parents. KNME's documentary *Invisible Children* looks at the challenges these children face, how they cope with losing a parent to prison, and their courageous struggle to overcome their parents' examples. 
 
-**[Report from Santa Fe](/catalog/cpb-aacip-c88897eda6f)(KNME-TV, Albuquerque, NM, October 12, 1992)** 
+**[Public Square: Incarceration or Graduation?](/catalog/cpb-aacip-84edb076880)(KNME-TV, Albuquerque, NM, June 25, 2015)** 
 
-The U.S. is known for its high rate of incarceration—a trend that carries over to young people in our society. [Public Square: Incarceration or Graduation?](/catalog/cpb-aacip-84edb076880) asks how can we change this reality? 
+The U.S. is known for its high rate of incarceration—a trend that carries over to young people in our society. Public Square: Incarceration or Graduation? asks how can we change this reality? 
 
-**[Report from Santa Fe](/catalog/cpb-aacip-c88897eda6f)(KNME-TV, Albuquerque, NM, October 12, 1992)**
+**[Espejos de Aztlán: Juan López and Jana López](/catalog/cpb-aacip-c23d21680b5)(KUNM, Albuquerque, NM, November 17, 1983)**
 
-[Espejos de Aztlán: Juan López and Jana López](/catalog/cpb-aacip-c23d21680b5) introduces the directors of STOP (Services To Offenders Program), who created a non-profit program that helps formally incarcerated parents. 
+Espejos de Aztlán: Juan López and Jana López introduces the directors of STOP (Services To Offenders Program), who created a non-profit program that helps formally incarcerated parents. 
+
+#### Next: [Sharing Stories](/exhibits/witnessing-nm/3-sharing-stories.md)
 
 ## Resources
 
 ## Cover
 
+<img title="Cover Image" alt="Reclaiming Histories" src="https://s3.amazonaws.com/americanarchive.org/exhibits/reclaiming-histories-thumbnail.jpg">
+
 ## Gallery
 
 ## Records
+
+- [](/catalog/cpb-aacip-526-jh3cz33930)
+- [](/catalog/cpb-aacip-207-289gj0px)
+- [](/catalog/cpb-aacip-c88897eda6f)
+- [](/catalog/cpb-aacip-686d1be50d9)
+- [](/catalog/cpb-aacip-5dcda8ee12e)
+- [](/catalog/cpb-aacip-b29f3a40580)
+- [](/catalog/cpb-aacip-61ba49b423a)
+- [](/catalog/cpb-aacip-191-418kpwwx)
+- [](/catalog/cpb-aacip-207-08v9s5dd)
+- [](/catalog/cpb-aacip-862224a4288)
+- [](/catalog/cpb-aacip-191-687h4bt1)
+- [](/catalog/cpb-aacip-191-66j0zwpr)
+- [](/catalog/cpb-aacip-191-20fttgv7)
+- [](/catalog/cpb-aacip-23602f4a023)
+- [](/catalog/cpb-aacip-191-84zgn1z2)
+- [](/catalog/cpb-aacip-207-61rfjd1n)
+- [](/catalog/cpb-aacip-c198c660e62)
+- [](/catalog/cpb-aacip-79e43ae2f15)
+- [](/catalog/cpb-aacip-191-182jm7sh)
+- [](/catalog/cpb-aacip-4e9db3deaf4)
+- [](/catalog/cpb-aacip-920d538fc74)
+- [](/catalog/cpb-aacip-191-805x6k96)
+- [](/catalog/cpb-aacip-7d62f718638)
+- [](/catalog/cpb-aacip-191-87pnw5pp)
+- [](/catalog/cpb-aacip-22369c20fee)
+- [](/catalog/cpb-aacip-191-515mkrvv)
+- [](/catalog/cpb-aacip-006d5989b8a)
+- [](/catalog/cpb-aacip-191-53wstws8)
+- [](/catalog/cpb-aacip-207-50gthzkp)
+- [](/catalog/cpb-aacip-c88897eda6f)
+- [](/catalog/cpb-aacip-686d1be50d9)
+- [](/catalog/cpb-aacip-5dcda8ee12e)
+- [](/catalog/cpb-aacip-b29f3a40580)
+- [](/catalog/cpb-aacip-61ba49b423a)
+- [](/catalog/cpb-aacip-191-418kpwwx)
+- [](/catalog/cpb-aacip-207-08v9s5dd)
+- [](/catalog/cpb-aacip-862224a4288)
+- [](/catalog/cpb-aacip-191-687h4bt1)
+- [](/catalog/cpb-aacip-191-66j0zwpr)
+- [](/catalog/cpb-aacip-191-20fttgv7)
+- [](/catalog/cpb-aacip-23602f4a023)
+- [](/catalog/cpb-aacip-191-84zgn1z2)
+- [](/catalog/cpb-aacip-207-61rfjd1n)
+- [](/catalog/cpb-aacip-c198c660e62)
+- [](/catalog/cpb-aacip-79e43ae2f15)
+- [](/catalog/cpb-aacip-191-182jm7sh)
+- [](/catalog/cpb-aacip-4e9db3deaf4)
+- [](/catalog/cpb-aacip-920d538fc74)
+- [](/catalog/cpb-aacip-191-805x6k96)
+- [](/catalog/cpb-aacip-7d62f718638)
+- [](/catalog/cpb-aacip-191-87pnw5pp)
+- [](/catalog/cpb-aacip-22369c20fee)
+- [](/catalog/cpb-aacip-191-515mkrvv)
+- [](/catalog/cpb-aacip-006d5989b8a)
+- [](/catalog/cpb-aacip-191-53wstws8)
+- [](/catalog/cpb-aacip-207-50gthzkp)
+- [](/catalog/cpb-aacip-9c92065cf28)
+- [](/catalog/cpb-aacip-558f425b766)
+- [](/catalog/cpb-aacip-a50ba289541)
+- [](/catalog/cpb-aacip-207-03qv9snj)
+- [](/catalog/cpb-aacip-207-859cnxj6)
+- [](/catalog/cpb-aacip-191-3976hjmf)
+- [](/catalog/cpb-aacip-84edb076880)
+- [](/catalog/cpb-aacip-c23d21680b5)
