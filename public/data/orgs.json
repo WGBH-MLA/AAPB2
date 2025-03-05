@@ -2308,5 +2308,14 @@
     "Url": "https://weta/org/",
     "Name": "WETA",
     "location": [38.8430, -77.0828]
-  }
+  },
+   "NCSG55181": {
+    "Short name": "ITVS",
+    "State": "California",
+    "City": "San Francisco",
+    "Logo": "itvs-logo.png",
+    "Url": "https://itvs.org/",
+    "Name": "ITVS",
+    "location": [37.7727, -122.4131]
+   }
 }
