@@ -14,6 +14,10 @@ This section features programs about communities, institutions, and movements th
 
 ## Main
 
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/insight-saving-columbus.png">
+
+**[*Surviving Columbus: The Story of the Pueblo People*](/catalog/cpb-aacip-526-jh3cz33930) (KNME-TV, Albuquerque, NM, October 12, 1992)**
+
 <table class="full-width">
   <tbody>
     <tr>
@@ -24,33 +28,31 @@ This section features programs about communities, institutions, and movements th
   </tbody>
 </table>
 
-**[*Surviving Columbus: The Story of the Pueblo People*](/catalog/cpb-aacip-526-jh3cz33930) (KNME-TV, Albuquerque, NM, October 12, 1992)**
-
 A Columbus Quincentenary special, *Surviving Columbus: The Story of the Pueblo People* presents the Pueblo Indians' view of the encounter with Europeans, which began one afternoon in 1539 with the arrival of a Spanish slave from Azamore, Morocco, and continues to this day.  
 
 **[Columbus Day Workshop](/catalog/cpb-aacip-207-289gj0px) (WGBH, Boston, MA)**
 
 The Columbus Day Workshop critically examines the myth of Columbus' impact in the U.S. southwest. 
 
-**[Report from Santa Fe](/catalog/cpb-aacip-c88897eda6f) (KNME-TV, Albuquerque, NM, October 12, 1992)**
+**[*Report from Santa Fe*, "Herman Agoyo and Cliff Fragua"](/catalog/cpb-aacip-c88897eda6f) (KENW-TV, Portales, NM, July 2, 2005)**
 
-In Report from Santa Fe, Herman Agoyo (San Juan Pueblo) and sculptor Cliff Fragua (Jemez Pueblo) discuss the artist's sculpture of Po'pay in the National Statuary Hall. 
+In this episode of *Report from Santa Fe*, Herman Agoyo (San Juan Pueblo) and sculptor Cliff Fragua (Jemez Pueblo) discuss the artist's sculpture of Po'pay in the National Statuary Hall. 
 
-**[New Mexico in Focus: Juan de Oñate Statue Protest](/catalog/cpb-aacip-686d1be50d9) (KNME-TV, Albuquerque, NM, June 19, 2020)**
+**[*New Mexico in Focus*, "Juan de Oñate Statue Protest"](/catalog/cpb-aacip-686d1be50d9) (KNME-TV, Albuquerque, NM, June 19, 2020)**
 
-New Mexico in Focus: Juan de Oñate Statue Protest shows a bitter fight over the proper historical place for one of the most controversial figures in the history of the Southwest. As protestors in Albuquerque tried to yank down his likeness a self-appointed group of armed guards riled the crowd and shot a demonstrator. 
+*New Mexico in Focus*, "Juan de Oñate Statue Protest" shows a bitter fight over the proper historical place for one of the most controversial figures in the history of the Southwest. As protestors in Albuquerque tried to yank down his likeness a self-appointed group of armed guards riled the crowd and shot a demonstrator. 
 
-**[New Mexico in Focus: Reconsidering La Entrada](/catalog/cpb-aacip-5dcda8ee12e?start=941.12&end=2049.09) (KNME-TV, Albuquerque, NM, August 17, 2018)**
+**[*New Mexico in Focus*, "Reconsidering La Entrada"](/catalog/cpb-aacip-5dcda8ee12e?start=941.12&end=2049.09) (KNME-TV, Albuquerque, NM, August 17, 2018)**
 
-In New Mexico in Focus: Reconsidering La Entrada, correspondent Matt Grubs talks with former New Mexico State Historian Estevan Rael-Gálvez about changes to this year's La Entrada tradition. 
+In *New Mexico in Focus*, "Reconsidering La Entrada," correspondent Matt Grubs talks with former New Mexico State Historian Estevan Rael-Gálvez about changes to this year's La Entrada tradition. 
 
-**[New Mexico in Focus: Black Lives Matter Protests](/catalog/cpb-aacip-b29f3a40580) (KNME-TV, Albuquerque, NM, June 5, 2020)**
+**[*New Mexico in Focus*, "Black Lives Matter Protests"](/catalog/cpb-aacip-b29f3a40580) (KNME-TV, Albuquerque, NM, June 5, 2020)**
 
-In New Mexico in Focus: Black Lives Matter Protests, correspondent Megan Kamerick talks with a protest organizer, an educator, and a city leader about the struggle of Black Lives Matter organizers to separate their message from broader anger and especially from violence. 
+In *New Mexico in Focus*, "Black Lives Matter Protests," correspondent Megan Kamerick talks with a protest organizer, an educator, and a city leader about the struggle of Black Lives Matter organizers to separate their message from broader anger and especially from violence. 
 
-**[Young Organizers and Activists of Black Lives Matter](/catalog/cpb-aacip-61ba49b423a?start=1928.97&end=2773.36) (KNME-TV, Albuquerque, NM, July 31, 2020)**
+**[*New Mexico in Focus*, "Young Organizers and Activists of Black Lives Matter"](/catalog/cpb-aacip-61ba49b423a?start=1928.97&end=2773.36) (KNME-TV, Albuquerque, NM, July 31, 2020)**
 
-In Young Organizers and Activists of Black Lives Matter, organizers and activists from the Learning Alliance of New Mexico and Fight for Our Lives discuss the Black Lives Matter movement and institutional reforms. 
+In this segment of an episode of *New Mexico in Focus*, organizers and activists from the Learning Alliance of New Mexico and Fight for Our Lives discuss the Black Lives Matter movement and institutional reforms. 
 
 **[At Week's End: The American Dream](/catalog/cpb-aacip-191-418kpwwx)(New Mexico PBS, Albuquerque, NM)**
 
