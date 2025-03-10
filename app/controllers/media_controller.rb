@@ -6,6 +6,9 @@ class MediaController < ApplicationController
 
   def show
     if can?(:access_media_url, pbcore)
+      # TODO: wrap in conditional specific to CORS-allowed requests once confirmed
+      # that the headers are correctly being set.
+      allow_cors!
       redirect_to media_url
     else
       render nothing: true, status: :unauthorized
@@ -45,5 +48,13 @@ class MediaController < ApplicationController
 
   def sony_ci
     @sony_ci ||= SonyCiApi::Client.new(Rails.root + 'config/ci.yml')
+  end
+
+  def allow_cors!
+    Rails.logger.info("Allowing CORS access to media content.")
+    headers['Access-Control-Allow-Origin'] = '*'
+    headers['Access-Control-Allow-Methods'] = 'GET, OPTIONS'
+    headers['Access-Control-Request-Method'] = '*'
+    headers['Access-Control-Allow-Headers'] = 'Origin, X-Requested-With, Content-Type, Accept, Authorization'
   end
 end
