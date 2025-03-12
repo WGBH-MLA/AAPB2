@@ -14,6 +14,8 @@ Empowering people who have been labeled different or unimportant is a major feat
 
 ## Main
 
+**[*Illustrated Daily*, "Jaune Quick-to-See"](/catalog/cpb-aacip-191-25k98w97)(KNME-TV, Albuquerque, NM, November 22, 1984)**
+
 <table class="full-width">
   <tbody>
     <tr>
@@ -24,33 +26,31 @@ Empowering people who have been labeled different or unimportant is a major feat
   </tbody>
 </table>
 
-**[Illustrated Daily: Jaune Quick-to-See](/catalog/cpb-aacip-191-25k98w97)(KNME-TV, Albuquerque, NM, November 22, 1984)**
+*Illustrated Daily*, "Jaune Quick-to-See" features an interview with American artist, Jaune Quick-to-See Smith (Salish, Nehiiyawak and Aqui-Dika) in her adobe art studio in Corrales, New Mexico. 
 
-Illustrated Daily: Jaune Quick-to-See features an interview with American artist, Jaune Quick-to-See Smith (Salish, Nehiiyawak and Aqui-Dika) in her adobe art studio in Corrales, New Mexico. 
+**[*¡Colores!*, "Michael Naranjo: A New Vision"](/catalog/cpb-aacip-191-407wm76g?start=71.52&end=1741.74) (KNME-TV, Albuquerque, NM, April 18, 1990)**
 
-**[¡Colores! Michael Naranjo: A New Vision](/catalog/cpb-aacip-191-407wm76g?start=71.52&end=1741.74) (KNME-TV, Albuquerque, NM, April 18, 1990)**
+*¡Colores!*, "Michael Naranjo: A New Vision" introduces Michael Naranjo (Santa Clara Pueblo) who found his passion for sculpture after being wounded in the Vietnam War and losing his sight. 
 
-¡Colores! Michael Naranjo: A New Vision introduces Michael Naranjo (Santa Clara Pueblo) who found his passion for sculpture after being wounded in the Vietnam War and losing his sight. 
+**[*¡Colores!*, "Ann Noggle: Capturing the Character of Aging"](/catalog/cpb-aacip-191-49g4f9db?start=92.76&end=1268.01)(KNME-TV, Albuquerque, NM, January 31, 1990)**
 
-**[¡Colores! Ann Noggle: Capturing the Character of Aging](/catalog/cpb-aacip-191-49g4f9db?start=92.76&end=1268.01)(KNME-TV, Albuquerque, NM, January 31, 1990)**
+In *¡Colores!*, "Ann Noggle: Capturing the Character of Aging", photographer Ann Noggle captures the character of aging, that lifelong experience that makes the individual.  
 
-In ¡Colores! Ann Noggle: Capturing the Character of Aging, photographer Ann Noggle captures the character of aging, that lifelong experience that makes the individual.  
+**[*Report from Santa Fe*, "Judy Chicago"](/catalog/cpb-aacip-cb69cbe8130)(KENW-TV, Portales, NM, October 8, 2011)**
 
-**[Report from Santa Fe; Judy Chicago](/catalog/cpb-aacip-cb69cbe8130)(KENW-TV, Portales, NM, October 8, 2011)**
+In *Report from Santa Fe*, "Judy Chicago", feminist artist Judy Chicago challenges historical exclusion by educating the public on the erasure of women's contributions. 
 
-In Report from Santa Fe; Judy Chicago, feminist artist Judy Chicago challenges historical exclusion by educating the public on the erasure of women's contributions. 
+**[*¡Colores!*, "Opening Doors"](/catalog/cpb-aacip-191-01pg4ft4?start=58.5&end=1668.13)(KNME-TV, Albuquerque, NM, July 8, 1992)**
 
-**[¡Colores! Opening Doors](/catalog/cpb-aacip-191-01pg4ft4?start=58.5&end=1668.13)(KNME-TV, Albuquerque, NM, July 8, 1992)**
+In *¡Colores!*, "Opening Doors", The Buen Viaje Dancers come from all backgrounds and share a common bond of being specially enabled. 
 
-In ¡Colores! Opening Doors, The Buen Viaje Dancers come from all backgrounds and share a common bond of being specially enabled. 
+**[*Notable New Mexicans*, "Maria Benitez"](/catalog/cpb-aacip-191-79573wfc?start=0&end=440)(KNME-TV, Albuquerque, NM, 2009)**
 
-**[Notable New Mexicans: Maria Benitez](/catalog/cpb-aacip-191-79573wfc?start=0&end=440)(KNME-TV, Albuquerque, NM, 2009)**
+Maria Benitez's life as a Flamenco dancer is featured in *Notable New Mexicans*, "Maria Benitez", a spotlight on notable New Mexicans. 
 
-Maria Benitez's life as a Flamenco dancer is featured in Notable New Mexicans: Maria Benitez, a spotlight on notable New Mexicans. 
+**[*¡Colores!*, "One Who Stands In the Sun"](/catalog/cpb-aacip-191-56n031q3?start=93.75&end=1787)(New Mexico PBS, Albuquerque, NM)**
 
-**[¡Colores! One Who Stands In the Sun](/catalog/cpb-aacip-191-56n031q3?start=93.75&end=1787)(New Mexico PBS, Albuquerque, NM)**
-
-¡Colores! One Who Stands In the Sun captures the life and art of Native American painter T. C. Cannon, also known as Pai-doung-u-day (Caddo/Kiowa). 
+*¡Colores!*, "One Who Stands In the Sun" captures the life and art of Native American painter T. C. Cannon, also known as Pai-doung-u-day (Caddo/Kiowa). 
 
 <table class="full-width">
   <tbody>
@@ -62,45 +62,45 @@ Maria Benitez's life as a Flamenco dancer is featured in Notable New Mexicans: M
   </tbody>
 </table>
 
-**[Public Square: LGBTQ Youth in New Mexico](/catalog/cpb-aacip-b491f85449c)(KNME-TV, Albuquerque, NM, January 31, 2013)**
+**[*Public Square*, "LGBTQ Youth in New Mexico"](/catalog/cpb-aacip-b491f85449c)(KNME-TV, Albuquerque, NM, January 31, 2013)**
 
-In Public Square: LGBTQ Youth in New Mexico, young people in New Mexico’s LGBTQ community share their experiences, and advocates and community leaders talk about what we need to do to improve the lives of LGBTQ New Mexicans.  
+In *Public Square*, "LGBTQ Youth in New Mexico", young people in New Mexico’s LGBTQ community share their experiences, and advocates and community leaders talk about what we need to do to improve the lives of LGBTQ New Mexicans.  
 
-**[New Mexico in Focus: Legislative Special Session and LGBTQ Youth](/catalog/cpb-aacip-3a94c9fd63c?start=1924.82&end=2512.26)(KNME-TV, Albuquerque, NM, June 12, 2015)**
+**[*New Mexico in Focus*, "Legislative Special Session and LGBTQ Youth"](/catalog/cpb-aacip-3a94c9fd63c?start=1924.82&end=2512.26)(KNME-TV, Albuquerque, NM, June 12, 2015)**
 
-In New Mexico in Focus: Legislative Special Session and LGBTQ Youth, LGBTQ youth resources and advocates speak out. 
+In *New Mexico in Focus*, "Legislative Special Session and LGBTQ Youth", LGBTQ youth resources and advocates speak out. 
 
 **[Gay Activism: The View from the Inside](/catalog/cpb-aacip-191-03cz8x0j?start=0&end=1721)(KNME-TV, Albuquerque, NM, June 21, 1982)**
 
-In Illustrated Daily's Gay Activism: The View from the Inside, Hal Rhodes talks to two leaders of the National Gay Rights Movement; Lucia Valeska and Leonard Matlovich.  
+In *Illustrated Daily*'s Gay Activism: The View from the Inside, Hal Rhodes talks to two leaders of the National Gay Rights Movement; Lucia Valeska and Leonard Matlovich.  
 
-**[At Week's End: Equal Sexual Rights](/catalog/cpb-aacip-191-31cjt1nv?start=95.01&end=1132.48)(New Mexico PBS, Albuquerque, NM, June 21, 1982)**
+**[*At Week's End*, "Equal Sexual Rights"](/catalog/cpb-aacip-191-31cjt1nv?start=95.01&end=1132.48)(New Mexico PBS, Albuquerque, NM, June 21, 1982)**
 
-At Week's End: Equal Sexual Rights features a discussion of an equal rights bill to bar discrimination against gays, lesbians and bisexuals. 
+*At Week's End*, "Equal Sexual Rights" features a discussion of an equal rights bill to bar discrimination against gays, lesbians and bisexuals. 
 
-**[¡Colores! La Villa De Santa Fe](/catalog/cpb-aacip-191-569324bj)(KNME-TV, Albuquerque, NM, September 2, 1999)**
+**[*¡Colores!*, "La Villa De Santa Fe"](/catalog/cpb-aacip-191-569324bj)(KNME-TV, Albuquerque, NM, September 2, 1999)**
 
-¡Colores! La Villa De Santa Fe offers a look at the history of the city of Santa Fe from diverse perspectives that evoke feelings of love, anger, reverence, fear, disenchantment, and hope. 
+*¡Colores!*, "La Villa De Santa Fe" offers a look at the history of the city of Santa Fe from diverse perspectives that evoke feelings of love, anger, reverence, fear, disenchantment, and hope. 
 
-**[¡Colores! Abuquerque's Places of the Heart](/catalog/cpb-aacip-191-34sj3z0n?start=85.83&end=2366)(KNME-TV, Albuquerque, NM, August 3, 2008)**
+**[*¡Colores!*, "Abuquerque's Places of the Heart"](/catalog/cpb-aacip-191-34sj3z0n?start=85.83&end=2366)(KNME-TV, Albuquerque, NM, August 3, 2008)**
 
-¡Colores! Abuquerque's Places of the Heart shows how revitalization brings a greater understanding of the need for preserving the history and buildings of Albuquerque's past. 
+*¡Colores!*, "Abuquerque's Places of the Heart" shows how revitalization brings a greater understanding of the need for preserving the history and buildings of Albuquerque's past. 
 
-**[¡Colores! More! Abuquerque's Places of the Heart](/catalog/cpb-aacip-191-805x6k7r?start=52.99&end=2339.43)(KNME-TV, Albuquerque, NM, March, 1998)**
+**[*¡Colores!*, "More! Abuquerque's Places of the Heart"](/catalog/cpb-aacip-191-805x6k7r?start=52.99&end=2339.43)(KNME-TV, Albuquerque, NM, March, 1998)**
 
-The conversation continues with ¡Colores! More! Albuquerque: Places of the Heart, a celebration of Old Albuquerque High School, the Sunport, the Civic Auditorium and many other Albuquerque landmarks. 
+The conversation continues with *¡Colores!*, "More! Albuquerque: Places of the Heart", a celebration of Old Albuquerque High School, the Sunport, the Civic Auditorium and many other Albuquerque landmarks. 
 
-**[¡Colores! Albuquerque's People of the Heart](/catalog/cpb-aacip-191-34sj3z1c?start=106.17&end=3668)(New Mexico PBS, Albuquerque, NM)**
+**[*¡Colores!*, "Albuquerque's People of the Heart"](/catalog/cpb-aacip-191-34sj3z1c?start=106.17&end=3668)(New Mexico PBS, Albuquerque, NM)**
 
-¡Colores! Albuquerque's People of the Heart is a multicultural story of the people who have devoted themselves to making their city a better place. 
+*¡Colores!*, "Albuquerque's People of the Heart" is a multicultural story of the people who have devoted themselves to making their city a better place. 
 
-**[¡Colores! Santa Fe: New Mexico's Places of the Heart](/catalog/cpb-aacip-191-65v6x3zg?start=102.51&end=1439.86)(KNME-TV, Albuquerque, NM, August 5, 2000)**
+**[*¡Colores!*, "Santa Fe: New Mexico's Places of the Heart"](/catalog/cpb-aacip-191-65v6x3zg?start=102.51&end=1439.86)(KNME-TV, Albuquerque, NM, August 5, 2000)**
 
-¡Colores! Santa Fe: New Mexico's Places of the Heart is a nostalgic tour of Santa Fe illustrated with archival films and photographs. 
+*¡Colores!*, "Santa Fe: New Mexico's Places of the Heart" is a nostalgic tour of Santa Fe illustrated with archival films and photographs. 
 
-**[¡Colores! Albuquerque's Historic Neighborhoods](/catalog/cpb-aacip-191-10wpzhtf?start=51&end=2553.73)(KNME-TV, Albuquerque, NM, March 23, 2003)**
+**[*¡Colores!*, "Albuquerque's Historic Neighborhoods"](/catalog/cpb-aacip-191-10wpzhtf?start=51&end=2553.73)(KNME-TV, Albuquerque, NM, March 23, 2003)**
 
-¡Colores! Albuquerque's Historic Neighborhoods proves that Albuquerque's historic neighborhoods are key to understanding the uniqueness of the city. 
+*¡Colores!*, "Albuquerque's Historic Neighborhoods" proves that Albuquerque's historic neighborhoods are key to understanding the uniqueness of the city. 
 
 <table class="full-width">
   <tbody>
@@ -112,33 +112,33 @@ The conversation continues with ¡Colores! More! Albuquerque: Places of the Hear
   </tbody>
 </table>
 
-**[¡Colores! Fabiola Cabeza de Baca](/catalog/cpb-aacip-14ac221efe6)(KNME-TV, Albuquerque, NM, July 25, 2020)**
+**[*¡Colores!*, "Fabiola Cabeza de Baca"](/catalog/cpb-aacip-14ac221efe6)(KNME-TV, Albuquerque, NM, July 25, 2020)**
 
-¡Colores! Fabiola Cabeza de Baca is a profile of educator, nutritionist, activist, and the author of one of New Mexico’s first cookbooks, Fabiola Cabeza de Baca, whose lifelong passion was to share the value of New Mexican foods. 
+*¡Colores!*, "Fabiola Cabeza de Baca" is a profile of educator, nutritionist, activist, and the author of one of New Mexico’s first cookbooks, Fabiola Cabeza de Baca, whose lifelong passion was to share the value of New Mexican foods. 
 
-**[New Mexico in Focus: Pueblo Foods](/catalog/cpb-aacip-a9952645568?start=2046.97&end=2916.15)(KNME-TV, Albuquerque, NM, November 25, 2016)**
+**[*New Mexico in Focus*, "Pueblo Foods"](/catalog/cpb-aacip-a9952645568?start=2046.97&end=2916.15)(KNME-TV, Albuquerque, NM, November 25, 2016)**
 
-Learn about the traditional foods of Pueblo communities in New Mexico with Lois Ellen Frank (Kiowa) and Roxanne Swentzell (Santa Clara Pueblo) in New Mexico in Focus: Pueblo Foods. 
+Learn about the traditional foods of Pueblo communities in New Mexico with Lois Ellen Frank (Kiowa) and Roxanne Swentzell (Santa Clara Pueblo) in *New Mexico in Focus*, "Pueblo Foods". 
 
 **[The Musical Adventures of John Donald Robb in New Mexico](/catalog/cpb-aacip-191-06sxktqn)(KNME-TV, Albuquerque, NM)**
 
 The Musical Adventures of John Donald Robb in New Mexico is a biographical sketch of John Donald Robb and his work archiving Hispano folk music in New Mexico. 
 
-**[¡Colores! New Mexico's Ancient Adobe Churches](/catalog/cpb-aacip-191-67wm3fqq?start=83.91&end=2219.31)(New Mexico PBS, Albuquerque, NM)**
+**[*¡Colores!*, "New Mexico's Ancient Adobe Churches"](/catalog/cpb-aacip-191-67wm3fqq?start=83.91&end=2219.31)(New Mexico PBS, Albuquerque, NM)**
 
-Embark on a stunning photographic tour of some of New Mexico's most beautiful and ancient adobe churches in ¡Colores! New Mexico's Ancient Adobe Churches. 
+Embark on a stunning photographic tour of some of New Mexico's most beautiful and ancient adobe churches in *¡Colores!*, "New Mexico's Ancient Adobe Churches". 
 
-**[¡Colores! Alabados de Nuevo México](/catalog/cpb-aacip-191-79h44shd?start=68.74&end=1652)(KNME-TV, Albuquerque, NM, 2006)** 
+**[*¡Colores!*, "Alabados de Nuevo México"](/catalog/cpb-aacip-191-79h44shd?start=68.74&end=1652)(KNME-TV, Albuquerque, NM, 2006)** 
 
-Experience sacred "alabados" of the Penitentes of Northern New Mexico in ¡Colores! Alabados de Nuevo México. 
+Experience sacred "alabados" of the Penitentes of Northern New Mexico in *¡Colores!*, "Alabados de Nuevo México". 
 
-**[¡Colores! A Mi Raza: Sabine Ulibarrí](/catalog/cpb-aacip-191-37vmd009?start=94.5&end=1685)(New Mexico PBS, Albuquerque, NM)** 
+**[*¡Colores!*, "A Mi Raza: Sabine Ulibarrí"](/catalog/cpb-aacip-191-37vmd009?start=94.5&end=1685)(New Mexico PBS, Albuquerque, NM)** 
 
-¡Colores! A Mi Raza: Sabine Ulibarrí is a virtuoso performance by Sabine R. Ulibarrí, one of New Mexico's most acclaimed authors. 
+*¡Colores!*, "A Mi Raza: Sabine Ulibarrí" is a virtuoso performance by Sabine R. Ulibarrí, one of New Mexico's most acclaimed authors. 
 
-**[¡Colores!; Una Lucha Por Mi Pueblo](/catalog/cpb-aacip-191-93ttf75f)(KNME-TV, Albuquerque, NM, June 20, 1990)** 
+**[*¡Colores!*, "Una Lucha Por Mi Pueblo"](/catalog/cpb-aacip-191-93ttf75f)(KNME-TV, Albuquerque, NM, June 20, 1990)** 
 
-Experience the songs of corridistas: Antonio Martinez, Roberto Martinez, and Chuy Martinez in ¡Colores!; Una Lucha Por Mi Pueblo.
+Experience the songs of corridistas: Antonio Martinez, Roberto Martinez, and Chuy Martinez in *¡Colores!*, "Una Lucha Por Mi Pueblo".
 
 <table class="full-width">
   <tbody>
@@ -150,21 +150,21 @@ Experience the songs of corridistas: Antonio Martinez, Roberto Martinez, and Chu
   </tbody>
 </table>
 
-**[¡Colores! Authors Enrique Lamadrid and Moises Gonzales](/catalog/cpb-aacip-d3439733e3a)(KNME-TV, Albuquerque, NM, September 7, 2019)** 
+**[*¡Colores!*, "Authors Enrique Lamadrid and Moises Gonzales"](/catalog/cpb-aacip-d3439733e3a)(KNME-TV, Albuquerque, NM, September 7, 2019)** 
 
-¡Colores! Authors Enrique Lamadrid and Moises Gonzales tells an untold story of slavery, *Nación Genízara: Ethnogenesis, Place, and Identity in New Mexico* expands the understanding of New Mexico’s identity—with Enrique Lamadrid (Author and Distinguished Professor Emeritus of Spanish, The University of New Mexico) and Moises Gonzales (Author and President, Cañón de Carnué Land Grant). 
+*¡Colores!*, "Authors Enrique Lamadrid and Moises Gonzales" tells an untold story of slavery, *Nación Genízara: Ethnogenesis, Place, and Identity in New Mexico* expands the understanding of New Mexico’s identity—with Enrique Lamadrid (Author and Distinguished Professor Emeritus of Spanish, The University of New Mexico) and Moises Gonzales (Author and President, Cañón de Carnué Land Grant). 
 
 **[Tomás Atencio](/catalog/cpb-aacip-a5bcc874366)(KUNM, Albuquerque, NM, April 20, 1985)**  
 
 In Espejos de Aztlán, Tomás Atencio discusses "genízaros" in New Mexico and, what he calls, "conciencia genízara." 
 
-**[New Mexico in Focus: Story of the Jews](/catalog/cpb-aacip-b58f6cc0ade?start=101.61&end=1587.7)(KNME-TV, Albuquerque, NM, March 21, 2014)**  
+**[*New Mexico in Focus*, "Story of the Jews"](/catalog/cpb-aacip-b58f6cc0ade?start=101.61&end=1587.7)(KNME-TV, Albuquerque, NM, March 21, 2014)**  
 
-New Mexico in Focus: Story of the Jews seeks to understand the once hidden stories of conversos or "crypto-Jews" in New Mexico. 
+*New Mexico in Focus*, "Story of the Jews* seeks to understand the once hidden stories of conversos or "crypto-Jews" in New Mexico. 
 
-**[New Mexico in Focus: Kellogg/Women's History Month](/catalog/cpb-aacip-0ad0be6f01c)(KNME-TV, Albuquerque, NM, March 21, 2014)**   
+**[*New Mexico in Focus*, "Kellogg/Women's History Month"](/catalog/cpb-aacip-0ad0be6f01c)(KNME-TV, Albuquerque, NM, March 21, 2014)**   
 
-New Mexico in Focus: Kellogg/Women's History Month is a look back at the Spanish Inquisition and the life of Doña Teresa, the Governor’s wife and a target of the Inquisition. 
+*New Mexico in Focus*, "Kellogg/Women's History Month" is a look back at the Spanish Inquisition and the life of Doña Teresa, the Governor’s wife and a target of the Inquisition. 
 
 <table class="full-width">
   <tbody>
@@ -176,33 +176,32 @@ New Mexico in Focus: Kellogg/Women's History Month is a look back at the Spanish
   </tbody>
 </table>
 
-**[¡Colores! This Town Is Not for Sale](/catalog/cpb-aacip-191-13905s4p)(New Mexico PBS, Albuquerque, NM)**   
+**[*¡Colores!*, "This Town Is Not for Sale"](/catalog/cpb-aacip-191-13905s4p)(New Mexico PBS, Albuquerque, NM)**   
 
-¡Colores! This Town Is Not for Sale is the story of a town election that took place in a climate of public discontent. Overwhelmed with growth, the Santa Fe community is fracturing over rapid, upscale development, and growing racial and class tensions.  
+*¡Colores!*, "This Town Is Not for Sale" is the story of a town election that took place in a climate of public discontent. Overwhelmed with growth, the Santa Fe community is fracturing over rapid, upscale development, and growing racial and class tensions.  
 
-**[Illustrated Daily: New Mexico's Grand Dames](/catalog/cpb-aacip-191-21tdz2jm)(KNME-TV, Albuquerque, NM)**    
+**[*Illustrated Daily*, "New Mexico's Grand Dames"](/catalog/cpb-aacip-191-21tdz2jm)(KNME-TV, Albuquerque, NM)**    
 
-Illustrated Daily: New Mexico's Grand Dames is an interview with Dorothy Irene Cline who specialized in the practice and study of New Mexico political affairs.
+*Illustrated Daily*, "New Mexico's Grand Dames" is an interview with Dorothy Irene Cline who specialized in the practice and study of New Mexico political affairs.
 
-**[Illustrated Daily: New Mexico's Grand Dames II](/catalog/cpb-aacip-65c11c665a0)(KNME-TV, Albuquerque, NM)**    
+**[*Illustrated Daily*, "New Mexico's Grand Dames II"](/catalog/cpb-aacip-65c11c665a0)(KNME-TV, Albuquerque, NM)** 
 
-Illustrated Daily: New Mexico's Grand Dames II spotlights women in New Mexico politics; Dorothy Cline, Frances Shipman, Judith Pratt and Lynn Tytler. 
+*Illustrated Daily*, "New Mexico's Grand Dames II" spotlights women in New Mexico politics; Dorothy Cline, Frances Shipman, Judith Pratt and Lynn Tytler. 
 
-**[At Week's End: New Mexico Women Legislators](/catalog/cpb-aacip-e83d00e4ac1)(KNME-TV, Albuquerque, NM, March 22, 1991)**    
+**[*At Week's End*, "New Mexico Women Legislators"](/catalog/cpb-aacip-e83d00e4ac1)(KNME-TV, Albuquerque, NM, March 22, 1991)**    
 
-In At Week's End: New Mexico Women Legislators, the political scene in the United States is changing as more women are running for political office and winning elections. 
+In *At Week's End*, "New Mexico Women Legislators", the political scene in the United States is changing as more women are running for political office and winning elections. 
 
-**[New Mexico in Focus: U.S. Representative-Elect Deb Haaland](/catalog/cpb-aacip-6577b33e51c)(KNME-TV, Albuquerque, NM, December 7, 2018)**   
+**[*New Mexico in Focus*, "U.S. Representative-Elect Deb Haaland"](/catalog/cpb-aacip-6577b33e51c)(KNME-TV, Albuquerque, NM, December 7, 2018)**   
 
-Deb Haaland (Laguna Pueblo) made history by becoming one of the first female Native Americans in the U.S. House of Representatives. Witness her story in New Mexico in Focus: U.S. Representative-Elect Deb Haaland.  
+Deb Haaland (Laguna Pueblo) made history by becoming one of the first female Native Americans in the U.S. House of Representatives. Witness her story in *New Mexico in Focus*, "U.S. Representative-Elect Deb Haaland".  
 
 **[Coming of Age in New Mexico](/catalog/cpb-aacip-207-08v9s5f4)(KUNM, Albuquerque, NM, February 20, 1992)**      
 
 Listen to short stories about the lives of girls and women in New Mexico history in Coming of Age in New Mexico.  
 
-**[New Mexico in Focus: Women in Science](/catalog/cpb-aacip-191-623bk9cp)(KNME-TV, Albuquerque, NM, March 13, 1998)**       
-
-New Mexico in Focus: Women in Science is a profile on Margaret Werner-Washburne, a nationally recognized research biologist making breakthroughs in understanding the cell. 
+**[*New Mexico in Focus*, "Women in Science"](/catalog/cpb-aacip-191-623bk9cp)(KNME-TV, Albuquerque, NM, March 13, 1998)**     
+*New Mexico in Focus*, "Women in Science" is a profile on Margaret Werner-Washburne, a nationally recognized research biologist making breakthroughs in understanding the cell. 
 
 <table class="full-width">
   <tbody>
@@ -214,17 +213,17 @@ New Mexico in Focus: Women in Science is a profile on Margaret Werner-Washburne,
   </tbody>
 </table>
 
-**[¡Colores! Golden Dawn: The Pueblo Paintings of Pablita Velarde](/catalog/cpb-aacip-191-0000002n)(KNME-TV, Albuquerque, NM, January 11, 1994)**      
+**[*¡Colores!*, "Golden Dawn: The Pueblo Paintings of Pablita Velarde"](/catalog/cpb-aacip-191-0000002n)(KNME-TV, Albuquerque, NM, January 11, 1994)**      
 
-The 75-year-old painter Pablita Velarde, also known as Tse Tsan (Santa Clara Pueblo), began her painting career at the age of fourteen. In ¡Colores! Golden Dawn: The Pueblo Paintings of Pablita Velarde, she talks about her art, her life, and the things that have inspired her.  
+The 75-year-old painter Pablita Velarde, also known as Tse Tsan (Santa Clara Pueblo), began her painting career at the age of fourteen. In *¡Colores!*, "Golden Dawn: The Pueblo Paintings of Pablita Velarde", she talks about her art, her life, and the things that have inspired her.  
 
-**[¡Colores! Building Bridges, Binding Generations: Hispanic Women and Their Art](/catalog/cpb-aacip-191-32r4xmd1)(New Mexico PBS, Albuquerque, NM)**       
+**[*¡Colores!*, "Building Bridges, Binding Generations: Hispanic Women and Their Art"](/catalog/cpb-aacip-191-32r4xmd1)(New Mexico PBS, Albuquerque, NM)**       
 
-In ¡Colores! Building Bridges, Binding Generations: Hispanic Women and Their Art, Hispanic women examine their roles in their communities; in their relationships with men, their families, and their culture. 
+In *¡Colores!*, "Building Bridges, Binding Generations: Hispanic Women and Their Art", Hispanic women examine their roles in their communities; in their relationships with men, their families, and their culture. 
 
-**[¡Colores! Notable New Mexicans 2006](/catalog/cpb-aacip-a0ca6700f89)(KNME-TV, Albuquerque, NM, 2006)**      
+**[*¡Colores!*, "Notable New Mexicans 2006"](/catalog/cpb-aacip-a0ca6700f89)(KNME-TV, Albuquerque, NM, 2006)**      
 
-Maria Martinez (San Ildefonso Pueblo) created stunning pottery using traditional Pueblo styles and techniques. Witness her story in ¡Colores! Notable New Mexicans 2006. 
+Maria Martinez (San Ildefonso Pueblo) created stunning pottery using traditional Pueblo styles and techniques. Witness her story in *¡Colores!*, "Notable New Mexicans 2006". 
 
 **[New Mexico Women in Music 1](/catalog/cpb-aacip-207-805x6jn3)(KUNM, Albuquerque, NM, March 19, 1980)**     
 
