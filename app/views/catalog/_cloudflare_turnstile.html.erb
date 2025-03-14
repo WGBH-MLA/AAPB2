@@ -1,0 +1,12 @@
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" defer></script>
+<div class="cf-turnstile" data-sitekey="0x4AAAAAABAxrgLM4Ad1f_lk" data-callback="cfTurnstileCallback"></div>
+
+<script>
+function onloadTurnstileCallback() {
+turnstile.render('.cf-turnstile', {
+    sitekey: '0x4AAAAAABAxrgLM4Ad1f_lk',
+    callback: function(token) {
+        console.log(`Challenge Success ${token}`);
+    },
+});
+</script>
