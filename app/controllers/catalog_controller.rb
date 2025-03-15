@@ -298,10 +298,14 @@ class CatalogController < ApplicationController
   private
 
   def require_turnstile
-    return if session[:turnstile_verified] # Skip if already verified
+    return if turnstile_verified? # Skip if already verified
 
     flash[:alert] = "Please complete the verification."
     redirect_to turnstile_challenge_path(return_to: request.fullpath)
+  end
+
+  def turnstile_verified?
+    session[:turnstile_verified_at] && session[:turnstile_verified_at] > 24.hours.ago
   end
   
   def redirect_to_proxy_start_time?(pbcore, params)
