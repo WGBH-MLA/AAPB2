@@ -186,6 +186,8 @@ class CatalogController < ApplicationController
     config.spell_max = 5
   end
 
+  before_action :verify_human, only: [:index, :show]
+
   def index
     # If we are looking at search results for a particular exhibit or special collection, then fetch
     # the exhibit or special collection for additional display logic.
@@ -348,5 +350,14 @@ class CatalogController < ApplicationController
     headers['Access-Control-Allow-Methods'] = 'GET, OPTIONS'
     headers['Access-Control-Request-Method'] = '*'
     headers['Access-Control-Allow-Headers'] = 'Origin, X-Requested-With, Content-Type, Accept, Authorization'
+  end
+
+  def verify_human
+    unless cookies.encrypted[:turnstile_verified]
+      respond_to do |format|
+        format.html { render 'verify_human' }
+        format.json { render json: { error: 'Human verification required' }, status: 403 }
+      end
+    end
   end
 end
