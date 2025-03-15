@@ -1,9 +1,35 @@
-<h2>Please verify you're human</h2>
+<div id="cf-turnstile"></div>
 
-<form action="<%= turnstile_verify_path %>" method="POST">
-  <input type="hidden" name="return_to" value="<%= params[:return_to] %>">
-  <div class="cf-turnstile" data-sitekey="0x4AAAAAABAxrgLM4Ad1f_lk"></div>
-  <input type="submit" value="Verify">
-</form>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onloadTurnstileCallback" async defer></script>
+<script>
+window.onloadTurnstileCallback = function() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const returnTo = urlParams.get('return_to');
 
-<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+  turnstile.render('#cf-turnstile', {
+    sitekey: '0x4AAAAAABAxrgLM4Ad1f_lk',
+    callback: function(cf_turnstile_token) {
+      fetch('/turnstile_verify', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'X-CSRF-Token': document.querySelector('meta[name="csrf-token"]').content
+        },
+        body: JSON.stringify({ cf_turnstile_token: cf_turnstile_token })
+      })
+      .then(response => response.json())
+      .then(data => {
+        if (data.success) {
+          if (returnTo) {
+            window.location.href = returnTo;
+          } else {
+            window.location.href = '/';
+          }
+        } else {
+          alert('Verification failed. Please try again.');
+        }
+      });
+    }
+  });
+};
+</script>
