@@ -24,7 +24,7 @@ class TurnstileController < ApplicationController
     result = JSON.parse(response.body)
 
     if result["success"]
-      session[:turnstile_verified] = true # Mark session as verified
+      session[:turnstile_verified_at] = Time.current # Store timestamp instead of boolean
       flash[:notice] = "Verification successful!"
       redirect_to return_to
     else
