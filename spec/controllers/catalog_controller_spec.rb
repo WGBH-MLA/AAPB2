@@ -136,7 +136,6 @@ end
         expect { get 'index', f: { gibberish: 'data', access_types: PBCorePresenter::ALL_ACCESS } }.to raise_error
         # TODO: This is the current behavior: do we want something different?
       end
-    end
 
     describe 'catalog#show' do
       before(:all) do
@@ -200,4 +199,3 @@ end
       end
     end
   end
-end
