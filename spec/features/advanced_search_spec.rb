@@ -4,6 +4,10 @@ require_relative '../../scripts/lib/pb_core_ingester'
 require_relative '../support/feature_test_helper'
 
 describe 'Advanced Search Integration' do
+  before do
+    cookies.encrypted[:turnstile_verified] = true
+  end
+  
   before(:all) do
     PBCoreIngester.load_fixtures
   end
