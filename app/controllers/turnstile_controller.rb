@@ -17,12 +17,12 @@ class TurnstileController < ApplicationController
     end
 
     uri = URI.parse("https://challenges.cloudflare.com/turnstile/v0/siteverify")
+    
     response = Net::HTTP.post_form(uri,
-      "secret" => ENV['CLOUDFLARE_TURNSTILE_SECRET_KEY'],
-      "response" => request_params['cf_turnstile_token'],
-      "remoteip" => request.remote_ip
-      )
-
+                               "secret" => ENV['CLOUDFLARE_TURNSTILE_SECRET_KEY'],
+                               "response" => request_params['cf_turnstile_token'],
+                               "remoteip" => request.remote_ip
+                              )
     result = JSON.parse(response.body)
 
     if result["success"]
