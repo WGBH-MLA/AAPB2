@@ -3,20 +3,19 @@
 require 'rails_helper'
 require_relative '../../scripts/lib/pb_core_ingester'
 
-describe CatalogController do
+describe CatalogController do 
+  before do # account for cloudflare turnstile challenge
+    cookies.encrypted[:turnstile_verified] = true
+  end
+
   describe 'redirection' do
     ACCESS = "&f[access_types][]=#{PBCorePresenter::PUBLIC_ACCESS}".freeze
 
     describe 'catalog#index' do
-      before do
-        allow_any_instance_of(CatalogController).to receive(:require_turnstile).and_return(true)
-      end
-
       it 'redirects if no params' do
         get 'index'
         expect(response).to redirect_to '/catalog?' + ACCESS
       end
-
       it 'redirects if just blank q' do
         get 'index', q: ''
         expect(response).to redirect_to '/catalog?q=' + ACCESS
