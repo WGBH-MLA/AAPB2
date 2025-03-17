@@ -36,7 +36,7 @@ RSpec.configure do |config|
 
   # Stub Turnstile verification to always return true for tests
   config.before(:each, type: :controller) do
-    allow_any_instance_of(ApplicationController).to receive(:turnstile_verified?).and_return(true)
+    allow_any_instance_of(ApplicationController).to receive(:turnstile_verified).and_return(true)
   end
   
 
