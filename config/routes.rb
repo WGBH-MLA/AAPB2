@@ -35,6 +35,9 @@ Rails.application.routes.draw do
   resources 'oai',
             only: [:index]
 
+  get "/turnstile_challenge", to: "turnstile#challenge"
+  post "/turnstile_verify", to: "turnstile#verify"
+
   get 'logs', to: 'logs#index'
   get 'logs/:log_file_name', to: 'logs#show', log_file_name: /.*/
 
