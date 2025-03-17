@@ -35,9 +35,10 @@ RSpec.configure do |config|
   config.use_transactional_fixtures = true
 
   # Stub Turnstile verification to always return true for tests
-  config.before(:each) do
-    allow_any_instance_of(Turnstile::Client).to receive(:verify).and_return(true)
+  config.before(:each, type: :controller) do
+    allow_any_instance_of(ApplicationController).to receive(:turnstile_verified?).and_return(true)
   end
+  
 
   # RSpec Rails can automatically mix in different behaviours to your tests
   # based on their file location, for example enabling you to call `get` and
