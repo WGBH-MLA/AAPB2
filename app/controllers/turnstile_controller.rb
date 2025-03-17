@@ -47,5 +47,5 @@ class TurnstileController < ApplicationController
     JSON.parse(request.body.read)
   rescue
     {}
-  end  
+  end
 end
