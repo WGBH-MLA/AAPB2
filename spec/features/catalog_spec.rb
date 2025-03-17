@@ -8,7 +8,6 @@ describe 'Catalog' do
   before do
     cookies.encrypted[:turnstile_verified] = true
   end
-  
   IGNORE_FILE = Rails.root.join('spec', 'support', 'fixture-ignore.txt')
 
   before(:all) do
