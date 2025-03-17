@@ -3,7 +3,7 @@
 require 'rails_helper'
 require_relative '../../scripts/lib/pb_core_ingester'
 
-describe CatalogController do 
+describe CatalogController do
   before do # account for cloudflare turnstile challenge
     cookies.encrypted[:turnstile_verified] = true
   end
