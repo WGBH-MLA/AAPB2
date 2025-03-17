@@ -121,7 +121,6 @@ describe CatalogController do
     end
   end
 end
-      end
 
       it 'not in effect if q filled in, and access given' do
         get 'index', q: 'foo', f: { access_types: PBCorePresenter::ALL_ACCESS }
