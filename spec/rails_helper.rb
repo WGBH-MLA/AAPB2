@@ -34,21 +34,6 @@ RSpec.configure do |config|
   # instead of true.
   config.use_transactional_fixtures = true
 
-  config.include ActionDispatch::Cookies
-
-  # Stub Turnstile verification to always return true for tests
-  config.before(:suite) do
-    ApplicationController.any_instance.stub(:turnstile_verified) do
-      cookies.encrypted[:turnstile_verified] = {
-        value: true,
-        expires: 24.hours.from_now,
-        secure: Rails.env.production?,
-        httponly: true,
-        same_site: :strict
-      }
-    end
-  end
-
   # RSpec Rails can automatically mix in different behaviours to your tests
   # based on their file location, for example enabling you to call `get` and
   # `post` in specs under `spec/controllers`.
@@ -62,6 +47,5 @@ RSpec.configure do |config|
   #
   # The different available types are documented in the features, such as in
   # https://relishapp.com/rspec/rspec-rails/docs
-  # Automatically infer an example group's spec type from the file location.
   config.infer_spec_type_from_file_location!
 end

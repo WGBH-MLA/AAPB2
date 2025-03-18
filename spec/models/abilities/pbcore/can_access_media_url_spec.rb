@@ -5,16 +5,6 @@ describe Ability do
   # The 'user' is set with let(:user) in the contexts below.
   subject(:ability) { Ability.new(user) }
 
-  # Add verification from Turnstile
-  before(:each) do
-    cookies.encrypted[:turnstile_verified] = {
-      value: true,
-      expires: 24.hours.from_now,
-      secure: Rails.env.production?,
-      httponly: true,
-      same_site: :strict
-    }
-
   context 'for public PBCore records' do
     # NOTE: CanCan will only work if we use actual PBCore instance. It won't
     # work if you try to use a mock object, e.g. RSpec instance_double.

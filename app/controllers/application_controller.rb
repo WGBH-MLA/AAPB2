@@ -1,7 +1,8 @@
 class ApplicationController < ActionController::Base
+  before_action :check_turnstile, unless: -> { !Rails.configuration.turnstile_enabled }
   # Adds a few additional behaviors into the application controller
   include Blacklight::Controller
-  # Please be sure to impelement current_user and user_session. Blacklight depends on
+  # Please be sure to implement current_user and user_session. Blacklight depends on
   # these methods in order to perform user specific actions.
 
   layout 'blacklight'
@@ -12,5 +13,13 @@ class ApplicationController < ActionController::Base
 
   def current_user
     User.new(request)
+  end
+
+  private
+
+  def check_turnstile
+    if cookies.encrypted[:turnstile_verified].blank?
+      redirect_to turnstile_challenge_path and return
+    end
   end
 end
