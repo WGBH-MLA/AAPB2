@@ -4,6 +4,10 @@ require 'rails_helper'
 require_relative '../../scripts/lib/pb_core_ingester'
 
 describe CatalogController do
+  before(:all) do
+    cookies.encrypted[:turnstile_verified] = true
+  end
+  
   describe 'redirection' do
     ACCESS = "&f[access_types][]=#{PBCorePresenter::PUBLIC_ACCESS}".freeze
 
