@@ -6,7 +6,7 @@ require_relative '../../scripts/lib/pb_core_ingester'
 describe CatalogController do
   before(:each) do
     cookies.encrypted[:turnstile_verified] = {
-      value:true,
+      value: true,
       expires: 24.hours.from_now,
       secure: Rails.env.production?,
       httponly: true,
