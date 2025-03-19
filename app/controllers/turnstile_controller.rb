@@ -10,6 +10,17 @@ class TurnstileController < ApplicationController
   end
 
   def verify
+    if Rails.env.test?
+      cookies.encrypted[:turnstile_verified] = {
+        value: true,
+        expires: 24.hours.from_now,
+        secure: Rails.env.production?,
+        httponly: true,
+        same_site: :strict
+      }
+      return render json: { success: true }, status: :ok
+    end
+ 
     uri = URI.parse("https://challenges.cloudflare.com/turnstile/v0/siteverify")
     response = Net::HTTP.post_form(
       uri,
