@@ -20,7 +20,7 @@ class TurnstileController < ApplicationController
       }
       return render json: { success: true }, status: :ok
     end
- 
+
     uri = URI.parse("https://challenges.cloudflare.com/turnstile/v0/siteverify")
     response = Net::HTTP.post_form(
       uri,
