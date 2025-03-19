@@ -14,7 +14,7 @@ class TurnstileController < ApplicationController
     if token.nil? || token.empty?
       return render json: { success: false, error: "Invalid token" }, status: :unprocessable_entity
     end
-  
+
     # Skip verification in test environment
     unless Rails.env.production?
       turnstile_cookie(secure: false)
@@ -29,7 +29,7 @@ class TurnstileController < ApplicationController
       "remoteip" => request.remote_ip
     )
     result = JSON.parse(response.body)
-  
+
     if result["success"]
       turnstile_cookie
       render json: { success: true }, status: :ok
