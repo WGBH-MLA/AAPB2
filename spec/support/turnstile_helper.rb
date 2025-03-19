@@ -4,4 +4,3 @@ module TurnstileHelper
     cookies.encrypted[:turnstile_verified] = true
   end
 end
-  
