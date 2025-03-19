@@ -51,4 +51,3 @@ class TurnstileController < ApplicationController
   rescue
     {}
   end
-end
