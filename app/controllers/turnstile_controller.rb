@@ -10,37 +10,41 @@ class TurnstileController < ApplicationController
   end
 
   def verify
-    if test_environment?
-      set_turnstile_cookie
+    token = request_params['cf_turnstile_token']
+    if token.nil? || token.empty?
+      return render json: { success: false, error: "Invalid token" }, status: :unprocessable_entity
+    end
+  
+    # Skip verification in test environment
+    unless Rails.env.production?
+      set_turnstile_cookie(secure: false)
       return render json: { success: true }, status: :ok
-    else
-      uri = URI.parse("https://challenges.cloudflare.com/turnstile/v0/siteverify")
-      response = Net::HTTP.post_form(
+    end
+  
+    uri = URI.parse("https://challenges.cloudflare.com/turnstile/v0/siteverify")
+    response = Net::HTTP.post_form(
       uri,
       "secret" => ENV['CLOUDFLARE_TURNSTILE_SECRET_KEY'],
-      "response" => request_params['cf_turnstile_token'],
+      "response" => token,
       "remoteip" => request.remote_ip
-      )
-      result = JSON.parse(response.body)
-
+    )
+    result = JSON.parse(response.body)
+  
     if result["success"]
       set_turnstile_cookie
       render json: { success: true }, status: :ok
     else
       render json: { success: false }, status: :unprocessable_entity
     end
+  end
 
   private
 
-  def test_environment?
-    Rails.env.test?
-  end
-
-  def set_turnstile_cookie
+  def set_turnstile_cookie(secure: Rails.env.production?)
     cookies.encrypted[:turnstile_verified] = {
       value: true,
       expires: 24.hours.from_now,
-      secure: Rails.env.production?,
+      secure: secure,
       httponly: true,
       same_site: :strict
     }
@@ -48,6 +52,7 @@ class TurnstileController < ApplicationController
 
   def request_params
     JSON.parse(request.body.read)
-  rescue
+  rescue JSON::ParserError
     {}
   end
+end
