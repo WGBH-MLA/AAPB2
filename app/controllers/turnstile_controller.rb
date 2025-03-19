@@ -10,14 +10,14 @@ class TurnstileController < ApplicationController
   end
 
   def verify
-    token = request_params['cf_turnstile_token']
+    token = params['cf_turnstile_token']
     if token.nil? || token.empty?
       return render json: { success: false, error: "Invalid token" }, status: :unprocessable_entity
     end
 
     # Skip verification in test environment
     unless Rails.env.production?
-      turnstile_cookie(secure: false)
+      turnstile_cookie
       return render json: { success: true }, status: :ok
     end
 
@@ -40,11 +40,11 @@ class TurnstileController < ApplicationController
 
   private
 
-  def turnstile_cookie(secure: Rails.env.production?)
+  def turnstile_cookie
     cookies.encrypted[:turnstile_verified] = {
       value: true,
       expires: 24.hours.from_now,
-      secure: secure,
+      secure: true,
       httponly: true,
       same_site: :strict
     }
