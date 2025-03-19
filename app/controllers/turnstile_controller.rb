@@ -17,10 +17,10 @@ class TurnstileController < ApplicationController
   
     # Skip verification in test environment
     unless Rails.env.production?
-      set_turnstile_cookie(secure: false)
+      turnstile_cookie(secure: false)
       return render json: { success: true }, status: :ok
     end
-  
+
     uri = URI.parse("https://challenges.cloudflare.com/turnstile/v0/siteverify")
     response = Net::HTTP.post_form(
       uri,
@@ -31,7 +31,7 @@ class TurnstileController < ApplicationController
     result = JSON.parse(response.body)
   
     if result["success"]
-      set_turnstile_cookie
+      turnstile_cookie
       render json: { success: true }, status: :ok
     else
       render json: { success: false }, status: :unprocessable_entity
@@ -40,7 +40,7 @@ class TurnstileController < ApplicationController
 
   private
 
-  def set_turnstile_cookie(secure: Rails.env.production?)
+  def turnstile_cookie(secure: Rails.env.production?)
     cookies.encrypted[:turnstile_verified] = {
       value: true,
       expires: 24.hours.from_now,
