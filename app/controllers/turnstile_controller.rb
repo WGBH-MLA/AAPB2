@@ -29,7 +29,6 @@ class TurnstileController < ApplicationController
     else
       render json: { success: false }, status: :unprocessable_entity
     end
-  end
 
   private
 
