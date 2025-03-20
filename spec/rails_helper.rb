@@ -49,7 +49,7 @@ RSpec.configure do |config|
   # https://relishapp.com/rspec/rspec-rails/docs
   config.infer_spec_type_from_file_location!
 
-  config.before(:each, type: :request) do
+  config.before(:suite) do
     cookies.encrypted[:turnstile_verified] = true
   end
 end
