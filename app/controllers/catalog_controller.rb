@@ -298,7 +298,7 @@ class CatalogController < ApplicationController
   private
 
   def require_turnstile
-    return if cookies.encrypted[:turnstile_verified]
+    return if turnstile_verified?
     redirect_to turnstile_challenge_path(return_to: request.fullpath)
   end
 
@@ -355,5 +355,11 @@ class CatalogController < ApplicationController
     headers['Access-Control-Allow-Methods'] = 'GET, OPTIONS'
     headers['Access-Control-Request-Method'] = '*'
     headers['Access-Control-Allow-Headers'] = 'Origin, X-Requested-With, Content-Type, Accept, Authorization'
+  end
+
+  def turnstile_verified?
+    cookies.encrypted[:turnstile_verified] && Time.now < Time.new(cookies.encrypted[:turnstile_verified])
+  rescue
+    false
   end
 end

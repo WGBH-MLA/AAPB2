@@ -3,6 +3,10 @@ require 'uri'
 require 'json'
 
 class TurnstileController < ApplicationController
+
+  # Set how many minutes the "turnstile_verified" cookie lasts (1440 = 1 day)
+  COOKIE_MINUTES = 1440
+
   skip_before_action :verify_authenticity_token # For simplicity, remove in production
 
   def challenge
@@ -21,14 +25,10 @@ class TurnstileController < ApplicationController
     result = JSON.parse(response.body)
 
     if result["success"]
-      # Server sets the cookie in the response
-      cookies.encrypted[:turnstile_verified] = {
-        value: true,
-        expires: 24.hours.from_now,
-        secure: Rails.env.production?,
-        httponly: true,
-        same_site: :strict
-      }
+      # Server sets the cookie in the response to a timestamp.
+      # Usage (in Controller actions):
+      #   Time.now > Time.new(cookies.encrypted[:turnstile_verified])
+      cookies.encrypted[:turnstile_verified] = COOKIE_MINUTES.hours.from_now
 
       render json: { success: true }, status: :ok
     else
