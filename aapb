@@ -43,7 +43,7 @@ elif [ $1 = "dev" -o $1 = "d" ]; then
 
 elif [ $1 = "test" -o $1 = "t" ]; then
   shift
-  $DOCKER_EXEC aapb bundle exec rspec "$@"
+  $DOCKER_RUN aapb bundle exec rspec "$@"
 
 elif [ $1 = "format" -o $1 = "f" ]; then
   shift
