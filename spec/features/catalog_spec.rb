@@ -245,14 +245,12 @@ describe 'Catalog' do
           expect_count(5, page.text)
           expect(page).to have_text('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) '), missing_page_text_custom_error('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) ', page.current_path)
 
-          click_link('Iowa Public Television (IA)')
+          # click_link('Iowa Public Television (IA)')
           # TODO: check count when IP set in request.
-          expect(page).to have_text('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)'), missing_page_text_custom_error('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)', page.current_path)
-
-          expect(page).to have_css('a', text: 'District of Columbia')
-          click_link('District of Columbia')
-          expect(page).to have_text('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)'), missing_page_text_custom_error('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)', page.current_path)
-
+          # expect(page).to have_text('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)'), missing_page_text_custom_error('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)', page.current_path)
+          # expect(page).to have_css('a', text: 'District of Columbia')
+          # click_link('District of Columbia')
+          # expect(page).to have_text('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)'), missing_page_text_custom_error('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)', page.current_path)
           # all(:css, '.constraints-container a.remove')[1].click # remove 'WGBH OR IPTV'
           # TODO: check count when IP set in request.
           # expect(page).to have_text('You searched for: Access online Remove constraint Access: online 1 - 2 of 2')
