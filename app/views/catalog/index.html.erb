@@ -43,7 +43,8 @@
   }
 
   $(document).ready(function() {
-    <% if @query.present? && @snippets && @snippets.keys.present? %>
+    <% if false && @query.present? && @snippets && @snippets.keys.present? %>
+      // TEMP: removing to prevent transcript file download as part of snippet feature
       var guids = <%= raw(@snippets.keys).to_s %>
       var q = `<%= raw @query %>`
       getSnippets(guids, q)
