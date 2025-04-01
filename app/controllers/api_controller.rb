@@ -112,6 +112,7 @@ class ApiController < ApplicationController
         #   instantiation contents
         if data["pbcoreDescriptionDocument"]["pbcoreInstantiation"]
           data["pbcoreDescriptionDocument"]["pbcoreInstantiation"].each_with_index do |_instantiation, index|
+
             # stantch fields
             data["pbcoreDescriptionDocument"]["pbcoreInstantiation"][index]["instantiationIdentifier"] = arrayify_node(data["pbcoreDescriptionDocument"]["pbcoreInstantiation"][index]["instantiationIdentifier"])
             # repeatable? unclear
