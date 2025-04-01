@@ -2,7 +2,7 @@
 
 ## Thumbnail 
 
-![Say Brother](https://s3.amazonaws.com/americanarchive.org/special-collections/SayBrother.jpg "Say Brother")
+![Say Brother/Basic Black](https://s3.amazonaws.com/americanarchive.org/special-collections/say-brother-basic-black.png "Say Brother/Basic Black")
 
 ## Summary
 
@@ -40,6 +40,8 @@ In April 2000, the National Endowment for the Humanities awarded WGBH Media Libr
 
 ## Funders
 
+- [![NEH](https://s3.amazonaws.com/americanarchive.org/org-logos/neh-logo-preferred.jpg "NEH logo")](https://www.neh.gov/)
+  
 ## Help
 
 Records are described at an item level, and searches by date, year or topic will yield useful results. The entire collection is available on location at WGBH and the Library of Congress, and 83 programs and interviews are available in the AAPB Online Reading Room. Access to certain episodes is limited for copyright reasons. Contact the AAPB at [aapb_notifications@wgbh.org](mailto:aapb_notifications@wgbh.org) for more information.
