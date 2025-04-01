@@ -81,26 +81,26 @@ class ApiController < ApplicationController
         # nested multis
         data["pbcoreDescriptionDocument"]["pbcoreCreator"] = arrayify_node(data["pbcoreDescriptionDocument"]["pbcoreCreator"])
         if data["pbcoreDescriptionDocument"]["pbcoreCreator"] && data["pbcoreDescriptionDocument"]["pbcoreCreator"].count > 0
-          data["pbcoreDescriptionDocument"]["pbcoreCreator"].each_with_index do |creator,index|
+          data["pbcoreDescriptionDocument"]["pbcoreCreator"].each_with_index do |_creator, index|
             data["pbcoreDescriptionDocument"]["pbcoreCreator"][index]["creatorRole"] = arrayify_node(data["pbcoreDescriptionDocument"]["pbcoreCreator"][index]["creatorRole"])
           end
         end
 
         data["pbcoreDescriptionDocument"]["pbcoreContributor"] = arrayify_node(data["pbcoreDescriptionDocument"]["pbcoreContributor"])
         if data["pbcoreDescriptionDocument"]["pbcoreContributor"] && data["pbcoreDescriptionDocument"]["pbcoreContributor"].count > 0
-          data["pbcoreDescriptionDocument"]["pbcoreContributor"].each_with_index do |contributor,index|
+          data["pbcoreDescriptionDocument"]["pbcoreContributor"].each_with_index do |_contributor, index|
             data["pbcoreDescriptionDocument"]["pbcoreContributor"][index]["contributorRole"] = arrayify_node(data["pbcoreDescriptionDocument"]["pbcoreContributor"][index]["contributorRole"])
           end
         end
         data["pbcoreDescriptionDocument"]["pbcorePublisher"] = arrayify_node(data["pbcoreDescriptionDocument"]["pbcorePublisher"])
         if data["pbcoreDescriptionDocument"]["pbcorePublisher"] && data["pbcoreDescriptionDocument"]["pbcorePublisher"].count > 0
-          data["pbcoreDescriptionDocument"]["pbcorePublisher"].each_with_index do |publisher,index|
+          data["pbcoreDescriptionDocument"]["pbcorePublisher"].each_with_index do |_publisher, index|
             data["pbcoreDescriptionDocument"]["pbcorePublisher"][index]["publisherRole"] = arrayify_node(data["pbcoreDescriptionDocument"]["pbcorePublisher"][index]["publisherRole"])
           end
         end
         data["pbcoreDescriptionDocument"]["pbcoreRightsSummary"] = arrayify_node(data["pbcoreDescriptionDocument"]["pbcoreRightsSummary"])
         if data["pbcoreDescriptionDocument"]["pbcoreRightsSummary"] && data["pbcoreDescriptionDocument"]["pbcoreRightsSummary"].count > 0
-          data["pbcoreDescriptionDocument"]["pbcoreRightsSummary"].each_with_index do |publisher,index|
+          data["pbcoreDescriptionDocument"]["pbcoreRightsSummary"].each_with_index do |_rights_summary, index|
             data["pbcoreDescriptionDocument"]["pbcoreRightsSummary"][index]["rightsSummary"] = arrayify_node(data["pbcoreDescriptionDocument"]["pbcoreRightsSummary"][index]["rightsSummary"])
             data["pbcoreDescriptionDocument"]["pbcoreRightsSummary"][index]["rightsLink"] = arrayify_node(data["pbcoreDescriptionDocument"]["pbcoreRightsSummary"][index]["rightsLink"])
             data["pbcoreDescriptionDocument"]["pbcoreRightsSummary"][index]["rightsEmbedded"] = arrayify_node(data["pbcoreDescriptionDocument"]["pbcoreRightsSummary"][index]["rightsEmbedded"])
@@ -111,8 +111,7 @@ class ApiController < ApplicationController
         data["pbcoreDescriptionDocument"]["pbcoreInstantiation"] = arrayify_node(data["pbcoreDescriptionDocument"]["pbcoreInstantiation"])
         #   instantiation contents
         if data["pbcoreDescriptionDocument"]["pbcoreInstantiation"]
-          data["pbcoreDescriptionDocument"]["pbcoreInstantiation"].each_with_index do |instantiation,index|
-
+          data["pbcoreDescriptionDocument"]["pbcoreInstantiation"].each_with_index do |_instantiation, index|
             # stantch fields
             data["pbcoreDescriptionDocument"]["pbcoreInstantiation"][index]["instantiationIdentifier"] = arrayify_node(data["pbcoreDescriptionDocument"]["pbcoreInstantiation"][index]["instantiationIdentifier"])
             # repeatable? unclear
@@ -131,7 +130,7 @@ class ApiController < ApplicationController
             # essence tracks
             data["pbcoreDescriptionDocument"]["pbcoreInstantiation"][index]["instantiationEssenceTrack"] = arrayify_node(data["pbcoreDescriptionDocument"]["pbcoreInstantiation"][index]["instantiationEssenceTrack"])
             if data["pbcoreDescriptionDocument"]["pbcoreInstantiation"][index]["instantiationEssenceTrack"]
-              data["pbcoreDescriptionDocument"]["pbcoreInstantiation"][index]["instantiationEssenceTrack"].each_with_index do |esstrack,essindex|
+              data["pbcoreDescriptionDocument"]["pbcoreInstantiation"][index]["instantiationEssenceTrack"].each_with_index do |esstrack, essindex|
 
                 # essence track contents
                 esstrack["essenceTrackIdentifier"] = arrayify_node(esstrack["essenceTrackIdentifier"])
@@ -167,7 +166,7 @@ class ApiController < ApplicationController
         data["pbcoreDescriptionDocument"]["pbcorePart"] = arrayify_node(data["pbcoreDescriptionDocument"]["pbcorePart"])
         data["pbcoreDescriptionDocument"]["pbcoreExtension"] = arrayify_node(data["pbcoreDescriptionDocument"]["pbcoreExtension"])
 
-        render json: JSON.pretty_generate( data.compact )
+        render json: JSON.pretty_generate(data.compact)
       end
     end
   end
@@ -197,10 +196,10 @@ class ApiController < ApplicationController
   def arrayify_node(node)
     # if truthy and not already array, wrap in array
     if node
-      unless node.kind_of?(Array)
-        [node]
-      else
+      if node.is_a?(Array)
         node
+      else
+        [node]
       end
     end
   end
