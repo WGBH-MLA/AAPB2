@@ -157,4 +157,5 @@ Style/BlockDelimiters:
   Enabled: false
 
 # too restrictive, looks bad
-Style/EmptyLinesAroundBlockBody
+Style/EmptyLinesAroundBlockBody:
+  Enabled: false
