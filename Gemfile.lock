@@ -16,6 +16,11 @@ GIT
       faraday (~> 1.3.0)
       faraday_middleware
 
+GIT
+  remote: https://github.com/WGBH-MLA/pbcore.git
+  revision: 6ea90c45ad39a0ca9cc5b19c4754dc07126820b0
+  branch: to-json
+  
 GEM
   remote: https://rubygems.org/
   specs:
