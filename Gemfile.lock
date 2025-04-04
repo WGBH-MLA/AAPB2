@@ -8,8 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/WGBH-MLA/pbcore.git
-  revision: 78056215a67e8d4eb54b391e79696212bdc0266e
-  branch: to-json
+  revision: ed3ecc1caed483d3a95b6bebba5f968243a21a7b
   specs:
     pbcore (0.3.2)
       factory_bot (~> 4.11)
