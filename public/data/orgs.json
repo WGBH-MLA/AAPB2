@@ -2344,5 +2344,13 @@
     "Name": "David Brancaccio",
     "About": "David Brancaccio is a veteran journalist who focuses on regulation of financial markets, the role of technology in labor markets, the history of innovation, digital privacy, sustainability, social enterprises and financial vulnerability in older adults. He is currently the host of 'Marketplace Morning Report,' the daily nationwide business and economics program from American Public Media. His work has earned some of the highest honors in broadcast journalism, including the Peabody, the duPont–Columbia, the Emmy, and the Walter Cronkite awards. Brancaccio has co-produced and appeared in several documentaries including 'Fixing the Future,' about alternative approaches to the economy, and 'On Thin Ice,' about climate change and water security, with mountaineer Conrad Anker. He is the author of 'Squandering Aimlessly,' a book about personal values and money, and is producing a documentary about the intersection of art and science.",
     "location": [34.0632, -118.2463]
+    },
+    "NCSG55186": {
+    "Short name": "Alabama Public Television",
+    "State": "Alabama",
+    "City": "Birmingham",
+    "Url": "https://aptv.org/",
+    "Name": "Alabama Public Television",
+    "location": [33.5083, -86.7942]
     }
 }
