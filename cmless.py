@@ -1,8 +1,12 @@
 import re
-from os import path
 
 
-def parse_cmless(md):
+def parse_cmless(file):
+    with open(file, 'r', encoding='utf-8') as f:
+        md = f.read()
+    md = md.lstrip()  # Remove leading whitespace
+    assert md.startswith('#'), "This is not a valid cmless file"
+
     md = md.replace('’', "'")  # Replace curly apostrophes with straight ones
     md = md.replace('\\_', '_')  # Replace escaped underscores with plain ones
     md = re.sub(
@@ -15,21 +19,34 @@ def parse_cmless(md):
     return results
 
 
-if __name__ == "__main__":
-    directory = 'app/views/organizations/md'
-    from os import listdir
+def parse_dir(directory):
+    """
+    Parses all cmless files in the given directory
+
+    :param directory: The directory to parse
+    :return: A dictionary of parsed cmless files
+    """
+    from os import listdir, path
 
     results = {}
-    files = listdir(directory)
-    for path in files:
-        with open(f"{directory}/{path}", 'r') as f:
-            markdown_text = f.read()
-        parsed = parse_cmless(markdown_text)
-        org_id = path.split('.')[0]
-        results[org_id] = parsed
+    files = [f for f in listdir(directory) if f.endswith('.md')]
+    for file in files:
+        try:
+            parsed = parse_cmless(path.join(directory, file))
+        except Exception as e:
+            print(f"Error parsing {file}: {e}")
+            continue
 
+        results[file.replace('.md', '')] = parsed
+    return results
+
+
+if __name__ == '__main__':
+    # Get all Organization cmless files
+    orgs = parse_dir('app/views/organizations/md')
+
+    # Save the results to orgs.json
     with open('orgs.json', 'w', encoding='utf8') as f:
         from json import dump
 
-        # f.write(dumps(results, indent=2, ensure_ascii=False).encode('utf-8'))
-        dump(results, f, indent=2, ensure_ascii=False)
+        dump(orgs, f, indent=2, ensure_ascii=False)
