@@ -6,6 +6,16 @@
 
 ## Summary 
 
+<table class="full-width">
+  <tbody>
+    <tr>
+      <td>
+        <iframe class="exhibit-small-iframe" src="https://player.vimeo.com/video/1080620760" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 The KVZK Collection includes over 6,000 television programs, episodes, and raw footage documenting American Samoan culture, politics, and history. Digitization of KVZK material is ongoing, and thousands more items will be added to the collection in the coming months. The collection includes news reports, sporting events, patriotic and religious ceremonies, high school and college graduations, performing arts festivals, conferences, spelling bees, and pageants. The oldest program in the collection dates from the 1960s; however, most were produced between 1980 and the mid-2000s. Recordings are in Samoan, English, or both.
 
 >**If you'd like to support the continuation of our work to preserve American Samoan public media, please [consider donating to our fundraising drive](https://americanarchive.donorsupport.co/page/AmericanSamoa) to save more than 6,000 undigitized tapes at risk of being lost forever.**
