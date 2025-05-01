@@ -2352,5 +2352,12 @@
     "Url": "https://aptv.org/",
     "Name": "Alabama Public Television",
     "location": [33.5083, -86.7942]
+    },
+    "NCSG55188": {
+    "Short name": "Christopher Lukas",
+    "State": "New York",
+    "City": "Sparkill",
+    "Name": "Christopher Lukas",
+    "location": [41.0300, -73.9289]
     }
 }
