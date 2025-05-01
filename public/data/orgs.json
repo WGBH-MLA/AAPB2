@@ -2353,6 +2353,16 @@
     "Name": "Alabama Public Television",
     "location": [33.5083, -86.7942]
     },
+    "NCSG55187": {
+    "Short name": "GrassRoots Community Network",
+    "State": "Colorado",
+    "City": "Aspen",
+    "Url": "https://www.grassrootstv.org/",
+    "Logo": "tombenton-hands-grassroots.jpg",
+    "Name": "GrassRoots Community Network",
+    "About": "The GrassRoots Community Network has provided for Aspen and the Roaring Fork Valley’s intra-community video communications needs for 54 years. It was the first non-profit organization in the nation to enable all local citizens to create and distribute television content. Slowly growing from an experimental citizen-based media project into a multi-channel web and television network, GrassRoots today is an essential communications hub for hundreds of local non-profits, government agencies and individual citizens. GrassRoots’ goal is to provide the most accessible and technologically effective community media network possible, to be a community asset that represents and serves the diverse citizens and guests of the Roaring Fork Valley. GrassRoots programming is an honest representation of the community at large. It expands the viewers’ understanding and perception of their community. It expands and changes minds. By providing both a reflection of this community in the present, as well as a timeless archive of its past, GrassRoots simultaneously refreshes and preserves the character of this unique place and culture every day.",
+    "location": [39.1933, -106.8211]
+    },
     "NCSG55188": {
     "Short name": "Christopher Lukas",
     "State": "New York",
