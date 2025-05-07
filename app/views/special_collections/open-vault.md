@@ -1,4 +1,4 @@
-# GBH Arcgives Open Vault
+# GBH Archives Open Vault
 
 ## Thumbnail
 
@@ -8,7 +8,7 @@
 
 The GBH Archives Open Vault collection includes programing and ancillary materials preserved by GBH Archives, public media’s oldest professional archive. The collection includes television episodes, raw interviews, radio broadcasts, news reports, and curated clips from [thirty special collections](https://openvault.wgbh.org/collections/) and [seventeen scholar exhibits](https://openvault.wgbh.org/exhibits) featured on the GBH Archives website [Open Vault](https://openvault.wgbh.org/). 
 
-Included in the collection are GBH news and public affairs series, such as [*The Press and the People*](https://openvault.wgbh.org/collections/press-and-the-people) (1958–1959), exploring press coverage of key events of the 1950s; (*Say Brother*)[https://openvault.wgbh.org/collections/say-brother] (1968–1997), GBH’s longest-running Black public affairs program, subsequently renamed *Basic Black* (1998–2024) and reimagined in 2025 as [*GBH News Rooted*](https://www.wgbh.org/tv-shows/gbh-news-rooted); the landmark debate series [*The Advocates*](https://openvault.wgbh.org/collections/the-advocates) (1969–1984); and the documentary series [*FRONTLINE*](https://openvault.wgbh.org/collections/frontline-the-first-15-years) (1983–present). The collection also includes groundbreaking arts and cultural programming, such as [*New Television Workshop*](https://openvault.wgbh.org/collections/new-television-workshop) (1974–1993), which supported the creation and broadcast of contemporary dance, performance, and video art. Alistair Cooke’s introductory and closing remarks for episodes filmed during his tenure as host of [*Masterpiece Theatre*](https://openvault.wgbh.org/collections/masterpiece) are also showcased in the collection. 
+Included in the collection are GBH news and public affairs series, such as [*The Press and the People*](https://openvault.wgbh.org/collections/press-and-the-people) (1958–1959), exploring press coverage of key events of the 1950s; [*Say Brother*](https://openvault.wgbh.org/collections/say-brother) (1968–1997), GBH’s longest-running Black public affairs program, subsequently renamed *Basic Black* (1998–2024) and reimagined in 2025 as [*GBH News Rooted*](https://www.wgbh.org/tv-shows/gbh-news-rooted); the landmark debate series [*The Advocates*](https://openvault.wgbh.org/collections/the-advocates) (1969–1984); and the documentary series [*FRONTLINE*](https://openvault.wgbh.org/collections/frontline-the-first-15-years) (1983–present). The collection also includes groundbreaking arts and cultural programming, such as [*New Television Workshop*](https://openvault.wgbh.org/collections/new-television-workshop) (1974–1993), which supported the creation and broadcast of contemporary dance, performance, and video art. Alistair Cooke’s introductory and closing remarks for episodes filmed during his tenure as host of [*Masterpiece Theatre*](https://openvault.wgbh.org/collections/masterpiece) are also showcased in the collection. 
 
 The GBH Open Vault collection features full interviews from documentaries, such as [*The Murder of Emmett Till*](https://openvault.wgbh.org/collections/the-murder-of-emmett-till-interviews) (2003), [*Stonewall Uprising*](https://openvault.wgbh.org/collections/stonewall-uprising-interviews) (2010), and [*1964*](https://openvault.wgbh.org/collections/1964-interviews) (2014), all of which aired on the GBH documentary series *American Experience* (1988–present). Also included are interviews and footage from multi-part documentary series, such as [*Vietnam: A Television History*](https://openvault.wgbh.org/collections/the-vietnam-collection) (1983), [*War and Peace in the Nuclear Age*](https://openvault.wgbh.org/collections/war-and-peace-in-the-nuclear-age) (1989), and [*Africans in America*](https://openvault.wgbh.org/collections/africans-in-america-interviews) (1998). The [*To the Moon* Interviews](https://openvault.wgbh.org/collections/to-the-moon-interviews) collection comprises interviews conducted for the two-hour NOVA (1974–present) documentary *To the Moon* (1999) about NASA’s Apollo space program.
 
@@ -18,7 +18,7 @@ The GBH Open Vault collection also features programming and materials from curat
 
 The following is a complete list of GBH Archives Open Vault special collections: 
 
-## Open Vault Collections
+## Open Vault Special Collections
 1. [*1964* Interviews](https://openvault.wgbh.org/collections/1964-interviews) 
 2. [*The Abolitionists* Interviews](https://openvault.wgbh.org/collections/the-abolitionists-interviews) 
 3. [*The Advocates*](https://openvault.wgbh.org/collections/the-advocates) 
@@ -47,14 +47,14 @@ The following is a complete list of GBH Archives Open Vault special collections:
 26. [Stories of East and Southeast Asia](https://openvault.wgbh.org/collections/stories-of-east-and-south-east-asia)  
 27. [*To the Moon* Interviews](https://openvault.wgbh.org/collections/to-the-moon-interviews) 
 28. [*Victory Garden*](https://openvault.wgbh.org/collections/victory-garden-test) 
-29. [The Vietnam Collection](https://openvault.wgbh.org/collections/the-vietnam-collection) 
+29. [The *Vietnam* Collection](https://openvault.wgbh.org/collections/the-vietnam-collection) 
 30. [*War and Peace in the Nuclear Age*](https://openvault.wgbh.org/collections/war-and-peace-in-the-nuclear-age)
 
 ## Background
 
 Since 1979, [GBH Archives](https://www.wgbh.org/foundation/archives) has preserved, cataloged, and provided access to materials produced by GBH for radio, television, home video, and digital platforms. The archive currently preserves nearly one million audio, video, film, and digital assets dating back to 1947. 
 
-Created in 2005, the GBH Archives website Open Vault provides online access to unique and historically important content produced by GBH. The initial creation of Open Vault was made possible in part by the Institute of Museum and Library Services, and the prototype website was funded in part by the John D. and Catherine T. MacArthur Foundation. Additional support was provided by the Andrew W. Mellon Foundation. In 2018, the National Endowment for the Humanities issued a challenge grant to GBH Archives to support the preservation and digitization of 83,000 of the most at-risk items in GBH’s archival collection. Open Vault was redesigned in 2024, and in 2025, the AAPB’s GBH Archives Open Vault collection was created, bringing together assets from all thirty special collections accessible through the Open Vault website. 
+Created in 2005, the GBH Archives website Open Vault provides online access to unique and historically important content produced by GBH. The initial creation of Open Vault was made possible in part by the Institute of Museum and Library Services, and the prototype website was funded in part by the John D. and Catherine T. MacArthur Foundation. Additional support was provided by the Andrew W. Mellon Foundation. In 2018, the National Endowment for the Humanities issued a challenge grant to GBH Archives to support the preservation and digitization of 83,000 of the most at-risk items in GBH’s archival collection. Open Vault was redesigned in 2024, and in 2025, the AAPB’s GBH Archives Open Vault collection was created, bringing together assets from special collections and exhibits accessible through the Open Vault website. 
 
 ## Featured
 
