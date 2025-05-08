@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![GBH Arcgives Open Vault](https://s3.amazonaws.com/americanarchive.org/thumbnail/thumbnail-openvault.png "GBH Arcgives Open Vault")
+![GBH Arcgives Open Vault](https://s3.amazonaws.com/americanarchive.org/thumbnail/thumbnail-openvault.png "GBH Archives Open Vault")
 
 ## Summary
 
@@ -18,7 +18,7 @@ The GBH Open Vault collection also features programming and materials from curat
 
 The following is a complete list of GBH Archives Open Vault special collections: 
 
-## Open Vault Special Collections
+### Open Vault Special Collections
 1. [*1964* Interviews](https://openvault.wgbh.org/collections/1964-interviews) 
 2. [*The Abolitionists* Interviews](https://openvault.wgbh.org/collections/the-abolitionists-interviews) 
 3. [*The Advocates*](https://openvault.wgbh.org/collections/the-advocates) 
