@@ -2369,5 +2369,15 @@
     "City": "Sparkill",
     "Name": "Christopher Lukas",
     "location": [41.0300, -73.9289]
+    },
+    "NCSG55189": {
+    "Short name": "WUWM",
+    "State": "Wisconsin",
+    "City": "Milwaukee",
+    "Logo": "wuwm.png",
+    "Url": "https://www.wuwm.com/",
+    "Name": "WUWM",
+    "About": "WUWM 89.7 FM - Milwaukee’s NPR is committed to empowering the public to affect change through in-depth news, thoughtful conversations and community connections. [Our mission](https://www.wuwm.com/community-representation) is to weave stories of southeastern Wisconsin together to engage, inspire, and connect people with a shared understanding of each other, the region and the world. Founded in 1964, WUWM has been a staple of the Milwaukee community for more than 60 years. WUWM is licensed to the University of Wisconsin Board of Regents and is operated by the University of Wisconsin-Milwaukee College of Letters and Science. WUWM produces local news and information to share on broadcast and digital channels. The station broadcasts national and international programming from NPR, APM and BBC, as well. As a member-supported radio station, WUWM’s award-winning news journalists, [Lake Effect](https://www.wuwm.com/lakeeffect) producers and digital team create captivating reports that focus on local and regional issues featuring the people and cultural events that shape our community.",
+    "location": [43.0380, -87.9089]
     }
 }
