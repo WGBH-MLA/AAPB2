@@ -57,7 +57,6 @@ This project would not have been possible without the support of Angelica Bernae
 ## Main
 
   <img title="NM Map" alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/NM Map with Logos.png">
-  
 <p></p>
 
 ### Introduction
