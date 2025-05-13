@@ -23,7 +23,7 @@ The *Witnessing New Mexico* Collection provides a critical exploration of commun
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/704228102 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/704228102 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -49,7 +49,7 @@ For nearly 50 years, Sandia National Laboratory has buried wastes that are conta
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/704228298 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/704228298 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -75,7 +75,7 @@ In *Report from Santa Fe*, "John Heaton and Clint Harden", Representative John H
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/704232492 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/704232492 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -101,7 +101,7 @@ In *Report from Santa Fe*, "Pam Hyde", Cabinet Secretary for the Department of H
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/704233302 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/704233302 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -126,7 +126,7 @@ In *New Mexico in Focus*, "DACA Students", DACA (Deferred Action for Childhood A
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/704235837 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/704235837 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -147,7 +147,7 @@ Representative John Heaton talks about the fight against meth labs and his propo
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/704229568 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/704229568 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -171,7 +171,7 @@ Thousands of Albuquerqueans have, for years, had to deal with the fear and reali
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/704230199 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/704230199 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -192,7 +192,7 @@ In *Erase the Hate*, "Special Forum 2001", a panel of community leaders discuss 
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/704231106 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/704231106 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -214,7 +214,7 @@ In *New Mexico in Focus*, "More Racial Reckoning" protests against racism and mo
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/704237400 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/704237400 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -236,7 +236,7 @@ The Emmy Award-winning documentary *The Crossing* ([ep. 101](/catalog/cpb-aacip-
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/704234749 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/704234749 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
