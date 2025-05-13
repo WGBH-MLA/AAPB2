@@ -348,7 +348,7 @@ class PBCorePresenter
     @fixitplus_url ||= correcting_transcript? ? %(http://fixitplus.americanarchive.org/transcripts/#{id}) : nil
   end
   def correct_transcript_message
-    @correct_transcript_message ||= correct_transcript? ? 'This transcript has been examined and corrected by a human. Most of our transcripts are computer-generated, then edited by volunteers using our <a href="https://fixitplus.americanarchive.org/">FIX IT+</a> crowdsourcing tool. If this transcript needs further correction, please <a href="mailto:aapb_notifications@wgbh.org">let us know</a>.' : nil
+    @correct_transcript_message ||= correct_transcript? ? 'This transcript has been examined and corrected by a human. Most of our transcripts are computer-generated, then edited by volunteers using our <a href="https://fixitplus.americanarchive.org">FIX IT+</a> crowdsourcing tool. If this transcript needs further correction, please <a href="mailto:aapb_notifications@wgbh.org">let us know</a>.' : nil
   end
   MOVING_IMAGE = 'Moving Image'.freeze
   SOUND = 'Sound'.freeze
