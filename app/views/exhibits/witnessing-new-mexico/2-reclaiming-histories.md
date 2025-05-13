@@ -45,7 +45,7 @@ In this episode of *Report from Santa Fe*, Herman Agoyo (San Juan Pueblo) and sc
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://vimeo.com/724927071 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724927071 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -63,7 +63,7 @@ In *New Mexico in Focus*, "Reconsidering La Entrada," correspondent Matt Grubs t
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://vimeo.com/724929160 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724929160 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -89,7 +89,7 @@ Angela Davis speaks at Popejoy Hall at the University of New Mexico. She talks a
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://vimeo.com/724931137 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724931137 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -115,7 +115,7 @@ Filmed in California, Texas, Minnesota, Georgia, and New Mexico, the award-winni
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://vimeo.com/724931814 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724931814 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -135,7 +135,8 @@ Southwest Sound Collage's Los Tesoros del Espíritu: A Portrait in Sound of Hisp
 
 In Espejos de Aztlán, José Rodríguez and Rudy Miera discuss the monumental musical drama "Nuevo Mexico, Sí," which brings to life New Mexico's complicated history. 
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/insight-vado-unspoken.png">
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Vado.png">
+<p></p>
 
 **[*Vado: The Unspoken History*](/catalog/cpb-aacip-79e43ae2f15) (KRWG, Las Cruces, NM, December, 2003)**
 
@@ -143,7 +144,7 @@ In Espejos de Aztlán, José Rodríguez and Rudy Miera discuss the monumental mu
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://vimeo.com/724928355 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724928355 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -173,13 +174,13 @@ In *New Mexico in Focus* "Black Business Leaders in New Mexico", community leade
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://vimeo.com/724957030 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724957030 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
 </table>
 
-From Moments in Time: Stories of New Mexico's History, *Remembering the Santa Fe Japanese Internment Camp* details the experiences of Japanese Americans who were forced to relocate to Santa Fe, New Mexico to live in the internment camp. From 1942 to 1945, the U.S. government incarcerated people of Japanese descent, including U.S. citizens, in these isolated camps across the western half of the U.S.  
+From *Moments in Time: Stories of New Mexico's History*, *Remembering the Santa Fe Japanese Internment Camp* details the experiences of Japanese Americans who were forced to relocate to Santa Fe, New Mexico to live in the internment camp. From 1942 to 1945, the U.S. government incarcerated people of Japanese descent, including U.S. citizens, in these isolated camps across the western half of the U.S.  
 
 **[*¡Colores!*, "The Japanese American Experience in New Mexico"](/catalog/cpb-aacip-191-87pnw5pp?start=121.51&end=1266.64) (New Mexico PBS, Albuquerque, NM, January 24, 1990)** 
 
@@ -195,7 +196,7 @@ Nikki Nojima Louis' father was sent to the internment camp in Santa Fe and she a
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://vimeo.com/724935224 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724935224 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -225,7 +226,7 @@ In *Focus on Education*, "Legal Rights of Children with AIDS", Dr. Ruth Luckasso
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://vimeo.com/724936943 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724936943 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -251,7 +252,7 @@ In *Focus on Education*, "International Women's Day", International Women's Day 
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://vimeo.com/724938650 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724938650 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
