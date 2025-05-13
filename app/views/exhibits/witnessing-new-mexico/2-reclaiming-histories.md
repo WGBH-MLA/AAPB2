@@ -1,4 +1,4 @@
-# Part 1: Reclaiming Histories
+# Reclaiming Histories
 
 1
 
@@ -14,7 +14,8 @@ This section features programs about communities, institutions, and movements th
 
 ## Main
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/insight-saving-columbus.png">
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Surviving Columbus.png">
+<p></p>
 
 **[*Surviving Columbus: The Story of the Pueblo People*](/catalog/cpb-aacip-526-jh3cz33930) (KNME-TV, Albuquerque, NM, October 12, 1992)**
 
@@ -22,7 +23,7 @@ This section features programs about communities, institutions, and movements th
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://vimeo.com/724926857 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724926857 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -269,6 +270,14 @@ The U.S. is known for its high rate of incarceration—a trend that carries over
 #### Next: [Part 2: Sharing Stories](/exhibits/witnessing-nm/3-sharing-stories.md)
 
 ## Resources
+
+- [NMPBS/KNME-TV (Albuquerque, New Mexico)](https://www.newmexicopbs.org/)
+- [KANW (FM) (Albuquerque, New Mexico)](https://www.kanw.com/)
+- [KUNM (FM) (The University of New Mexico, Albuquerque, New Mexico)](https://www.kunm.org/) 
+- [KENW-TV (PBS) (Eastern New Mexico University, Portales, New Mexico)](https://www.kenw.org/) 
+- [KRWG (PBS) (New Mexico State University, Las Cruces, New Mexico)](https://www.krwg.org/) 
+- ["Preserving a Fragile History: The New Mexico Public Media Digitization Project" by Megan Rose Kilidjian](https://www.newmexicopbs.org/new-mexico-public-media-digitization-project/)
+- ["Voices of Espejos de Aztlán: Listening to Chicana/o Culture, History, and Political Mobilization in New Mexico" by David P. Saiz](https://www.newmexicopbs.org/new-mexico-public-media-digitization-project/)
 
 ## Cover
 
