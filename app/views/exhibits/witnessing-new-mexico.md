@@ -11,7 +11,7 @@
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://vimeo.com/aapb frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724926857 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
