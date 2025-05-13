@@ -23,7 +23,7 @@ This section features programs about communities, institutions, and movements th
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724926857 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724926857 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -45,7 +45,7 @@ In this episode of *Report from Santa Fe*, Herman Agoyo (San Juan Pueblo) and sc
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724927071 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724927071 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -63,7 +63,7 @@ In *New Mexico in Focus*, "Reconsidering La Entrada," correspondent Matt Grubs t
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724929160 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724929160 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -89,7 +89,7 @@ Angela Davis speaks at Popejoy Hall at the University of New Mexico. She talks a
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724931137 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724931137 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -115,7 +115,7 @@ Filmed in California, Texas, Minnesota, Georgia, and New Mexico, the award-winni
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724931814 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724931814 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -144,7 +144,7 @@ In Espejos de Aztlán, José Rodríguez and Rudy Miera discuss the monumental mu
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724928355 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724928355 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -174,7 +174,7 @@ In *New Mexico in Focus* "Black Business Leaders in New Mexico", community leade
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724957030 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724957030 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -196,7 +196,7 @@ Nikki Nojima Louis' father was sent to the internment camp in Santa Fe and she a
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724935224 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724935224 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -226,7 +226,7 @@ In *Focus on Education*, "Legal Rights of Children with AIDS", Dr. Ruth Luckasso
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724936943 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724936943 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -252,7 +252,7 @@ In *Focus on Education*, "International Women's Day", International Women's Day 
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724938650 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724938650 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
