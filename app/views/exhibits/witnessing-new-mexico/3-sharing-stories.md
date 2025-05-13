@@ -23,7 +23,7 @@ Empowering people who have been labeled different or unimportant is a major feat
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724968234 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724968234 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -64,7 +64,7 @@ Maria Benitez's life as a Flamenco dancer is featured in *Notable New Mexicans*,
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724968760 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724968760 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -90,7 +90,7 @@ In *Illustrated Daily*'s *Gay Activism*, "The View from the Inside", Hal Rhodes 
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724984361 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724984361 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -122,7 +122,7 @@ The conversation continues with *¡Colores!*, "More! Albuquerque: Places of the 
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724969541 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724969541 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -137,7 +137,7 @@ The conversation continues with *¡Colores!*, "More! Albuquerque: Places of the 
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724969541 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724969541 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -173,7 +173,7 @@ Experience the songs of corridistas: Antonio Martinez, Roberto Martinez, and Chu
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724970182 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724970182 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -188,7 +188,7 @@ Experience the songs of corridistas: Antonio Martinez, Roberto Martinez, and Chu
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724970182 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724970182 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -212,7 +212,7 @@ In *Espejos de Aztlán*, Tomás Atencio discusses "genízaros" in New Mexico and
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/725256229 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/725256229 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -227,7 +227,7 @@ In *Espejos de Aztlán*, Tomás Atencio discusses "genízaros" in New Mexico and
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/725256229 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/725256229 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -263,7 +263,7 @@ Listen to short stories about the lives of girls and women in New Mexico history
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/725256229 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/725256229 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -278,7 +278,7 @@ Listen to short stories about the lives of girls and women in New Mexico history
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724971230 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724971230 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -310,7 +310,7 @@ In *New Mexico Women in Music 3*, classical pianist and composer Magdaline Luki 
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724979962 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724979962 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -325,7 +325,7 @@ In *New Mexico Women in Music 3*, classical pianist and composer Magdaline Luki 
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724979962 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724979962 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -357,7 +357,7 @@ In *We Are the Historians*, "The GI Revolt", service members work to raise aware
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724979962 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724979962 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
@@ -372,7 +372,7 @@ In *We Are the Historians*, "The GI Revolt", service members work to raise aware
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/724971674 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724971674 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
