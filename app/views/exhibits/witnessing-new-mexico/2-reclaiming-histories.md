@@ -75,7 +75,7 @@ In *New Mexico in Focus*, "Black Lives Matter Protests," correspondent Megan Kam
 
 In this segment of an episode of *New Mexico in Focus*, organizers and activists from the Learning Alliance of New Mexico and Fight for Our Lives discuss the Black Lives Matter movement and institutional reforms. 
 
-**[*At Week's End*, "The American Dream"](/catalog/cpb-aacip-191-418kpwwx)(New Mexico PBS, Albuquerque, NM)**
+**[*At Week's End*, "The American Dream"](/catalog/cpb-aacip-191-418kpwwx) (New Mexico PBS, Albuquerque, NM)**
 
 In response to the L.A. riots after the Rodney King trial, people at a rally view the rioting as a revolt against the failure of American democracy in *At Week's End*, "The American Dream". 
 
