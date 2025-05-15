@@ -5,7 +5,9 @@
 
 ## Summary
  
-> “...there is [sic] always two sides to a story. And, there's not just one way of looking at history, but many ways." — Dr. Gregory Cajete (Santa Clara Pueblo), *Surviving Columbus: The Story of the Pueblo People*
+> “...there is [sic] always two sides to a story. And, there's not just one way of looking at history, but many ways."
+>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — Dr. Gregory Cajete (Santa Clara Pueblo), *Surviving Columbus: The Story of the Pueblo People*
 
 <table class="full-width">
   <tbody>
@@ -19,15 +21,17 @@
 
 The New Mexico Public Media (NMPM) Digitization Project, an innovative statewide initiative of five leading New Mexico public media stations and the American Archive of Public Broadcasting (AAPB), was created to digitally preserve decades’ worth of irreplaceable public television and radio programs produced in New Mexico. The project was led by New Mexico PBS and funded through a generous grant from the Council on Library and Information Resources.    
 
-The [NMPM collection](https://americanarchive.org/special_collections/new-mexico-public-media-collection) brings together more than 8,000 video and audio items from 1960 to 2021 that form a substantial audiovisual archive illuminating aspects of the state’s complex history. Ranging from half-hour series episodes, hour-long programs, documentaries, interviews, conversations, event coverage, speeches, lectures, debates, town hall meetings, and extensive raw footage, the collection offers a vast array of previously inaccessible content that documents New Mexico’s dynamic political, social, economic, cultural, and artistic landscape.  
+The [NMPM Collection](https://americanarchive.org/special_collections/new-mexico-public-media-collection) brings together more than 8,000 video and audio items from 1960 to 2021 that form a substantial audiovisual archive illuminating aspects of the state’s complex history. Ranging from half-hour series episodes to hour-long programs, documentaries, interviews, conversations, event coverage, speeches, lectures, debates, town hall meetings, and extensive raw footage, the collection offers a vast array of previously inaccessible content that documents New Mexico’s dynamic political, social, economic, cultural, and artistic landscape.  
 
-In addition to preserving the content for present and future generations, the NMPM project was created to make the collection available to the wider public through the ever-growing AAPB online website. The initial AAPB collection lacked materials from twelve states, including New Mexico, and from a number of U.S. territories. Along with recent AAPB initiatives, the NMPM project helps to fill gaps in the AAPB collection and provides a substantive look at New Mexico’s unique contributions to U.S. history.  
+In addition to preserving the content for present and future generations, the NMPM Project was created to make the collection available to the wider public through the ever-growing AAPB online website. The initial AAPB collection lacked materials from twelve states, including New Mexico, and from a number of U.S. territories. Along with recent AAPB initiatives, the NMPM project helps to fill gaps in the AAPB collection and provides a substantive look at New Mexico’s unique contributions to U.S. history.  
 
 ### About the Exhibt
 
-NMPM Digitization Project’s fellows David P. Saiz and Dr. Rachel Snow have created *Witnessing New Mexico: The New Mexico Public Media Digitization Project*, a digital exhibit to celebrate the newly preserved collection. The exhibit invites viewers to witness numerous ways that communities in the state have historically been impacted by and offered resistance to processes of discrimination and marginalization. Television and radio programs produced by New Mexico public media since 1960 have covered the inequitable treatment of people based on differences in ethnicity, race, class, gender, sexual orientation, citizenship status, tribal affiliations, and intellectual and physical (dis)abilities. *Witnessing New Mexico* presents these programs with the goal of fostering more widespread awareness, while also inspiring community action, tolerance, understanding, and reflection.
+NMPM Digitization Project fellows David P. Saiz and Dr. Rachel Snow have created *Witnessing New Mexico: The New Mexico Public Media Digitization Project*, a digital exhibit to celebrate the newly preserved collection. The exhibit invites viewers to witness numerous ways that communities in the state have historically been impacted by and offered resistance to processes of discrimination and marginalization. Television and radio programs produced by New Mexico public media since 1960 have covered the inequitable treatment of people based on differences in ethnicity, race, class, gender, sexual orientation, citizenship status, tribal affiliations, and intellectual and physical (dis)abilities. *Witnessing New Mexico* presents these programs with the goal of fostering more widespread awareness, while also inspiring community action, tolerance, understanding, and reflection.
 
-> “When you leave behind the past it is detrimental not just to yourself but to the world at large. Because you leave behind respect, connectedness—which is love.” — Rina Swentzell (Santa Clara Pueblo)
+> “When you leave behind the past it is detrimental not just to yourself but to the world at large. Because you leave behind respect, connectedness—which is love.”
+>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — Rina Swentzell (Santa Clara Pueblo)
 
 ### Acknowledgements  
 
