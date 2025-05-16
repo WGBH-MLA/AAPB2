@@ -8,7 +8,9 @@ Navigating the terrain of racism in New Mexico is no easy task. While racism oft
 
 The *Witnessing New Mexico* Collection provides a critical exploration of communities of peoples who have survived and thrived despite persistent racial and class-based injustices. The content presented here highlights recent and past discussions about racism in an effort to inspire critical questioning of where the state of New Mexico and the nation are headed in terms of enacting racial equity.  
 
->"A new dialogue and debate is being heard over the fact that people of color are most often the most directly and severely impacted by pollution, toxic dumping, and often by the negative impacts of the mainstream environmental movement itself." — Marcos Martinez, *Environment, Race, and Class: The Poisoning of Communities of Color* (Part 1)
+>"A new dialogue and debate is being heard over the fact that people of color are most often the most directly and severely impacted by pollution, toxic dumping, and often by the negative impacts of the mainstream environmental movement itself."
+>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — Marcos Martinez, *Environment, Race, and Class: The Poisoning of Communities of Color* (Part 1)
 
 ## Extended
 
@@ -33,7 +35,7 @@ In *Environment, Race, and Class*, "The Poisoning of Communities of Color" (Part
 
 **[*WIPP Trail*, "A KNME Follow Up"](/catalog/cpb-aacip-191-30prr8b9) (KNME-TV, Albuquerque, NM, September 5, 1989)** 
 
-The *WIPP Trail*, "A KNME Follow Up", highlights the Waste Isolation Pilot Project developed for the disposal of transuranic waste from the Department of Energy. 
+The *WIPP Trail*, "A KNME Follow Up," highlights the Waste Isolation Pilot Project developed for the disposal of transuranic waste from the Department of Energy. 
 
 **[*Aggie Almanac*, "Environmental Justice"](/catalog/cpb-aacip-d3961441685) (KRWG, Las Cruces, NM, May 10, 2007)**  
 
@@ -41,7 +43,7 @@ J. Paul Taylor Social Justice Symposium in Las Cruces, New Mexico, focuses on en
 
 **[*New Mexico in Focus*, "Sandia Lab's Mixed Waste Landfill"](/catalog/cpb-aacip-191-45q83gz6) (KNME-TV, Albuquerque, NM, July 7, 2000)**  
 
-For nearly 50 years, Sandia National Laboratory has buried wastes that are contaminated. *New Mexico in Focus*, "Sandia Lab's Mixed Waste Landfill" asks; Are communities at risk? 
+For nearly fifty years, Sandia National Laboratory has buried wastes that are contaminated. *New Mexico in Focus*, "Sandia Lab's Mixed Waste Landfill" asks: Are communities at risk? 
 
 **[*Public Square*, "Cancer: Connecting to Cultures"](/catalog/cpb-aacip-7b6d36e3810) (KNME-TV, Albuquerque, NM, March 26, 2015)**   
 
@@ -55,7 +57,7 @@ For nearly 50 years, Sandia National Laboratory has buried wastes that are conta
   </tbody>
 </table>
 
-Cancer is still more common in Anglo populations than in Native American or Hispanic/Latino communities. But, in *Public Square*, "Cancer: Connecting to Cultures", the numbers are shifting, and screening rates in these communities tend to be lower. 
+Cancer is still more common in Anglo populations than in Native American or Hispanic/Latino communities. But, in *Public Square*, "Cancer: Connecting to Cultures," the numbers are shifting, and screening rates in these communities tend to be lower. 
 
 **[*Project Echo*](/catalog/cpb-aacip-70789cfec10) (KNME-TV, Albuquerque, NM, April 12, 2010)**    
 
@@ -63,11 +65,11 @@ Cancer is still more common in Anglo populations than in Native American or Hisp
 
 **[*Report from Santa Fe*, "Danice Picraux and Steve Komadina"](/catalog/cpb-aacip-eff8e50429d) (KNME-TV, Albuquerque, NM, December 30, 2006)**     
 
-Representative Danice Picraux and Senator Dr. Steve Komadina talk about the legislative Health and Human Services Committee in *Report from Santa Fe*, "Danice Picraux and Steve Komadina". 
+Representative Danice Picraux and Senator Dr. Steve Komadina talk about the legislative Health and Human Services Committee in *Report from Santa Fe*, "Danice Picraux and Steve Komadina." 
 
 **[*Report from Santa Fe*, "John Heaton and Clint Harden"](/catalog/cpb-aacip-0ed1dcf0542) (KNME-TV, Albuquerque, NM, February 7, 2004)**      
 
-In *Report from Santa Fe*, "John Heaton and Clint Harden", Representative John Heaton talks about healthcare issues some of his proposed solutions. 
+In *Report from Santa Fe*, "John Heaton and Clint Harden," Representative John Heaton talks about healthcare issues some of his proposed solutions. 
 
 **[*At Week's End*, "Poverty in New Mexico"](/catalog/cpb-aacip-191-25k98wf4) (KNME-TV, Albuquerque, NM, December 14, 1990)**      
 
@@ -81,7 +83,7 @@ In *Report from Santa Fe*, "John Heaton and Clint Harden", Representative John H
   </tbody>
 </table>
 
-New Mexico stands as one of the poorest states in the nation, 45th in per capita income and plagued by chronic and historical poverty. Learn more in *At Week's End*, "Poverty in New Mexico". 
+New Mexico stands as one of the poorest states in the nation, forty-fifth in per capita income and plagued by chronic and historical poverty. Learn more in *At Week's End*, "Poverty in New Mexico." 
 
 **[*Segunda Oportunidad (Second Chance)*](/catalog/cpb-aacip-47da3d3c487) (KENW-TV, Portales, NM, August 6, 1991)**       
 
@@ -89,11 +91,11 @@ New Mexico stands as one of the poorest states in the nation, 45th in per capita
 
 **[*New Mexico in Focus*, "Hunger in New Mexico"](/catalog/cpb-aacip-6dc1f65cec3) (KNME-TV, Albuquerque, NM, December 30, 2011)**       
 
-In *New Mexico in Focus*, "Hunger in New Mexico", many New Mexican families wonder how they are going to put food on their tables and keep their children from going to bed hungry. 
+In *New Mexico in Focus*, "Hunger in New Mexico," many New Mexican families wonder how they are going to put food on their tables and keep their children from going to bed hungry. 
 
 **[*Report from Santa Fe*, "Pam Hyde"](/catalog/cpb-aacip-7cc7b396372) (KENW-TV, Portales, NM, July 15, 2006)**      
 
-In *Report from Santa Fe*, "Pam Hyde", Cabinet Secretary for the Department of Human Services Pam Hyde discusses fighting poverty. 
+In *Report from Santa Fe*, "Pam Hyde," Cabinet Secretary for the Department of Human Services Pam Hyde discusses fighting poverty. 
 
 **[*Public Square*, "Improving Graduation Rates"](/catalog/cpb-aacip-53373da918e) (KNME-TV, Albuquerque, NM, August 25, 2011)**        
 
@@ -118,7 +120,7 @@ In *Native American Education Strategies for Change*, Dr. Teresa LaFromboise (Mi
 
 **[*New Mexico in Focus*, "DACA Students"](/catalog/cpb-aacip-e716709cc07) (KNME-TV, Albuquerque, NM, December 23, 2016)**   
 
-In *New Mexico in Focus*, "DACA Students", DACA (Deferred Action for Childhood Arrivals) offers temporary protection, but not permanent legal residency to eligible young people. 
+In *New Mexico in Focus*, "DACA Students," DACA (Deferred Action for Childhood Arrivals) offers temporary protection, but not permanent legal residency to eligible young people. 
 
 **[*New Mexico in Focus*, "Drug Epidemic in Northern New Mexico"](/catalog/cpb-aacip-9f3b061fff9) (KNME-TV, Albuquerque, NM, October 22, 1999)**      
 
@@ -136,10 +138,11 @@ In Rio Arriba County the drug-related death rate is the highest in the nation—
 
 **[*Focus on Education*, "Drug Education Programs"](/catalog/cpb-aacip-207-859cnxkx) (KUNM, Albuquerque, NM, January 3, 1989)**    
 
-In *Focus on Education*, "Drug Education Programs", Mike Hammes discusses drug education programs for drug-free schools. 
+In *Focus on Education*, "Drug Education Programs," Mike Hammes discusses drug education programs for drug-free schools. 
 
 **[*Report from Santa Fe*, "John Heaton"](/catalog/cpb-aacip-c221aea3251) (KENW-TV, Portales, NM, September 24, 2005)**     
-Representative John Heaton talks about the fight against meth labs and his proposed bill in *Report from Santa Fe*, "John Heaton".
+
+Representative John Heaton talks about the fight against meth labs and his proposed bill in *Report from Santa Fe*, "John Heaton."
 
 **[*The Water Haulers*](/catalog/cpb-aacip-798e9408500) (KNME-TV, Albuquerque, NM, January 12, 2007)** 
 
@@ -177,14 +180,14 @@ Thousands of Albuquerqueans have, for years, had to deal with the fear and reali
   </tbody>
 </table>
 
-Host Conroy Chino (Acoma Pueblo) and two panels of guests look behind the closed doors of institutions where a form of racism persists in *Erase the Hate*, "Forum 2002 (Institutional Racism)". It’s racism that is not always obvious, visible, or identifiable, but institutional racism is just as detrimental as any other form of discrimination.  
+Host Conroy Chino (Acoma Pueblo) and two panels of guests look behind the closed doors of institutions where a form of racism persists in *Erase the Hate*, "Forum 2002 (Institutional Racism)." It’s racism that is not always obvious, visible, or identifiable, but institutional racism is just as detrimental as any other form of discrimination.  
 
 **[*Aggie Almanac*, "Big Read and Racism in the U.S."](/catalog/cpb-aacip-5a96ce83f9d) (KRWG, Las Cruces, NM, January 19, 2007)**      
 
-In *Aggie Almanac*, "Big Read and Racism in the U.S.", Gary Worth sits down with anti-racist author Tim Wise to talk about his involvement in N.M. State University’s Diversity Speaker Series.  
+In *Aggie Almanac*, "Big Read and Racism in the U.S.," Gary Worth sits down with anti-racist author Tim Wise to talk about his involvement in N.M. State University’s Diversity Speaker Series.  
 
 **[*Erase the Hate*, "Special Forum 2001"](/catalog/cpb-aacip-3a5725fb037) (KNME-TV, Albuquerque, NM, October 10, 2001)**      
-In *Erase the Hate*, "Special Forum 2001", a panel of community leaders discuss hate crimes and racial profiling cropping up in New Mexico as a result of the national tragedy of 9/11. 
+In *Erase the Hate*, "Special Forum 2001," a panel of community leaders discuss hate crimes and racial profiling cropping up in New Mexico as a result of the national tragedy of 9/11. 
 
 **[*New Mexico in Focus*, "Race in New Mexico"](/catalog/cpb-aacip-191-19f4qtpk) (New Mexico PBS, Albuquerque, NM)**    
 
@@ -198,11 +201,11 @@ In *Erase the Hate*, "Special Forum 2001", a panel of community leaders discuss 
   </tbody>
 </table>
 
-Many people say that because of our diverse history, we are more integrated than other states. But that doesn't mean we don't have our fair share of racial tensions. Learn more in *New Mexico in Focus*, "Race in New Mexico".
+Many people say that because of our diverse history, we are more integrated than other states. But that doesn't mean we don't have our fair share of racial tensions. Learn more in *New Mexico in Focus*, "Race in New Mexico."
 
 **[*New Mexico in Focus*, "Lenton Malry"](/catalog/cpb-aacip-9b2d8554ee8?start=2098.16&end=2905.63) (KNME-TV, Albuquerque, NM, February 23, 20183)**   
 
-Former educator and lawmaker Lenton Malry speaks openly about racism he experienced in Albuquerque in *New Mexico in Focus*, "Lenton Malry".
+Former educator and lawmaker Lenton Malry speaks openly about racism he experienced in Albuquerque in *New Mexico in Focus*, "Lenton Malry."
 
 **[*New Mexico in Focus*, "More Racial Reckoning"](/catalog/cpb-aacip-bacb29558ad?start=1487.7&end=2300.89) (KNME-TV, Albuquerque, NM, June 26, 2020)**  
 
@@ -242,7 +245,7 @@ The Emmy Award-winning documentary *The Crossing* ([ep. 101](/catalog/cpb-aacip-
   </tbody>
 </table>
 
-Police oversight is the main topic of *New Mexico in Focus*, "Police Oversight Panels", as advocates and officials debate what a new model of civilian surveillance would look like in the wake of the Department of Justice's investigation of the Albuquerque Police Department. 
+Police oversight is the main topic of *New Mexico in Focus*, "Police Oversight Panels," as advocates and officials debate what a new model of civilian surveillance would look like in the wake of the Department of Justice's investigation of the Albuquerque Police Department. 
 
 **[*New Mexico in Focus*, "Policing in 2020 and Beyond Learn"](/catalog/cpb-aacip-bcc05640dd9) (KNME-TV, Albuquerque, NM, September 25, 2020)**    
 
@@ -299,7 +302,7 @@ COVID-19 has laid bare many systemic failures here in New Mexico, often revolvin
 - [](/catalog/cpb-aacip-762b41ac6c1)
 - [](/catalog/cpb-aacip-5a96ce83f9d)
 - [](/catalog/cpb-aacip-3a5725fb037)
-- [](/catalog/cpb-aacip-191-19f4qtpk
+- [](/catalog/cpb-aacip-191-19f4qtpk)
 - [](/catalog/cpb-aacip-9b2d8554ee8)
 - [](/catalog/cpb-aacip-bacb29558ad)
 - [](/catalog/cpb-aacip-f622aa04f6f)
