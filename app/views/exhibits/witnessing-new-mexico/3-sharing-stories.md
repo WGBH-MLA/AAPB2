@@ -4,11 +4,13 @@
 
 ## Summary
 
-Sharing stories of people and their contributions to New Mexico can become acts of resistance. From presenting New Mexicans learning about their crypto-Jewish heritage to oral stories and artistic explorations of communities outside the mainstream, the programs in this section focus on stories that have been integral in our society, though often overlooked.  
+Sharing stories of people and their contributions to New Mexico can become an act of resistance. From presenting New Mexicans learning about their crypto-Jewish heritage to oral stories and artistic explorations of communities outside the mainstream, the programs in this section focus on stories that have been integral to our society, though often overlooked.  
 
 Empowering people who have been labeled different or unimportant is a major feature of this collection. This section presents stories from influential and unknown women, people who are incarcerated, people with intellectual and developmental (dis)abilities, LGBTQIA youth, veterans of the infamous Bataan Death March, and women nurses who treated soldiers during the Vietnam War. These programs challenge expectations. Collectively, they present a dynamic and expansive picture of New Mexican politics, culture, and history. 
 
->"*Genízaro* [detribalized enslaved Native American people] identity places itself out of the tri-cultural myth and embraces Indigenous identity and the realization of violence and trauma, and the ways in which we remember a violent colonial history" — Moises Gonzales, *¡Colores!*
+>"*Genízaro* [detribalized enslaved Native American people] identity places itself out of the tri-cultural myth and embraces Indigenous identity and the realization of violence and trauma, and the ways in which we remember a violent colonial history"
+>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — Moises Gonzales, *¡Colores!*
 
 ## Extended
 
@@ -37,19 +39,19 @@ Empowering people who have been labeled different or unimportant is a major feat
 
 **[*¡Colores!*, "Ann Noggle: Capturing the Character of Aging"](/catalog/cpb-aacip-191-49g4f9db?start=92.76&end=1268.01) (KNME-TV, Albuquerque, NM, January 31, 1990)**
 
-In *¡Colores!*, "Ann Noggle: Capturing the Character of Aging", photographer Ann Noggle captures the character of aging, that lifelong experience that makes the individual.  
+In *¡Colores!*, "Ann Noggle: Capturing the Character of Aging," photographer Ann Noggle captures the character of aging, that lifelong experience that makes the individual.  
 
 **[*Report from Santa Fe*, "Judy Chicago"](/catalog/cpb-aacip-cb69cbe8130) (KENW-TV, Portales, NM, October 8, 2011)**
 
-In *Report from Santa Fe*, "Judy Chicago", feminist artist Judy Chicago challenges historical exclusion by educating the public on the erasure of women's contributions. 
+In *Report from Santa Fe*, "Judy Chicago," feminist artist Judy Chicago challenges historical exclusion by educating the public on the erasure of women's contributions. 
 
 **[*¡Colores!*, "Opening Doors"](/catalog/cpb-aacip-191-01pg4ft4?start=58.5&end=1668.13) (KNME-TV, Albuquerque, NM, July 8, 1992)**
 
-In *¡Colores!*, "Opening Doors", The Buen Viaje Dancers come from all backgrounds and share a common bond of being specially enabled. 
+In *¡Colores!*, "Opening Doors," The Buen Viaje Dancers come from all backgrounds and share a common bond of being specially enabled. 
 
 **[*Notable New Mexicans*, "Maria Benitez"](/catalog/cpb-aacip-191-79573wfc?start=0&end=440) (KNME-TV, Albuquerque, NM, 2009)**
 
-Maria Benitez's life as a Flamenco dancer is featured in *Notable New Mexicans*, "Maria Benitez", a spotlight on notable New Mexicans. 
+Maria Benitez's life as a Flamenco dancer is featured in *Notable New Mexicans*, "Maria Benitez," a spotlight on notable New Mexicans. 
 
 **[*¡Colores!*, "One Who Stands In the Sun"](/catalog/cpb-aacip-191-56n031q3?start=93.75&end=1787) (New Mexico PBS, Albuquerque, NM)**
 
@@ -70,11 +72,11 @@ Maria Benitez's life as a Flamenco dancer is featured in *Notable New Mexicans*,
   </tbody>
 </table>
 
-In *Public Square*, "LGBTQ Youth in New Mexico", young people in New Mexico’s LGBTQ community share their experiences, and advocates and community leaders talk about what we need to do to improve the lives of LGBTQ New Mexicans.  
+In *Public Square*, "LGBTQ Youth in New Mexico," young people in New Mexico’s LGBTQ community share their experiences, and advocates and community leaders talk about what we need to do to improve the lives of LGBTQ New Mexicans.  
 
 **[*New Mexico in Focus*, "Legislative Special Session and LGBTQ Youth"](/catalog/cpb-aacip-3a94c9fd63c?start=1924.82&end=2512.26) (KNME-TV, Albuquerque, NM, June 12, 2015)**
 
-In *New Mexico in Focus*, "Legislative Special Session and LGBTQ Youth", LGBTQ youth resources and advocates speak out. 
+In *New Mexico in Focus*, "Legislative Special Session and LGBTQ Youth," LGBTQ youth resources and advocates speak out. 
 
 **[*Gay Activism*, "The View from the Inside"](/catalog/cpb-aacip-191-03cz8x0j?start=0&end=1721) (KNME-TV, Albuquerque, NM, June 21, 1982)**
 
@@ -104,7 +106,7 @@ In *Illustrated Daily*'s *Gay Activism*, "The View from the Inside", Hal Rhodes 
 
 **[*¡Colores!*, "More! Abuquerque's Places of the Heart"](/catalog/cpb-aacip-191-805x6k7r?start=52.99&end=2339.43) (KNME-TV, Albuquerque, NM, March, 1998)**
 
-The conversation continues with *¡Colores!*, "More! Albuquerque: Places of the Heart", a celebration of Old Albuquerque High School, the Sunport, the Civic Auditorium and many other Albuquerque landmarks. 
+The conversation continues with *¡Colores!*, "More! Albuquerque: Places of the Heart," a celebration of Old Albuquerque High School, the Sunport, the Civic Auditorium and many other Albuquerque landmarks. 
 
 **[*¡Colores!*, "Albuquerque's People of the Heart"](/catalog/cpb-aacip-191-34sj3z1c?start=106.17&end=3668) (New Mexico PBS, Albuquerque, NM)**
 
@@ -143,11 +145,11 @@ The conversation continues with *¡Colores!*, "More! Albuquerque: Places of the 
   </tbody>
 </table>
 
-*¡Colores!*, "Fabiola Cabeza de Baca" is a profile of educator, nutritionist, activist, and the author of one of New Mexico’s first cookbooks, Fabiola Cabeza de Baca, whose lifelong passion was to share the value of New Mexican foods. 
+*¡Colores!*, "Fabiola Cabeza de Baca" is a profile of educator, nutritionist, activist, and author of one of New Mexico’s first cookbooks, Fabiola Cabeza de Baca, whose lifelong passion was to share the value of New Mexican foods. 
 
 **[*New Mexico in Focus*, "Pueblo Foods"](/catalog/cpb-aacip-a9952645568?start=2046.97&end=2916.15) (KNME-TV, Albuquerque, NM, November 25, 2016)**
 
-Learn about the traditional foods of Pueblo communities in New Mexico with Lois Ellen Frank (Kiowa) and Roxanne Swentzell (Santa Clara Pueblo) in *New Mexico in Focus*, "Pueblo Foods". 
+Learn about the traditional foods of Pueblo communities in New Mexico with Lois Ellen Frank (Kiowa) and Roxanne Swentzell (Santa Clara Pueblo) in *New Mexico in Focus*, "Pueblo Foods." 
 
 **[*The Musical Adventures of John Donald Robb in New Mexico*](/catalog/cpb-aacip-191-06sxktqn) (KNME-TV, Albuquerque, NM)**
 
@@ -155,11 +157,11 @@ Learn about the traditional foods of Pueblo communities in New Mexico with Lois 
 
 **[*¡Colores!*, "New Mexico's Ancient Adobe Churches"](/catalog/cpb-aacip-191-67wm3fqq?start=83.91&end=2219.31) (New Mexico PBS, Albuquerque, NM)**
 
-Embark on a stunning photographic tour of some of New Mexico's most beautiful and ancient adobe churches in *¡Colores!*, "New Mexico's Ancient Adobe Churches". 
+Embark on a stunning photographic tour of some of New Mexico's most beautiful and ancient adobe churches in *¡Colores!*, "New Mexico's Ancient Adobe Churches." 
 
 **[*¡Colores!*, "Alabados de Nuevo México"](/catalog/cpb-aacip-191-79h44shd?start=68.74&end=1652) (KNME-TV, Albuquerque, NM, 2006)** 
 
-Experience sacred "alabados" of the Penitentes of Northern New Mexico in *¡Colores!*, "Alabados de Nuevo México". 
+Experience sacred "alabados" of the Penitentes of Northern New Mexico in *¡Colores!*, "Alabados de Nuevo México." 
 
 **[*¡Colores!*, "A Mi Raza: Sabine Ulibarrí"](/catalog/cpb-aacip-191-37vmd009?start=94.5&end=1685) (New Mexico PBS, Albuquerque, NM)** 
 
@@ -167,7 +169,7 @@ Experience sacred "alabados" of the Penitentes of Northern New Mexico in *¡Colo
 
 **[*¡Colores!*, "Una Lucha Por Mi Pueblo"](/catalog/cpb-aacip-191-93ttf75f) (KNME-TV, Albuquerque, NM, June 20, 1990)** 
 
-Experience the songs of corridistas: Antonio Martinez, Roberto Martinez, and Chuy Martinez in *¡Colores!*, "Una Lucha Por Mi Pueblo".
+Experience the songs of corridistas: Antonio Martinez, Roberto Martinez, and Chuy Martinez in *¡Colores!*, "Una Lucha Por Mi Pueblo."
 
 <table class="full-width">
   <tbody>
@@ -245,11 +247,11 @@ In *Espejos de Aztlán*, Tomás Atencio discusses "genízaros" in New Mexico and
 
 **[*At Week's End*, "New Mexico Women Legislators"](/catalog/cpb-aacip-e83d00e4ac1) (KNME-TV, Albuquerque, NM, March 22, 1991)**    
 
-In *At Week's End*, "New Mexico Women Legislators", the political scene in the United States is changing as more women are running for political office and winning elections. 
+In *At Week's End*, "New Mexico Women Legislators," the political scene in the United States is changing as more women are running for political office and winning elections. 
 
 **[*New Mexico in Focus*, "U.S. Representative-Elect Deb Haaland"](/catalog/cpb-aacip-6577b33e51c) (KNME-TV, Albuquerque, NM, December 7, 2018)**   
 
-Deb Haaland (Laguna Pueblo) made history by becoming one of the first female Native Americans in the U.S. House of Representatives. Witness her story in *New Mexico in Focus*, "U.S. Representative-Elect Deb Haaland".  
+Deb Haaland (Laguna Pueblo) made history by becoming one of the first female Native Americans in the U.S. House of Representatives. Witness her story in *New Mexico in Focus*, "U.S. Representative-Elect Deb Haaland."  
 
 **[*Coming of Age in New Mexico*](/catalog/cpb-aacip-207-08v9s5f4) (KUNM, Albuquerque, NM, February 20, 1992)**      
 
@@ -284,15 +286,15 @@ Listen to short stories about the lives of girls and women in New Mexico history
   </tbody>
 </table>
 
-The 75-year-old painter Pablita Velarde, also known as Tse Tsan (Santa Clara Pueblo), began her painting career at the age of fourteen. In *¡Colores!*, "Golden Dawn: The Pueblo Paintings of Pablita Velarde", she talks about her art, her life, and the things that have inspired her.  
+The 75-year-old painter Pablita Velarde, also known as Tse Tsan (Santa Clara Pueblo), began her painting career at the age of fourteen. In *¡Colores!*, "Golden Dawn: The Pueblo Paintings of Pablita Velarde," she talks about her art, her life, and the things that have inspired her.  
 
 **[*¡Colores!*, "Building Bridges, Binding Generations: Hispanic Women and Their Art"](/catalog/cpb-aacip-191-32r4xmd1) (New Mexico PBS, Albuquerque, NM)**       
 
-In *¡Colores!*, "Building Bridges, Binding Generations: Hispanic Women and Their Art", Hispanic women examine their roles in their communities; in their relationships with men, their families, and their culture. 
+In *¡Colores!*, "Building Bridges, Binding Generations: Hispanic Women and Their Art," Hispanic women examine their roles in their communities; in their relationships with men, their families, and their culture. 
 
 **[*¡Colores!*, "Notable New Mexicans 2006"](/catalog/cpb-aacip-a0ca6700f89) (KNME-TV, Albuquerque, NM, 2006)**      
 
-Maria Martinez (San Ildefonso Pueblo) created stunning pottery using traditional Pueblo styles and techniques. Witness her story in *¡Colores!*, "Notable New Mexicans 2006". 
+Maria Martinez (San Ildefonso Pueblo) created stunning pottery using traditional Pueblo styles and techniques. Witness her story in *¡Colores!*, "Notable New Mexicans 2006." 
 
 **[*New Mexico Women in Music 1*](/catalog/cpb-aacip-207-805x6jn3) (KUNM, Albuquerque, NM, March 19, 1980)**     
 
@@ -331,7 +333,7 @@ In *New Mexico Women in Music 3*, classical pianist and composer Magdaline Luki 
   </tbody>
 </table>
 
-*Atomic Veterans* outlines the nearly 50-year-long struggle to convince the U.S. government to acknowledge that exposure of U.S. military personnel to radiation from nuclear testing during World War II and for almost twenty years afterwards resulted in ailments that should be recognized as war-related injuries. 
+*Atomic Veterans* outlines the nearly fifty-year-long struggle to convince the U.S. government to acknowledge that exposure of U.S. military personnel to radiation from nuclear testing during World War II and for almost twenty years afterwards resulted in ailments that should be recognized as war-related injuries. 
 
 **[*¡Colores!*, "Trinity: Getting the Job Done"](/catalog/cpb-aacip-191-708w9ptq) (KNME-TV, Albuquerque, NM, July 16, 1995)**    
 
@@ -343,7 +345,7 @@ In *New Mexico Women in Music 3*, classical pianist and composer Magdaline Luki 
 
 **[*¡Colores!*, "A Commitment To Peace"](/catalog/cpb-aacip-191-08hdr8p8) (New Mexico PBS, Albuquerque, NM)**    
 
-The evolving sophistication of nuclear weapons resulted in an urgent need for control of the arms race and for achieving peace, as documented in *¡Colores!*, "A Commitment To Peace".
+The evolving sophistication of nuclear weapons resulted in an urgent need for control of the arms race and for achieving peace, as documented in *¡Colores!*, "A Commitment To Peace."
 
 **[*New Mexico in Focus*, "Women Veterans"](/catalog/cpb-aacip-5d0f3fcbb7c) (KNME-TV, Albuquerque, NM, November 21, 2014)**   
 
@@ -382,7 +384,7 @@ Kachinas mocking missiles, a hard rain of trinitite, an ominous glowing mesa—t
 
 **[*On Assignment*, "Charles Hyder Fasts for Peace"](/catalog/cpb-aacip-191-9673ngjt) (KNME-TV, Albuquerque, NM, April 1, 1987)** 
 
-New Mexican Charles Hyder fasts for nuclear disarmament in *On Assignment*, "Charles Hyder Fasts for Peace". 
+New Mexican Charles Hyder fasts for nuclear disarmament in *On Assignment*, "Charles Hyder Fasts for Peace." 
 
 **[*Report from Santa Fe*, "Helen Caldicott"](/catalog/cpb-aacip-4fccdcf2056) (KENW-TV, Portales, NM, March 26, 2011)**    
 
@@ -390,17 +392,17 @@ In *Report from Santa Fe*, Helen Caldicott, author and anti-nuclear activist, ou
 
 **[*New Mexico in Focus*, "Peace Talks Radio"](/catalog/cpb-aacip-eee3eff1b82) (KNME-TV, Albuquerque, NM, December 26, 2014)**   
 
-Peace Talks Radio co-founders Paul Ingles and Suzanne Kryder discuss peacemaking and non-violent conflict resolution in *New Mexico in Focus*, "Peace Talks Radio".
+Peace Talks Radio cofounders Paul Ingles and Suzanne Kryder discuss peacemaking and non-violent conflict resolution in *New Mexico in Focus*, "Peace Talks Radio."
 
 **[*¡Colores!*, "Witness for the World"](/catalog/cpb-aacip-191-547pvs4n) (New Mexico PBS, Albuquerque, NM)**  
 
-In *¡Colores!*, "Witness for the World", the Dalai Lama, Tensin Gyatso, champions the cause of peace through non-violence. 
+In *¡Colores!*, "Witness for the World," the Dalai Lama, Tensin Gyatso, champions the cause of peace through non-violence. 
 
 **[*Public Affairs*, "Peace Pilgrim"](/catalog/cpb-aacip-207-16pzgp7h) (KUNM, Albuquerque, NM, November 26, 1974)**  
 
-Peace Pilgrim (Mildred Lisette Norman) walked across the United States for 28 years, speaking with others about peace. Witness her story in *Public Affairs*, "Peace Pilgrim".
+Peace Pilgrim (Mildred Lisette Norman) walked across the United States for 28 years, speaking with others about peace. Witness her story in *Public Affairs*, "Peace Pilgrim."
 
-#### Next: [Part 3: Navigating Racism](/exhibits/witnessing-nm/4-navigating-racism.md)
+#### Next: [Navigating Racism](/exhibits/witnessing-nm/4-navigating-racism.md)
 
 ## Resources
 
