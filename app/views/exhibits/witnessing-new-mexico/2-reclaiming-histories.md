@@ -8,7 +8,9 @@ The act of reclaiming histories involves recovering perspectives and stories of 
 
 This section features programs about communities, institutions, and movements that have demanded and created change in New Mexico by challenging the status quo. Representing a broad range of topics, the programs in this section cover Indigenous and other local civilian demonstrations against public monuments valorizing colonial conquest, Black Lives Matter activists demanding an end to systemic racism and police brutality, prison inmate demands for reform, and more. These programs underscore the longstanding importance of activism, dissent, and resistance that significantly shape New Mexico’s intricate histories. 
 
-> "We want our kids to succeed. We have dreams for our children, too. We don't dream of our children one of these days ending up in the penitentiary." — Nadine Cordova, *New Mexico in Focus*
+> "We want our kids to succeed. We have dreams for our children, too. We don't dream of our children one of these days ending up in the penitentiary."
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Nadine Cordova, *New Mexico in Focus*
 
 ## Extended
 
@@ -83,7 +85,7 @@ In response to the L.A. riots after the Rodney King trial, people at a rally vie
 
 Angela Davis speaks at Popejoy Hall at the University of New Mexico. She talks about the power of organized masses of people speaking against racism and oppression. 
 
-**[*Penitentiary of New Mexico Riot Footage*](/catalog/cpb-aacip-862224a4288) (KOB-TV, Santa Fe, NM, February, 1981)**
+**[Penitentiary of New Mexico Riot Footage](/catalog/cpb-aacip-862224a4288) (KOB-TV, Santa Fe, NM, February, 1981)**
 
 <table class="full-width">
   <tbody>
@@ -95,7 +97,7 @@ Angela Davis speaks at Popejoy Hall at the University of New Mexico. She talks a
   </tbody>
 </table>
 
-The New Mexico State Penitentiary riot in February 1980 was one of the most violent prison riots in U.S. history with a total of 33 inmates dead and hundreds of others injured. In *Penitentiary of New Mexico Riot Footage*, inmate Dwight Duran reads an agreement negotiated between prison officials and inmates.  
+The New Mexico State Penitentiary riot in February 1980 was one of the most violent prison riots in U.S. history with a total of thirty-three inmates dead and hundreds of others injured. In Penitentiary of New Mexico Riot Footage, inmate Dwight Duran reads an agreement negotiated between prison officials and inmates.  
 
 **[*Illustrated Daily*, "New Penitentiary Facilities"](/catalog/cpb-aacip-191-687h4bt1?start=150.83&end=317.48) (New Mexico PBS, Albuquerque, NM)**
 
@@ -121,7 +123,7 @@ Filmed in California, Texas, Minnesota, Georgia, and New Mexico, the award-winni
   </tbody>
 </table>
 
-In *New Mexico in Focus* "Luminarios", Nadine and Patsy Cordova were teaching Hispanic students about their people’s struggle for civil rights until the school district fired them on February 28, 1997. They later won a half-million-dollar lawsuit. 
+In *New Mexico in Focus* "Luminarios," Nadine and Patsy Cordova were teaching Hispanic students about their people’s struggle for civil rights until the school district fired them on February 28, 1997. They later won a half-million-dollar lawsuit. 
 
 **[*¡Colores!*, "Los Valientes"](/catalog/cpb-aacip-191-84zgn1z2) (New Mexico PBS, Albuquerque, NM, March 29, 1994)**
 
@@ -138,7 +140,7 @@ In Espejos de Aztlán, José Rodríguez and Rudy Miera discuss the monumental mu
 <img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Vado.png">
 <p></p>
 
-**[*Vado: The Unspoken History*](/catalog/cpb-aacip-79e43ae2f15) (KRWG, Las Cruces, NM, December, 2003)**
+**[*Vado: The Unspoken History*](/catalog/cpb-aacip-79e43ae2f15) (KRWG, Las Cruces, NM, December 2003)**
 
 <table class="full-width">
   <tbody>
@@ -162,13 +164,13 @@ Women of the Land is a short documentary about Vado (New Mexico) with community 
 
 **[*New Mexico in Focus*, "African American History in New Mexico"](/catalog/cpb-aacip-920d538fc74?start=740.52&end=1675.8) (KNME-TV, Albuquerque, NM, October 18, 2013)**
 
-In *New Mexico in Focus* "African American History in New Mexico", three experts share their knowledge about African American history in New Mexico. 
+In *New Mexico in Focus* "African American History in New Mexico," three experts share their knowledge about African American history in New Mexico. 
 
 **[*New Mexico in Focus*, "Black Business Leaders in New Mexico"](/catalog/cpb-aacip-191-805x6k96?start=1272.49&end=2593.8) (KNME-TV, Albuquerque, NM, February 26, 2010)** 
 
-In *New Mexico in Focus* "Black Business Leaders in New Mexico", community leaders share histories of Black communities in Albuquerque at the famous Black-owned business Mr. Powdrell's Barbeque House. 
+In *New Mexico in Focus* "Black Business Leaders in New Mexico," community leaders share histories of Black communities in Albuquerque at the famous Black-owned business Mr. Powdrell's Barbeque House. 
 
-**[*Remembering the Santa Fe Japanese Internment Camp*](/catalog/cpb-aacip-7d62f718638) (KNME-TV, Albuquerque, NM, 2011)** 
+**[*Moments in Time: Stories of New Mexico's History*, "Remembering the Santa Fe Japanese Internment Camp"](/catalog/cpb-aacip-7d62f718638) (KNME-TV, Albuquerque, NM, 2011)** 
 
 <table class="full-width">
   <tbody>
@@ -180,7 +182,7 @@ In *New Mexico in Focus* "Black Business Leaders in New Mexico", community leade
   </tbody>
 </table>
 
-From *Moments in Time: Stories of New Mexico's History*, *Remembering the Santa Fe Japanese Internment Camp* details the experiences of Japanese Americans who were forced to relocate to Santa Fe, New Mexico to live in the internment camp. From 1942 to 1945, the U.S. government incarcerated people of Japanese descent, including U.S. citizens, in these isolated camps across the western half of the U.S.  
+*Moments in Time: Stories of New Mexico's History*, "Remembering the Santa Fe Japanese Internment Camp" details the experiences of Japanese Americans who were forced to relocate to Santa Fe, New Mexico to live in the internment camp. From 1942 to 1945, the U.S. government incarcerated people of Japanese descent, including U.S. citizens, in these isolated camps across the western half of the U.S.  
 
 **[*¡Colores!*, "The Japanese American Experience in New Mexico"](/catalog/cpb-aacip-191-87pnw5pp?start=121.51&end=1266.64) (New Mexico PBS, Albuquerque, NM, January 24, 1990)** 
 
@@ -206,7 +208,7 @@ Nikki Nojima Louis' father was sent to the internment camp in Santa Fe and she a
 
 **[*Illustrated Daily*, "AIDS"](/catalog/cpb-aacip-006d5989b8a) (KNME-TV, Albuquerque, NM, May 9, 1985)** 
 
-New Mexico AIDS cases are increasing faster than the national pattern. The two-part special *Illustrated Daily*, "AIDS" presents new understanding about AIDS research. 
+At the time of broadcast, New Mexico AIDS cases were increasing faster than the national pattern. The two-part special *Illustrated Daily*, "AIDS" presents new understanding about AIDS research. 
 
 **[*At Week's End*, "Women with AIDS"](/catalog/cpb-aacip-191-53wstws8) (KNME-TV, Albuquerque, NM, October 12, 1992)** 
 
@@ -232,11 +234,11 @@ In *Focus on Education*, "Legal Rights of Children with AIDS", Dr. Ruth Luckasso
   </tbody>
 </table>
 
-In *Report from Santa Fe*, "Martha Burk", Dr. Martha Burk discusses the "glass ceiling," pay equity, and childcare in New Mexico. 
+In *Report from Santa Fe*, "Martha Burk," Dr. Martha Burk discusses the "glass ceiling," pay equity, and childcare in New Mexico. 
 
 **[*New Mexico in Focus*, "Women's Right to Vote in New Mexico"](/catalog/cpb-aacip-a50ba289541?start=774.27&end=1273.8) (KNME-TV, Albuquerque, NM, July 3, 2020)** 
 
-In *New Mexico in Focus*, "Women's Right to Vote in New Mexico", Correspondent Megan Kamerick leads a conversation about the history of women’s suffrage in New Mexico. 
+In *New Mexico in Focus*, "Women's Right to Vote in New Mexico," Correspondent Megan Kamerick leads a conversation about the history of women’s suffrage in New Mexico. 
 
 **[Equal Rights Amendment (ERA)](/catalog/cpb-aacip-207-03qv9snj) (KUNM, Albuquerque, NM, February 24, 1975)** 
 
@@ -244,7 +246,7 @@ KUNM presents a program on the move to repeal New Mexico's ratification of the E
 
 **[*Focus on Education*, "International Women's Day"](/catalog/cpb-aacip-207-859cnxj6) (KUNM, Albuquerque, NM, March 3, 1988)** 
 
-In *Focus on Education*, "International Women's Day", International Women's Day is recognized by a conversation between Ann Nihlen and Dr. Jane Slaughter about gender equality and policies. 
+In *Focus on Education*, "International Women's Day," International Women's Day is recognized by a conversation between Ann Nihlen and Dr. Jane Slaughter about gender equality and policies. 
 
 **[*Invisible Children*](/catalog/cpb-aacip-191-3976hjmf) (KNME-TV, Albuquerque, NM)** 
 
@@ -262,11 +264,11 @@ In *Focus on Education*, "International Women's Day", International Women's Day 
 
 **[*Public Square*, "Incarceration or Graduation?"](/catalog/cpb-aacip-84edb076880) (KNME-TV, Albuquerque, NM, June 25, 2015)** 
 
-The U.S. is known for its high rate of incarceration—a trend that carries over to young people in our society. *Public Square*, "Incarceration or Graduation?" asks how can we change this reality? 
+The U.S. is known for its high rate of incarceration, a trend that carries over to young people in our society. *Public Square*, "Incarceration or Graduation?" asks how can we change this reality? 
 
 **[*Espejos de Aztlán*, "Juan López and Jana López"](/catalog/cpb-aacip-c23d21680b5) (KUNM, Albuquerque, NM, November 17, 1983)**
 
-*Espejos de Aztlán*, "Juan López and Jana López" introduces the directors of STOP (Services To Offenders Program), who created a non-profit program that helps formally incarcerated parents. 
+*Espejos de Aztlán*, "Juan López and Jana López" introduces the directors of STOP (Services To Offenders Program), who created a non-profit program that helps formerly incarcerated parents. 
 
 #### Next: [Part 2: Sharing Stories](/exhibits/witnessing-nm/3-sharing-stories.md)
 
