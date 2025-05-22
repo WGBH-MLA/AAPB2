@@ -2,6 +2,16 @@ FROM ruby:2.4.4 as base
 WORKDIR /usr/src/app
 
 RUN /bin/echo -e "deb http://archive.debian.org/debian stretch main\ndeb http://archive.debian.org/debian-security stretch/updates main\n" > /etc/apt/sources.list
+# Add the Debian archive keyring to resolve key expiration issues
+RUN apt-key adv --keyserver keyserver.ubuntu.com --recv-keys AA8E81B4331F7F50 04EE7237B7D453EC EF0F382A1A7B6500
+
+# Update the sources.list to use the archived repositories
+RUN sed -i 's|http://deb.debian.org/debian|http://archive.debian.org/debian|g' /etc/apt/sources.list && \
+    sed -i 's|http://security.debian.org/debian-security|http://archive.debian.org/debian-security|g' /etc/apt/sources.list
+
+# Allow the use of unsigned repositories (necessary for EOL distributions)
+RUN echo 'Acquire::Check-Valid-Until "false";' > /etc/apt/apt.conf.d/99-nocheck-valid-until && \
+    echo 'Acquire::AllowInsecureRepositories "true";' >> /etc/apt/apt.conf.d/99-nocheck-valid-until
 
 # Install non-ruby dependencies
 RUN apt update && apt install -y nodejs curl libcurl3 libcurl3-openssl-dev openjdk-8-jdk
