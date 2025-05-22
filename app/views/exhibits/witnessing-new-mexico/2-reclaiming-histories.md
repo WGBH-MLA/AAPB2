@@ -17,7 +17,8 @@ This section features programs about communities, institutions, and movements th
 ## Main
 
 <img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Surviving Columbus.png">
-<p></p>
+
+&emsp;
 
 **[*Surviving Columbus: The Story of the Pueblo People*](/catalog/cpb-aacip-526-jh3cz33930) (KNME-TV, Albuquerque, NM, October 12, 1992)**
 
@@ -138,7 +139,8 @@ Southwest Sound Collage's Los Tesoros del Espíritu: A Portrait in Sound of Hisp
 In Espejos de Aztlán, José Rodríguez and Rudy Miera discuss the monumental musical drama "Nuevo Mexico, Sí," which brings to life New Mexico's complicated history. 
 
 <img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Vado.png">
-<p></p>
+
+&emsp;
 
 **[*Vado: The Unspoken History*](/catalog/cpb-aacip-79e43ae2f15) (KRWG, Las Cruces, NM, December 2003)**
 
