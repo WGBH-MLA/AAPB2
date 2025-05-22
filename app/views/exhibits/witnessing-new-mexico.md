@@ -1,9 +1,10 @@
 # Witnessing New Mexico: The New Mexico Public Media Digitization Project
 
-
- <img title="Banner Image" alt="Title card that reads Witnessing New Mexico: The New Mexico Public Media Digitization Project" src="https://s3.amazonaws.com/americanarchive.org/exhibits/witnessing-nm-exhibit-title-graphic.png">
+1
 
 ## Summary
+
+ <img title="Banner Image" alt="Title card that reads Witnessing New Mexico: The New Mexico Public Media Digitization Project" src="https://s3.amazonaws.com/americanarchive.org/exhibits/witnessing-nm-exhibit-title-graphic.png">
  
 > “...there is [sic] always two sides to a story. And, there's not just one way of looking at history, but many ways."
 >
@@ -61,7 +62,8 @@ This project would not have been possible without the support of Angelica Bernae
 ## Main
 
   <img title="NM Map" alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/NM Map with Logos.png">
-<p></p>
+  
+&emsp;
 
 ### Introduction
 
