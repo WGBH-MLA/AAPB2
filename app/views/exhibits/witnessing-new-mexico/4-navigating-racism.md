@@ -1,6 +1,6 @@
 # Navigating Racism
 
-3
+4
 
 ## Summary
 
@@ -17,7 +17,8 @@ The *Witnessing New Mexico* Collection provides a critical exploration of commun
 ## Main
 
 <img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Environment, Race, and Class.png">
-<p></p>
+
+&emsp;
 
 **[*Environment, Race, and Class*, "The Poisoning of Communities of Color"](/catalog/cpb-aacip-207-89280r0z) (KUNM, Albuquerque, NM, August 31, 1991)**
 
@@ -166,7 +167,8 @@ Seventy thousand people in the Navajo Nation live without easy access to one of 
 Thousands of Albuquerqueans have, for years, had to deal with the fear and reality of drinking contaminated water. *At Week's End*, "New Mexico Groundwater" tells all. 
 
 <img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Erase the Hate.png">
-<p></p>
+
+&emsp;
 
 **[*Erase the Hate*, "Forum 2002 (Institutional Racism)"](/catalog/cpb-aacip-762b41ac6c1) (KNME-TV, Albuquerque, NM, January 22, 2002)**     
 
