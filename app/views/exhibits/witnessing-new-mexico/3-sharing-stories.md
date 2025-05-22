@@ -1,6 +1,6 @@
 # Sharing Stories
 
-2
+3
 
 ## Summary
 
@@ -17,7 +17,8 @@ Empowering people who have been labeled different or unimportant is a major feat
 ## Main
 
 <img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Juane Quick-to-See Smith.png"> 
-<p></p>
+
+&emsp;
 
 **[*Illustrated Daily*, "Jaune Quick-to-See"](/catalog/cpb-aacip-191-25k98w97) (KNME-TV, Albuquerque, NM, November 22, 1984)**
 
@@ -58,7 +59,8 @@ Maria Benitez's life as a Flamenco dancer is featured in *Notable New Mexicans*,
 *¡Colores!*, "One Who Stands In the Sun" captures the life and art of Native American painter T. C. Cannon, also known as Pai-doung-u-day (Caddo/Kiowa). 
 
 <img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/LGBTQ Youth.png">
-<p></p>
+
+&emsp;
 
 **[*Public Square*, "LGBTQ Youth in New Mexico"](/catalog/cpb-aacip-b491f85449c) (KNME-TV, Albuquerque, NM, January 31, 2013)**
 
@@ -120,18 +122,9 @@ The conversation continues with *¡Colores!*, "More! Albuquerque: Places of the 
 
 *¡Colores!*, "Albuquerque's Historic Neighborhoods" proves that Albuquerque's historic neighborhoods are key to understanding the uniqueness of the city. 
 
-<table class="full-width">
-  <tbody>
-    <tr>
-      <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724969541 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 <img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Fabiola Cabeza de Baca.png">
-<p></p>
+
+&emsp;
 
 **[*¡Colores!*, "Fabiola Cabeza de Baca"](/catalog/cpb-aacip-14ac221efe6) (KNME-TV, Albuquerque, NM, July 25, 2020)**
 
@@ -171,18 +164,9 @@ Experience sacred "alabados" of the Penitentes of Northern New Mexico in *¡Colo
 
 Experience the songs of corridistas: Antonio Martinez, Roberto Martinez, and Chuy Martinez in *¡Colores!*, "Una Lucha Por Mi Pueblo."
 
-<table class="full-width">
-  <tbody>
-    <tr>
-      <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724970182 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 <img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Authors Enrique Lamadrid and Moises Gonzales.png">
-<p></p>
+
+&emsp;
 
 **[*¡Colores!*, "Authors Enrique Lamadrid and Moises Gonzales"](/catalog/cpb-aacip-d3439733e3a) (KNME-TV, Albuquerque, NM, September 7, 2019)** 
 
@@ -210,18 +194,9 @@ In *Espejos de Aztlán*, Tomás Atencio discusses "genízaros" in New Mexico and
 
 *New Mexico in Focus*, "Kellogg/Women's History Month" is a look back at the Spanish Inquisition and the life of Doña Teresa, the Governor’s wife and a target of the Inquisition. 
 
-<table class="full-width">
-  <tbody>
-    <tr>
-      <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/725256229 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 <img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/This Town is Not For Sale.png">
-<p></p>
+
+&emsp;
 
 **[*¡Colores!*, "This Town Is Not for Sale"](/catalog/cpb-aacip-191-13905s4p) (New Mexico PBS, Albuquerque, NM)**   
 
@@ -261,18 +236,9 @@ Listen to short stories about the lives of girls and women in New Mexico history
 
 *New Mexico in Focus*, "Women in Science" is a profile on Margaret Werner-Washburne, a nationally recognized research biologist making breakthroughs in understanding the cell. 
 
-<table class="full-width">
-  <tbody>
-    <tr>
-      <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/725256229 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 <img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Golden Dawn.png">
-<p></p>
+
+&emsp;
 
 **[*¡Colores!*, "Golden Dawn: The Pueblo Paintings of Pablita Velarde"](/catalog/cpb-aacip-191-0000002n) (KNME-TV, Albuquerque, NM, January 11, 1994)**      
 
@@ -307,19 +273,10 @@ In *New Mexico Women in Music 2*, Bonnie Blum talks about her life as a singer/s
 **[*New Mexico Women in Music 3*](/catalog/cpb-aacip-207-278sfb0t) (KUNM, Albuquerque, NM, March 1, 1980)**  
 
 In *New Mexico Women in Music 3*, classical pianist and composer Magdaline Luki performs while percussionist Robyn Schulkowsky discusses her music. 
- 
-<table class="full-width">
-  <tbody>
-    <tr>
-      <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724979962 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 <img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Atomic Veterans.png">
-<p></p>
+
+&emsp;
 
 **[*Atomic Veterans*](/catalog/cpb-aacip-8e9cc517807) (KRWG, Las Cruces, NM, August 17, 1995)**  
 
@@ -355,18 +312,9 @@ Almost 280,000 women have served post-9/11 in Afghanistan and Iraq. *New Mexico 
 
 In *We Are the Historians*, "The GI Revolt", service members work to raise awareness about the realities of war, including post-traumatic syndrome. 
 
-<table class="full-width">
-  <tbody>
-    <tr>
-      <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/724979962 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 <img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/New Mexico’s Nuclear Enchantment.png">
-<p></p>
+
+&emsp;
 
 **[*¡Colores!*, "New Mexico's Nuclear Enchantment"](/catalog/cpb-aacip-191-021c5b67) (New Mexico PBS, Albuquerque, NM)** 
 
