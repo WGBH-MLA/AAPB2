@@ -16,11 +16,11 @@ This section features programs about communities, institutions, and movements th
 
 ## Main
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Surviving Columbus.png">
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Surviving Columbus-1280x1280.png">
 
 &emsp;
 
-**[*Surviving Columbus: The Story of the Pueblo People*](/catalog/cpb-aacip-526-jh3cz33930) (KNME-TV, Albuquerque, NM, October 12, 1992)**
+**Featured Item**
 
 <table class="full-width">
   <tbody>
@@ -32,6 +32,8 @@ This section features programs about communities, institutions, and movements th
   </tbody>
 </table>
 
+**[*Surviving Columbus: The Story of the Pueblo People*](/catalog/cpb-aacip-526-jh3cz33930) (KNME-TV, Albuquerque, NM, October 12, 1992)**
+
 A Columbus Quincentenary special, *Surviving Columbus: The Story of the Pueblo People* presents the Pueblo Indians' view of the encounter with Europeans, which began one afternoon in 1539 with the arrival of a Spanish slave from Azamore, Morocco, and continues to this day.  
 
 **[Columbus Day Workshop](/catalog/cpb-aacip-207-289gj0px) (WGBH, Boston, MA)**
@@ -42,7 +44,7 @@ The Columbus Day Workshop critically examines the myth of Columbus' impact in th
 
 In this episode of *Report from Santa Fe*, Herman Agoyo (San Juan Pueblo) and sculptor Cliff Fragua (Jemez Pueblo) discuss the artist's sculpture of Po'pay in the National Statuary Hall. 
 
-**[*New Mexico in Focus*, "Juan de Oñate Statue Protest"](/catalog/cpb-aacip-686d1be50d9) (KNME-TV, Albuquerque, NM, June 19, 2020)**
+**Featured Item**
 
 <table class="full-width">
   <tbody>
@@ -54,13 +56,15 @@ In this episode of *Report from Santa Fe*, Herman Agoyo (San Juan Pueblo) and sc
   </tbody>
 </table>
 
+**[*New Mexico in Focus*, "Juan de Oñate Statue Protest"](/catalog/cpb-aacip-686d1be50d9) (KNME-TV, Albuquerque, NM, June 19, 2020)**
+
 *New Mexico in Focus*, "Juan de Oñate Statue Protest" shows a bitter fight over the proper historical place for one of the most controversial figures in the history of the Southwest. As protestors in Albuquerque tried to yank down his likeness a self-appointed group of armed guards riled the crowd and shot a demonstrator. 
 
 **[*New Mexico in Focus*, "Reconsidering La Entrada"](/catalog/cpb-aacip-5dcda8ee12e?start=941.12&end=2049.09) (KNME-TV, Albuquerque, NM, August 17, 2018)**
 
 In *New Mexico in Focus*, "Reconsidering La Entrada," correspondent Matt Grubs talks with former New Mexico State Historian Estevan Rael-Gálvez about changes to this year's La Entrada tradition. 
 
-**[*New Mexico in Focus*, "Black Lives Matter Protests"](/catalog/cpb-aacip-b29f3a40580) (KNME-TV, Albuquerque, NM, June 5, 2020)**
+**Featured Item**
 
 <table class="full-width">
   <tbody>
@@ -71,6 +75,8 @@ In *New Mexico in Focus*, "Reconsidering La Entrada," correspondent Matt Grubs t
     </tr>
   </tbody>
 </table>
+
+**[*New Mexico in Focus*, "Black Lives Matter Protests"](/catalog/cpb-aacip-b29f3a40580) (KNME-TV, Albuquerque, NM, June 5, 2020)**
 
 In *New Mexico in Focus*, "Black Lives Matter Protests," correspondent Megan Kamerick talks with a protest organizer, an educator, and a city leader about the struggle of Black Lives Matter organizers to separate their message from broader anger and especially from violence. 
 
@@ -86,7 +92,7 @@ In response to the L.A. riots after the Rodney King trial, people at a rally vie
 
 Angela Davis speaks at Popejoy Hall at the University of New Mexico. She talks about the power of organized masses of people speaking against racism and oppression. 
 
-**[Penitentiary of New Mexico Riot Footage](/catalog/cpb-aacip-862224a4288) (KOB-TV, Santa Fe, NM, February, 1981)**
+**Featured Item**
 
 <table class="full-width">
   <tbody>
@@ -97,6 +103,8 @@ Angela Davis speaks at Popejoy Hall at the University of New Mexico. She talks a
     </tr>
   </tbody>
 </table>
+
+**[Penitentiary of New Mexico Riot Footage](/catalog/cpb-aacip-862224a4288) (KOB-TV, Santa Fe, NM, February, 1981)**
 
 The New Mexico State Penitentiary riot in February 1980 was one of the most violent prison riots in U.S. history with a total of thirty-three inmates dead and hundreds of others injured. In Penitentiary of New Mexico Riot Footage, inmate Dwight Duran reads an agreement negotiated between prison officials and inmates.  
 
@@ -112,7 +120,7 @@ Filmed in California, Texas, Minnesota, Georgia, and New Mexico, the award-winni
 
 *Illustrated Daily*, "Grant's Women's Prison" captures a protest at the women's prison in Grants, New Mexico.  
 
-**[*New Mexico in Focus*, "Luminarios"](/catalog/cpb-aacip-23602f4a023) (KNME-TV, Albuquerque, NM, May 21, 1999)**
+**Featured Item**
 
 <table class="full-width">
   <tbody>
@@ -123,6 +131,8 @@ Filmed in California, Texas, Minnesota, Georgia, and New Mexico, the award-winni
     </tr>
   </tbody>
 </table>
+
+**[*New Mexico in Focus*, "Luminarios"](/catalog/cpb-aacip-23602f4a023) (KNME-TV, Albuquerque, NM, May 21, 1999)**
 
 In *New Mexico in Focus* "Luminarios," Nadine and Patsy Cordova were teaching Hispanic students about their people’s struggle for civil rights until the school district fired them on February 28, 1997. They later won a half-million-dollar lawsuit. 
 
@@ -138,11 +148,11 @@ Southwest Sound Collage's Los Tesoros del Espíritu: A Portrait in Sound of Hisp
 
 In Espejos de Aztlán, José Rodríguez and Rudy Miera discuss the monumental musical drama "Nuevo Mexico, Sí," which brings to life New Mexico's complicated history. 
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Vado.png">
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Vado-1280x1280.png">
 
 &emsp;
 
-**[*Vado: The Unspoken History*](/catalog/cpb-aacip-79e43ae2f15) (KRWG, Las Cruces, NM, December 2003)**
+**Featured Item**
 
 <table class="full-width">
   <tbody>
@@ -153,6 +163,8 @@ In Espejos de Aztlán, José Rodríguez and Rudy Miera discuss the monumental mu
     </tr>
   </tbody>
 </table>
+
+**[*Vado: The Unspoken History*](/catalog/cpb-aacip-79e43ae2f15) (KRWG, Las Cruces, NM, December 2003)**
 
 In *Vado: The Unspoken History*, Henry Boyer, a resident of Georgia who was working for the Army delivering supplies in the late nineteenth century, became enchanted by New Mexico during a brief visit. Boyer dreamed of creating a life where Blacks could own land, raise families, and live in peace in southern New Mexico. 
 
@@ -172,7 +184,7 @@ In *New Mexico in Focus* "African American History in New Mexico," three experts
 
 In *New Mexico in Focus* "Black Business Leaders in New Mexico," community leaders share histories of Black communities in Albuquerque at the famous Black-owned business Mr. Powdrell's Barbeque House. 
 
-**[*Moments in Time: Stories of New Mexico's History*, "Remembering the Santa Fe Japanese Internment Camp"](/catalog/cpb-aacip-7d62f718638) (KNME-TV, Albuquerque, NM, 2011)** 
+**Featured Item** 
 
 <table class="full-width">
   <tbody>
@@ -184,6 +196,8 @@ In *New Mexico in Focus* "Black Business Leaders in New Mexico," community leade
   </tbody>
 </table>
 
+**[*Moments in Time: Stories of New Mexico's History*, "Remembering the Santa Fe Japanese Internment Camp"](/catalog/cpb-aacip-7d62f718638) (KNME-TV, Albuquerque, NM, 2011)**
+
 *Moments in Time: Stories of New Mexico's History*, "Remembering the Santa Fe Japanese Internment Camp" details the experiences of Japanese Americans who were forced to relocate to Santa Fe, New Mexico to live in the internment camp. From 1942 to 1945, the U.S. government incarcerated people of Japanese descent, including U.S. citizens, in these isolated camps across the western half of the U.S.  
 
 **[*¡Colores!*, "The Japanese American Experience in New Mexico"](/catalog/cpb-aacip-191-87pnw5pp?start=121.51&end=1266.64) (New Mexico PBS, Albuquerque, NM, January 24, 1990)** 
@@ -194,7 +208,7 @@ In *New Mexico in Focus* "Black Business Leaders in New Mexico," community leade
 
 Nikki Nojima Louis' father was sent to the internment camp in Santa Fe and she and her mother were sent to Idaho. In *New Mexico in Focus* "Internment Camps for Japanese Americans", she discusses this experience. 
 
-**[*Illustrated Daily*, "The AIDS Epidemic in New Mexico Grows"](/catalog/cpb-aacip-191-515mkrvv) (KNME-TV, Albuquerque, NM, November 15, 1985)** 
+**Featured Item**
 
 <table class="full-width">
   <tbody>
@@ -205,6 +219,8 @@ Nikki Nojima Louis' father was sent to the internment camp in Santa Fe and she a
     </tr>
   </tbody>
 </table>
+
+**[*Illustrated Daily*, "The AIDS Epidemic in New Mexico Grows"](/catalog/cpb-aacip-191-515mkrvv) (KNME-TV, Albuquerque, NM, November 15, 1985)** 
 
 *Illustrated Daily*, "The AIDS Epidemic in New Mexico Grows" takes an in-depth look at the 1980s AIDS epidemic and how it is impacting communities in New Mexico.  
 
@@ -224,7 +240,7 @@ In *Focus on Education*, "Legal Rights of Children with AIDS", Dr. Ruth Luckasso
 
 *New Mexico in Focus* "HIV Updates in New Mexico" provides details on HIV prevention and treatment in New Mexico. 
 
-**[*Report from Santa Fe*, "Martha Burk"](/catalog/cpb-aacip-558f425b766) (KNME-TV, Albuquerque, NM, July 26, 2008)** 
+**Featured Item**
 
 <table class="full-width">
   <tbody>
@@ -235,6 +251,8 @@ In *Focus on Education*, "Legal Rights of Children with AIDS", Dr. Ruth Luckasso
     </tr>
   </tbody>
 </table>
+
+**[*Report from Santa Fe*, "Martha Burk"](/catalog/cpb-aacip-558f425b766) (KNME-TV, Albuquerque, NM, July 26, 2008)** 
 
 In *Report from Santa Fe*, "Martha Burk," Dr. Martha Burk discusses the "glass ceiling," pay equity, and childcare in New Mexico. 
 
@@ -250,7 +268,7 @@ KUNM presents a program on the move to repeal New Mexico's ratification of the E
 
 In *Focus on Education*, "International Women's Day," International Women's Day is recognized by a conversation between Ann Nihlen and Dr. Jane Slaughter about gender equality and policies. 
 
-**[*Invisible Children*](/catalog/cpb-aacip-191-3976hjmf) (KNME-TV, Albuquerque, NM)** 
+**Featured Item**
 
 <table class="full-width">
   <tbody>
@@ -261,6 +279,8 @@ In *Focus on Education*, "International Women's Day," International Women's Day 
     </tr>
   </tbody>
 </table>
+
+**[*Invisible Children*](/catalog/cpb-aacip-191-3976hjmf) (KNME-TV, Albuquerque, NM)** 
 
 "Invisible children" are the invisible victims of our country's prison system, the children of incarcerated parents. KNME's documentary *Invisible Children* looks at the challenges these children face, how they cope with losing a parent to prison, and their courageous struggle to overcome their parents' examples. 
 
