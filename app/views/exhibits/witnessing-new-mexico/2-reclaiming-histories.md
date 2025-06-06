@@ -8,9 +8,9 @@ The act of reclaiming histories involves recovering perspectives and stories of 
 
 This section features programs about communities, institutions, and movements that have demanded and created change in New Mexico by challenging the status quo. Representing a broad range of topics, the programs in this section cover Indigenous and other local civilian demonstrations against public monuments valorizing colonial conquest, Black Lives Matter activists demanding an end to systemic racism and police brutality, prison inmate demands for reform, and more. These programs underscore the longstanding importance of activism, dissent, and resistance that significantly shape New Mexico’s intricate histories. 
 
-> "We want our kids to succeed. We have dreams for our children, too. We don't dream of our children one of these days ending up in the penitentiary."
+> *"We want our kids to succeed. We have dreams for our children, too. We don't dream of our children one of these days ending up in the penitentiary."*
 >
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Nadine Cordova, *New Mexico in Focus*
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *- Nadine Cordova,* New Mexico in Focus
 
 ## Extended
 
@@ -140,13 +140,13 @@ In *New Mexico in Focus* "Luminarios," Nadine and Patsy Cordova were teaching Hi
 
 *¡Colores!*, "Los Valientes" celebrates the unknown people of Hispanic northern New Mexico communities.  
 
-**[Los Tesoros del Espíritu: A Portrait in Sound of Hispanic New Mexico](/catalog/cpb-aacip-207-61rfjd1n) (KUNM, Albuquerque, NM, June 18, 1990)**
+**[*Southwest Sound Collage*, "Los Tesoros del Espíritu: A Portrait in Sound of Hispanic New Mexico"](/catalog/cpb-aacip-207-61rfjd1n) (KUNM, Albuquerque, NM, June 18, 1990)**
 
-Southwest Sound Collage's Los Tesoros del Espíritu: A Portrait in Sound of Hispanic New Mexico covers challenges and threats to Hispanic culture in New Mexico as a result of land rights struggles. 
+*Southwest Sound Collage*'s "Los Tesoros del Espíritu: A Portrait in Sound of Hispanic New Mexico" covers challenges and threats to Hispanic culture in New Mexico as a result of land rights struggles. 
 
-**[Espejos de Aztlán](/catalog/cpb-aacip-c198c660e62?start=57.6&end=1922.82) (KUNM, Albuquerque, NM, November 16, 1981)**
+**[*Espejos de Aztlán*, "José Rodríguez and Rudy Miera at Tiffany's Playhouse (unedited version)"](/catalog/cpb-aacip-c198c660e62?start=57.6&end=1922.82) (KUNM, Albuquerque, NM, November 16, 1981)**
 
-In Espejos de Aztlán, José Rodríguez and Rudy Miera discuss the monumental musical drama "Nuevo Mexico, Sí," which brings to life New Mexico's complicated history. 
+In this episode of *Espejos de Aztlán*, José Rodríguez and Rudy Miera discuss the monumental musical drama "Nuevo Mexico, Sí," which brings to life New Mexico's complicated history. 
 
 <img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Vado-1280x1280.png">
 
@@ -172,9 +172,9 @@ In *Vado: The Unspoken History*, Henry Boyer, a resident of Georgia who was work
 
 *¡Colores!*, "Blackdom" is the virtually untold story of Black pioneers Frank and Ella Boyer, who dreamed of creating a “colony” for Black people in NM. 
 
-**[Women of the Land](/catalog/cpb-aacip-4e9db3deaf4?start=845.39&end=1124.63) (KENW-TV, Portales, NM, November 10, 1992)**
+**[*Women of the Land*](/catalog/cpb-aacip-4e9db3deaf4?start=845.39&end=1124.63) (KENW-TV, Portales, NM, November 10, 1992)**
 
-Women of the Land is a short documentary about Vado (New Mexico) with community leader Gussie Mae Braddy. 
+*Women of the Land* is a short documentary about Vado (New Mexico) with community leader Gussie Mae Braddy. 
 
 **[*New Mexico in Focus*, "African American History in New Mexico"](/catalog/cpb-aacip-920d538fc74?start=740.52&end=1675.8) (KNME-TV, Albuquerque, NM, October 18, 2013)**
 
