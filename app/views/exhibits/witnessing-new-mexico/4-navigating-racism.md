@@ -6,21 +6,21 @@
 
 Navigating the terrain of racism in New Mexico is no easy task. While racism often has been overlooked, ignored, or denied in communities, New Mexico public media stations have been sharing critical conversations about racism for decades.  
 
-The *Witnessing New Mexico* Collection provides a critical exploration of communities of peoples who have survived and thrived despite persistent racial and class-based injustices. The content presented here highlights recent and past discussions about racism in an effort to inspire critical questioning of where the state of New Mexico and the nation are headed in terms of enacting racial equity.  
+The *Witnessing New Mexico* exhibit provides a critical exploration of communities of peoples who have survived and thrived despite persistent racial and class-based injustices. The content presented here highlights recent and past discussions about racism in an effort to inspire critical questioning of where the state of New Mexico and the nation are headed in terms of enacting racial equity.  
 
->"A new dialogue and debate is being heard over the fact that people of color are most often the most directly and severely impacted by pollution, toxic dumping, and often by the negative impacts of the mainstream environmental movement itself."
+>*"A new dialogue and debate is being heard over the fact that people of color are most often the most directly and severely impacted by pollution, toxic dumping, and often by the negative impacts of the mainstream environmental movement itself."*
 >
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — Marcos Martinez, *Environment, Race, and Class: The Poisoning of Communities of Color* (Part 1)
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *— Marcos Martinez,* Environment, Race, and Class: The Poisoning of Communities of Color *(Part 1)*
 
 ## Extended
 
 ## Main
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Environment, Race, and Class.png">
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Environment, Race, and Class-1280x1280.png">
 
 &emsp;
 
-**[*Environment, Race, and Class*, "The Poisoning of Communities of Color"](/catalog/cpb-aacip-207-89280r0z) (KUNM, Albuquerque, NM, August 31, 1991)**
+**Featured Item**
 
 <table class="full-width">
   <tbody>
@@ -31,6 +31,8 @@ The *Witnessing New Mexico* Collection provides a critical exploration of commun
     </tr>
   </tbody>
 </table>
+
+**[*Environment, Race, and Class*, "The Poisoning of Communities of Color"](/catalog/cpb-aacip-207-89280r0z) (KUNM, Albuquerque, NM, August 31, 1991)**
 
 In *Environment, Race, and Class*, "The Poisoning of Communities of Color" (Part 1 & Part 2), environmental justice has taken a new focus. People of color are the most impacted by environmental pollution and dumping, and by the negative impacts of the mainstream environmental movement. 
 
@@ -46,7 +48,7 @@ J. Paul Taylor Social Justice Symposium in Las Cruces, New Mexico, focuses on en
 
 For nearly fifty years, Sandia National Laboratory has buried wastes that are contaminated. *New Mexico in Focus*, "Sandia Lab's Mixed Waste Landfill" asks: Are communities at risk? 
 
-**[*Public Square*, "Cancer: Connecting to Cultures"](/catalog/cpb-aacip-7b6d36e3810) (KNME-TV, Albuquerque, NM, March 26, 2015)**   
+**Featured Item**
 
 <table class="full-width">
   <tbody>
@@ -57,6 +59,8 @@ For nearly fifty years, Sandia National Laboratory has buried wastes that are co
     </tr>
   </tbody>
 </table>
+
+**[*Public Square*, "Cancer: Connecting to Cultures"](/catalog/cpb-aacip-7b6d36e3810) (KNME-TV, Albuquerque, NM, March 26, 2015)**   
 
 Cancer is still more common in Anglo populations than in Native American or Hispanic/Latino communities. But, in *Public Square*, "Cancer: Connecting to Cultures," the numbers are shifting, and screening rates in these communities tend to be lower. 
 
@@ -72,7 +76,7 @@ Representative Danice Picraux and Senator Dr. Steve Komadina talk about the legi
 
 In *Report from Santa Fe*, "John Heaton and Clint Harden," Representative John Heaton talks about healthcare issues some of his proposed solutions. 
 
-**[*At Week's End*, "Poverty in New Mexico"](/catalog/cpb-aacip-191-25k98wf4) (KNME-TV, Albuquerque, NM, December 14, 1990)**      
+**Featured Item**    
 
 <table class="full-width">
   <tbody>
@@ -83,6 +87,8 @@ In *Report from Santa Fe*, "John Heaton and Clint Harden," Representative John H
     </tr>
   </tbody>
 </table>
+
+**[*At Week's End*, "Poverty in New Mexico"](/catalog/cpb-aacip-191-25k98wf4) (KNME-TV, Albuquerque, NM, December 14, 1990)**  
 
 New Mexico stands as one of the poorest states in the nation, forty-fifth in per capita income and plagued by chronic and historical poverty. Learn more in *At Week's End*, "Poverty in New Mexico." 
 
@@ -98,7 +104,7 @@ In *New Mexico in Focus*, "Hunger in New Mexico," many New Mexican families wond
 
 In *Report from Santa Fe*, "Pam Hyde," Cabinet Secretary for the Department of Human Services Pam Hyde discusses fighting poverty. 
 
-**[*Public Square*, "Improving Graduation Rates"](/catalog/cpb-aacip-53373da918e) (KNME-TV, Albuquerque, NM, August 25, 2011)**        
+**Featured Item**  
 
 <table class="full-width">
   <tbody>
@@ -109,6 +115,8 @@ In *Report from Santa Fe*, "Pam Hyde," Cabinet Secretary for the Department of H
     </tr>
   </tbody>
 </table>
+
+**[*Public Square*, "Improving Graduation Rates"](/catalog/cpb-aacip-53373da918e) (KNME-TV, Albuquerque, NM, August 25, 2011)**      
 
 *Public Square*, "Improving Graduation Rates" asks; how do we improve graduation rates and the lives of young people? 
 
@@ -123,7 +131,7 @@ In *Native American Education Strategies for Change*, Dr. Teresa LaFromboise (Mi
 
 In *New Mexico in Focus*, "DACA Students," DACA (Deferred Action for Childhood Arrivals) offers temporary protection, but not permanent legal residency to eligible young people. 
 
-**[*New Mexico in Focus*, "Drug Epidemic in Northern New Mexico"](/catalog/cpb-aacip-9f3b061fff9) (KNME-TV, Albuquerque, NM, October 22, 1999)**      
+**Featured Item**    
 
 <table class="full-width">
   <tbody>
@@ -135,6 +143,8 @@ In *New Mexico in Focus*, "DACA Students," DACA (Deferred Action for Childhood A
   </tbody>
 </table>
 
+**[*New Mexico in Focus*, "Drug Epidemic in Northern New Mexico"](/catalog/cpb-aacip-9f3b061fff9) (KNME-TV, Albuquerque, NM, October 22, 1999)**  
+
 In Rio Arriba County the drug-related death rate is the highest in the nation—nearly four times the national average. Learn more in *New Mexico in Focus*, "Drug Epidemic in Northern New Mexico". 
 
 **[*Focus on Education*, "Drug Education Programs"](/catalog/cpb-aacip-207-859cnxkx) (KUNM, Albuquerque, NM, January 3, 1989)**    
@@ -145,7 +155,7 @@ In *Focus on Education*, "Drug Education Programs," Mike Hammes discusses drug e
 
 Representative John Heaton talks about the fight against meth labs and his proposed bill in *Report from Santa Fe*, "John Heaton."
 
-**[*The Water Haulers*](/catalog/cpb-aacip-798e9408500) (KNME-TV, Albuquerque, NM, January 12, 2007)** 
+**Featured Item**
 
 <table class="full-width">
   <tbody>
@@ -157,6 +167,8 @@ Representative John Heaton talks about the fight against meth labs and his propo
   </tbody>
 </table>
 
+**[*The Water Haulers*](/catalog/cpb-aacip-798e9408500) (KNME-TV, Albuquerque, NM, January 12, 2007)** 
+
 Seventy thousand people in the Navajo Nation live without easy access to one of the most basic necessities of life. That's the same population as Santa Fe with no running water that is safe to drink, for washing vegetables, and for bathing children. Learn more in *The Water Haulers*.
 
 **[*Rio Grande: How Clean Is Our River?*](/catalog/cpb-aacip-361466538b2) (KRWG, Las Cruces, NM, June 19, 2000)**    
@@ -166,11 +178,11 @@ Seventy thousand people in the Navajo Nation live without easy access to one of 
 **[*At Week's End*, "New Mexico Groundwater"](/catalog/cpb-aacip-191-10wpzhzb) (KNME-TV, Albuquerque, NM, April 27, 1990)**     
 Thousands of Albuquerqueans have, for years, had to deal with the fear and reality of drinking contaminated water. *At Week's End*, "New Mexico Groundwater" tells all. 
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Erase the Hate.png">
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Erase the Hate-1280x1280.png">
 
 &emsp;
 
-**[*Erase the Hate*, "Forum 2002 (Institutional Racism)"](/catalog/cpb-aacip-762b41ac6c1) (KNME-TV, Albuquerque, NM, January 22, 2002)**     
+**Featured Item**
 
 <table class="full-width">
   <tbody>
@@ -182,6 +194,8 @@ Thousands of Albuquerqueans have, for years, had to deal with the fear and reali
   </tbody>
 </table>
 
+**[*Erase the Hate*, "Forum 2002 (Institutional Racism)"](/catalog/cpb-aacip-762b41ac6c1) (KNME-TV, Albuquerque, NM, January 22, 2002)**     
+
 Host Conroy Chino (Acoma Pueblo) and two panels of guests look behind the closed doors of institutions where a form of racism persists in *Erase the Hate*, "Forum 2002 (Institutional Racism)." It’s racism that is not always obvious, visible, or identifiable, but institutional racism is just as detrimental as any other form of discrimination.  
 
 **[*Aggie Almanac*, "Big Read and Racism in the U.S."](/catalog/cpb-aacip-5a96ce83f9d) (KRWG, Las Cruces, NM, January 19, 2007)**      
@@ -191,7 +205,7 @@ In *Aggie Almanac*, "Big Read and Racism in the U.S.," Gary Worth sits down with
 **[*Erase the Hate*, "Special Forum 2001"](/catalog/cpb-aacip-3a5725fb037) (KNME-TV, Albuquerque, NM, October 10, 2001)**      
 In *Erase the Hate*, "Special Forum 2001," a panel of community leaders discuss hate crimes and racial profiling cropping up in New Mexico as a result of the national tragedy of 9/11. 
 
-**[*New Mexico in Focus*, "Race in New Mexico"](/catalog/cpb-aacip-191-19f4qtpk) (New Mexico PBS, Albuquerque, NM)**    
+**Featured Item**  
 
 <table class="full-width">
   <tbody>
@@ -203,6 +217,8 @@ In *Erase the Hate*, "Special Forum 2001," a panel of community leaders discuss 
   </tbody>
 </table>
 
+**[*New Mexico in Focus*, "Race in New Mexico"](/catalog/cpb-aacip-191-19f4qtpk) (New Mexico PBS, Albuquerque, NM)**  
+
 Many people say that because of our diverse history, we are more integrated than other states. But that doesn't mean we don't have our fair share of racial tensions. Learn more in *New Mexico in Focus*, "Race in New Mexico."
 
 **[*New Mexico in Focus*, "Lenton Malry"](/catalog/cpb-aacip-9b2d8554ee8?start=2098.16&end=2905.63) (KNME-TV, Albuquerque, NM, February 23, 20183)**   
@@ -213,7 +229,7 @@ Former educator and lawmaker Lenton Malry speaks openly about racism he experien
 
 In *New Mexico in Focus*, "More Racial Reckoning" protests against racism and monuments have captivated Santa Fe, where vandals defaced a racist obelisk. 
 
-**[*The Crossing*](/catalog?f[series_titles][]=Crossing&f[access_types][]=all) (KRWG, Las Cruces, NM 2006)**     
+**Featured Item**
 
 <table class="full-width">
   <tbody>
@@ -225,6 +241,8 @@ In *New Mexico in Focus*, "More Racial Reckoning" protests against racism and mo
   </tbody>
 </table>
 
+**[*The Crossing*](/catalog?f[series_titles][]=Crossing&f[access_types][]=all) (KRWG, Las Cruces, NM 2006)**     
+
 The Emmy Award-winning documentary *The Crossing* ([ep. 101](/catalog/cpb-aacip-f622aa04f6f); [ep. 102](/catalog/cpb-aacip-42c7bf866f2); [ep. 103](/catalog/cpb-aacip-c13be738a4f); [ep. 104](/catalog/cpb-aacip-a61ef8667fc)) chronicles the rash of illegal border crossings between Columbus, N.M., and southwestern New Mexico's bootheel that led to Governor Richardson's declaration of a state of emergency in 2005. 
 
 **[*New Mexico in Focus*, "The Changing U.S.-Mexico Border"](/catalog/cpb-aacip-191-03qv9sx0) (New Mexico PBS, Albuquerque, NM)**     
@@ -235,7 +253,7 @@ The Emmy Award-winning documentary *The Crossing* ([ep. 101](/catalog/cpb-aacip-
 
 *Aggie Almanac*, "Immigration Reform" features a look at immigration reform and interview with Nancy Oretskin, former director, U.S.-Mexico Conflict Resolution Center. 
 
-**[*New Mexico in Focus*, "Police Oversight Panels"](/catalog/cpb-aacip-21c7077f18f) (KNME-TV, Albuquerque, NM, May 2, 2014)**     
+**Featured Item**
 
 <table class="full-width">
   <tbody>
@@ -246,6 +264,8 @@ The Emmy Award-winning documentary *The Crossing* ([ep. 101](/catalog/cpb-aacip-
     </tr>
   </tbody>
 </table>
+
+**[*New Mexico in Focus*, "Police Oversight Panels"](/catalog/cpb-aacip-21c7077f18f) (KNME-TV, Albuquerque, NM, May 2, 2014)**     
 
 Police oversight is the main topic of *New Mexico in Focus*, "Police Oversight Panels," as advocates and officials debate what a new model of civilian surveillance would look like in the wake of the Department of Justice's investigation of the Albuquerque Police Department. 
 
