@@ -155,3 +155,7 @@ Performance/Casecmp:
 # clearer than the alternative.
 Style/BlockDelimiters:
   Enabled: false
+
+# too restrictive, looks bad
+Style/EmptyLinesAroundBlockBody:
+  Enabled: false
