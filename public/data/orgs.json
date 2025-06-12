@@ -2398,5 +2398,15 @@
     "Name": "Science Friday Initiative",
     "About": "For more than 30 years, [Science Friday](https://www.sciencefriday.com/) has produced award-winning science news programming that engages millions of people each week. Our flagship [podcast](https://www.sciencefriday.com/science-friday-podcasts/) and [radio show](https://www.sciencefriday.com/episodes/), available on all podcast platforms and broadcast on more than 500 public radio stations, connects listeners with leading experts, leans into the joy of discovery, and helps people make sense of our world. Collaborating with our audience is central to our mission: We elevate their voices, solicit their feedback, and follow their curiosity in our show, [book club](https://www.sciencefriday.com/scifri-book-club/), [digital reporting](https://www.sciencefriday.com/stories/), [social media](https://linktr.ee/SciFri), [live events](https://www.sciencefriday.com/events/), and [educational materials](https://www.sciencefriday.com/educate/).",
     "location": [40.7028, -74.0109]
+    },
+    "NCSG55192": {
+    "Short name": "WHIV-FM",
+    "State": "Louisiana",
+    "City": "New Orleans",
+    "Logo": "WHIV+Logo+2018.png",
+    "Url": "https://whivfm.org/",
+    "Name": "102.3 FM WHIV-LP",
+    "About": "102.3 FM WHIV-LP is a program of The New Orleans Society for Infectious Disease Awareness (NOSIDA), which was established in 2009 by local activist and infectious diseases physician Dr. MarkAlain Dery. NOSIDA's focus is to raise awareness about HIV and other infectious diseases through music. Such illnesses are completely preventable, yet disproportionately affect disadvantaged and marginalized populations. NOSIDA received its non-profit status in 2010. Expanding its impact locally, NOSIDA was awarded an FCC license for a 100 watt lower power FM community radio station in 2014. On World AIDS Day 2014, WHIV was officially launched, featuring local music, protest songs, and programming dedicated to human rights and social justice. Our AIM has always been Advocacy through Innovative Messaging. As of 2019, 102.3 FM WHIV-LP features more than 70 hosts and DJs, broadcasting over 12 hours of daily and original content throughout New Orleans, and streaming online in all 50 states and 85 countries worldwide. The majority of WHIV's listeners and supporters are from the greater New Orleans metropolitan area, and all of our shows, music, and content is run by a determined group of local volunteers. Topics on this grassroots radio station range from health as a human right to workers rights to reproductive justice and from Islam in the Crescent City to the Haitian community in New Orleans. There are also many local musicians that showcase a wide array of eclectic sounds. We are WHIV. We honor independent voices. We are human rights and social justice radio.",
+    "location": [29.9719, -90.0843]
     }
 }
