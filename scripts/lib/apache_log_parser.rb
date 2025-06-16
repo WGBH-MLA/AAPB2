@@ -120,7 +120,7 @@ class BadBotConfigLines
     indent + ips.map do |ip|
       ip += '.' if ip.count('.') < 3
       ip.gsub!('.', '\.')
-      "SetEnvIfNoCase Remote_Addr \"#{ip}\" bad_bot"
+      "SetEnvIfNoCase Remote_Addr \"^#{ip}\" bad_bot"
     end.join("\n#{indent}")
   end
 end

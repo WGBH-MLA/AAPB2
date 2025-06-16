@@ -43,7 +43,7 @@ class EmbedController < CatalogController
     end
 
     response.headers.delete('X-Frame-Options')
-    response.headers['Content-Security-Policy'] = 'frame-ancestors https://ov.wgbh-mla.org http://localhost:4000 http://localhost:3000;'
+    response.headers['Content-Security-Policy'] = 'frame-ancestors https://openvault.wgbh.org http://localhost:4000 http://localhost:3000;'
   end
 
   def video

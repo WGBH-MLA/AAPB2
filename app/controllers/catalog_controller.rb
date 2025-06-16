@@ -5,6 +5,8 @@ class CatalogController < ApplicationController
   include ApplicationHelper
   include BlacklightGUIDFetcher
 
+  before_action :require_turnstile, only: [:index], if: -> { Rails.env.production? }
+
   # allows usage of default_processor_chain v
   # self.search_params_logic = true
   self.search_params_logic += [:apply_quote_handler, :apply_date_filter]
@@ -283,6 +285,7 @@ class CatalogController < ApplicationController
         render text: PBCorePresenter.new(xml).to_mods
       end
       format.iiif do
+        allow_cors!
         render json: PBCorePresenter.new(xml).iiif_manifest
       end
     end
@@ -293,6 +296,11 @@ class CatalogController < ApplicationController
   end
 
   private
+
+  def require_turnstile
+    return if cookies.encrypted[:turnstile_verified]
+    redirect_to turnstile_challenge_path(return_to: request.fullpath)
+  end
 
   def redirect_to_proxy_start_time?(pbcore, params)
     pbcore.proxy_start_time && params["proxy_start_time"].nil? && !media_start_time?(params)
@@ -340,5 +348,12 @@ class CatalogController < ApplicationController
         nil
       end
     end
+  end
+
+  def allow_cors!
+    headers['Access-Control-Allow-Origin'] = '*'
+    headers['Access-Control-Allow-Methods'] = 'GET, OPTIONS'
+    headers['Access-Control-Request-Method'] = '*'
+    headers['Access-Control-Allow-Headers'] = 'Origin, X-Requested-With, Content-Type, Accept, Authorization'
   end
 end

@@ -4,7 +4,7 @@
 
 ## Summary
 
-*Stories of the Land* features more than 70 public radio and television programs broadcast over 65 years – from 1954 to 2019 – that explore many aspects of agricultural life from the perspectives of diverse populations and locales in more than 30 states throughout the U.S. Links to more than 110 additional related programs also are included. The exhibit was curated by Mariah E. Marsden, a 2022 Library of Congress Junior Fellow, folklorist, and Ph.D., Ohio State University. We are grateful to Christine Fugate, Ariana Gerstein, Chad Heartwood, Shaena Mallett Heartwood, Monteith McCollum, Asad Muhammad, and to an anonymous reviewer for their help.
+*Stories of the Land* features more than 70 public radio and television programs broadcast over 65 years – from 1954 to 2019 – that explore many aspects of agricultural life from the perspectives of diverse populations and locales in more than 30 states throughout the U.S. Links to more than 110 additional related programs also are included. The exhibit was curated by Mariah E. Marsden, a 2022 Library of Congress Junior Fellow, folklorist, and Ph.D., Ohio State University. We are grateful to Christine Fugate, Ariana Gerstein, Chad Heartwood, Shaena Mallett Heartwood, Monteith McCollum, Asad Muhammad, Richard Rasch, Hannah Weber, and to an anonymous reviewer for their help.
 
 ## Extended
 

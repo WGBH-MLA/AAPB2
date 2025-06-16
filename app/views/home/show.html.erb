@@ -26,30 +26,35 @@
 
     <%= render partial: 'home/featured_carousel', locals: { gallery: 'home' } %>
 
-
     <!-- Panel - Welcome Text Blocks -->
-
     <div class="row" id="welcome-panel">
-      <div class="col-md-6 column">
-
+      <div class="col-md-4 column">
         <h4>About the AAPB</h4>
-
         <h3 class="list-group-item-heading">A Collaboration with a Long-Term Vision</h3>
-        <p class="list-group-item-text">We are a collaboration between GBH and the Library of Congress with a long-term vision to preserve and make accessible significant historical content created by public media, and to coordinate a national effort to save at-risk public media before its content is lost to posterity.</p>
-
+        <p class="list-group-item-text">
+          We are a collaboration between GBH and the Library of Congress with a long-term vision to preserve and make accessible significant historical content created by public media, and to coordinate a national effort to save at-risk public media before its content is lost to posterity.
+        </p>
         <div class="btn-group" role="group" aria-label="...">
           <a href="/about-the-american-archive" title="Learn More About the AAPB" class="btn btn-link btn-sm">Learn More</a>
           <a href="/contact-us" title="Learn More About the AAPB" class="btn btn-link btn-sm">Contact the AAPB</a>
         </div>
-
-
       </div>
 
-      <div class="col-md-6 column">
-        <%= render partial: 'home/blog'  %>
+      <div class="col-md-4 column">
+        <h4>Contribute to the AAPB</h4>
+        <h3 class="list-group-item-heading">Learn More About Free Digitization with the AAPB</h3>
+        <p class="list-group-item-text">
+          We invite stations, producers, and archives to submit their physical and digital collections for consideration in the AAPB's Mellon Foundation-funded, no-cost Digitization and Preservation Program.
+        </p>
+        <div class="btn-group" role="group" aria-label="...">
+          <a href="/help/contribute" title="Contribute" class="btn btn-link btn-sm">Contribute</a>
+        </div>
+      </div>
+
+      <div class="col-md-4 column">
+        <%= render partial: 'home/blog' %>
       </div>
     </div>
-
   </div>
 </div>
 <!-- END Welcome -->
@@ -128,7 +133,9 @@
 </div>
 <!-- END Fix It -->
 
-<!-- Browse -->
+
+<% if false %>
+<!-- TEMP: remove to prevent dummy bots from clicking this and doing big searchies Browse -->
 <div class="jumbotron home-jumbotron" id="browse">
   <div class="container">
 
@@ -137,6 +144,7 @@
   </div>
 </div>
 <!-- END Browse -->
+<% end %>
 
 <!-- Contributing Stations -->
 <div class="jumbotron home-jumbotron" id="stations">
@@ -174,7 +182,9 @@
     <li role="presentation"><a href="/primary_source_sets">For Educators</a></li>
     <li role="presentation"><a href="#stations">Organizations</a></li>
     <li role="presentation"><a href="#help-us">Help Us!</a></li>
-    <li role="presentation"><a href="#browse">Browse</a></li>
+    
+    <!--     <li role="presentation"><a href="/catalog">Browse</a></li> -->
+
     <li role="presentation"><a href="#video">Our Story</a></li>
   </ul>
 </div>
