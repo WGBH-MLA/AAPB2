@@ -20,7 +20,14 @@
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src=https://player.vimeo.com/video/726064173 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe 
+         class="exhibit-small-iframe" 
+         src="https://player.vimeo.com/video/726064173" 
+         width="640" height="360" 
+         frameborder="0" 
+         allow="autoplay; fullscreen; picture-in-picture" 
+         allowfullscreen>
+         </iframe>
       </td>
     </tr>
   </tbody>
