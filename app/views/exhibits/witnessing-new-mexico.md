@@ -86,7 +86,7 @@ With its three thematic sections, *Witnessing New Mexico* hopes to engage viewer
 
 This project would not have been possible without the support of Angelica Bernaert, Karen Cariani, Jessica Cummins, Rachel Curtis, Casey Davis, Alan Gevinson, Michael Kamins, Megan Rose Kilidjian, and Miranda Villesvik. 
 
-#### Next: [Reclaiming Histories](/exhibits/witnessing-nm/2-reclaiming-histories.md)
+#### Next: [Reclaiming Histories](/exhibits/witnessing-new-mexico/2-reclaiming-histories.md)
 
 ## Cover
   <img title="Cover Image" alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/nm_storymap_cover.png">
