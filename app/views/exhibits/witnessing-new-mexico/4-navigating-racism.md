@@ -118,7 +118,7 @@ In *Report from Santa Fe*, "Pam Hyde," Cabinet Secretary for the Department of H
 
 **[*Public Square*, "Improving Graduation Rates"](/catalog/cpb-aacip-53373da918e) (KNME-TV, Albuquerque, NM, August 25, 2011)**      
 
-*Public Square*, "Improving Graduation Rates" asks; how do we improve graduation rates and the lives of young people? 
+*Public Square*, "Improving Graduation Rates" asks: How do we improve graduation rates and the lives of young people? 
 
 **[*Native American Education Strategies for Change*](/catalog/cpb-aacip-191-85n8ptpb) (New Mexico PBS, Albuquerque, NM)**       
 In *Native American Education Strategies for Change*, Dr. Teresa LaFromboise (Miami) looks at the various factors impacting education for Native American children. 
@@ -145,7 +145,7 @@ In *New Mexico in Focus*, "DACA Students," DACA (Deferred Action for Childhood A
 
 **[*New Mexico in Focus*, "Drug Epidemic in Northern New Mexico"](/catalog/cpb-aacip-9f3b061fff9) (KNME-TV, Albuquerque, NM, October 22, 1999)**  
 
-In Rio Arriba County the drug-related death rate is the highest in the nation—nearly four times the national average. Learn more in *New Mexico in Focus*, "Drug Epidemic in Northern New Mexico". 
+In Rio Arriba County the drug-related death rate is the highest in the nation—nearly four times the national average. Learn more in *New Mexico in Focus*, "Drug Epidemic in Northern New Mexico." 
 
 **[*Focus on Education*, "Drug Education Programs"](/catalog/cpb-aacip-207-859cnxkx) (KUNM, Albuquerque, NM, January 3, 1989)**    
 
