@@ -58,7 +58,7 @@ In this episode of *Report from Santa Fe*, Herman Agoyo (San Juan Pueblo) and sc
 
 **[*New Mexico in Focus*, "Juan de Oñate Statue Protest"](/catalog/cpb-aacip-686d1be50d9) (KNME-TV, Albuquerque, NM, June 19, 2020)**
 
-*New Mexico in Focus*, "Juan de Oñate Statue Protest" shows a bitter fight over the proper historical place for one of the most controversial figures in the history of the Southwest. As protestors in Albuquerque tried to yank down his likeness a self-appointed group of armed guards riled the crowd and shot a demonstrator. 
+*New Mexico in Focus*, "Juan de Oñate Statue Protest" shows a bitter fight over the proper historical place for one of the most controversial figures in the history of the Southwest. As protestors in Albuquerque tried to yank down his likeness, a self-appointed group of armed guards riled the crowd and shot a demonstrator. 
 
 **[*New Mexico in Focus*, "Reconsidering La Entrada"](/catalog/cpb-aacip-5dcda8ee12e?start=941.12&end=2049.09) (KNME-TV, Albuquerque, NM, August 17, 2018)**
 
@@ -86,7 +86,7 @@ In this segment of an episode of *New Mexico in Focus*, organizers and activists
 
 **[*At Week's End*, "The American Dream"](/catalog/cpb-aacip-191-418kpwwx) (New Mexico PBS, Albuquerque, NM)**
 
-In response to the L.A. riots after the Rodney King trial, people at a rally view the rioting as a revolt against the failure of American democracy in *At Week's End*, "The American Dream". 
+In response to the L.A. riots after the Rodney King trial, people at a rally view the rioting as a revolt against the failure of American democracy in *At Week's End*, "The American Dream." 
 
 **[Angela Davis](/catalog/cpb-aacip-207-08v9s5dd) (KUNM, Albuquerque, NM, November 19, 1973)**
 
@@ -144,7 +144,7 @@ In *New Mexico in Focus* "Luminarios," Nadine and Patsy Cordova were teaching Hi
 
 *Southwest Sound Collage*'s "Los Tesoros del Espíritu: A Portrait in Sound of Hispanic New Mexico" covers challenges and threats to Hispanic culture in New Mexico as a result of land rights struggles. 
 
-**[*Espejos de Aztlán*, "José Rodríguez and Rudy Miera at Tiffany's Playhouse (unedited version)"](/catalog/cpb-aacip-c198c660e62?start=57.6&end=1922.82) (KUNM, Albuquerque, NM, November 16, 1981)**
+**[*Espejos de Aztlán*, "José Rodríguez and Rudy Miera at Tiffany's Playhouse" (unedited version)](/catalog/cpb-aacip-c198c660e62?start=57.6&end=1922.82) (KUNM, Albuquerque, NM, November 16, 1981)**
 
 In this episode of *Espejos de Aztlán*, José Rodríguez and Rudy Miera discuss the monumental musical drama "Nuevo Mexico, Sí," which brings to life New Mexico's complicated history. 
 
