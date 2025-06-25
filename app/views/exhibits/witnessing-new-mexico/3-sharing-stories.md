@@ -6,7 +6,7 @@
 
 Sharing stories of people and their contributions to New Mexico can become an act of resistance. From presenting New Mexicans learning about their crypto-Jewish heritage to oral stories and artistic explorations of communities outside the mainstream, the programs in this section focus on stories that have been integral to our society, though often overlooked.  
 
-Empowering people who have been labeled different or unimportant is a major feature of this collection. This section presents stories from influential and unknown women, people who are incarcerated, people with intellectual and developmental (dis)abilities, LGBTQIA youth, veterans of the infamous Bataan Death March, and women nurses who treated soldiers during the Vietnam War. These programs challenge expectations. Collectively, they present a dynamic and expansive picture of New Mexican politics, culture, and history. 
+Empowering people who have been labeled different or unimportant is a major feature of this exhibit. This section presents stories from influential and unknown women, people who are incarcerated, people with intellectual and developmental (dis)abilities, LGBTQIA youth, veterans of the infamous Bataan Death March, and women nurses who treated soldiers during the Vietnam War. These programs challenge expectations. Collectively, they present a dynamic and expansive picture of New Mexican politics, culture, and history. 
 
 >"Genízaro *[detribalized enslaved Native American people] identity places itself out of the tri-cultural myth and embraces Indigenous identity and the realization of violence and trauma, and the ways in which we remember a violent colonial history."*
 >
@@ -86,11 +86,11 @@ In *New Mexico in Focus*, "Legislative Special Session and LGBTQ Youth," LGBTQ y
 
 **[*Gay Activism*, "The View from the Inside"](/catalog/cpb-aacip-191-03cz8x0j?start=0&end=1721) (KNME-TV, Albuquerque, NM, June 21, 1982)**
 
-In *Illustrated Daily*'s *Gay Activism*, "The View from the Inside", Hal Rhodes talks to two leaders of the National Gay Rights Movement; Lucia Valeska and Leonard Matlovich.  
+In *Illustrated Daily*'s *Gay Activism*, "The View from the Inside," Hal Rhodes talks to two leaders of the National Gay Rights Movement, Lucia Valeska and Leonard Matlovich.  
 
 **[*At Week's End*, "Equal Sexual Rights"](/catalog/cpb-aacip-191-31cjt1nv?start=95.01&end=1132.48) (New Mexico PBS, Albuquerque, NM, June 21, 1982)**
 
-*At Week's End*, "Equal Sexual Rights" features a discussion of an equal rights bill to bar discrimination against gays, lesbians and bisexuals. 
+*At Week's End*, "Equal Sexual Rights" features a discussion of an equal rights bill to bar discrimination against gays, lesbians, and bisexuals. 
 
 **Featured Item**
 
@@ -114,7 +114,7 @@ In *Illustrated Daily*'s *Gay Activism*, "The View from the Inside", Hal Rhodes 
 
 **[*¡Colores!*, "More! Abuquerque's Places of the Heart"](/catalog/cpb-aacip-191-805x6k7r?start=52.99&end=2339.43) (KNME-TV, Albuquerque, NM, March, 1998)**
 
-The conversation continues with *¡Colores!*, "More! Albuquerque: Places of the Heart," a celebration of Old Albuquerque High School, the Sunport, the Civic Auditorium and many other Albuquerque landmarks. 
+The conversation continues with *¡Colores!*, "More! Albuquerque: Places of the Heart," a celebration of Old Albuquerque High School, the Sunport, the Civic Auditorium, and many other Albuquerque landmarks. 
 
 **[*¡Colores!*, "Albuquerque's People of the Heart"](/catalog/cpb-aacip-191-34sj3z1c?start=106.17&end=3668) (New Mexico PBS, Albuquerque, NM)**
 
@@ -190,7 +190,7 @@ Experience the songs of corridistas: Antonio Martinez, Roberto Martinez, and Chu
 
 **[*¡Colores!*, "Authors Enrique Lamadrid and Moises Gonzales"](/catalog/cpb-aacip-d3439733e3a) (KNME-TV, Albuquerque, NM, September 7, 2019)** 
 
-*¡Colores!*, "Authors Enrique Lamadrid and Moises Gonzales" tells an untold story of slavery, *Nación Genízara: Ethnogenesis, Place, and Identity in New Mexico* expands the understanding of New Mexico’s identity—with Enrique Lamadrid (Author and Distinguished Professor Emeritus of Spanish, The University of New Mexico) and Moises Gonzales (Author and President, Cañón de Carnué Land Grant). 
+*¡Colores!*, "Authors Enrique Lamadrid and Moises Gonzales" tells an untold story of slavery, *Nación Genízara: Ethnogenesis, Place, and Identity in New Mexico*, which expands the understanding of New Mexico’s identity—with Enrique Lamadrid (Author and Distinguished Professor Emeritus of Spanish, The University of New Mexico) and Moises Gonzales (Author and President, Cañón de Carnué Land Grant). 
 
 **[*Espejos de Aztlán*, "Tomás Atencio"](/catalog/cpb-aacip-a5bcc874366) (KUNM, Albuquerque, NM, April 20, 1985)**  
 
@@ -222,7 +222,7 @@ In *Espejos de Aztlán*, Tomás Atencio discusses "genízaros" in New Mexico and
 
 **[*¡Colores!*, "This Town Is Not for Sale"](/catalog/cpb-aacip-191-13905s4p) (New Mexico PBS, Albuquerque, NM)**   
 
-*¡Colores!*, "This Town Is Not for Sale" is the story of a town election that took place in a climate of public discontent. Overwhelmed with growth, the Santa Fe community is fracturing over rapid, upscale development, and growing racial and class tensions.  
+*¡Colores!*, "This Town Is Not for Sale" is the story of a town election that took place in a climate of public discontent. Overwhelmed with growth, the Santa Fe community is fracturing over rapid upscale development and growing racial and class tensions.  
 
 **[*Illustrated Daily*, "New Mexico's Grand Dames"](/catalog/cpb-aacip-191-21tdz2jm) (KNME-TV, Albuquerque, NM)**    
 
@@ -266,11 +266,11 @@ Listen to short stories about the lives of girls and women in New Mexico history
 
 **[*¡Colores!*, "Golden Dawn: The Pueblo Paintings of Pablita Velarde"](/catalog/cpb-aacip-191-0000002n) (KNME-TV, Albuquerque, NM, January 11, 1994)**     
 
-The 75-year-old painter Pablita Velarde, also known as Tse Tsan (Santa Clara Pueblo), began her painting career at the age of fourteen. In *¡Colores!*, "Golden Dawn: The Pueblo Paintings of Pablita Velarde," she talks about her art, her life, and the things that have inspired her.  
+The seventy-five-year-old painter Pablita Velarde, also known as Tse Tsan (Santa Clara Pueblo), began her painting career at the age of fourteen. In *¡Colores!*, "Golden Dawn: The Pueblo Paintings of Pablita Velarde," she talks about her art, her life, and the things that have inspired her.  
 
 **[*¡Colores!*, "Building Bridges, Binding Generations: Hispanic Women and Their Art"](/catalog/cpb-aacip-191-32r4xmd1) (New Mexico PBS, Albuquerque, NM)**       
 
-In *¡Colores!*, "Building Bridges, Binding Generations: Hispanic Women and Their Art," Hispanic women examine their roles in their communities; in their relationships with men, their families, and their culture. 
+In *¡Colores!*, "Building Bridges, Binding Generations: Hispanic Women and Their Art," Hispanic women examine their roles in their communities: in their relationships with men, their families, and their culture. 
 
 **[*¡Colores!*, "Notable New Mexicans 2006"](/catalog/cpb-aacip-a0ca6700f89) (KNME-TV, Albuquerque, NM, 2006)**      
 
@@ -326,7 +326,7 @@ Almost 280,000 women have served post-9/11 in Afghanistan and Iraq. *New Mexico 
 
 **[*We Are the Historians*, "The GI Revolt"](/catalog/cpb-aacip-207-150gb70w) (KUNM, Albuquerque, NM, 1989)**  
 
-In *We Are the Historians*, "The GI Revolt", service members work to raise awareness about the realities of war, including post-traumatic syndrome. 
+In *We Are the Historians*, "The GI Revolt," service members work to raise awareness about the realities of war, including post-traumatic syndrome. 
 
 <img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/New Mexico’s Nuclear Enchantment-1280x1280.png">
 
