@@ -10,10 +10,7 @@ jobs:
     steps:
       - name: 📰 Checkout code
         uses: actions/checkout@v3
-      
-      - name: 🔍 Lint orgs.json syntax
-        run: jq empty public/data/orgs.json
-        
+
       - name: 💪 Install libcurl4-openssl-dev for Curb Gem
         run: |
           sudo apt-get update
@@ -30,3 +27,15 @@ jobs:
 
       - name: ✔️ Run Rspec specs using CI config
         run: bundle exec rake ci_specs
+
+  orgs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📰 Checkout code
+        uses: actions/checkout@v4
+
+      - name: Validate Orgs
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          file: public/data/orgs.json
+          schema: public/data/orgs.schema.json
