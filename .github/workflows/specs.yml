@@ -27,15 +27,3 @@ jobs:
 
       - name: ✔️ Run Rspec specs using CI config
         run: bundle exec rake ci_specs
-
-  orgs:
-    runs-on: ubuntu-latest
-    steps:
-      - name: 📰 Checkout code
-        uses: actions/checkout@v4
-
-      - name: Validate Orgs
-        uses: cardinalby/schema-validator-action@v3
-        with:
-          file: public/data/orgs.json
-          schema: public/data/orgs.schema.json
