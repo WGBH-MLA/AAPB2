@@ -2171,7 +2171,9 @@
     "Short name": "Jefferson Public Radio",
     "State": "Oregon",
     "City": "Ashland",
+    "Logo": "jpr-logo.png",
     "Url": "https://www.ijpr.org/",
+    "About": "JPR feeds the human intellectual and creative spirit of Southern Oregon and Northern California communities striving to build a diverse community of informed citizens through fact-based journalism and programs that stimulate civic discourse, inspire community engagement, celebrate music and foster the art of storytelling. Jefferson Public Radio's flagship station, KSOR, was established in 1969 on the campus of Southern Oregon University (SOU, https://sou.edu/) in Ashland, Oregon. From a tiny 10-watt station, KSOR evolved to become a regional public radio service reaching over 1 million potential listeners in a 60,000-square-mile area of Southern Oregon and Northern California via one of the largest networks of transmitters and translators in public radio. This network now goes by the name Jefferson Public Radio (JPR), making reference to the mythical (State of Jefferson, https://www.ijpr.org/state-of-jefferson), which roughly corresponds to the listening area served by JPR. JPR is owned and operated by Southern Oregon University and extends the University's educational mission by promoting lifelong learning and fostering the intellectual growth and civic engagement of the region.",
     "location": [42.194576, -122.709477]
   },
   "NCSG55168": {
