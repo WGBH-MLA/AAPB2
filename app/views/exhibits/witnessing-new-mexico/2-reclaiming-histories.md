@@ -292,7 +292,7 @@ The U.S. is known for its high rate of incarceration, a trend that carries over 
 
 *Espejos de Aztlán*, "Juan López and Jana López" introduces the directors of STOP (Services To Offenders Program), who created a non-profit program that helps formerly incarcerated parents. 
 
-#### Next: [Sharing Stories](/exhibits/witnessing-nm/3-sharing-stories.md)
+#### Next: [Sharing Stories](/exhibits/witnessing-new-mexico/3-sharing-stories.md)
 
 ## Resources
 
