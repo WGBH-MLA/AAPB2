@@ -368,7 +368,7 @@ In *¡Colores!*, "Witness for the World," the Dalai Lama, Tensin Gyatso, champio
 
 Peace Pilgrim (Mildred Lisette Norman) walked across the United States for 28 years, speaking with others about peace. Witness her story in *Public Affairs*, "Peace Pilgrim."
 
-#### Next: [Navigating Racism](/exhibits/witnessing-nm/4-navigating-racism.md)
+#### Next: [Navigating Racism](/exhibits/witnessing-new-mexico/4-navigating-racism.md)
 
 ## Resources
 
