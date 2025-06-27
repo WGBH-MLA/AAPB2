@@ -1,4 +1,4 @@
-# Rock School Special Collection
+# Rock School
 
 ## Thumbnail
 
@@ -18,7 +18,7 @@ Rock School has gained critical and popular acclaim for episodes such as “[Ame
 
 KSLU–also known as 90.9 The Lion–is the campus radio station of Southeastern Louisiana University in Hammond, Louisiana. On the air since 1974, the station became part of Southeastern Athletics in 2023. KSLU airs local talk shows, coverage of campus and community events, news, and sports. Music programming focuses on album-oriented rock during the day and blues and R&B in the evenings. 
 
-In 2007, one of Joe Burns’ students invited him to do a segment on the air. The segment proved popular with listeners, which prompted Burns to expand it into a weekly series. *Rock School* is currently hosted by Burns and his wife Tammy and is distributed by PRX.
+In 2007, one of Joe Burns’ students invited him to do a segment on the air. The segment proved popular with listeners, prompting Burns to expand it into a weekly series. *Rock School* is currently hosted by Burns and his wife Tammy and is distributed by PRX.
 
 ## Featured
 
