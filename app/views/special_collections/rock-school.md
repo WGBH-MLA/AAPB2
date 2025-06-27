@@ -22,12 +22,12 @@ In 2007, one of Joe Burns’ students invited him to do a segment on the air. Th
 
 ## Featured
 
-[![American Pie (2008-02-03)](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-7d93468b2c6)
-[![Interview with Ben Stein (2015-09-06)](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-d3a66668e7f)
-[![Jackson-McCarthy and the ATV Catalog (2016-04-10)](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-243a8ac5c84)
-[![Who Killed Nancy? (2019-10-06)](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-3a00b8be58f)
-[![Taylor Swift (2020-01-19)](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-66ed0e4bd31)
-[![I Wrote an AI Song (2024-09-08)](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-351924b715e)
+[![American Pie (2008-02-03)](https://s3.amazonaws.com/americanarchive.org/special-collections/rs_logo_medium.jpg)](/catalog/cpb-aacip-7d93468b2c6)
+[![Interview with Ben Stein (2015-09-06)](https://s3.amazonaws.com/americanarchive.org/special-collections/rs_logo_medium.jpg)](/catalog/cpb-aacip-d3a66668e7f)
+[![Jackson-McCarthy and the ATV Catalog (2016-04-10)](https://s3.amazonaws.com/americanarchive.org/special-collections/rs_logo_medium.jpg)](/catalog/cpb-aacip-243a8ac5c84)
+[![Who Killed Nancy? (2019-10-06)](https://s3.amazonaws.com/americanarchive.org/special-collections/rs_logo_medium.jpg)](/catalog/cpb-aacip-3a00b8be58f)
+[![Taylor Swift (2020-01-19)](https://s3.amazonaws.com/americanarchive.org/special-collections/rs_logo_medium.jpg)](/catalog/cpb-aacip-66ed0e4bd31)
+[![I Wrote an AI Song (2024-09-08)](https://s3.amazonaws.com/americanarchive.org/special-collections/rs_logo_medium.jpg)](/catalog/cpb-aacip-351924b715e)
 
 ## Resources
 
