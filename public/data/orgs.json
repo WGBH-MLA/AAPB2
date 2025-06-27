@@ -2149,6 +2149,7 @@
     "State": "Tennessee",
     "City": "Sneedville",
     "Url": "https://www.easttennesseepbs.org/",
+    "About": "",
     "location": [35.979, -83.9086]
   },
   "NCSG55164": {
@@ -2156,6 +2157,7 @@
     "Short name": "Legros Family",
     "State": "New York",
     "City": "New York City",
+    "About": "",
     "location": [40.7128, -74.006]
   },
   "NCSG55165.md": {
@@ -2202,6 +2204,7 @@
     "Short name": "Rhode Island PBS",
     "State": "Rhode Island",
     "City": "Providence",
+    "About": "",
     "Url": "https://www.ripbs.org/",
     "location": [41.7953, -71.4357]
   },
@@ -2223,6 +2226,7 @@
     "State": "Illinois",
     "City": "Chicago",
     "Url": "https://www.iit.edu/",
+    "About": "",
     "location": [41.8373, -87.6257]
   },
   "NCSG55176": {
@@ -2232,6 +2236,7 @@
     "State": "Texas",
     "City": "Houston",
     "Url": "https://kpft.org/",
+    "About": "",
     "location": [29.7319, -95.3813]
   },
   "NCSG55175": {
@@ -2248,6 +2253,7 @@
     "State": "California",
     "City": "San Francisco",
     "Url": "https://www.lowedownproductions.com/",
+    "About": "",
     "location": [37.7753, -122.4242]
   },
   "NCSG55173": {
@@ -2256,6 +2262,7 @@
     "State": "Virginia",
     "City": "Lexington",
     "Url": "https://my.wlu.edu/wlur",
+    "About": "",
     "location": [37.79, -79.4459]
   },
   "NCSG55174": {
@@ -2264,6 +2271,7 @@
     "State": "California",
     "City": "Grover Beach",
     "Url": "https://xllntradio.wixsite.com/kyxz",
+    "About": "",
     "location": [35.1218, -120.6175]
   },
   "NCSG55177": {
@@ -2272,6 +2280,7 @@
     "State": "Arkansas",
     "City": "Fayetteville",
     "Url": "https://libraries.uark.edu/",
+    "About": "",
     "location": [36.0693, -94.1736]
   },
   "NCSG55179": {
@@ -2291,6 +2300,7 @@
     "Logo": "kuac-logo.jpg",
     "Url": "https://kuac.org/",
     "Name": "KUAC-TV",
+    "About": "",
     "location": [64.8573, -147.8194]
   },
   "NCSG55178": {
@@ -2308,6 +2318,7 @@
     "City": "Arlington",
     "Logo": "weta-logo.png",
     "Url": "https://weta/org/",
+    "About": "",
     "Name": "WETA",
     "location": [38.843, -77.0828]
   },
@@ -2317,6 +2328,7 @@
     "City": "San Francisco",
     "Logo": "itvs-logo.png",
     "Url": "https://itvs.org/",
+    "About": "",
     "Name": "ITVS",
     "location": [37.7727, -122.4131]
   },
@@ -2353,6 +2365,7 @@
     "State": "Alabama",
     "City": "Birmingham",
     "Url": "https://aptv.org/",
+    "About": "",
     "Name": "Alabama Public Television",
     "location": [33.5083, -86.7942]
   },
@@ -2371,6 +2384,7 @@
     "State": "New York",
     "City": "Sparkill",
     "Name": "Christopher Lukas",
+    "About": "",
     "location": [41.03, -73.9289]
   },
   "NCSG55189": {
@@ -2389,6 +2403,7 @@
     "City": "New York City",
     "Logo": "spadora.jpg",
     "Url": "https://www.spadoraonsports.com/",
+    "About": "",
     "Name": "Spadora On Sports - Sports Media Group",
     "location": [40.7129, -74.0031]
   },
@@ -2408,6 +2423,7 @@
     "City": "San Mateo",
     "Logo": "kcsm-logo.jpg",
     "Url": "https://www.kcsm.org/",
+    "About": "",
     "Name": "KCSM",
     "location": [37.5357, -122.3344]
   },
