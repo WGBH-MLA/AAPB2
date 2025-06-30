@@ -24,7 +24,7 @@ In 2007, one of Joe Burns’ students invited him to do a segment on the air. Th
 
 [![American Pie](https://s3.amazonaws.com/americanarchive.org/special-collections/rock-school-featured-thumbnail-lighter.png)](/catalog/cpb-aacip-7d93468b2c6)
 [![Interview with Ben Stein](https://s3.amazonaws.com/americanarchive.org/special-collections/rock-school-featured-thumbnail-lighter.png)](/catalog/cpb-aacip-d3a66668e7f)
-[![Jackson-McCarthy and the ATV Catalog](https://s3.amazonaws.com/americanarchive.org/special-collections/rock-school-featured-thumbnail-lighter.png)](/catalog/cpb-aacip-243a8ac5c84)
+[![Jackson-McCartney and the ATV Catalog](https://s3.amazonaws.com/americanarchive.org/special-collections/rock-school-featured-thumbnail-lighter.png)](/catalog/cpb-aacip-243a8ac5c84)
 [![Who Killed Nancy?](https://s3.amazonaws.com/americanarchive.org/special-collections/rock-school-featured-thumbnail-lighter.png)](/catalog/cpb-aacip-3a00b8be58f)
 [![Taylor Swift](https://s3.amazonaws.com/americanarchive.org/special-collections/rock-school-featured-thumbnail-lighter.png)](/catalog/cpb-aacip-66ed0e4bd31)
 [![I Wrote an AI Song](https://s3.amazonaws.com/americanarchive.org/special-collections/rock-school-featured-thumbnail-lighter.png)](/catalog/cpb-aacip-351924b715e)
