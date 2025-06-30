@@ -164,7 +164,12 @@
   - "stories-of-the-land/5-culture"
   - "stories-of-the-land/6-practice"
   - "stories-of-the-land/7-politics"
-  - "stories-of-the-land/8-additional-reading"
+  - "stories-of-the-land/8-additional-reading"  
+"witnessing-new-mexico":
+  sections: 
+  - "witnessing-new-mexico/2-reclaiming-histories"
+  - "witnessing-new-mexico/3-sharing-stories"
+  - "witnessing-new-mexico/4-navigating-racism"
 "hiv-aids-and-public-broadcasting":
   sections: 
   - "hiv-aids-and-public-broadcasting/2-1981-1985-early-reporting-on-the-gay-disease"
