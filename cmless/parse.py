@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import re
+from .models import Collection
 
 
 def parse_cmless(file):
@@ -16,7 +17,7 @@ def parse_cmless(file):
     pattern = r"## (.*?)\n(.*?)(?=## |\Z)"
     matches = re.findall(pattern, md, re.DOTALL)
     results = {key.strip(): value.strip() for key, value in matches}
-    results['Name'] = re.search(r"^# (.*)", md).group(1).strip()
+    results['Title'] = re.search(r"^# (.*)", md).group(1).strip()
     return results
 
 
@@ -34,6 +35,8 @@ def parse_dir(directory):
     for file in files:
         try:
             parsed = parse_cmless(path.join(directory, file))
+            parsed['Slug'] = file.replace('.md', '')
+            parsed = Collection(**parsed)  # Validate with Collection model
         except Exception as e:
             print(f"Error parsing {file}: {e}")
             continue
