@@ -14,10 +14,25 @@ def parse_cmless(file):
     md = re.sub(
         r"(?<!\n)\n(?!\\n)", " ", md
     )  # Replace newlines that aren't escaped with spaces
-    pattern = r"## (.*?)\n(.*?)(?=## |\Z)"
-    matches = re.findall(pattern, md, re.DOTALL)
-    results = {key.strip(): value.strip() for key, value in matches}
-    results['Title'] = re.search(r"^# (.*)", md).group(1).strip()
+
+    # Extract title from first H1
+    title_match = re.search(r"^# (.*)", md)
+    title = title_match.group(1).strip() if title_match else ""
+
+    # Split by H2 sections - use word boundary to capture just the heading text
+    pattern = r'^## (.+?)(?=\s|$)'
+    parts = re.split(pattern, md, flags=re.MULTILINE)
+
+    # Initialize results with title
+    results = {'Title': title}
+
+    # Process the split parts - skip the first part (before first H2) and pair section names with content
+    for i in range(1, len(parts), 2):
+        if i + 1 < len(parts):
+            section_name = parts[i].strip()
+            section_content = parts[i + 1].strip()
+            results[section_name] = section_content
+
     return results
 
 
