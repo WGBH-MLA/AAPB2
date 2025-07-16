@@ -313,6 +313,7 @@
   },
   "1896.2": {
     "Short name": "Wisconsin Public Radio",
+    "Name": "Wisconsin Public Radio",
     "State": "Wisconsin",
     "City": "Madison",
     "Logo": "wpr_logo.png",
@@ -1284,7 +1285,7 @@
     "State": "Pennsylvania",
     "City": "Philadelphia",
     "Logo": "whyy_logo.png",
-    "Url https://www.whyy.org/": "",
+    "Url": "https://www.whyy.org/",
     "About": "For close to 60 years, WHYY has been the region's leading public media company and PBS/NPR affiliate, currently serving the nation's fourth largest market, with 2,963,500 households (Source: Nielsen Local Market Television Estimates, 2014).  Each week, 871,052 unique viewers tune to WHYY-TV (Source: Scarborough Philadelphia Release 2 \u2013 August 2013 to July 2014).  WHYY-FM draws an audience of 442,714 unduplicated listeners per week (Source: Scarborough Philadelphia Release 2 \u2013 August 2013 to July 2014).   Each month, there are an average of 108,644 unique visitors to WHYY.org with 383,327page views (Source: Google Analytics, average from December, 2013 \u2013 December, 2014).  NewsWorks, WHYY's online home for news and civic dialogue, achieves an average of 508,944 users and 1,451,973 page views per month (Source: Google Analytics, average October\u2013December, 2014).Other online services for accessing WHYY content include podcasts, Twitter (32,700 followers), Facebook (23,328) and YouTube (1,080 subscribers). \nEach year, WHYY further serves the community through \"off-air\" programs such as community forums, artistic performances and lectures onsite in the Independence Foundation Civic Space, and Dorrance H. Hamilton Public Media Commons. Our strategic approach is to use on air and online content to drive in-person audience engagement.",
     "Productions": "WHYY-TV: \nFriday Arts \nOn Tour \nOn Stage at Curtis \nFirst \nFlicks \nPennsylvania Ballet at 50 \nThe Barnes Collection \nWHYY-FM: \nFresh Air \nThe Pulse \nNewsWorks Tonight \nYou Bet Your Garden \nVoices in the Family \nRadio Times with Marty Moss-Coane",
     "Name": "WHYY",
@@ -2148,6 +2149,7 @@
     "State": "Tennessee",
     "City": "Sneedville",
     "Url": "https://www.easttennesseepbs.org/",
+    "About": "",
     "location": [35.979, -83.9086]
   },
   "NCSG55164": {
@@ -2155,6 +2157,7 @@
     "Short name": "Legros Family",
     "State": "New York",
     "City": "New York City",
+    "About": "",
     "location": [40.7128, -74.006]
   },
   "NCSG55165.md": {
@@ -2171,7 +2174,9 @@
     "Short name": "Jefferson Public Radio",
     "State": "Oregon",
     "City": "Ashland",
+    "Logo": "jpr-logo.png",
     "Url": "https://www.ijpr.org/",
+    "About": "JPR feeds the human intellectual and creative spirit of Southern Oregon and Northern California communities striving to build a diverse community of informed citizens through fact-based journalism and programs that stimulate civic discourse, inspire community engagement, celebrate music and foster the art of storytelling. Jefferson Public Radio's flagship station, KSOR, was established in 1969 on the campus of Southern Oregon University (SOU, https://sou.edu/) in Ashland, Oregon. From a tiny 10-watt station, KSOR evolved to become a regional public radio service reaching over 1 million potential listeners in a 60,000-square-mile area of Southern Oregon and Northern California via one of the largest networks of transmitters and translators in public radio. This network now goes by the name Jefferson Public Radio (JPR), making reference to the mythical (State of Jefferson, https://www.ijpr.org/state-of-jefferson), which roughly corresponds to the listening area served by JPR. JPR is owned and operated by Southern Oregon University and extends the University's educational mission by promoting lifelong learning and fostering the intellectual growth and civic engagement of the region.",
     "location": [42.194576, -122.709477]
   },
   "NCSG55168": {
@@ -2199,6 +2204,7 @@
     "Short name": "Rhode Island PBS",
     "State": "Rhode Island",
     "City": "Providence",
+    "About": "",
     "Url": "https://www.ripbs.org/",
     "location": [41.7953, -71.4357]
   },
@@ -2220,6 +2226,7 @@
     "State": "Illinois",
     "City": "Chicago",
     "Url": "https://www.iit.edu/",
+    "About": "",
     "location": [41.8373, -87.6257]
   },
   "NCSG55176": {
@@ -2229,6 +2236,7 @@
     "State": "Texas",
     "City": "Houston",
     "Url": "https://kpft.org/",
+    "About": "",
     "location": [29.7319, -95.3813]
   },
   "NCSG55175": {
@@ -2245,6 +2253,7 @@
     "State": "California",
     "City": "San Francisco",
     "Url": "https://www.lowedownproductions.com/",
+    "About": "",
     "location": [37.7753, -122.4242]
   },
   "NCSG55173": {
@@ -2253,7 +2262,8 @@
     "State": "Virginia",
     "City": "Lexington",
     "Url": "https://my.wlu.edu/wlur",
-    "location": [37.7900, -79.4459]
+    "About": "",
+    "location": [37.79, -79.4459]
   },
   "NCSG55174": {
     "Name": "Excellent Radio/KYXZ",
@@ -2261,14 +2271,16 @@
     "State": "California",
     "City": "Grover Beach",
     "Url": "https://xllntradio.wixsite.com/kyxz",
+    "About": "",
     "location": [35.1218, -120.6175]
   },
-   "NCSG55177": {
+  "NCSG55177": {
     "Name": "University of Arkansas, David W. Mullins Library",
     "Short name": "University of Arkansas, David W. Mullins Library",
     "State": "Arkansas",
     "City": "Fayetteville",
     "Url": "https://libraries.uark.edu/",
+    "About": "",
     "location": [36.0693, -94.1736]
   },
   "NCSG55179": {
@@ -2279,45 +2291,49 @@
     "Logo": "heinz-2.png",
     "Url": "https://www.heinzhistorycenter.org/",
     "About": "The Senator John Heinz History Center, Pennsylvania’s largest history museum, is dedicated to preserving and sharing Western Pennsylvania’s rich history. The Detre Library & Archives is a vital resource for researching Western Pennsylvania’s rich history. Established in 1879, it preserves and provides access to a vast collection of archival and library materials for researchers, students, and the public. With more than 10,000 collections, it serves as a cornerstone of the History Center’s mission to present the American experience through a Western Pennsylvania lens. The Detre Library & Archives provides essential public services through collecting and preserving archival and library material of enduring value in accordance with professional best practices and expanding access to these materials through efficient cataloging, processing, and digitization.",
-    "location": [40.4470, -79.9920]
+    "location": [40.447, -79.992]
   },
-   "NCSG55178": {
+  "NCSG55178": {
     "Short name": "KUAC",
     "State": "Alaska",
     "City": "Fairbanks",
     "Logo": "kuac-logo.jpg",
     "Url": "https://kuac.org/",
     "Name": "KUAC-TV",
+    "About": "",
     "location": [64.8573, -147.8194]
   },
-   "NCSG55178": {
+  "NCSG55180": {
     "Short name": "PBS Reno",
     "State": "Nevada",
     "City": "Reno",
     "Logo": "pbs-reno.png",
     "Url": "https://www.pbsreno.org/",
     "Name": "PBS Reno",
+    "About": "",
     "location": [39.5524, -119.8194]
   },
-   "NCSG55181": {
+  "NCSG55181": {
     "Short name": "WETA",
     "State": "Virginia",
     "City": "Arlington",
     "Logo": "weta-logo.png",
     "Url": "https://weta/org/",
+    "About": "",
     "Name": "WETA",
-    "location": [38.8430, -77.0828]
+    "location": [38.843, -77.0828]
   },
-   "NCSG55182": {
+  "NCSG55182": {
     "Short name": "ITVS",
     "State": "California",
     "City": "San Francisco",
     "Logo": "itvs-logo.png",
     "Url": "https://itvs.org/",
+    "About": "",
     "Name": "ITVS",
     "location": [37.7727, -122.4131]
-   },
-   "NCSG55183": {
+  },
+  "NCSG55183": {
     "Short name": "KSLU",
     "State": "Louisiana",
     "City": "Hammond",
@@ -2326,8 +2342,8 @@
     "Name": "KSLU",
     "About": "KSLU 90.9 FM & HD is a CPB-qualified, non-commercial educational radio station in Hammond, Louisiana owned and operated by Southeastern Louisiana University. Many of the announcers are communication students at Southeastern training for careers in the broadcast industry. KSLU strives to serve both the Southeastern and surrounding communities. The station began operation in 1974 as a radio club at Southeastern Louisiana College (as it was known then) operating at ten watts of power. Initially, the station was on the air a few hours a day during the week; the transmitter was turned off during the weekends and during the holidays. Thanks to support from the Student Government Association and self-assess ed fees of the student body, in 1983 the station qualified for membership in the Corporation for Public Broadcasting. Since that time the station has increased power to 3,000 watts. KSLU celebrated its 50th birthday on November 11, 2024. The broadcast schedule offers a vast array of non-commercial programs which educate and entertain. KSLU offerings include local talk shows, news, sports, campus, and community activities. KSLU is the station in the local market playing album-oriented classic rock, blues, and Louisiana artists.",
     "location": [30.5207, -90.4731]
-    },
-    "NCSG55184": {
+  },
+  "NCSG55184": {
     "Short name": "Tom Hayes",
     "State": "New York",
     "City": "New York",
@@ -2335,8 +2351,8 @@
     "Name": "Tom Hayes",
     "About": "Tom Hayes is the son of 'The Round Table' host Harold Hayes. In 1974/1975, when the show was broadcast, Tom was in high school living in upstate New York 100 miles from the WNET transmitter. As such, clear reception of the program was a challenge.  Making his father’s personal collection available here is an honor and a wonderful tribute to his dad’s first foray into the world of television.  It should be noted, prior to hosting 'The Round Table,' from 1963 to 1973, Hayes was Editor-in-Chief of Esquire Magazine, and considered one of the pioneers and main architects of The New Journalism, which gave rise to writers like Tom Wolfe, Gay Talese, and Norman Mailer.  Following 'The Round Table,' Harold Hayes, along with Time Magazine art critic, Robert Hughes, co-hosted ABC’s 20/20, the first effort to compete with CBS’ 60 Minutes.  He is the author of several books dealing with wildlife conservation including 'The Last Place on Earth,' 'Three Levels of Time,' and 'The Dark Romance of Dian Fossey,'  which was his last book before passing away in 1989. Tom Hayes has had extensive experience film and TV production including projects with Peter Bogdanovich, CBS Cable, Barbara Streisand, Mick Jagger, David Bowie, Carly Simon, Cyndi Lauper, a-ha, and Jermaine Jackson to name only a few.  He has also produced hundreds of TV News magazine stories for the European television market as well as creating numerous promotional and corporate videos.  In 2013, he produced, directed, wrote, edited and narrated a documentary feature film about his father called,  'Smiling Through the Apocalypse - Esquire in the 60s.' The  award winning film was shown in theaters and was short listed for the 2015 Academy Award.  The film is available for streaming on a number of global platforms.",
     "location": [40.7124, -74.0021]
-    },
-    "NCSG55185": {
+  },
+  "NCSG55185": {
     "Short name": "David Brancaccio",
     "State": "California",
     "City": "Los Angeles",
@@ -2344,16 +2360,17 @@
     "Name": "David Brancaccio",
     "About": "David Brancaccio is a veteran journalist who focuses on regulation of financial markets, the role of technology in labor markets, the history of innovation, digital privacy, sustainability, social enterprises and financial vulnerability in older adults. He is currently the host of 'Marketplace Morning Report,' the daily nationwide business and economics program from American Public Media. His work has earned some of the highest honors in broadcast journalism, including the Peabody, the duPont–Columbia, the Emmy, and the Walter Cronkite awards. Brancaccio has co-produced and appeared in several documentaries including 'Fixing the Future,' about alternative approaches to the economy, and 'On Thin Ice,' about climate change and water security, with mountaineer Conrad Anker. He is the author of 'Squandering Aimlessly,' a book about personal values and money, and is producing a documentary about the intersection of art and science.",
     "location": [34.0632, -118.2463]
-    },
-    "NCSG55186": {
+  },
+  "NCSG55186": {
     "Short name": "Alabama Public Television",
     "State": "Alabama",
     "City": "Birmingham",
     "Url": "https://aptv.org/",
+    "About": "",
     "Name": "Alabama Public Television",
     "location": [33.5083, -86.7942]
-    },
-    "NCSG55187": {
+  },
+  "NCSG55187": {
     "Short name": "GrassRoots Community Network",
     "State": "Colorado",
     "City": "Aspen",
@@ -2362,15 +2379,16 @@
     "Name": "GrassRoots Community Network",
     "About": "The GrassRoots Community Network has provided for Aspen and the Roaring Fork Valley’s intra-community video communications needs for 54 years. It was the first non-profit organization in the nation to enable all local citizens to create and distribute television content. Slowly growing from an experimental citizen-based media project into a multi-channel web and television network, GrassRoots today is an essential communications hub for hundreds of local non-profits, government agencies and individual citizens. GrassRoots’ goal is to provide the most accessible and technologically effective community media network possible, to be a community asset that represents and serves the diverse citizens and guests of the Roaring Fork Valley. GrassRoots programming is an honest representation of the community at large. It expands the viewers’ understanding and perception of their community. It expands and changes minds. By providing both a reflection of this community in the present, as well as a timeless archive of its past, GrassRoots simultaneously refreshes and preserves the character of this unique place and culture every day.",
     "location": [39.1933, -106.8211]
-    },
-    "NCSG55188": {
+  },
+  "NCSG55188": {
     "Short name": "Christopher Lukas",
     "State": "New York",
     "City": "Sparkill",
     "Name": "Christopher Lukas",
-    "location": [41.0300, -73.9289]
-    },
-    "NCSG55189": {
+    "About": "",
+    "location": [41.03, -73.9289]
+  },
+  "NCSG55189": {
     "Short name": "WUWM",
     "State": "Wisconsin",
     "City": "Milwaukee",
@@ -2378,18 +2396,19 @@
     "Url": "https://www.wuwm.com/",
     "Name": "WUWM",
     "About": "WUWM 89.7 FM - Milwaukee’s NPR is committed to empowering the public to affect change through in-depth news, thoughtful conversations and community connections. [Our mission](https://www.wuwm.com/community-representation) is to weave stories of southeastern Wisconsin together to engage, inspire, and connect people with a shared understanding of each other, the region and the world. Founded in 1964, WUWM has been a staple of the Milwaukee community for more than 60 years. WUWM is licensed to the University of Wisconsin Board of Regents and is operated by the University of Wisconsin-Milwaukee College of Letters and Science. WUWM produces local news and information to share on broadcast and digital channels. The station broadcasts national and international programming from NPR, APM and BBC, as well. As a member-supported radio station, WUWM’s award-winning news journalists, [Lake Effect](https://www.wuwm.com/lakeeffect) producers and digital team create captivating reports that focus on local and regional issues featuring the people and cultural events that shape our community.",
-    "location": [43.0380, -87.9089]
-    },
-    "NCSG55190": {
+    "location": [43.038, -87.9089]
+  },
+  "NCSG55190": {
     "Short name": "Spadora On Sports - Sports Media Group",
     "State": "New York",
     "City": "New York City",
     "Logo": "spadora.jpg",
     "Url": "https://www.spadoraonsports.com/",
+    "About": "",
     "Name": "Spadora On Sports - Sports Media Group",
     "location": [40.7129, -74.0031]
-    },
-    "NCSG55191": {
+  },
+  "NCSG55191": {
     "Short name": "Science Friday",
     "State": "New York",
     "City": "New York City",
@@ -2398,25 +2417,33 @@
     "Name": "Science Friday Initiative",
     "About": "For more than 30 years, [Science Friday](https://www.sciencefriday.com/) has produced award-winning science news programming that engages millions of people each week. Our flagship [podcast](https://www.sciencefriday.com/science-friday-podcasts/) and [radio show](https://www.sciencefriday.com/episodes/), available on all podcast platforms and broadcast on more than 500 public radio stations, connects listeners with leading experts, leans into the joy of discovery, and helps people make sense of our world. Collaborating with our audience is central to our mission: We elevate their voices, solicit their feedback, and follow their curiosity in our show, [book club](https://www.sciencefriday.com/scifri-book-club/), [digital reporting](https://www.sciencefriday.com/stories/), [social media](https://linktr.ee/SciFri), [live events](https://www.sciencefriday.com/events/), and [educational materials](https://www.sciencefriday.com/educate/).",
     "location": [40.7028, -74.0109]
-    },
-  
-    "NCSG55192": {
+  },
+  "NCSG55192": {
     "Short name": "KCSM",
     "State": "California",
     "City": "San Mateo",
     "Logo": "kcsm-logo.jpg",
     "Url": "https://www.kcsm.org/",
+    "About": "",
     "Name": "KCSM",
     "location": [37.5357, -122.3344]
-    },
-     
-    "NCSG55193": {
+  },
+  "NCSG55193": {
     "Short name": "WHIV-FM",
     "State": "Louisiana",
     "City": "New Orleans",
-    "Logo": "WHIV+Logo+2018.png",
+    "Logo": "whiv-logo.png",
     "Url": "https://whivfm.org/",
     "Name": "102.3 FM WHIV-LP",
     "About": "102.3 FM WHIV-LP is a program of The New Orleans Society for Infectious Disease Awareness (NOSIDA), which was established in 2009 by local activist and infectious diseases physician Dr. MarkAlain Dery. NOSIDA's focus is to raise awareness about HIV and other infectious diseases through music. Such illnesses are completely preventable, yet disproportionately affect disadvantaged and marginalized populations. NOSIDA received its non-profit status in 2010. Expanding its impact locally, NOSIDA was awarded an FCC license for a 100 watt lower power FM community radio station in 2014. On World AIDS Day 2014, WHIV was officially launched, featuring local music, protest songs, and programming dedicated to human rights and social justice. Our AIM has always been Advocacy through Innovative Messaging. As of 2019, 102.3 FM WHIV-LP features more than 70 hosts and DJs, broadcasting over 12 hours of daily and original content throughout New Orleans, and streaming online in all 50 states and 85 countries worldwide. The majority of WHIV's listeners and supporters are from the greater New Orleans metropolitan area, and all of our shows, music, and content is run by a determined group of local volunteers. Topics on this grassroots radio station range from health as a human right to workers rights to reproductive justice and from Islam in the Crescent City to the Haitian community in New Orleans. There are also many local musicians that showcase a wide array of eclectic sounds. We are WHIV. We honor independent voices. We are human rights and social justice radio.",
     "location": [29.9719, -90.0843]
+  },
+  "NCSG55194": {
+    "Short name": "Mission Film Workshop, Inc.",
+    "State": "California",
+    "City": "San Francisco",
+    "Name": "Mission Film Workshop, Inc.",
+    "About": "In the early 1970's, a great wave of art, public mural painting, music, written media including poetry, and electronic media production began flourishing in San Francisco’s Latino/a Mission neighborhood. Concurrently, issues of criminal justice, housing, education, health care, jobs, women’s rights, politics between the United States and Lt. America, and immigration were matter around which the community organized for racial and economic equality. In 1973, against this social panorama, a group of young Chicana/Latina women (self-named Mujeres de Aztlan/Women of Aztlan) lived and worked in the Mission community and collaborated with several community non-profits.  These included 24th Street Place, a community children’s tutorial center, which evolved into the Balmy Alley public murals project. Collaborating with Galería de la Raza, a community art space, they produced a Third World Women's Art Exhibition (Oct. 1973).  It was the first documented women's art exhibit at Galería. Women of Aztlan Ana Montano, Sara Ortiz and Mercedes Soberon sought to break discriminatory barriers within local mainstream media. They approached Mission Mediarts who produced community television programs for KQED, a PBS affiliate and asked them to train Latina women in media production.  Because of the Women's interest in the convergence of the arts, Latina feminism and Latino culture, they agreed to begin filming the early mural artists in the Mission district. Filming included Graciela Carrillo, Luis Cortazar, Tony Machado, Consuelo Mendez, Richard Montez, Irene Perez, Michael Rios, Domingo Rivera, Patricia Rodriguez. Soon, they incorporated into the Mission Film Workshop, Inc. and were supported by the Zellerbach Foundation. Women of Aztlan were then accepted, by their other media partner NABET Local 51, into their film apprenticeship program. With mentorship by NABET member, Emiko Omori, they produced a short film on the early Mission neighborhood murals. The film aired on KVIE, a PBS station, in 1976. Themes and topics filmed by Mission Film Workshop include community activism against the Bakke legal case (anti-affirmative action), demonstrations supporting Sandinistas in Nicaragua and the civil strife in El Salvador. Types of activities include Latino/a community cultural events, outdoor musical performances and poetry reading.  Other film rolls include community people in everyday street life including many small businesses established by immigrants. The date range for the materials is 1973-1978.",
+    "location": [37.7749, -122.4166]
+  }
 }
