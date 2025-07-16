@@ -26,12 +26,23 @@ def parse_cmless(file):
     # Initialize results with title
     results = {'Title': title}
 
+    # If the first section can be parsed as an integer, it is the Page number
+    if len(parts) > 1 and parts[1].strip():
+        try:
+            results['Page'] = int(parts[1].strip())
+        except ValueError:
+            pass
+
+    # Add filename as slug - replace spaces with dashes and convert to lowercase
+    slug = file.split('/')[-1].replace('.md', '').replace(' ', '-').lower()
+    results['Slug'] = slug
+
     # Process the split parts - skip the first part (before first H2) and pair section names with content
     for i in range(1, len(parts), 2):
         if i + 1 < len(parts):
             section_name = parts[i].strip()
             section_content = parts[i + 1].strip()
-            results[section_name] = section_content
+            results[section_name] = section_content or None
 
     return results
 
@@ -45,7 +56,7 @@ def parse_dir(directory):
     """
     from os import listdir, path
 
-    results = {}
+    results = []
     files = [f for f in listdir(directory) if f.endswith('.md')]
     for file in files:
         try:
@@ -56,7 +67,7 @@ def parse_dir(directory):
             print(f"Error parsing {file}: {e}")
             continue
 
-        results[file.replace('.md', '')] = parsed
+        results.append(parsed)
     return results
 
 
