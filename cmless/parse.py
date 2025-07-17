@@ -26,12 +26,15 @@ def parse_cmless(file):
     # Initialize results with title
     results = {'Title': title}
 
-    # If the first section can be parsed as an integer, it is the Page number
-    if len(parts) > 1 and parts[1].strip():
-        try:
-            results['Page'] = int(parts[1].strip())
-        except ValueError:
-            pass
+    # Split the first part to get the header
+    header = parts[0].split('\n')[1:]
+    # Join header lines into a single string
+    header = ' '.join(header).strip()
+    # If the header can be parsed as an integer, it is the Page number
+    try:
+        results['Page'] = int(header)
+    except ValueError:
+        pass
 
     # Add filename as slug - replace spaces with dashes and convert to lowercase
     slug = file.split('/')[-1].replace('.md', '').replace(' ', '-').lower()
