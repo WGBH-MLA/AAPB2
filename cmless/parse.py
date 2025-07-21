@@ -11,9 +11,9 @@ def parse_cmless(file):
 
     md = md.replace('’', "'")  # Replace curly apostrophes with straight ones
     md = md.replace('\\_', '_')  # Replace escaped underscores with plain ones
-    md = re.sub(
-        r"(?<!\n)\n(?!\\n)", " ", md
-    )  # Replace newlines that aren't escaped with spaces
+    # md = re.sub(
+    #     r"(?<!\n)\n(?!\\n)", " ", md
+    # )  # Replace newlines that aren't escaped with spaces
 
     # Extract title from first H1
     title_match = re.search(r"^# (.*)", md)
@@ -44,15 +44,15 @@ def parse_cmless(file):
     for i in range(1, len(parts), 2):
         if i + 1 < len(parts):
             section_name = parts[i].strip()
-            section_content = parts[i + 1].strip()
+            section_content = parts[i + 1].lstrip().rstrip()
             results[section_name] = section_content or None
 
     return results
 
 
-def parse_dir(directory):
+def parse_collections(directory):
     """
-    Parses all cmless files in the given directory
+    Parses all cmless files in the given collections directory
 
     :param directory: The directory to parse
     :return: A dictionary of parsed cmless files
@@ -72,14 +72,3 @@ def parse_dir(directory):
 
         results.append(parsed)
     return results
-
-
-if __name__ == '__main__':
-    # Get all Organization cmless files
-    orgs = parse_dir('app/views/organizations/md')
-
-    # Save the results to orgs.json
-    with open('orgs.json', 'w', encoding='utf8') as f:
-        from json import dump
-
-        dump(orgs, f, indent=2, ensure_ascii=False)
