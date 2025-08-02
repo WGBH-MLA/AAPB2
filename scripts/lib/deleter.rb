@@ -1,6 +1,5 @@
 require_relative '../../lib/rails_stub'
 require_relative '../../app/models/exhibit'
-require_relative '../lib/downloader'
 require_relative '../lib/cleaner'
 require_relative '../lib/pb_core_ingester'
 require 'logger'
