@@ -7,12 +7,10 @@ class User
   DARTMOUTH_HOST_2_RE = /^(.+\.)?pub\.dartmouth\.edu$/
   GITHUB_IO = /^(.+\.)?github\.io$/
   AVIARY_PLATFORM = /^(.+\.)?iiif\.aviaryplatform\.com$/
-  POPUP_HOST_RE = /^(.+\.)?popuparchive\.com$/
   AAPB_HOST_RE = /^(.+\.)?americanarchive\.org$/
   AWS_HOST_RE = /^(.+\.)?wgbh-mla\.org$/
   WGBH_IP_RANGE = IPAddr.new('198.147.175.0/24')
   LOC_IP_RANGE = IPAddr.new('140.147.0.0/16')
-  DIGITAL_OCEAN_IP_RANGE = IPAddr.new('162.243.123.117/32')
 
   attr_reader :request
 
@@ -52,6 +50,7 @@ class User
   end
 
   def embed?
+    return false unless request.referer
     URI.parse(request.referer).path =~ /embed/
   end
 
@@ -62,7 +61,7 @@ class User
   private
 
   def aapb_referer_regexes
-    [AAPB_HOST_RE, POPUP_HOST_RE, AWS_HOST_RE]
+    [AAPB_HOST_RE, AWS_HOST_RE]
   end
 
   def authorized_referer_regexes
