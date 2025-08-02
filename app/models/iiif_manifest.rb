@@ -28,8 +28,8 @@ module IIIFManifest
                   "type" => "Annotation",
                   "motivation" => "painting",
                   "body" => {
-                    "id" => location, # TODO: URI for media file, player will consume this and expect bits. Redirects ok.
-                    "type" => media_type, # TODO: map to "Sound" or "Video"
+                    "id" => location,
+                    "type" => (media_type == "Moving Image" ? "Video" : media_type),
                     "format" => media_format,
                     "duration" => duration_seconds # TODO: just ensure it's in seconds
                   },
@@ -73,7 +73,7 @@ module IIIFManifest
   end
 
   def location
-    "#{aapb_host}/media/#{id}"
+    "#{aapb_host}/media/#{id}/download"
   end
 
   def aapb_host
