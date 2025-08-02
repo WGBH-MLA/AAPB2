@@ -22,6 +22,7 @@ Rails.application.routes.draw do
 
   resources 'media',
             only: [:show]
+  get "/media/:id/download", to: "media#download", as: :media_download
 
   resources 'captions',
             only: [:show]
