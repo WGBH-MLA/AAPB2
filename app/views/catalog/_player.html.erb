@@ -121,9 +121,9 @@
     to copyright restrictions or privacy concerns. For information about on
     location research, <a href="/on-location">click here</a>.
   <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
-    This content has not been digitized. Please contact the contributing organization(s) listed below.
+    This content is not available. Please contact the contributing organization(s) listed below.
   <% elsif !@pbcore.digitized? && @pbcore.contributing_organization_objects.empty? %>
-    This content has not been digitized.
+    This content is not available.
 
   <% end %>
 <% end %>
