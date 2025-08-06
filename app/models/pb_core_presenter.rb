@@ -226,11 +226,11 @@ class PBCorePresenter
       else
         case [media_type, digitized?]
         when [MOVING_IMAGE, false]
-          '/thumbs/VIDEO_NOT_DIG.png'
+          '/thumbs/VIDEO_NOT_AVAIL.png'
         when [SOUND, true]
           '/thumbs/AUDIO.png'
         when [SOUND, false]
-          '/thumbs/AUDIO_NOT_DIG.png'
+          '/thumbs/AUDIO_NOT_AVAIL.png'
         else
           '/thumbs/OTHER.png'
         end
