@@ -2445,5 +2445,35 @@
     "Name": "Mission Film Workshop, Inc.",
     "About": "In the early 1970's, a great wave of art, public mural painting, music, written media including poetry, and electronic media production began flourishing in San Francisco’s Latino/a Mission neighborhood. Concurrently, issues of criminal justice, housing, education, health care, jobs, women’s rights, politics between the United States and Lt. America, and immigration were matter around which the community organized for racial and economic equality. In 1973, against this social panorama, a group of young Chicana/Latina women (self-named Mujeres de Aztlan/Women of Aztlan) lived and worked in the Mission community and collaborated with several community non-profits.  These included 24th Street Place, a community children’s tutorial center, which evolved into the Balmy Alley public murals project. Collaborating with Galería de la Raza, a community art space, they produced a Third World Women's Art Exhibition (Oct. 1973).  It was the first documented women's art exhibit at Galería. Women of Aztlan Ana Montano, Sara Ortiz and Mercedes Soberon sought to break discriminatory barriers within local mainstream media. They approached Mission Mediarts who produced community television programs for KQED, a PBS affiliate and asked them to train Latina women in media production.  Because of the Women's interest in the convergence of the arts, Latina feminism and Latino culture, they agreed to begin filming the early mural artists in the Mission district. Filming included Graciela Carrillo, Luis Cortazar, Tony Machado, Consuelo Mendez, Richard Montez, Irene Perez, Michael Rios, Domingo Rivera, Patricia Rodriguez. Soon, they incorporated into the Mission Film Workshop, Inc. and were supported by the Zellerbach Foundation. Women of Aztlan were then accepted, by their other media partner NABET Local 51, into their film apprenticeship program. With mentorship by NABET member, Emiko Omori, they produced a short film on the early Mission neighborhood murals. The film aired on KVIE, a PBS station, in 1976. Themes and topics filmed by Mission Film Workshop include community activism against the Bakke legal case (anti-affirmative action), demonstrations supporting Sandinistas in Nicaragua and the civil strife in El Salvador. Types of activities include Latino/a community cultural events, outdoor musical performances and poetry reading.  Other film rolls include community people in everyday street life including many small businesses established by immigrants. The date range for the materials is 1973-1978.",
     "location": [37.7749, -122.4166]
+  },
+    "NCSG55195": {
+    "Short name": "KTNA Talkeetna Community Radio",
+    "State": "Alaska",
+    "City": "Talkeetna",
+    "Logo": "ktna-logo.png",
+    "Url": "https://ktna.org/",
+    "Name": "KTNA Talkeetna Community Radio",
+    "About":"KTNA's mission is to enrich and connect the communities of the Upper Susitna Valley through informational and cultural programming. Local residents began working to bring radio to the northern Susitna Valley for community enrichment in the 1980s, and Talkeetna Community Radio incorporated in July 1988. KTNA began broadcasting in January 1993 with 1000 watts from a small log cabin on Second Street in downtown Talkeetna. Since then the station has evolved in many ways, becoming an essential resource for the community. KTNA began with a skeletal staff and many local volunteers and has evolved into a full-service community station where volunteers continue to be our core. KTNA presents a wide variety of programming twenty-four hours every day, drawing from National Public Radio and other national and independent program distributors. Beyond national news and cultural programs, KTNA offers local news, educational and informative programming, music with local DJs, and continuous emergency broadcast capacity.",
+    "location": [62.3211, -150.1095]
+  },
+    "NCSG55196": {
+    "Short name": "Archives and Special Collections, William H. Hannon Library, Loyola Marymount University",
+    "State": "California",
+    "City": "Los Angeles",
+    "Logo": "loyola-logo.png",
+    "Url": "https://library.lmu.edu/archivesandspecialcollections/",
+    "Name": "Archives and Special Collections, William H. Hannon Library, Loyola Marymount University",
+    "About":"The William H. Hannon Library acquires, preserves, makes available, and promotes rare and unique research materials of enduring historical and cultural value in support of Loyola Marymount University's mission to provide a transformative academic experience. Through the diverse collections housed within our archives and special collections, we seek to enhance learning and scholarship at the university and worldwide.",
+    "location": [33.9709, -118.4193]
+  },
+    "NCSG55197": {
+    "Short name": "Texas Public Radio",
+    "State": "Texas",
+    "City": "San Antonio",
+    "Url": "https://www.tpr.org/",
+    "Name": "Texas Public Radio",
+    "About": "",
+    "location": [29.4255, -98.4964]
   }
 }
+  
