@@ -2472,6 +2472,7 @@
     "City": "San Antonio",
     "Url": "https://www.tpr.org/",
     "Name": "Texas Public Radio",
+    "About": "",
     "location": [29.4255, -98.4964]
   }
 }
