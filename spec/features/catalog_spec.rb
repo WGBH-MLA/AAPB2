@@ -486,7 +486,7 @@ describe 'Catalog' do
       visit '/catalog/cpb-aacip-80-12893j6c'
       # No need to click through
       expect_all_the_text('clean-bad-essence-track.xml')
-      expect(page).to have_text('This content is not available.'), missing_page_text_custom_error('This content has not been digitized.', page.current_path)
+      expect(page).to have_text('This content is not available.'), missing_page_text_custom_error('This content is not available.', page.current_path)
       expect_no_media
     end
 
