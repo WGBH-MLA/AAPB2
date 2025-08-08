@@ -59,7 +59,7 @@ Created in 2005, the GBH Archives website Open Vault provides online access to u
 ## Featured
 
 [![The French Chef](https://s3.amazonaws.com/americanarchive.org/special-collections/julia-child.jpeg)](/catalog/cpb-aacip-15-4q7qn5zc65)
-[![Masterpiece Theater](https://s3.amazonaws.com/americanarchive.org/special-collections/alistair-cooke.jpeg)](/catalog/cpb-aacip-80a22b6de0c)
+[![Masterpiece Theatre](https://s3.amazonaws.com/americanarchive.org/special-collections/alistair-cooke.jpeg)](/catalog/cpb-aacip-80a22b6de0c)
 [![Ten O’Clock News: Derrick Bell](https://s3.amazonaws.com/americanarchive.org/special-collections/10-oclock-news.jpeg)](/catalog/cpb-aacip-15-qn5z60c97r)
 [![The Nader Report](https://s3.amazonaws.com/americanarchive.org/special-collections/nadar.jpeg)](/catalog/cpb-aacip-15-10wq0ddc)
 [![NOVA: Elephants](https://s3.amazonaws.com/americanarchive.org/special-collections/nova.jpeg)](/catalog/cpb-aacip-06a2db983e0)
