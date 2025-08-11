@@ -70,7 +70,7 @@ a.donate-button {
   border:1px solid #ffffff;
   display:inline-block;
   cursor:pointer;
-  color:#ffffff;
+  color:#ffffff !important;
   font-family:Arial;
   font-size:17px;
   padding:20px 40px;
@@ -87,4 +87,18 @@ a.donate-button:active {
   top:1px;
 }
 
-        
+a#america-250-bar {
+  letter-spacing: 2px;
+  font-weight: bold;
+  display: block;
+  color: #fff;
+  background-color: #9E2064;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  font-family: Arial;
+  padding: 0.5em;
+}
+
+
+
