@@ -10,7 +10,8 @@ class User
   POPUP_HOST_RE = /^(.+\.)?popuparchive\.com$/
   AAPB_HOST_RE = /^(.+\.)?americanarchive\.org$/
   AWS_HOST_RE = /^(.+\.)?wgbh-mla\.org$/
-  WGBH_IP_RANGE = IPAddr.new('198.147.175.0/24')
+  WGBH_IP_RANGE_1 = IPAddr.new('198.147.175.0/24')
+  WGBH_IP_RANGE_2 = IPAddr.new('204.152.12.0/23')
   LOC_IP_RANGE = IPAddr.new('140.147.0.0/16')
   DIGITAL_OCEAN_IP_RANGE = IPAddr.new('162.243.123.117/32')
 
@@ -71,7 +72,7 @@ class User
 
   def onsite_ip_ranges
     @onsite_ip_ranges ||= begin
-      ranges = [WGBH_IP_RANGE, LOC_IP_RANGE]
+      ranges = [WGBH_IP_RANGE_1, WGBH_IP_RANGE_2, LOC_IP_RANGE]
       ranges << IPAddr.new('127.0.0.1') if Rails.env.development?
       ranges << IPAddr.new('::1') if Rails.env.development?
       ranges
