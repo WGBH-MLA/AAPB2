@@ -6,7 +6,7 @@
 
 ## Summary
 
-The *Education Forum / High School Assembly* collection includes twenty-two episodes of *Education Forum* and eleven episodes of *High School Assembly* that aired on UNC-TV between 1993 and 2002. 
+The *Education Forum / High School Assembly* collection includes eleven episodes of *Education Forum* and twenty episodes of *High School Assembly* that aired on UNC-TV between 1993 and 2002. 
 
 Hosted by Diane Lucas, Mary Cay Corr, Jay Holloway, Jr., and Ron Plummer, *Education Forum* explores crucial educational themes. Focusing on education for students of all ages, episodes examine subjects such as [PBS’s Ready to Learn](/catalog/cpb-aacip-a6a1cfe30c4) initiative, [adult literacy](/catalog/cpb-aacip-3e22745538a), and [postsecondary education](/catalog/cpb-aacip-b92bbff5989). From empowering distance learning to confronting substance abuse, voices and ideas are united, fostering a brighter future through knowledge and understanding.
 
@@ -43,4 +43,4 @@ Records are described at an item level and all records contain brief description
 
 ## Sort
 
-title+asc
+asset_date+asc
