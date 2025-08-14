@@ -1,4 +1,4 @@
-# Education Forum / High School Assembly Collection
+# Education Forum / High School Assembly
 
 ## Thumbnail
 
