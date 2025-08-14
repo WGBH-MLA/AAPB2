@@ -12,7 +12,7 @@ Hosted by Diane Lucas, Mary Cay Corr, Jay Holloway, Jr., and Ron Plummer, *Educa
 
 *High School Assembly* began as a series of *Education Forum* episodes on issues affecting high school students. While students host some episodes, most are hosted by Hunter Brown-Buxton, Natalie Bullock Brown, or Shannon Vickery. *High School Assembly* invites you into a captivating realm where the voices of high school students and educators echo through thought-provoking discussions. Episodes address topics relevant to high school students, including [sports](/catalog/cpb-aacip-cdfc3b06c5e), [prom night](/catalog/cpb-aacip-0d2557c898c), and [school uniforms](/catalog/cpb-aacip-49245f5c9b6), as well as more serious subjects, such as [addiction](/catalog/cpb-aacip-f675ce5e0fc) and [school violence](/catalog/cpb-aacip-c221e93f72b). Explore the intricacies of adolescence, educational initiatives, and the transformative power of learning. *High School Assembly* is not just a program; it's a journey that amplifies the diverse voices of high school students while addressing critical issues in education. Tune in for a transformative experience that fosters learning, understanding, and positive change.
 
-## Collection Background
+## Background
 
 PBS North Carolina’s flagship station, UNC-TV, first went on the air in 1955, broadcasting from Chapel Hill. Today, PBS North Carolina broadcasts from twelve stations to most of North Carolina, as well as parts of Virginia, Georgia, and South Carolina. *The Education Forum* and *High School Assembly* episodes included in this collection originally aired on UNC-TV. PBS North Carolina contributed the episodes to the AAPB beginning in 2024. 
 
