@@ -21,7 +21,7 @@
           <div class="col-md-6 topics-text">
             <div class="suggested">Suggested Searches:</div>
           </div>
-          <div class="col-md-6 topics-text">
+          <div class="col-md-6 topics-text" style ="text-align: left;">
             <%= @special_collection.terms.map{ |term| link_to(term[0], term[1]) }.join('<br>').html_safe %>
           </div>
         </div>
