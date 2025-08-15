@@ -46,18 +46,26 @@ Whether it’s about bees, poetry, skin, or psychedelics, every episode of *TTBO
 Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “View the Collection” below the search box.
 
 ## Terms
+<div style="display: flex; justify-content: flex-start; gap: 2em; align-items: flex-start;">
 
-- [Arts and Culture](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Arts+and+Culture+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)   
-- [Literature and Poetry](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Literature+and+Poetry+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc) 
-- [Nature](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Nature+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)   
-- [Philosophy](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Philosophy+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)
-- [Politics and History](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Politics+and+History++section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc) 
-- [Psychedelics](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Psychedelics+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc) 
-- [Race Relations](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Race+Relations+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)
-- [Religion and Philosophy](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Religion+and+Philosophyt+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)
-- [Science and Technology](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Science+and+Technology+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)
-- [Social Trends](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Social+Trends+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)
-- [Spirituality](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Spirituality+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>[Arts and Culture](https://americanarchive.org/catalogf%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Arts+and+Culture+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)</li>
+  <li>[Literature and Poetry](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Literature+and+Poetry+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)</li>
+  <li>[Nature](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Nature+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)</li>
+  <li>[Philosophy](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Philosophy+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)</li>
+  <li>[Politics and History](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Politics+and+History++section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)</li>
+  <li>[Psychedelics](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Psychedelics+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)</li>
+</ul>
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>[Race Relations](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Race+Relations+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)</li>
+  <li>[Religion and Philosophy](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Religion+and+Philosophyt+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)</li>
+  <li>[Science and Technology](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Science+and+Technology+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)</li>
+  <li>[Social Trends](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Social+Trends+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)</li>
+  <li>[Spirituality](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Spirituality+section+of+the+To+The+Best+Of+Our+Knowledge+special+collection.%22&sort=title+asc)
+</li>
+</ul>
+</div>
 
 
 ## Timeline
