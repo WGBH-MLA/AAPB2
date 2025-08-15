@@ -22,7 +22,7 @@
             <div class="suggested">Suggested Searches:</div>
           </div>
           <div class="col-md-6 topics-text">
-            <%= @special_collection.terms.map{ |term| link_to(term[0], term[1]) }.join(', ').html_safe %>
+            <%= @special_collection.terms.map{ |term| link_to(term[0], term[1]) }.join(', &emsp;' ).html_safe %>
           </div>
         </div>
 
