@@ -55,16 +55,16 @@ describe DownloadCleanIngest do
       /Starting one big commit/,
       /1 \(100.0%\) succeeded/
     ]
-  }.each do |args, expeected_output_patterns|
+  }.each do |args, expected_output_patterns|
     describe "download_clean_ingest.rb #{args}" do
       let(:output) do
         dci_output(*args.split(/\s+/).map do |arg|
           arg.sub(/(^['"])|(['"]$)/, '')
           # There might be quotes around args if pasted from commandline.
         end) end
-      expeected_output_patterns.each do |expeected_output_pattern|
-        it "matches /#{expeected_output_pattern.source}/" do
-          expect(output).to match expeected_output_pattern
+      expected_output_patterns.each do |expected_output_pattern|
+        it "matches /#{expected_output_pattern.source}/" do
+          expect(output).to match expected_output_pattern
         end
       end
     end
