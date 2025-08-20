@@ -1,7 +1,7 @@
 require_relative '../lib/rails_stub'
 require 'webmock'
 
-ENV['RACK_ENV'] = 'test'
+ENV['RACK_ENV'] = ENV['RAILS_ENV'] = 'test'
 
 RSpec.configure do |config|
   # rspec-expectations config goes here. You can use an alternate
