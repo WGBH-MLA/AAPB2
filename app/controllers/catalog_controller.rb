@@ -5,7 +5,7 @@ class CatalogController < ApplicationController
   include ApplicationHelper
   include BlacklightGUIDFetcher
 
-  before_action :require_turnstile, only: [:index], if: -> { Rails.env.production? }
+  before_action :require_turnstile, only: [:index]
 
   # allows usage of default_processor_chain v
   # self.search_params_logic = true
@@ -298,7 +298,7 @@ class CatalogController < ApplicationController
   private
 
   def require_turnstile
-    return if cookies.encrypted[:turnstile_verified]
+    return if cookies.encrypted[:turnstile_verified] || !Rails.env.production?
     redirect_to turnstile_challenge_path(return_to: request.fullpath)
   end
 
