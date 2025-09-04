@@ -46,7 +46,7 @@ The following is a complete list of GBH Archives Open Vault special collections:
 25. [*Stonewall Uprising* Interviews](https://openvault.wgbh.org/collections/stonewall-uprising-interviews)   
 26. [Stories of East and Southeast Asia](https://openvault.wgbh.org/collections/stories-of-east-and-south-east-asia)  
 27. [*To the Moon* Interviews](https://openvault.wgbh.org/collections/to-the-moon-interviews) 
-28. [*Victory Garden*](https://openvault.wgbh.org/collections/victory-garden-test) 
+28. [*Victory Garden*](https://openvault.wgbh.org/collections/victory-garden) 
 29. [The *Vietnam* Collection](https://openvault.wgbh.org/collections/the-vietnam-collection) 
 30. [*War and Peace in the Nuclear Age*](https://openvault.wgbh.org/collections/war-and-peace-in-the-nuclear-age)
 
