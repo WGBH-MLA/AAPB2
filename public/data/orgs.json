@@ -2494,6 +2494,16 @@
     "Name": "KBTC",
     "About": "KBTC is the South Sound’s public broadcasting station. Operating out of Tacoma, Washington, KBTC is the only television broadcaster located in Pierce County with programming services that reach throughout western Washington from the Oregon border to the Canadian border through broadcast, cable, satellite, streaming, the KBTC app, and kbtc.org.  KBTC brings people together to explore and discuss issues of importance to the community. KBTC educates and supports youth and families by providing learning opportunities in partnership with local organizations. KBTC-1 (HD) is our primary, high-definition service that includes a variety of PBS, APT, NETA, Executive Program Services, Acorn, and BBC favorites as well as KBTC documentaries, specials, and series such as Northwest Now and select local and regional content from local partner producers. KBTC- 2 (HD) provides viewers with access to NHK World Japan, an all-English language public media television channel filled with international news, business, technology and science information; and lifestyles, culture and travel programs produced and presented from Japanese and Asian perspectives. KBTC- 3 (SD) provides FNX | First Nations Experience. In February 2020, KBTC added FNX to the broadcast schedule. FNX is the first and only broadcast television network in the US exclusively devoted to Native American and World Indigenous content. KBTC is a viewer supported public service of Bates Technical College.",
     "location": [47.2424, -122.4673]
+  },
+    "NCSG55200": {
+    "Short name": "Special Collections & Archives, UC San Diego Library",
+    "State": "California",
+    "City": "San Diego",
+    "Logo": "ucsd-logo.jpg",
+    "Url": "https://library.ucsd.edu/research-and-collections/special-collections-and-archives/index.html",
+    "Name": "Special Collections & Archives, UC San Diego Library",
+    "About": "Special Collections & Archives (SC&A) houses a wide range of rare books, manuscripts, periodicals, maps, photographs, artworks, films, sound recordings, archives, and digital files. These primary source materials support UC San Diego's instructional and research programs, and distinguish UC San Diego's library collections from all other research universities.",
+    "location": [32.8812, -117.2373]
   }
 }
   
