@@ -68,6 +68,8 @@ Ramer received the American Jewish Committee Community Service Award in 1987 and
 
 Ramer is a graduate of Princeton University and Harvard Law School. He is married to Madeline Ramer, with whom he has four children and five grandchildren.
 
+### Kathryn Washington
+
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/siemering_photo.jpg" alt="Bill Siemering" aria-hidden="true"/>
 ### Bill Siemering
 As a founding member of the NPR Board of Directors, Bill Siemering wrote NPR's original mission and goals. He was then hired to implement it as NPR’s first director of programming and led the development of *All Things Considered*. Later, Siemering developed *Fresh Air* with Terry Gross from a local into a national program while vice president for radio at WHYY in Philadelphia. He began working overseas in 1993 as a recipient of a MacArthur Foundation Fellowship. He worked with the Open Society Foundation, (Soros) for ten years, focused on Eastern Europe, Africa and Mongolia. In 2004, he founded Developing Radio Partners (DRP) to enrich the programing of local stations in Africa on climate change and health for women and youth.  He received a Lifetime Achievement Award from National Public Radio and an honorary doctorate from State University of New York at Buffalo and from Arcadia University, Glenside, Pennsylvania. Siemering currently serves as a Senior Fellow at the Wyncote Foundation.
