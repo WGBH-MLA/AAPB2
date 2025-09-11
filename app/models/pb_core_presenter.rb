@@ -312,6 +312,7 @@ class PBCorePresenter
   CORRECT_TRANSCRIPT = 'Correct'.freeze
   CORRECTING_TRANSCRIPT = 'Correcting'.freeze
   UNCORRECTED_TRANSCRIPT = 'Uncorrected'.freeze
+  
   def transcript_status
     @transcript_status ||= xpath('/*/pbcoreAnnotation[@annotationType="Transcript Status"]')
   rescue NoMatchError
