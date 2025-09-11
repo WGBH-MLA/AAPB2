@@ -308,6 +308,7 @@ class PBCorePresenter
     return 'Online Reading Room' if public?
     return 'Accessible on location at GBH and the Library of Congress. ' if protected?
   end
+  
   CORRECT_TRANSCRIPT = 'Correct'.freeze
   CORRECTING_TRANSCRIPT = 'Correcting'.freeze
   UNCORRECTED_TRANSCRIPT = 'Uncorrected'.freeze
@@ -473,6 +474,7 @@ class PBCorePresenter
 
     # REXML::Document
     full_doc = @doc.deep_clone
+    strip_sony_ci_id_if_restricted(full_doc)
     spot_for_annotations = ['//pbcoreInstantiation[last()]',
                             '//pbcoreRightsSummary[last()]',
                             '//pbcorePublisher[last()]',
@@ -564,7 +566,13 @@ class PBCorePresenter
 
   private
 
-  # These methods are only used by to_solr.
+  def strip_sony_ci_id_if_restricted(doc)
+    if private? || protected?
+      REXML::XPath.match(doc, "/*/pbcoreIdentifier[@source='#{SONY_CI}']").each do |elem|
+      elem.parent.delete_element(elem)
+    end
+  end
+end
 
   def text
     ignores = [
