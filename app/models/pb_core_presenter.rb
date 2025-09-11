@@ -308,7 +308,7 @@ class PBCorePresenter
     return 'Online Reading Room' if public?
     return 'Accessible on location at GBH and the Library of Congress. ' if protected?
   end
-  
+    
   CORRECT_TRANSCRIPT = 'Correct'.freeze
   CORRECTING_TRANSCRIPT = 'Correcting'.freeze
   UNCORRECTED_TRANSCRIPT = 'Uncorrected'.freeze
