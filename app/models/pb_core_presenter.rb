@@ -569,10 +569,10 @@ class PBCorePresenter
   def strip_sony_ci_id_if_restricted(doc)
     if private? || protected?
       REXML::XPath.match(doc, "/*/pbcoreIdentifier[@source='#{SONY_CI}']").each do |elem|
-      elem.parent.delete_element(elem)
+        elem.parent.delete_element(elem)
+      end
     end
   end
-end
 
   def text
     ignores = [
