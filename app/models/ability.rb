@@ -5,24 +5,24 @@ class Ability
   # rubocop:disable Metrics/PerceivedComplexity
   def initialize(user)
     can :skip_tos, PBCorePresenter
-    
+
     can :play, PBCorePresenter do |pbcore|
       !pbcore.protected? && !pbcore.private? &&
       pbcore.public? && user.usa? && !user.bot? &&
       (user.affirmed_tos? || user.authorized_referer?)
     end
-      
+
     can :play_embedded, PBCorePresenter do |pbcore|
       !pbcore.protected? && !pbcore.private? &&
       pbcore.public? && user.usa? && !user.bot?
     end
-      
+
     cannot :skip_tos, PBCorePresenter do |pbcore|
       !pbcore.protected? && !pbcore.private? &&
       !user.affirmed_tos? && user.usa? && !user.bot? &&
       pbcore.public?
     end
-      
+
     can :access_media_url, PBCorePresenter do |pbcore|
       !pbcore.protected? && !pbcore.private? &&
       (
@@ -31,7 +31,7 @@ class Ability
         (user.authorized_referer? && pbcore.public?)
       )
     end
-      
+
     can :api_access_transcript, PBCorePresenter do |pbcore|
       !pbcore.protected? && !pbcore.private? &&
       (
@@ -39,7 +39,7 @@ class Ability
         ([PBCorePresenter::CORRECTING_TRANSCRIPT, PBCorePresenter::UNCORRECTED_TRANSCRIPT] && pbcore.public?)
       )
     end
-      
+
     can :access_transcript, PBCorePresenter do |pbcore|
       !pbcore.protected? && !pbcore.private? &&
       pbcore.public? && !pbcore.transcript_status.nil?
