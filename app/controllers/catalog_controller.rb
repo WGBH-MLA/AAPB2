@@ -269,12 +269,8 @@ class CatalogController < ApplicationController
           end
         end
 
-        if can? :access_transcript, @pbcore
-          # If @transcript_search_term not in param, it just doesn't get populated on search input
-          @transcript_search_term = params['term']
-          # how shown are we talkin here?
-          @transcript_open = @pbcore.correct_transcript? ? true : false
-        end
+        # Used as placeholder text in transcript search box, ok if empty.
+        @transcript_search_term = params['term']
 
         render
       end

@@ -108,7 +108,7 @@
   </div>
 
   <div class="col-md-4 catalog-show-left-col">
-    <% if @pbcore.transcript_html %>
+    <% if can?(:access_transcript, @pbcore) && @pbcore.transcript_html %>
       <dl class="panel hidden-sm hidden-xs">
         <div class="transcript-panel-heading">
           <dt>Transcript</dt>

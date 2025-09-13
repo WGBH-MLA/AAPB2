@@ -1,5 +1,7 @@
+ 
+
  <% if @pbcore.transcript_html %>
-  <div id="transcript-state" style="display: none;" class="hidden initial <%= @transcript_open ? 'open' : 'closed' %>"></div>
+  <div id="transcript-state" style="display: none;" class="hidden initial <%= @pbcore.correct_transcript? ? 'open' : 'closed' %>"></div>
 
                         <!-- this refers to the video -  full width transcript viewer if no wideo -->
   <div class="col-sm-12 <%= @available_and_playable ? 'col-md-6 col-lg-6' : 'col-md-12 col-lg-12' %> transcript-div transcript-view-show">
