@@ -3,16 +3,22 @@
 <script   src="https://code.jquery.com/jquery-3.1.0.js" crossorigin="anonymous"></script>
 
 <div class="full-content martop marbot">
-  As the United States marks its 250th anniversary, the American Archive of Public Broadcasting (AAPB) invites you to explore the voices, events, and moments that have shaped the nation. Through historic broadcasts, firsthand accounts, and cultural reflections, this collection offers a unique window into America’s past—its struggles, triumphs, and evolving identity.
+  As the United States marks its 250th anniversary, the American Archive of Public Broadcasting (AAPB) invites you to explore the voices, events, and moments that have shaped the nation. Through historic broadcasts, firsthand accounts, and cultural reflections, this collection offers a unique window into America's past - its struggles, triumphs, and evolving identity.
 </div>
 
-<div class="full-content marbot">
-  From groundbreaking political moments to the everyday experiences of communities across the country, these programs capture the spirit of the nation as told through public media organizations from the 1950s to today. Discover the stories that define America—then, now, and for the future.
+<div class="full-content">
+  From groundbreaking political moments to the everyday experiences of communities across the country, these programs capture the spirit of the nation as told through public media organizations from the 1950s to today. Discover the stories that define America - then, now, and for the future.
 </div>
 
-<div class="video-content marbot">
+<div class="big-video-content marbot">
   <div>
-    <iframe src="https://player.vimeo.com/video/870294335?badge=0&autopause=0&player_id=0&app_id=58479" width="1000" height="" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe src="https://player.vimeo.com/video/870294335?badge=0&autopause=0&player_id=0&app_id=58479" width="1000" height="750" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
+</div>
+
+<div class="video-content marbot" style="display: none;">
+  <div>
+    <iframe src="https://player.vimeo.com/video/870294335?badge=0&autopause=0&player_id=0&app_id=58479" width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   </div>
 </div>
 
@@ -21,19 +27,25 @@
   <div class="third-content">
     <h2>AAPB Road Trip Special Collection</h2>
     <img src="https://s3.us-east-1.amazonaws.com/americanarchive.org/special-collections/AAPB_Road_Trip.jpg" />
-    <div>Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... </div>
+    <div>
+      The American Archive of Public Broadcasting (AAPB) Road Trip special collection includes local radio and television broadcasts that highlight America's historical, geographical, and cultural heritage.There's something for everyone to discover in the AAPB Road Trip special collection!
+    </div>
   </div>
 
   <div class="third-content">
     <h2>Bicentennial Special Collection</h2>
-    <img src="https://s3.us-east-1.amazonaws.com/americanarchive.org/special-collections/AAPB_Road_Trip.jpg" />
-    <div>Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... </div>
+    <img src="https://s3.us-east-1.amazonaws.com/americanarchive.org/flagstudy.png" />
+    <div>
+      I think something very serious did take place during the bicentennial year, and let me make the case... Do you remember the good time you had on the 4th of July week-end? I hope you do.
+    </div>
   </div>
     
   <div class="third-content">
     <h2>Stories of the Land Exhibit</h2>
     <img src="https://s3.us-east-1.amazonaws.com/americanarchive.org/exhibits/stories_of_the_land_intro_image1.jpg" />
-    <div>Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... Extra info about this... </div>
+    <div>
+      Stories of the Land features more than 70 public radio and television programs broadcast over 65 years - from 1954 to 2019 - that explore many aspects of agricultural life from the perspectives of diverse populations and locales in more than 30 states throughout the U.S.
+    </div>
   </div>
 
 </div>
@@ -48,8 +60,7 @@
       <span></span>
       <a href="/exhibits/newshour-cold-war">
         <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour-cold-war/newshour-cold-war_signature2.png" />
-        <div class="tv-scroller-title">“Burning with a Deadly Heat”: NewsHour Coverage of the Hot Wars of the Cold War</div>
-        <div class="tv-scroller-shade"></div>
+        <div class="tv-scroller-title">"Burning with a Deadly Heat": NewsHour Coverage of the Hot Wars of the Cold War</div>
       </a>
     </div>
     <div class="tv-scroller-item shown">
@@ -57,7 +68,6 @@
       <a href="/special_collections/eotp-interviews">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/EyesOnThePrize_Logo.jpg" />
         <div class="tv-scroller-title">Eyes on the Prize Interviews</div>
-        <div class="tv-scroller-shade"></div>
       </a>
     </div>
     <div class="tv-scroller-item shown">
@@ -65,15 +75,13 @@
       <a href="/special_collections/freedom-riders-interviews">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/AX0004_Freedom_Riders.jpg" />
         <div class="tv-scroller-title">Freedom Riders Interviews</div>
-        <div class="tv-scroller-shade"></div>
       </a>
     </div>
     <div class="tv-scroller-item shown">
       <span></span>
       <a href="/special_collections/ken-burns-civil-war">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/CivilWarKenBurns.jpg" />
-        <div class="tv-scroller-title">Ken Burns’ The Civil War Interviews</div>
-        <div class="tv-scroller-shade"></div>
+        <div class="tv-scroller-title">Ken Burns' The Civil War Interviews</div>
       </a>
     </div>
     <div class="tv-scroller-item ">
@@ -81,15 +89,13 @@
       <a href="/special_collections/wapina">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WAPINA_Poster.jpg" />
         <div class="tv-scroller-title">War and Peace in the Nuclear Age</div>
-        <div class="tv-scroller-shade"></div>
       </a>
     </div>
     <div class="tv-scroller-item">
       <span></span>
       <a href="/exhibits/watergate">
         <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/latereturns.jpg" />
-        <div class="tv-scroller-title">“Gavel-to-Gavel”: The Watergate Scandal and Public Television</div>
-        <div class="tv-scroller-shade"></div>
+        <div class="tv-scroller-title">"Gavel-to-Gavel": The Watergate Scandal and Public Television</div>
       </a>
     </div>
     <div class="tv-scroller-item">
@@ -97,7 +103,6 @@
       <a href="/primary_source_sets/war-on-terror">
         <img src="https://s3.amazonaws.com/americanarchive.org/primary_source_sets/thumbnail_war_on_terror.jpg" />
         <div class="tv-scroller-title">9/11 and the War on Terror</div>
-        <div class="tv-scroller-shade"></div>
       </a>
     </div>
     <div class="tv-scroller-item">
@@ -105,7 +110,6 @@
       <a href="/special_collections/stonewall-uprising-interviews">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/StonewallUprisingMainImage.jpg" />
         <div class="tv-scroller-title">Stonewall Uprising Interviews</div>
-        <div class="tv-scroller-shade"></div>
       </a>
     </div>    
     <div class="tv-scroller-item">
@@ -113,6 +117,79 @@
       <a href="/special_collections/the-great-depression">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/GreatDepressionblackborder_final.png" />
         <div class="tv-scroller-title">The Great Depression Interviews</div>
+      </a>
+    </div>    
+  </div>
+  <button class="tv-scroller right">&gt;</button>
+</div>
+
+<h2>Culture</h2>
+<div id="tv-2" class="tv-scroller-container">
+  <button class="tv-scroller left">&lt;</button>
+  <div class="tv-scroller-items">
+    <div class="tv-scroller-item shown focus">
+      <span></span>
+      <a href="/special_collections/american-masters-interviews">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/American_Masters_logo.jpg" />
+        <div class="tv-scroller-title">"American Masters Interviews Collection</div>
+      </a>
+    </div>
+    <div class="tv-scroller-item shown">
+      <span></span>
+      <a href="/special_collections/a-word-on-words">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/John+Seigenthaler.cmky.jpg" />
+        <div class="tv-scroller-title">A Word on Words Collection</div>
+      </a>
+    </div>
+    <div class="tv-scroller-item shown">
+      <span></span>
+      <a href="/special_collections/hispanic-heritage-collection">
+        <img src="https://s3.amazonaws.com/americanarchive.org/primary_source_sets/freedom_riders_thumbnail.jpg" />
+        <div class="tv-scroller-title">Hispanic Heritage Collection</div>
+      </a>
+    </div>
+    <div class="tv-scroller-item shown">
+      <span></span>
+      <a href="/special_collections/rock-and-roll">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/rock.jpg" />
+        <div class="tv-scroller-title">Rock & Roll Collection</div>
+      </a>
+    </div>
+    <div class="tv-scroller-item ">
+      <span></span>
+      <a href="/special_collections/evolution-of-jazz">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/EvolutionofJazz.jpg" />
+        <div class="tv-scroller-title">The Evolution of Jazz Collection</div>
+      </a>
+    </div>
+    <div class="tv-scroller-item">
+      <span></span>
+      <a href="/special_collections/vision-maker-media">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/VisionMakerMedia.jpg" />
+        <div class="tv-scroller-title">Vision Maker Media Documentaries Collection</div>
+      </a>
+    </div>
+    <div class="tv-scroller-item">
+      <span></span>
+      <a href="/exhibits/interviews-with-foreign-leaders">
+        <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/interviews3.png" />
+        <div class="tv-scroller-title">Interviews with Foreign Leaders Exhibit</div>
+        <div class="tv-scroller-shade"></div>
+      </a>
+    </div>
+    <div class="tv-scroller-item">
+      <span></span>
+      <a href="/special_collections/wqed-black-horizons">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/black-horizons-sig-image.png" />
+        <div class="tv-scroller-title">Black Horizons Collection</div>
+        <div class="tv-scroller-shade"></div>
+      </a>
+    </div>    
+    <div class="tv-scroller-item">
+      <span></span>
+      <a href="/special_collections/aapi-collection">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WeBelongHere.png" />
+        <div class="tv-scroller-title">Asian American and Pacific Islander (AAPI) Collection</div>
         <div class="tv-scroller-shade"></div>
       </a>
     </div>    
@@ -234,17 +311,24 @@ div.cool-container {
 div.full-content, div.left-content, div.right-content, div.video-content {
   display: block;
   font-size: 1.2em;
-  margin-bottom: 2em;
 }
 
 div.video-content {
+  width: 50%;
+}
+  
+div.video-content div {
   width: 100%;
+  margin-left: 30%;
 }
 
-div.video-content div {
-  width: 75%;
-  margin-left: auto;
-  margin-right: auto;
+div.big-video-content {
+  width: 50%;
+}
+  
+div.big-video-content div {
+  width: 100%;
+  margin-left: 12%;
 }
 
 div.third-content-container {
@@ -279,6 +363,8 @@ div.third-content div {
   
   position: absolute;
   display: none;
+  font-size: 0.95em;
+  border-radius: 8px;
 }
 
 div.third-content:hover > div {
@@ -345,7 +431,6 @@ div.tv-scroller-items div.tv-scroller-item {
   height: 13em;
   margin-left: 0.5em;
   left: inherit;
-  background-color: #0f0;
 }
 
 div.left-content, div.right-content {
@@ -358,6 +443,7 @@ div.left-content div h2, div.right-content div h2 {
 
 div.tv-scroller-items div.tv-scroller-item img {
   position: relative;
+  margin: 0;
   width: 13em;
   height: 13em;
   object-fit: cover
@@ -366,16 +452,16 @@ div.tv-scroller-items div.tv-scroller-item img {
 div.tv-scroller-items div.tv-scroller-item a div.tv-scroller-title {
   z-index: 10;
   overflow-x: hidden;
-  white-space: nowrap;
   text-overflow: ellipsis;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
+  background: rgba(0,0,0,0.75);
+  width: 13em;
 }
 
 div.tv-scroller-items div.tv-scroller-item a div.tv-scroller-shade {
   background-color: #000;
   opacity: 0.5;
   z-index: 0;
+  opacity: 0;
 }
 
 
@@ -384,8 +470,9 @@ div.tv-scroller-items div.tv-scroller-item a div.tv-scroller-title, div.tv-scrol
   position: absolute;
   bottom: 0;
   color: #fff;
-  width: 100%;
-  padding-top: 1em;
+  padding: 0;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
   text-align: center;
 }
 
@@ -401,13 +488,12 @@ div.tv-scroller-items div.tv-scroller-item span {
 
 div.tv-scroller-items div.tv-scroller-item:hover {
   display: inline-flex;
-  box-shadow: 0 -2em 3em #3C439B inset;
-  background-color: #00f;
+  outline: 4px solid #3C439B;
+/*  box-shadow: 0 -2em 3em #3C439B inset;*/
 }
 
 div.tv-scroller-items div.tv-scroller-item.shown {
   display: inline-flex;
-  background-color: #f00;
 }
 
 button.tv-scroller {
