@@ -17,7 +17,7 @@ describe Ability do
       end
 
       it 'can play returns false for a private record' do
-        expect(ability).to be_able_to(:play, protected_pbcore_record)
+        expect(ability).not_to be_able_to(:play, protected_pbcore_record)
       end
     end
 
