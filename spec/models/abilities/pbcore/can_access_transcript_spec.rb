@@ -29,8 +29,8 @@ describe Ability do
         expect(ability).to be_able_to(:access_transcript, pbcore_orr_transcript)
       end
 
-      it 'access_transcript returns true for an Indexing transcript without public access' do
-        expect(ability).to be_able_to(:access_transcript, pbcore_indexing_transcript)
+      it 'access_transcript returns false for an Indexing transcript without public access' do
+        expect(ability).to_not be_able_to(:access_transcript, pbcore_indexing_transcript)
       end
 
       it 'access_transcript returns false for a record with a Transcript URL but no Transcript Status' do
