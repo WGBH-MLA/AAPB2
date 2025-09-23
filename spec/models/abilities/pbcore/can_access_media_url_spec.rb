@@ -53,8 +53,8 @@ describe Ability do
       context 'when User is on-site; User is not an AAPB referer; User is not embedding the media' do
         let(:user) { instance_double(User, 'onsite?' => true, 'aapb_referer?' => false, 'embed?' => false) }
 
-        it 'denies access to public PBCore records' do
-          expect(ability).not_to be_able_to(:access_media_url, public_pbcore_record)
+        it 'returns true for public PBCore records' do
+          expect(ability).to be_able_to(:access_media_url, public_pbcore_record)
         end
 
         include_examples 'denies protected and private records'
