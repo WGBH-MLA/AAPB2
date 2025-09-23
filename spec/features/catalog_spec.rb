@@ -5,17 +5,24 @@ require_relative '../../scripts/lib/pb_core_ingester'
 require_relative '../support/feature_test_helper'
 
 describe 'Catalog' do
-  IGNORE_FILE = Rails.root.join('spec', 'support', 'fixture-ignore.txt')
+  IGNORE_FILE = Rails.root.join('spec/support/fixture-ignore.txt')
 
-  before(:all) do
-    PBCoreIngester.load_fixtures
-  end
+  let(:user) { instance_double(User, onsite?: true, aapb_referer?: false, embed?: false, authorized_referer?: false) }
 
-  # We're just returning something here since we don't want a call to s3 for a transcript to fail but we don't want to enable webmock since that breaks calls to other external services. We're not testing transcript content here.
   before(:each) do
-    allow_any_instance_of(TranscriptFile).to receive(:file_content).and_return(File.read('./spec/fixtures/transcripts/cpb-aacip-111-21ghx7d6-transcript.json'))
-  end
+    # Stub current_user for CanCan and controller/view helpers
+    allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user)
 
+    # Force REMOTE_ADDR header for IP-based access control
+    page.driver.options[:headers] ||= {}
+    page.driver.options[:headers]['REMOTE_ADDR'] ||= '198.147.175.1'
+
+    # Stub transcript to avoid external calls
+    allow_any_instance_of(TranscriptFile).to receive(:file_content).and_return(
+      File.read('./spec/fixtures/transcripts/cpb-aacip-111-21ghx7d6-transcript.json')
+    )
+  end
+  
   def expect_count(count, page_text = "")
     case count
     when 0
