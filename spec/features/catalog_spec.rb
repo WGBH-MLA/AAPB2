@@ -94,8 +94,13 @@ describe 'Catalog' do
       visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&q=\"cpb-aacip-1234\""
       expect(page.status_code).to eq(200)
       expect_count(1, page.text)
-      %w[Nova\; Gratuitous\ Explosions\; 3-2-1\; Kaboom! Date:\ 2000-01-01 Producing\ Organization:\ WGBH Best\ episode\ ever!].each do |field|
-        expect(page).to have_text(field), missing_page_text_custom_error(field, page.current_path)
+      %w(
+        Nova\; Gratuitous\ Explosions\; 3-2-1\; Kaboom!
+        Date:\ 2000-01-01
+        Producing\ Organization:\ WGBH
+        Best\ episode\ ever!
+        ).each do |field|
+          expect(page).to have_text(field), missing_page_text_custom_error(field, page.current_path)
       end
       expect_thumbnail('cpb-aacip-1234')
     end
@@ -181,13 +186,21 @@ describe 'Catalog' do
 
     # ---------- access control tests ----------
     describe 'access control' do
-      around(:each) do |example|
-        # Reset user/IP after each test
-        original_user = ApplicationController.instance_method(:current_user)
-        example.run
-        allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(onsite_user)
-        page.driver.options[:headers]['REMOTE_ADDR'] = '198.147.175.1'
+      it 'has warning for non-us access' do
+        ENV['RAILS_TEST_IP_ADDRESS'] = '0.0.0.0'
+        visit 'catalog/cpb-aacip_37-16c2fsnr'
+        ENV.delete('RAILS_TEST_IP_ADDRESS')
+        
+        expect_all_the_text('clean-every-title-is-episode-number.xml')
+        expect(page).to have_text(
+          'not available at your location.'
+        ), missing_page_text_custom_error(
+          'not available at your location.',
+          page.current_path
+        )
+        expect_no_media
       end
+    end
 
       it 'has warning for non-us access' do
         allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(offsite_user)
@@ -244,29 +257,25 @@ describe 'Catalog' do
   end
 end
 
-  describe 'all fixtures' do
-    Dir['spec/fixtures/pbcore/clean-*.xml'].each do |file_name|
-      # Used to skip XML validation for false errors.
-      # Should consider better HTML validation in ValidationHelper.
-      ignores = Set.new(File.readlines(IGNORE_FILE).map(&:strip))
-      next if ignores.include?(file_name)
+describe 'all fixtures' do
+  Dir['spec/fixtures/pbcore/clean-*.xml'].each do |file_name|
+    ignores = Set.new(File.readlines(IGNORE_FILE).map(&:strip))
+    next if ignores.include?(file_name)
 
-      pbcore = PBCorePresenter.new(File.read(file_name))
-      id = pbcore.id
-      describe id do
-        details_url = "/catalog/#{id.gsub('/', '%2F')}" # Remember the URLs are tricky.
-        it "details: #{details_url}" do
-          visit details_url
-        end
-        search_url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&&q=#{id.gsub(/^(.*\W)?(\w+)$/, '\2')}"
-        # because of tokenization, unless we strip the ID down we will get other matches.
+    pbcore = PBCorePresenter.new(File.read(file_name))
+    id = pbcore.id
+    describe id do
+      details_url = "/catalog/#{id.gsub('/', '%2F')}"
+      it "details: #{details_url}" do
+        visit details_url
+      end
 
-        # xit-ing out as this appears to be standard Blacklight functionality
-        xit "search: #{search_url}" do
-          visit search_url
-          expect(page.status_code).to eq(200)
-          expect_count(1, page.text)
-        end
+      search_url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&&q=#{id.gsub(/^(.*\W)?(\w+)$/, '\2')}"
+      xit "search: #{search_url}" do
+        visit search_url
+        expect(page.status_code).to eq(200)
+        expect_count(1, page.text)
       end
     end
   end
+end
