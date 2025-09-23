@@ -32,6 +32,7 @@ class Ability
     can :access_media_url, PBCorePresenter do |pbcore|
       !pbcore.protected? && !pbcore.private? &&
         (
+          user.onsite? ||
           user.aapb_referer? ||
           user.embed? ||
           (user.authorized_referer? && pbcore.public?)
