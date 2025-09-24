@@ -8,11 +8,19 @@ describe 'Catalog' do
   IGNORE_FILE = Rails.root.join('spec/support/fixture-ignore.txt')
 
   let(:onsite_user) do
-    instance_double(User, onsite?: true, aapb_referer?: false, embed?: false, authorized_referer?: false)
+    instance_double(User,
+      onsite?: true,
+      aapb_referer?: false,
+      embed?: false,
+      authorized_referer?: false)
   end
 
   let(:offsite_user) do
-    instance_double(User, onsite?: false, aapb_referer?: false, embed?: false, authorized_referer?: false)
+    instance_double(User,
+      onsite?: false,
+      aapb_referer?: false,
+      embed?: false,
+      authorized_referer?: false)
   end
 
   before(:each) do
@@ -123,7 +131,278 @@ describe 'Catalog' do
         end
       end
 
-      # Additional facet tests can remain as xit blocks for Blacklight coverage
+      describe 'facets' do
+        assertions = [
+          ['media_type', 1, 'Sound', 13],
+          ['genres', 2, 'Interview', 5],
+          ['topics', 1, 'Music', 3],
+          ['asset_type', 1, 'Segment', 9],
+          ['contributing_organizations', 38, 'WGBH+(MA)', 6],
+          ['producing_organizations', 4, 'KQED-TV (Television station : San Francisco, Calif.)', 1]
+        ]
+
+        # xit-ing as this appears to be standard Blacklight functionality
+        xit 'has them all' do
+          visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}"
+          expect(
+            page.all('.panel-heading[data-target]').map do |node|
+              node['data-target'].gsub('#facet-', '')
+            end
+          ).to eq(assertions.map(&:first)) # coverage
+        end
+
+        assertions.each do |facet, facet_count, value, value_count|
+          url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[#{facet}][]=#{value}"
+
+          # xit-ing as this appears to be standard Blacklight functionality
+          xit "#{facet}=#{value}: #{value_count}\t#{url}" do
+            visit url
+
+            # range_limit facet for year does not produce these elements, skip
+            expect(
+              page.all("#facet-#{facet} li a.facet_select").count
+            ).to eq facet_count # expected number of values for each facet
+            expect(page.status_code).to eq(200)
+            expect_count(value_count, page.text)
+          end
+        end
+      end
+
+      describe 'facets not in sidebar' do
+        describe 'states facet' do
+          assertions = [
+            ['states', 'Michigan', 3]
+          ]
+          assertions.each do |facet, value, value_count|
+            url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[#{facet}][]=#{value}"
+            it "#{facet}=#{value}: #{value_count}\t#{url}" do
+              visit url
+              expect_count(value_count, page.text)
+            end
+          end
+        end
+
+        describe 'access facet' do
+          assertions = [
+            ['access_types', PBCorePresenter::ALL_ACCESS, 43]
+          ]
+          assertions.each do |facet, value, value_count|
+            url = "/catalog?f[#{facet}][]=#{value}"
+
+            # xit-ing as this appears to be standard Blacklight functionality
+            xit "#{facet}=#{value}: #{value_count}\t#{url}" do
+              visit url
+              expect_count(value_count, page.text)
+            end
+          end
+        end
+      end
+
+      describe 'facet ORs' do
+        describe 'URL support' do
+          # OR is supported on all facets, even if not in the UI.
+          assertions = [
+            ['media_type', 'Sound', 13],
+            ['media_type', 'Sound+OR+Moving+Image', 38],
+            ['media_type', 'Moving+Image+OR+Sound', 38],
+            ['media_type', 'Moving+Image', 25]
+          ]
+          assertions.each do |facet, value, value_count|
+            url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[#{facet}][]=#{value}"
+
+            describe "visiting #{url}" do
+              # xit-ing as this appears to be standard Blacklight functionality
+              xit "has #{value_count} results" do
+                visit url
+                expect_count(value_count, page.text)
+              end
+            end
+          end
+        end
+
+        it 'works in the UI' do
+          visit '/catalog?f[access_types][]=online'
+
+          # commenting out as this appears to be standard Blacklight functionality
+          # expect_count(10, page.text)
+          # expect(page).to have_text('You searched for: Access online'), missing_page_text_custom_error('You searched for: Access online', page.current_path)
+
+          click_link('All Records')
+          # commenting out as this appears to be standard Blacklight functionality
+          # expect_count(43, page.text)
+          # expect(page).to have_text('You searched for: Access all'), missing_page_text_custom_error('You searched for: Access all', page.current_path)
+          expect(page).to have_field('KQED__CA_', checked: false)
+          # turn on
+          click_link('KQED (CA)')
+          expect(page).to have_field('KQED__CA_', checked: true)
+          expect_count(3, page.text)
+          expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
+                                    'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
+                                    'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)', page.current_path)
+
+          # turn on
+          click_link('WGBH (MA)')
+          expect_count(9, page.text)
+          expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
+                                    'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
+                                    'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)', page.current_path)
+
+          # turn off
+          click_link('KQED (CA)')
+          expect_count(6, page.text)
+          expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
+                                    'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
+                                    'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)', page.current_path)
+
+          click_link('All Digitized')
+
+          expect_count(5, page.text)
+          expect(page).to have_text('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) '), missing_page_text_custom_error('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) ', page.current_path)
+
+          # click_link('Iowa Public Television (IA)')
+          # TODO: check count when IP set in request.
+          # expect(page).to have_text('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)'), missing_page_text_custom_error('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)', page.current_path)
+          # expect(page).to have_css('a', text: 'District of Columbia')
+          # click_link('District of Columbia')
+          # expect(page).to have_text('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)'), missing_page_text_custom_error('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)', page.current_path)
+          # all(:css, '.constraints-container a.remove')[1].click # remove 'WGBH OR IPTV'
+          # TODO: check count when IP set in request.
+          # expect(page).to have_text('You searched for: Access online Remove constraint Access: online 1 - 2 of 2')
+        end
+      end
+
+      describe 'exhibit facet' do
+        describe 'in gallery' do
+          it 'has exhibit breadcrumb' do
+            visit '/catalog?f[exhibits][]=station-histories&view=gallery&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
+            expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories'), missing_page_text_custom_error('Documenting and Celebrating Public Broadcasting Station Histories', page.current_path)
+          end
+        end
+
+        describe 'in list' do
+          it 'has exhibit breadcrumb' do
+            visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
+            expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories'), missing_page_text_custom_error('Documenting and Celebrating Public Broadcasting Station Histories', page.current_path)
+          end
+        end
+      end
+
+      describe 'special collection facet search' do
+        it 'has collection specific search panel' do
+          visit '/catalog?f[special_collections][]=ken-burns-civil-war&view=list&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
+          expect(page).to have_text('Need Help Searching?'), missing_page_text_custom_error('Need Help Searching?', page.current_path)
+        end
+      end
+
+      describe 'sorting' do
+        describe 'relevance sorting' do
+          # all 10 because we're only looking at first page results
+          assertions = [
+            ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug; B-Roll', 'Musical Encounter; 116; Music for Fun', 'Bob Brozman', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 2 of 3', 'The Civil War; Interviews with Barbara Fields', '1974 Nixon Impeachment Hearings; 1974-07-26; Part 3 of 6']],
+            ['art', ['The Scheewe Art Workshop', 'Unknown', 'Origami; 7; Paper Ball', 'Japanese Brush Painting; 2; Fish', 'A Sorting Test: 100', 'Racing the Rez', 'Musical Performance of Appalachian Folk Music in Kentucky', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 2 of 3', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 1 of 3', '15th Anniversary Show']],
+            ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll', 'The Civil War; Interview with Daisy Turner', '1974 Nixon Impeachment Hearings; 1974-07-26; Part 3 of 6', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 3 of 3', 'The Civil War; Interviews with Barbara Fields', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 2 of 3', 'Racing the Rez', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 1 of 3', 'Musical Performance of Appalachian Folk Music in Kentucky']]
+          ]
+          assertions.each do |query, titles|
+            url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&q=#{query}"
+
+            # xit-ing out as this appears to be standard Blacklight functionality
+            xit "sort=score+desc: #{titles}\t#{url}" do
+              visit url
+              expect(page.status_code).to eq(200)
+              expect(page.all('.document h2').map(&:text)).to eq(titles)
+            end
+          end
+        end
+
+        describe 'field sorting' do
+          assertions = [
+            ['asset_date+desc', 'Writers Forum II; Writers Writing Again; Readers Reading Again'],
+            ['asset_date+asc', 'Winston Churchill Obituary'],
+            ['title+asc', 'Ask Governor Chris Gregoire']
+          ]
+          assertions.each do |sort, title|
+            url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&sort=#{sort}"
+
+            # xit-ing out as this appears to be standard Blacklight functionality
+            xit "sort=#{sort}: '#{title}'\t#{url}" do
+              visit url
+              expect(
+                # NOTE: We do not check relevance sort here, because,
+                # without a query, every result has a relevance of "1".
+                page.all('#sort-dropdown .dropdown-menu a').map do |node|
+                  node['href'].gsub(/.*sort=/, '')
+                end - ['score+desc']
+              ).to eq(assertions.map(&:first)) # coverage
+              expect(page.status_code).to eq(200)
+              expect(page.find('.document[1] h2').text).to eq(title)
+            end
+          end
+        end
+
+        describe 'sorting, title edge cases' do
+          url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&sort=title+asc&per_page=50"
+
+          # xit-ing out as this appears to be standard Blacklight functionality
+          xit 'works' do
+            visit url
+            expect(page.status_code).to eq(200)
+            expect(
+              page.all('article').map do |art|
+                art.all('h2').map do |h|
+                  begin
+                    h.text.to_s.strip
+                  rescue
+                    nil # TODO: Why are we getting elements which aren't in the source?
+                  end
+                end
+              end.join("\n")).to eq([
+                ['Ask Governor Chris Gregoire'],
+                ['Askc: Ask Congress; #508'],
+                ['Bob Brozman'],
+                ['The Civil War; Interview with Daisy Turner'],
+                ['The Civil War; Interviews with Barbara Fields'],
+                ['Dance for Camera; Tzaddik; 102'],
+                ['Dr. Norman Borlaug; B-Roll'],
+                ['Dry Spell'],
+                ['Four Decades of Dedication: The 40th Anniversary Special; Handles missing titleTypes, too.'],
+                ['From Bessie Smith to Bruce Springsteen'],
+                ['Gvsports'],
+                ['Japanese Brush Painting; 2; Fish'],
+                ['The Lost Year'],
+                ['The MacNeil/Lehrer NewsHour'],
+                ['Making It Here; 105; Sweets'],
+                ['MSOM Field Tape - BUG 12'],
+                ['Musical Encounter; 116; Music for Fun'],
+                ['Musical Performance of Appalachian Folk Music in Kentucky'],
+                ['Nixon Impeachment Hearings; 2; 1974-07-24; Part 1 of 3'],
+                ['Nixon Impeachment Hearings; 2; 1974-07-24; Part 2 of 3'],
+                ['Nixon Impeachment Hearings; 2; 1974-07-24; Part 3 of 3'],
+                ['Nova; Gratuitous Explosions; 3-2-1; Kaboom!'],
+                ['Origami; 7; Paper Ball'],
+                ['Podcast Release Form'],
+                ['Racing the Rez'],
+                ['Reading Aloud; MacLeod: The Palace Guard'],
+                ['The Scheewe Art Workshop'],
+                ['The Sorting Test: 1'],
+                ['# "SORTING" Test: 2'],
+                ['A Sorting Test: 100'],
+                ['This Title is Alternative'],
+                ['Touchstone 108'],
+                ['Unknown'],
+                ['Winston Churchill Obituary'],
+                ['World Cafe; Howard Kramer 2004'],
+                ['World Cafe; Larry Kane On John Lennon 2005'],
+                ['World Cafe; 1997-01-20 Sat/Mon; Martin Luther King, Jr. 1997'],
+                ['WQXR; This is My Music; Judd Hirsch'],
+                ['Writers Forum II; Writers Writing Again; Readers Reading Again'],
+                ['Writers Forum; WRF-09/13/07'],
+                ['Writers Writing; Readers Reading'],
+                ['15th Anniversary Show'],
+                ['1974 Nixon Impeachment Hearings; 1974-07-26; Part 3 of 6']
+              ].map { |x| x.join('; ') }.join("\n"))
+          end
+        end
+      end
     end
   end
 
