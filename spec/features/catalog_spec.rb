@@ -15,8 +15,7 @@ describe 'Catalog' do
   before(:each) do
     allow_any_instance_of(TranscriptFile).to receive(:file_content).and_return(File.read('./spec/fixtures/transcripts/cpb-aacip-111-21ghx7d6-transcript.json'))
   end
-
-
+  
   # ---------- Helpers ----------
   def expect_count(count, page_text = "")
     case count
@@ -435,7 +434,7 @@ describe 'Catalog' do
       # CATALOG SPEC FORCES REMOTE IP TO BE WGBH (ONSITE) - N'ERE SHALL THEE FORGEEEEEEEEEEET
       page.driver.options[:headers] = { 'REMOTE_ADDR' => '198.147.175.1' }
     end
-    
+  
     def expect_all_the_text(fixture_name)
       target = PBCorePresenter.new(File.read('spec/fixtures/pbcore/' + fixture_name))
       text_ignores = [target.ids].flatten
