@@ -34,13 +34,15 @@ describe 'Catalog' do
     expect(page).to have_css("img[src='#{AAPB::S3_BASE}/thumbnail/#{id}.jpg']")
   end
 
-  def expect_audio(poster: nil)
+  def expect_audio(opts = {})
+    poster = opts[:poster]
     expect(page).not_to have_text('Online Reading Room Rules of Use')
     expect(page).to have_selector('audio')
     expect(page).to have_css("audio[poster='#{poster}']") if poster
   end
 
-  def expect_video(poster: nil)
+  def expect_video(opts = {})
+    poster = opts[:poster]
     expect(page).not_to have_text('Online Reading Room Rules of Use')
     expect(page).to have_selector('video')
     expect(page).to have_css("video[poster='#{poster}']") if poster
@@ -435,7 +437,7 @@ describe 'Catalog' do
     end
     
     def expect_all_the_text(fixture_name)
-      target = PBCorePresenter.new(File.read("spec/fixtures/pbcore/#{fixture_name}"))
+      target = PBCorePresenter.new(File.read('spec/fixtures/pbcore/' + fixture_name))
       text_ignores = [target.ids].flatten
       target.send(:text).each do |field|
         field.gsub!('cpb-aacip_', 'cpb-aacip/') if field =~ /^cpb-aacip/
