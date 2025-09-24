@@ -8,19 +8,23 @@ describe 'Catalog' do
   IGNORE_FILE = Rails.root.join('spec/support/fixture-ignore.txt')
 
   let(:onsite_user) do
-    instance_double(User,
+    instance_double(
+      User,
       onsite?: true,
       aapb_referer?: false,
       embed?: false,
-      authorized_referer?: false)
+      authorized_referer?: false
+    )
   end
 
   let(:offsite_user) do
-    instance_double(User,
+    instance_double(
+      User,
       onsite?: false,
       aapb_referer?: false,
       embed?: false,
-      authorized_referer?: false)
+      authorized_referer?: false
+    )
   end
 
   before(:each) do
@@ -479,7 +483,8 @@ describe 'Catalog' do
       expect_all_the_text('clean-audio-digitized.xml')
       expect_audio(poster: '/thumbs/AUDIO.png')
     end
-        it 'apologizes if no access' do
+      
+    it 'apologizes if no access' do
       visit '/catalog/cpb-aacip-80-12893j6c'
       # No need to click through
       expect_all_the_text('clean-bad-essence-track.xml')
