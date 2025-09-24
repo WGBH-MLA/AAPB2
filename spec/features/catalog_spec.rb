@@ -483,7 +483,7 @@ describe 'Catalog' do
       expect_all_the_text('clean-audio-digitized.xml')
       expect_audio(poster: '/thumbs/AUDIO.png')
     end
-      
+
     it 'apologizes if no access' do
       visit '/catalog/cpb-aacip-80-12893j6c'
       # No need to click through
