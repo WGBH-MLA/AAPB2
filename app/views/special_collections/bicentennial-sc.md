@@ -27,8 +27,8 @@ The Bicentennial Collection comprises radio and television programming from publ
 [![Bicentennial](https://s3.amazonaws.com/americanarchive.org/special-collections/mcneil-bicentennial.png)](/cpb-aacip-507-tb0xp6vx7k)
 [![Colfax, USA](https://s3.amazonaws.com/americanarchive.org/special-collections/colfax.png)](/catalog/cpb-aacip-37-82x3fpmt)
 [![Can We Forget Our History?](https://s3.amazonaws.com/americanarchive.org/special-collections/can-we-forget-history.png)](/catalog/cpb-aacip-75-90dv4b01)
-[![BBC's America](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-15-71ngffhm)
-[![From Columbus to Washington](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-f116c7d21b0)
+[![BBC's America, Part I](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-15-71ngffhm)
+[![Plain Speaking, Part I](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-f116c7d21b0)
 [![End of the Bicentennial Year](https://s3.amazonaws.com/americanarchive.org/special-collections/end-bicentennial-year.png)](/catalog/cpb-aacip-507-zg6g15v906) 
 
 ## Resources
