@@ -5,38 +5,17 @@ require_relative '../../scripts/lib/pb_core_ingester'
 require_relative '../support/feature_test_helper'
 
 describe 'Catalog' do
-  IGNORE_FILE = Rails.root.join('spec/support/fixture-ignore.txt')
+  IGNORE_FILE = Rails.root.join('spec', 'support', 'fixture-ignore.txt')
 
-  let(:onsite_user) do
-    instance_double(
-      User,
-      onsite?: true,
-      aapb_referer?: false,
-      embed?: false,
-      authorized_referer?: false
-    )
+  before(:all) do
+    PBCoreIngester.load_fixtures
   end
 
-  let(:offsite_user) do
-    instance_double(
-      User,
-      onsite?: false,
-      aapb_referer?: false,
-      embed?: false,
-      authorized_referer?: false
-    )
-  end
-
+  # We're just returning something here since we don't want a call to s3 for a transcript to fail but we don't want to enable webmock since that breaks calls to other external services. We're not testing transcript content here.
   before(:each) do
-    allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(onsite_user)
-
-    page.driver.options[:headers] ||= {}
-    page.driver.options[:headers]['REMOTE_ADDR'] ||= '198.147.175.1'
-
-    allow_any_instance_of(TranscriptFile).to receive(:file_content).and_return(
-      File.read('./spec/fixtures/transcripts/cpb-aacip-111-21ghx7d6-transcript.json')
-    )
+    allow_any_instance_of(TranscriptFile).to receive(:file_content).and_return(File.read('./spec/fixtures/transcripts/cpb-aacip-111-21ghx7d6-transcript.json'))
   end
+
 
   # ---------- Helpers ----------
   def expect_count(count, page_text = "")
@@ -450,6 +429,11 @@ describe 'Catalog' do
 
   # ---------- #show tests ----------
   describe '#show' do
+    before do
+      # CATALOG SPEC FORCES REMOTE IP TO BE WGBH (ONSITE) - N'ERE SHALL THEE FORGEEEEEEEEEEET
+      page.driver.options[:headers] = { 'REMOTE_ADDR' => '198.147.175.1' }
+    end
+    
     def expect_all_the_text(fixture_name)
       target = PBCorePresenter.new(File.read("spec/fixtures/pbcore/#{fixture_name}"))
       text_ignores = [target.ids].flatten
@@ -467,7 +451,8 @@ describe 'Catalog' do
 
     it 'displays thumbnails for outside_urls' do
       visit '/catalog/cpb-aacip-1234'
-      expect_thumbnail('cpb-aacip-1234')
+      # expect_all_the_text('clean-MOCK.xml')
+      expect_thumbnail('cpb-aacip-1234') # has media, but also has outside_urls, which overrides.
       expect_no_media
       expect_external_reference
     end
