@@ -24,12 +24,12 @@ The Bicentennial Collection comprises radio and television programming from publ
 
 ## Featured
 
-[![The Robert MacNeil Report, "Bicentennial"](https://s3.amazonaws.com/americanarchive.org/special-collections/mcneil-bicentennial.png)](/cpb-aacip-507-tb0xp6vx7k)
+[![Bicentennial](https://s3.amazonaws.com/americanarchive.org/special-collections/mcneil-bicentennial.png)](/cpb-aacip-507-tb0xp6vx7k)
 [![Colfax, USA](https://s3.amazonaws.com/americanarchive.org/special-collections/colfax.png)](/catalog/cpb-aacip-37-82x3fpmt)
-[![Assignment America, "Can We Forget Our History?"](https://s3.amazonaws.com/americanarchive.org/special-collections/can-we-forget-history.png)](/catalog/cpb-aacip-75-90dv4b01)
-[![Firing Line, “The People’s Bicentennial as Spoilsports”](https://s3.amazonaws.com/americanarchive.org/special-collections/firing-line-bicentennial.png)](/catalog/cpb-aacip-514-d795718g86)
-[![Plain Speaking, “From Columbus to the Election of Washington”](https://s3.amazonaws.com/americanarchive.org/special-collections/plain-speaking.png)](/catalog/cpb-aacip-f116c7d21b0)
-[![The MacNeil/Lehrer Report, “End of the Bicentennial Year”](https://s3.amazonaws.com/americanarchive.org/special-collections/end-bicentennial-year.png)](/catalog/cpb-aacip-507-zg6g15v906) 
+[![Can We Forget Our History?](https://s3.amazonaws.com/americanarchive.org/special-collections/can-we-forget-history.png)](/catalog/cpb-aacip-75-90dv4b01)
+[![The People’s Bicentennial as Spoilsports](https://s3.amazonaws.com/americanarchive.org/special-collections/firing-line-bicentennial.png)](/catalog/cpb-aacip-514-d795718g86)
+[![From Columbus to Washington](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-f116c7d21b0)
+[![End of the Bicentennial Year](https://s3.amazonaws.com/americanarchive.org/special-collections/end-bicentennial-year.png)](/catalog/cpb-aacip-507-zg6g15v906) 
 
 ## Resources
 
