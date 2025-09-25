@@ -2445,5 +2445,65 @@
     "Name": "Mission Film Workshop, Inc.",
     "About": "In the early 1970's, a great wave of art, public mural painting, music, written media including poetry, and electronic media production began flourishing in San Francisco’s Latino/a Mission neighborhood. Concurrently, issues of criminal justice, housing, education, health care, jobs, women’s rights, politics between the United States and Lt. America, and immigration were matter around which the community organized for racial and economic equality. In 1973, against this social panorama, a group of young Chicana/Latina women (self-named Mujeres de Aztlan/Women of Aztlan) lived and worked in the Mission community and collaborated with several community non-profits.  These included 24th Street Place, a community children’s tutorial center, which evolved into the Balmy Alley public murals project. Collaborating with Galería de la Raza, a community art space, they produced a Third World Women's Art Exhibition (Oct. 1973).  It was the first documented women's art exhibit at Galería. Women of Aztlan Ana Montano, Sara Ortiz and Mercedes Soberon sought to break discriminatory barriers within local mainstream media. They approached Mission Mediarts who produced community television programs for KQED, a PBS affiliate and asked them to train Latina women in media production.  Because of the Women's interest in the convergence of the arts, Latina feminism and Latino culture, they agreed to begin filming the early mural artists in the Mission district. Filming included Graciela Carrillo, Luis Cortazar, Tony Machado, Consuelo Mendez, Richard Montez, Irene Perez, Michael Rios, Domingo Rivera, Patricia Rodriguez. Soon, they incorporated into the Mission Film Workshop, Inc. and were supported by the Zellerbach Foundation. Women of Aztlan were then accepted, by their other media partner NABET Local 51, into their film apprenticeship program. With mentorship by NABET member, Emiko Omori, they produced a short film on the early Mission neighborhood murals. The film aired on KVIE, a PBS station, in 1976. Themes and topics filmed by Mission Film Workshop include community activism against the Bakke legal case (anti-affirmative action), demonstrations supporting Sandinistas in Nicaragua and the civil strife in El Salvador. Types of activities include Latino/a community cultural events, outdoor musical performances and poetry reading.  Other film rolls include community people in everyday street life including many small businesses established by immigrants. The date range for the materials is 1973-1978.",
     "location": [37.7749, -122.4166]
+  },
+    "NCSG55195": {
+    "Short name": "KTNA Talkeetna Community Radio",
+    "State": "Alaska",
+    "City": "Talkeetna",
+    "Logo": "ktna-logo.png",
+    "Url": "https://ktna.org/",
+    "Name": "KTNA Talkeetna Community Radio",
+    "About":"KTNA's mission is to enrich and connect the communities of the Upper Susitna Valley through informational and cultural programming. Local residents began working to bring radio to the northern Susitna Valley for community enrichment in the 1980s, and Talkeetna Community Radio incorporated in July 1988. KTNA began broadcasting in January 1993 with 1000 watts from a small log cabin on Second Street in downtown Talkeetna. Since then the station has evolved in many ways, becoming an essential resource for the community. KTNA began with a skeletal staff and many local volunteers and has evolved into a full-service community station where volunteers continue to be our core. KTNA presents a wide variety of programming twenty-four hours every day, drawing from National Public Radio and other national and independent program distributors. Beyond national news and cultural programs, KTNA offers local news, educational and informative programming, music with local DJs, and continuous emergency broadcast capacity.",
+    "location": [62.3211, -150.1095]
+  },
+    "NCSG55196": {
+    "Short name": "Archives and Special Collections, William H. Hannon Library, Loyola Marymount University",
+    "State": "California",
+    "City": "Los Angeles",
+    "Logo": "loyola-logo.png",
+    "Url": "https://library.lmu.edu/archivesandspecialcollections/",
+    "Name": "Archives and Special Collections, William H. Hannon Library, Loyola Marymount University",
+    "About":"The William H. Hannon Library acquires, preserves, makes available, and promotes rare and unique research materials of enduring historical and cultural value in support of Loyola Marymount University's mission to provide a transformative academic experience. Through the diverse collections housed within our archives and special collections, we seek to enhance learning and scholarship at the university and worldwide.",
+    "location": [33.9709, -118.4193]
+  },
+    "NCSG55197": {
+    "Short name": "Texas Public Radio",
+    "State": "Texas",
+    "City": "San Antonio",
+    "Url": "https://www.tpr.org/",
+    "Name": "Texas Public Radio",
+    "About": "",
+    "location": [29.4255, -98.4964]
+  },
+    "NCSG55198": {
+    "Short name": "South Dakota Public Broadcasting",
+    "State": "South Dakota",
+    "City": "Vermillion",
+    "Logo": "sdpb.png",
+    "Url": "https://www.sdpb.org/",
+    "Name": "South Dakota Public Broadcasting",
+    "About": "South Dakota Public Broadcasting (SDPB) is the state’s public media network, providing television, radio, online, and educational services to residents across South Dakota. Headquartered in Vermillion, SDPB has been a trusted source of news, culture, and learning for over a century. Its origins date back to 1919 when the University of South Dakota began radio broadcasts for education. Public television followed in 1961 with the launch of KUSD-TV, and in 1967 the South Dakota Legislature formally established the South Dakota Educational Television Commission, creating the foundation for today’s statewide public broadcasting system. SDPB serves South Dakotans through a wide range of programming. On television, as a PBS member station, it delivers national and local content that highlights education, arts, culture, and public affairs. Its radio network, affiliated with NPR, provides in-depth news, talk, and music, including statewide coverage of current events. Beyond broadcasting, SDPB supports lifelong learning and offers digital platforms—such as streaming, podcasts, and mobile apps—that expand access to content anywhere. The network also plays a vital role in civic life by broadcasting gavel-to-gavel coverage of the South Dakota Legislature and distributing emergency alerts that keep communities safe. For over twenty years, SDPB has provided live and recorded coverage of all SDHSAA-sanctioned sports championships and fine arts events, plus the South Dakota High School Rodeo. SDPB has also broadcast and streamed the All Nations Football Championships. In partnership with various organizations, SDPB has streamed and/or broadcast symphonies, hosted political debates and forums, shared electoral information and candidate profiles for state office-seekers, and presented events that encourage literacy. To reach one of the nation’s most rural states, SDPB operates a robust network of transmitters. Its television service includes nine full-power transmitters, located in Vermillion, Aberdeen, Lowry, Faith, Reliance, Martin, Hetland, Rapid City, and Sioux Falls, supported by smaller translators that extend coverage to additional towns and reservations. On the radio side, SDPB maintains a statewide system of FM stations carrying both news and music, ensuring reliable service across South Dakota’s wide geography. This infrastructure allows SDPB to reach nearly every resident, making it a unifying presence in a state where distance often separates communities.",
+    "location": [42.7858, -96.9280]
+  },
+    "NCSG55199": {
+    "Short name": "KBTC",
+    "State": "Washington",
+    "City": "Tacoma",
+    "Logo": "kbtc-logo.png",
+    "Url": "https://www.kbtc.org/",
+    "Name": "KBTC",
+    "About": "KBTC is the South Sound’s public broadcasting station. Operating out of Tacoma, Washington, KBTC is the only television broadcaster located in Pierce County with programming services that reach throughout western Washington from the Oregon border to the Canadian border through broadcast, cable, satellite, streaming, the KBTC app, and kbtc.org.  KBTC brings people together to explore and discuss issues of importance to the community. KBTC educates and supports youth and families by providing learning opportunities in partnership with local organizations. KBTC-1 (HD) is our primary, high-definition service that includes a variety of PBS, APT, NETA, Executive Program Services, Acorn, and BBC favorites as well as KBTC documentaries, specials, and series such as Northwest Now and select local and regional content from local partner producers. KBTC- 2 (HD) provides viewers with access to NHK World Japan, an all-English language public media television channel filled with international news, business, technology and science information; and lifestyles, culture and travel programs produced and presented from Japanese and Asian perspectives. KBTC- 3 (SD) provides FNX | First Nations Experience. In February 2020, KBTC added FNX to the broadcast schedule. FNX is the first and only broadcast television network in the US exclusively devoted to Native American and World Indigenous content. KBTC is a viewer supported public service of Bates Technical College.",
+    "location": [47.2424, -122.4673]
+  },
+    "NCSG55200": {
+    "Short name": "Special Collections & Archives, UC San Diego Library",
+    "State": "California",
+    "City": "San Diego",
+    "Logo": "ucsd-logo.jpg",
+    "Url": "https://library.ucsd.edu/research-and-collections/special-collections-and-archives/index.html",
+    "Name": "Special Collections & Archives, UC San Diego Library",
+    "About": "Special Collections & Archives (SC&A) houses a wide range of rare books, manuscripts, periodicals, maps, photographs, artworks, films, sound recordings, archives, and digital files. These primary source materials support UC San Diego's instructional and research programs, and distinguish UC San Diego's library collections from all other research universities.",
+    "location": [32.8812, -117.2373]
   }
 }
+  
