@@ -28,7 +28,7 @@
     <h2>AAPB Road Trip Special Collection</h2>
     <img src="https://s3.us-east-1.amazonaws.com/americanarchive.org/special-collections/AAPB_Road_Trip.jpg" />
     <div>
-      The American Archive of Public Broadcasting (AAPB) Road Trip special collection includes local radio and television broadcasts that highlight America's historical, geographical, and cultural heritage.There's something for everyone to discover in the AAPB Road Trip special collection!
+      The AAPB Road Trip collection includes local programming from stations across the country, showcasing America’s geographic diversity and rich cultural heritage.
     </div>
   </div>
 
@@ -36,7 +36,7 @@
     <h2>Bicentennial Special Collection</h2>
     <img src="https://s3.us-east-1.amazonaws.com/americanarchive.org/flagstudy.png" />
     <div>
-      I think something very serious did take place during the bicentennial year, and let me make the case... Do you remember the good time you had on the 4th of July week-end? I hope you do.
+      To celebrate America’s Semiquincentennial, this collection looks back at public media programming produced fifty years ago to commemorate the nation's bicentennial in 1976. 
     </div>
   </div>
     
@@ -44,7 +44,7 @@
     <h2>Stories of the Land Exhibit</h2>
     <img src="https://s3.us-east-1.amazonaws.com/americanarchive.org/exhibits/stories_of_the_land_intro_image1.jpg" />
     <div>
-      Stories of the Land features more than 70 public radio and television programs broadcast over 65 years - from 1954 to 2019 - that explore many aspects of agricultural life from the perspectives of diverse populations and locales in more than 30 states throughout the U.S.
+      The <i>Stories of Land</i> exhibit features more than seventy public radio and television programs exploring rural communities and agricultural life in more than thirty states throughout the U.S.
     </div>
   </div>
 
