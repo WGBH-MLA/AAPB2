@@ -53,146 +53,576 @@
 <hr />
 
 <h2>Key Historical Events</h2>
-<div id="tv-1" class="tv-scroller-container">
+<div id="tv-0" class="tv-scroller-container">
   <button class="tv-scroller left">&lt;</button>
   <div class="tv-scroller-items">
-    <div class="tv-scroller-item shown focus">
+
+     <div class="tv-scroller-item focus shown">
       <span></span>
       <a href="/exhibits/newshour-cold-war">
         <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour-cold-war/newshour-cold-war_signature2.png" />
-        <div class="tv-scroller-title">"Burning with a Deadly Heat": NewsHour Coverage of the Hot Wars of the Cold War</div>
+        <div class="tv-scroller-title">“Burning with a Deadly Heat”: NewsHour Coverage of the Hot Wars of the Cold War</div>
       </a>
     </div>
-    <div class="tv-scroller-item shown">
+
+
+    <div class="tv-scroller-item focus shown">
       <span></span>
       <a href="/special_collections/eotp-interviews">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/EyesOnThePrize_Logo.jpg" />
-        <div class="tv-scroller-title">Eyes on the Prize Interviews</div>
+        <div class="tv-scroller-title"><i>Eyes on the Prize Interviews</i></div>
       </a>
     </div>
-    <div class="tv-scroller-item shown">
+
+
+    <div class="tv-scroller-item focus shown">
       <span></span>
       <a href="/special_collections/freedom-riders-interviews">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/AX0004_Freedom_Riders.jpg" />
-        <div class="tv-scroller-title">Freedom Riders Interviews</div>
+        <div class="tv-scroller-title"><i>Freedom Riders Interviews</i></div>
       </a>
     </div>
-    <div class="tv-scroller-item shown">
+
+
+    <div class="tv-scroller-item focus shown">
       <span></span>
       <a href="/special_collections/ken-burns-civil-war">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/CivilWarKenBurns.jpg" />
-        <div class="tv-scroller-title">Ken Burns' The Civil War Interviews</div>
+        <div class="tv-scroller-title"><i>Ken Burns’ The Civil War Interviews</i></div>
       </a>
     </div>
-    <div class="tv-scroller-item ">
+
+
+    <div class="tv-scroller-item focus">
       <span></span>
       <a href="/special_collections/wapina">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WAPINA_Poster.jpg" />
-        <div class="tv-scroller-title">War and Peace in the Nuclear Age</div>
+        <div class="tv-scroller-title"><i>War and Peace in the Nuclear Age</i></div>
       </a>
     </div>
-    <div class="tv-scroller-item">
+
+
+    <div class="tv-scroller-item focus">
       <span></span>
       <a href="/exhibits/watergate">
         <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/latereturns.jpg" />
-        <div class="tv-scroller-title">"Gavel-to-Gavel": The Watergate Scandal and Public Television</div>
+        <div class="tv-scroller-title"><i>“Gavel-to-Gavel”: The Watergate Scandal and Public Television</i> Exhibit</div>
       </a>
     </div>
-    <div class="tv-scroller-item">
+
+
+    <div class="tv-scroller-item focus">
       <span></span>
       <a href="/primary_source_sets/war-on-terror">
         <img src="https://s3.amazonaws.com/americanarchive.org/primary_source_sets/thumbnail_war_on_terror.jpg" />
-        <div class="tv-scroller-title">9/11 and the War on Terror</div>
+        <div class="tv-scroller-title">9/11 and the War on Terror Primary Source Set</div>
       </a>
     </div>
-    <div class="tv-scroller-item">
+
+
+    <div class="tv-scroller-item focus">
       <span></span>
       <a href="/special_collections/stonewall-uprising-interviews">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/StonewallUprisingMainImage.jpg" />
-        <div class="tv-scroller-title">Stonewall Uprising Interviews</div>
+        <div class="tv-scroller-title"><i>Stonewall Uprising Interviews</i></div>
       </a>
-    </div>    
-    <div class="tv-scroller-item">
+    </div>
+
+
+    <div class="tv-scroller-item focus">
       <span></span>
       <a href="/special_collections/the-great-depression">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/GreatDepressionblackborder_final.png" />
-        <div class="tv-scroller-title">The Great Depression Interviews</div>
+        <div class="tv-scroller-title"><i>The Great Depression Interviews</i></div>
       </a>
-    </div>    
+    </div>
+
   </div>
   <button class="tv-scroller right">&gt;</button>
 </div>
 
+
 <h2>Culture</h2>
-<div id="tv-2" class="tv-scroller-container">
+<div id="tv-1" class="tv-scroller-container">
   <button class="tv-scroller left">&lt;</button>
   <div class="tv-scroller-items">
-    <div class="tv-scroller-item shown focus">
+
+       <div class="tv-scroller-item focus shown">
       <span></span>
       <a href="/special_collections/american-masters-interviews">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/American_Masters_logo.jpg" />
-        <div class="tv-scroller-title">"American Masters Interviews Collection</div>
+        <div class="tv-scroller-title"><i>American Masters Interviews</i></div>
       </a>
     </div>
-    <div class="tv-scroller-item shown">
+
+
+    <div class="tv-scroller-item focus shown">
       <span></span>
       <a href="/special_collections/a-word-on-words">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/John+Seigenthaler.cmky.jpg" />
-        <div class="tv-scroller-title">A Word on Words Collection</div>
+        <div class="tv-scroller-title"><i>A Word on Words</i></div>
       </a>
     </div>
-    <div class="tv-scroller-item shown">
+
+
+    <div class="tv-scroller-item focus shown">
       <span></span>
       <a href="/special_collections/hispanic-heritage-collection">
-        <img src="https://s3.amazonaws.com/americanarchive.org/primary_source_sets/freedom_riders_thumbnail.jpg" />
-        <div class="tv-scroller-title">Hispanic Heritage Collection</div>
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/hhm_collection.png" />
+        <div class="tv-scroller-title"><i>Hispanic Heritage Collection</i></div>
       </a>
     </div>
-    <div class="tv-scroller-item shown">
+
+
+    <div class="tv-scroller-item focus shown">
       <span></span>
       <a href="/special_collections/rock-and-roll">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/rock.jpg" />
-        <div class="tv-scroller-title">Rock & Roll Collection</div>
+        <div class="tv-scroller-title"><i>Rock & Roll</i></div>
       </a>
     </div>
-    <div class="tv-scroller-item ">
+
+
+    <div class="tv-scroller-item focus">
       <span></span>
       <a href="/special_collections/evolution-of-jazz">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/EvolutionofJazz.jpg" />
-        <div class="tv-scroller-title">The Evolution of Jazz Collection</div>
+        <div class="tv-scroller-title"><i>The Evolution of Jazz</i></div>
       </a>
     </div>
-    <div class="tv-scroller-item">
+
+
+    <div class="tv-scroller-item focus">
       <span></span>
       <a href="/special_collections/vision-maker-media">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/VisionMakerMedia.jpg" />
-        <div class="tv-scroller-title">Vision Maker Media Documentaries Collection</div>
+        <div class="tv-scroller-title"><i>Vision Maker Media Documentaries</i></div>
       </a>
     </div>
-    <div class="tv-scroller-item">
+
+
+    <div class="tv-scroller-item focus">
       <span></span>
       <a href="/exhibits/interviews-with-foreign-leaders">
         <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/interviews3.png" />
-        <div class="tv-scroller-title">Interviews with Foreign Leaders Exhibit</div>
-        <div class="tv-scroller-shade"></div>
+        <div class="tv-scroller-title"><i>Interviews with Foreign Leaders</i></div>
       </a>
     </div>
-    <div class="tv-scroller-item">
+
+
+    <div class="tv-scroller-item focus">
       <span></span>
       <a href="/special_collections/wqed-black-horizons">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/black-horizons-sig-image.png" />
-        <div class="tv-scroller-title">Black Horizons Collection</div>
-        <div class="tv-scroller-shade"></div>
+        <div class="tv-scroller-title"><i>Black Horizons Collection</i></div>
       </a>
-    </div>    
-    <div class="tv-scroller-item">
+    </div>
+
+
+    <div class="tv-scroller-item focus">
       <span></span>
-      <a href="/special_collections/aapi-collection">
-        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WeBelongHere.png" />
-        <div class="tv-scroller-title">Asian American and Pacific Islander (AAPI) Collection</div>
-        <div class="tv-scroller-shade"></div>
+      <a href="AAPI Collection*]/special_collections/aapi-collection">
+        <img src="" />
+        <div class="tv-scroller-title"><i>Asian American and Pacific Islander (AAPI) Collection</i></div>
       </a>
-    </div>    
+    </div>
+
+  </div>
+  <button class="tv-scroller right">&gt;</button>
+</div>
+
+
+<h2>Innovation</h2>
+<div id="tv-2" class="tv-scroller-container">
+  <button class="tv-scroller left">&lt;</button>
+  <div class="tv-scroller-items">
+
+       <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/to-the-moon">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/ToTheMoon_forspeccoll.jpg" />
+        <div class="tv-scroller-title"><i>To the Moon Interviews</i></div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/exhibits/hiv-aids-and-public-broadcasting">
+        <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/HIV-AIDS%20signature%20image.png" />
+        <div class="tv-scroller-title">The HIV/AIDS Epidemic and Public Broadcasting Exhibit</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/kexp-mind-over-matters">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/kexp-mainimage.png" />
+        <div class="tv-scroller-title"><i>Mind Over Matters Sustainability Segment</i></div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/primary_source_sets/space-race">
+        <img src="https://s3.amazonaws.com/americanarchive.org/primary_source_sets/schmitt-with-flag_525px.png" />
+        <div class="tv-scroller-title">The Space Race Primary Resource Set</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus">
+      <span></span>
+      <a href="/special_collections/about-science">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/jpegPIA02976width-1600.jpg" />
+        <div class="tv-scroller-title"><i>About Science Series Collection</i></div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus">
+      <span></span>
+      <a href="/special_collections/wall-street-week">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WallStreetWeek_mainimage.jpg" />
+        <div class="tv-scroller-title"><i>Wall $treet Week with Louis Rukeyser</i></div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus">
+      <span></span>
+      <a href="/special_collections/to-the-moon">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/ToTheMoon_forspeccoll.jpg" />
+        <div class="tv-scroller-title"><i>To the Moon Interviews</i></div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus">
+      <span></span>
+      <a href="/exhibits/climate-change">
+        <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_SignatureImage.jpg" />
+        <div class="tv-scroller-title">Climate Change Conversations: Causes, Impacts, Solutions</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus">
+      <span></span>
+      <a href="/special_collections/about-science">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/jpegPIA02976width-1600.jpg" />
+        <div class="tv-scroller-title">About Science</div>
+      </a>
+    </div>
+
+  </div>
+  <button class="tv-scroller right">&gt;</button>
+</div>
+
+
+<h2>Regional content SW</h2>
+<div id="tv-3" class="tv-scroller-container">
+  <button class="tv-scroller left">&lt;</button>
+  <div class="tv-scroller-items">
+
+       <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/exhibits/witnessing-new-mexico">
+        <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/nm_storymap_cover.png" />
+        <div class="tv-scroller-title"><i>Witnessing New Mexico: The New Mexico Public Media Digitization Project</i> Exhibit</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/pbs-socal">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/PBSSoCal_Jimcooper.png" />
+        <div class="tv-scroller-title">Voter’s Pipeline / Jim Cooper’s Orange County Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/new-mexico-public-media-collection">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/NM_riochama_withcaption.png" />
+        <div class="tv-scroller-title">New Mexico Public Media Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/exhibits/witnessing-new-mexico">
+        <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/nm_storymap_cover.png" />
+        <div class="tv-scroller-title">Witnessing New Mexico: The New Mexico Public Media Digitization Project Exhibit</div>
+      </a>
+    </div>
+
+  </div>
+  <button class="tv-scroller right">&gt;</button>
+</div>
+
+
+<h2>Regional content NW</h2>
+<div id="tv-4" class="tv-scroller-container">
+  <button class="tv-scroller left">&lt;</button>
+  <div class="tv-scroller-items">
+
+       <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/opb-seven-days">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/main_image_seven_days.jpg" />
+        <div class="tv-scroller-title">Seven Days Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/pacifica-radioarchive">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Pacifica1.jpg" />
+        <div class="tv-scroller-title">Pacifica Radio Archives Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/kexp-live-performances">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/kexp_2011_6237938166.png" />
+        <div class="tv-scroller-title">KEXP Live Performances Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/radio-kdna">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/radio-kdna.jpg" />
+        <div class="tv-scroller-title">Radio KDNA Collection</div>
+      </a>
+    </div>
+
+  </div>
+  <button class="tv-scroller right">&gt;</button>
+</div>
+
+
+<h2>Regional content Midwest</h2>
+<div id="tv-5" class="tv-scroller-container">
+  <button class="tv-scroller left">&lt;</button>
+  <div class="tv-scroller-items">
+
+       <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/traditions-ohio-heritage-fellows">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/OhioHeritage.jpg" />
+        <div class="tv-scroller-title">Traditions: Ohio Heritage Fellows Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/john-beyer-iowa-documentary-collection">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/JB3.jpg" />
+        <div class="tv-scroller-title">John Beyer Iowa Documentaries Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/new-mexico-public-media-collection">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/NM_riochama_withcaption.png" />
+        <div class="tv-scroller-title">Focus 580 Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/kansas-pubmedia">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Kansas_specialcollectionimageupdate2.png" />
+        <div class="tv-scroller-title">Kansas Public Media Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus">
+      <span></span>
+      <a href="/special_collections/oeta-news-cultural-programming">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/OETA_square_logo.jpg" />
+        <div class="tv-scroller-title">Oklahoma Educational Television Authority Programming Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus">
+      <span></span>
+      <a href="AIM Collection]/primary_source_sets/american-indian-movement">
+        <img src="" />
+        <div class="tv-scroller-title">The American Indian Movement (AIM) Collection</div>
+      </a>
+    </div>
+
+  </div>
+  <button class="tv-scroller right">&gt;</button>
+</div>
+
+
+<h2>Regional content NE</h2>
+<div id="tv-6" class="tv-scroller-container">
+  <button class="tv-scroller left">&lt;</button>
+  <div class="tv-scroller-items">
+
+       <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/vpm-journey-through-the-archives">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/vpm.jpg" />
+        <div class="tv-scroller-title">Virginia Public Media: Journey through the Archives Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/vegetable-soup">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Vegetable_Soup.jpg" />
+        <div class="tv-scroller-title">Vegetable Soup Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/njn-specialcollection">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/NJN_specialcollection_logocollage.png" />
+        <div class="tv-scroller-title">New Jersey Network Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/zoom">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom_mainimage.png" />
+        <div class="tv-scroller-title">ZOOM Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus">
+      <span></span>
+      <a href="/special_collections/peoplenearhere">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/arto_DM.jpg" />
+        <div class="tv-scroller-title">People Near Here Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus">
+      <span></span>
+      <a href="/special_collections/say-brother">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/say-brother-basic-black.png" />
+        <div class="tv-scroller-title">Say Brother/Basic Black Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus">
+      <span></span>
+      <a href="/exhibits/wrvr">
+        <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/4.+Goodwin+Roll+938+6_square.jpg" />
+        <div class="tv-scroller-title">WRVR Riverside Radio: A Pioneering Noncommercial Station Exhibit</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus">
+      <span></span>
+      <a href="/primary_source_sets/busing-boston">
+        <img src="https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_Boston-Busing.jpg" />
+        <div class="tv-scroller-title">Busing in Boston, 1974-1988 Primary Source Set</div>
+      </a>
+    </div>
+
+  </div>
+  <button class="tv-scroller right">&gt;</button>
+</div>
+
+
+<h2>Regional content SE</h2>
+<div id="tv-7" class="tv-scroller-container">
+  <button class="tv-scroller left">&lt;</button>
+  <div class="tv-scroller-items">
+
+       <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/wlrh-special-collection">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WLRH-logo.png" />
+        <div class="tv-scroller-title">WLRH Special Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/university-of-alabama-cpt">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Alabama_CPTR.jpg" />
+        <div class="tv-scroller-title">The Alabama Experience Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/georgia-gazette">
+        <img src="https://thumb.ibb.co/kitByn/about_gpb_building_front_0.jpg" />
+        <div class="tv-scroller-title">Georgia Gazette Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/georgia-traveler">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/georgia-traveler.png" />
+        <div class="tv-scroller-title">Georgia Traveler Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus">
+      <span></span>
+      <a href="/special_collections/local-programs-from-wsre">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WSRE_1000.jpg" />
+        <div class="tv-scroller-title">Local Programs from WSRE from Pensacola, Florida Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus">
+      <span></span>
+      <a href="/special_collections/north-carolina-now">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/NCNow.png" />
+        <div class="tv-scroller-title">North Carolina Now Collection</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item focus">
+      <span></span>
+      <a href="/special_collections/wpln-the-fine-print">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_rebeccabain.png" />
+        <div class="tv-scroller-title">The Fine Print with Rebecca Bain Collection</div>
+      </a>
+    </div>
+
   </div>
   <button class="tv-scroller right">&gt;</button>
 </div>
@@ -518,4 +948,3 @@ button.tv-scroller.right {
 }
 
 </style>
-
