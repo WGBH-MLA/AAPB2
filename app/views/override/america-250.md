@@ -106,7 +106,7 @@
       <span></span>
       <a href="/exhibits/watergate">
         <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/latereturns.jpg" />
-        <div class="tv-scroller-title"><i>“Gavel-to-Gavel”: The Watergate Scandal and Public Television</i> Exhibit</div>
+        <div class="tv-scroller-title"><i>“Gavel-to-Gavel”: The Watergate Scandal and Public Television</i></div>
       </a>
     </div>
 
@@ -115,7 +115,7 @@
       <span></span>
       <a href="/primary_source_sets/war-on-terror">
         <img src="https://s3.amazonaws.com/americanarchive.org/primary_source_sets/thumbnail_war_on_terror.jpg" />
-        <div class="tv-scroller-title">9/11 and the War on Terror Primary Source Set</div>
+        <div class="tv-scroller-title">9/11 and the War on Terror</div>
       </a>
     </div>
 
@@ -214,14 +214,14 @@
       <span></span>
       <a href="/special_collections/wqed-black-horizons">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/black-horizons-sig-image.png" />
-        <div class="tv-scroller-title"><i>Black Horizons Collection</i></div>
+        <div class="tv-scroller-title"><i>Black Horizons</i></div>
       </a>
     </div>
 
 
     <div class="tv-scroller-item focus">
       <span></span>
-      <a href="AAPI Collection*]/special_collections/aapi-collection">
+      <a href="/special_collections/aapi-collection">
         <img src="" />
         <div class="tv-scroller-title"><i>Asian American and Pacific Islander (AAPI) Collection</i></div>
       </a>
@@ -250,7 +250,7 @@
       <span></span>
       <a href="/exhibits/hiv-aids-and-public-broadcasting">
         <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/HIV-AIDS%20signature%20image.png" />
-        <div class="tv-scroller-title">The HIV/AIDS Epidemic and Public Broadcasting Exhibit</div>
+        <div class="tv-scroller-title">The HIV/AIDS Epidemic and Public Broadcasting</div>
       </a>
     </div>
 
@@ -268,7 +268,7 @@
       <span></span>
       <a href="/primary_source_sets/space-race">
         <img src="https://s3.amazonaws.com/americanarchive.org/primary_source_sets/schmitt-with-flag_525px.png" />
-        <div class="tv-scroller-title">The Space Race Primary Resource Set</div>
+        <div class="tv-scroller-title">The Space Race</div>
       </a>
     </div>
 
@@ -277,7 +277,7 @@
       <span></span>
       <a href="/special_collections/about-science">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/jpegPIA02976width-1600.jpg" />
-        <div class="tv-scroller-title"><i>About Science Series Collection</i></div>
+        <div class="tv-scroller-title"><i>About Science Series</i></div>
       </a>
     </div>
 
@@ -322,7 +322,7 @@
 </div>
 
 
-<h2>Regional content SW</h2>
+<h2>Regional Content (Southwest)</h2>
 <div id="tv-3" class="tv-scroller-container">
   <button class="tv-scroller left">&lt;</button>
   <div class="tv-scroller-items">
@@ -331,7 +331,7 @@
       <span></span>
       <a href="/exhibits/witnessing-new-mexico">
         <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/nm_storymap_cover.png" />
-        <div class="tv-scroller-title"><i>Witnessing New Mexico: The New Mexico Public Media Digitization Project</i> Exhibit</div>
+        <div class="tv-scroller-title"><i>Witnessing New Mexico: The New Mexico Public Media Digitization Project</i></div>
       </a>
     </div>
 
@@ -340,7 +340,7 @@
       <span></span>
       <a href="/special_collections/pbs-socal">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/PBSSoCal_Jimcooper.png" />
-        <div class="tv-scroller-title">Voter’s Pipeline / Jim Cooper’s Orange County Collection</div>
+        <div class="tv-scroller-title">Voter’s Pipeline / Jim Cooper’s Orange County</div>
       </a>
     </div>
 
@@ -349,7 +349,7 @@
       <span></span>
       <a href="/special_collections/new-mexico-public-media-collection">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/NM_riochama_withcaption.png" />
-        <div class="tv-scroller-title">New Mexico Public Media Collection</div>
+        <div class="tv-scroller-title">New Mexico Public Media</div>
       </a>
     </div>
 
@@ -358,7 +358,7 @@
       <span></span>
       <a href="/exhibits/witnessing-new-mexico">
         <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/nm_storymap_cover.png" />
-        <div class="tv-scroller-title">Witnessing New Mexico: The New Mexico Public Media Digitization Project Exhibit</div>
+        <div class="tv-scroller-title">Witnessing New Mexico: The New Mexico Public Media Digitization Project</div>
       </a>
     </div>
 
@@ -367,7 +367,7 @@
 </div>
 
 
-<h2>Regional content NW</h2>
+<h2>Regional Content (Northwest)</h2>
 <div id="tv-4" class="tv-scroller-container">
   <button class="tv-scroller left">&lt;</button>
   <div class="tv-scroller-items">
@@ -376,7 +376,7 @@
       <span></span>
       <a href="/special_collections/opb-seven-days">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/main_image_seven_days.jpg" />
-        <div class="tv-scroller-title">Seven Days Collection</div>
+        <div class="tv-scroller-title">Seven Days</div>
       </a>
     </div>
 
@@ -385,7 +385,7 @@
       <span></span>
       <a href="/special_collections/pacifica-radioarchive">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Pacifica1.jpg" />
-        <div class="tv-scroller-title">Pacifica Radio Archives Collection</div>
+        <div class="tv-scroller-title">Pacifica Radio Archives</div>
       </a>
     </div>
 
@@ -394,7 +394,7 @@
       <span></span>
       <a href="/special_collections/kexp-live-performances">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/kexp_2011_6237938166.png" />
-        <div class="tv-scroller-title">KEXP Live Performances Collection</div>
+        <div class="tv-scroller-title">KEXP Live Performances</div>
       </a>
     </div>
 
@@ -403,7 +403,7 @@
       <span></span>
       <a href="/special_collections/radio-kdna">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/radio-kdna.jpg" />
-        <div class="tv-scroller-title">Radio KDNA Collection</div>
+        <div class="tv-scroller-title">Radio KDNA</div>
       </a>
     </div>
 
@@ -412,7 +412,7 @@
 </div>
 
 
-<h2>Regional content Midwest</h2>
+<h2>Regional Content (Midwest)</h2>
 <div id="tv-5" class="tv-scroller-container">
   <button class="tv-scroller left">&lt;</button>
   <div class="tv-scroller-items">
@@ -421,7 +421,7 @@
       <span></span>
       <a href="/special_collections/traditions-ohio-heritage-fellows">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/OhioHeritage.jpg" />
-        <div class="tv-scroller-title">Traditions: Ohio Heritage Fellows Collection</div>
+        <div class="tv-scroller-title">Traditions: Ohio Heritage Fellows</div>
       </a>
     </div>
 
@@ -430,7 +430,7 @@
       <span></span>
       <a href="/special_collections/john-beyer-iowa-documentary-collection">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/JB3.jpg" />
-        <div class="tv-scroller-title">John Beyer Iowa Documentaries Collection</div>
+        <div class="tv-scroller-title">John Beyer Iowa Documentaries</div>
       </a>
     </div>
 
@@ -439,7 +439,7 @@
       <span></span>
       <a href="/special_collections/new-mexico-public-media-collection">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/NM_riochama_withcaption.png" />
-        <div class="tv-scroller-title">Focus 580 Collection</div>
+        <div class="tv-scroller-title">Focus 580</div>
       </a>
     </div>
 
@@ -448,7 +448,7 @@
       <span></span>
       <a href="/special_collections/kansas-pubmedia">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Kansas_specialcollectionimageupdate2.png" />
-        <div class="tv-scroller-title">Kansas Public Media Collection</div>
+        <div class="tv-scroller-title">Kansas Public Media</div>
       </a>
     </div>
 
@@ -457,16 +457,16 @@
       <span></span>
       <a href="/special_collections/oeta-news-cultural-programming">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/OETA_square_logo.jpg" />
-        <div class="tv-scroller-title">Oklahoma Educational Television Authority Programming Collection</div>
+        <div class="tv-scroller-title">Oklahoma Educational Television Authority Programming</div>
       </a>
     </div>
 
 
     <div class="tv-scroller-item focus">
       <span></span>
-      <a href="AIM Collection]/primary_source_sets/american-indian-movement">
+      <a href="AIM/primary_source_sets/american-indian-movement">
         <img src="" />
-        <div class="tv-scroller-title">The American Indian Movement (AIM) Collection</div>
+        <div class="tv-scroller-title">The American Indian Movement (AIM)</div>
       </a>
     </div>
 
@@ -475,7 +475,7 @@
 </div>
 
 
-<h2>Regional content NE</h2>
+<h2>Regional Content (Northeast)</h2>
 <div id="tv-6" class="tv-scroller-container">
   <button class="tv-scroller left">&lt;</button>
   <div class="tv-scroller-items">
@@ -484,7 +484,7 @@
       <span></span>
       <a href="/special_collections/vpm-journey-through-the-archives">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/vpm.jpg" />
-        <div class="tv-scroller-title">Virginia Public Media: Journey through the Archives Collection</div>
+        <div class="tv-scroller-title">Virginia Public Media: Journey through the Archives</div>
       </a>
     </div>
 
@@ -493,7 +493,7 @@
       <span></span>
       <a href="/special_collections/vegetable-soup">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Vegetable_Soup.jpg" />
-        <div class="tv-scroller-title">Vegetable Soup Collection</div>
+        <div class="tv-scroller-title">Vegetable Soup</div>
       </a>
     </div>
 
@@ -502,7 +502,7 @@
       <span></span>
       <a href="/special_collections/njn-specialcollection">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/NJN_specialcollection_logocollage.png" />
-        <div class="tv-scroller-title">New Jersey Network Collection</div>
+        <div class="tv-scroller-title">New Jersey Network</div>
       </a>
     </div>
 
@@ -511,7 +511,7 @@
       <span></span>
       <a href="/special_collections/zoom">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom_mainimage.png" />
-        <div class="tv-scroller-title">ZOOM Collection</div>
+        <div class="tv-scroller-title">ZOOM</div>
       </a>
     </div>
 
@@ -520,7 +520,7 @@
       <span></span>
       <a href="/special_collections/peoplenearhere">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/arto_DM.jpg" />
-        <div class="tv-scroller-title">People Near Here Collection</div>
+        <div class="tv-scroller-title">People Near Here</div>
       </a>
     </div>
 
@@ -529,7 +529,7 @@
       <span></span>
       <a href="/special_collections/say-brother">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/say-brother-basic-black.png" />
-        <div class="tv-scroller-title">Say Brother/Basic Black Collection</div>
+        <div class="tv-scroller-title">Say Brother/Basic Black</div>
       </a>
     </div>
 
@@ -538,7 +538,7 @@
       <span></span>
       <a href="/exhibits/wrvr">
         <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/4.+Goodwin+Roll+938+6_square.jpg" />
-        <div class="tv-scroller-title">WRVR Riverside Radio: A Pioneering Noncommercial Station Exhibit</div>
+        <div class="tv-scroller-title">WRVR Riverside Radio: A Pioneering Noncommercial Station</div>
       </a>
     </div>
 
@@ -547,7 +547,7 @@
       <span></span>
       <a href="/primary_source_sets/busing-boston">
         <img src="https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_Boston-Busing.jpg" />
-        <div class="tv-scroller-title">Busing in Boston, 1974-1988 Primary Source Set</div>
+        <div class="tv-scroller-title">Busing in Boston, 1974-1988</div>
       </a>
     </div>
 
@@ -556,7 +556,7 @@
 </div>
 
 
-<h2>Regional content SE</h2>
+<h2>Regional Content (Southeast)</h2>
 <div id="tv-7" class="tv-scroller-container">
   <button class="tv-scroller left">&lt;</button>
   <div class="tv-scroller-items">
@@ -565,7 +565,7 @@
       <span></span>
       <a href="/special_collections/wlrh-special-collection">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WLRH-logo.png" />
-        <div class="tv-scroller-title">WLRH Special Collection</div>
+        <div class="tv-scroller-title">WLRH Special</div>
       </a>
     </div>
 
@@ -574,7 +574,7 @@
       <span></span>
       <a href="/special_collections/university-of-alabama-cpt">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Alabama_CPTR.jpg" />
-        <div class="tv-scroller-title">The Alabama Experience Collection</div>
+        <div class="tv-scroller-title">The Alabama Experience</div>
       </a>
     </div>
 
@@ -583,7 +583,7 @@
       <span></span>
       <a href="/special_collections/georgia-gazette">
         <img src="https://thumb.ibb.co/kitByn/about_gpb_building_front_0.jpg" />
-        <div class="tv-scroller-title">Georgia Gazette Collection</div>
+        <div class="tv-scroller-title">Georgia Gazette</div>
       </a>
     </div>
 
@@ -592,7 +592,7 @@
       <span></span>
       <a href="/special_collections/georgia-traveler">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/georgia-traveler.png" />
-        <div class="tv-scroller-title">Georgia Traveler Collection</div>
+        <div class="tv-scroller-title">Georgia Traveler</div>
       </a>
     </div>
 
@@ -601,7 +601,7 @@
       <span></span>
       <a href="/special_collections/local-programs-from-wsre">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WSRE_1000.jpg" />
-        <div class="tv-scroller-title">Local Programs from WSRE from Pensacola, Florida Collection</div>
+        <div class="tv-scroller-title">Local Programs from WSRE from Pensacola, Florida</div>
       </a>
     </div>
 
@@ -610,7 +610,7 @@
       <span></span>
       <a href="/special_collections/north-carolina-now">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/NCNow.png" />
-        <div class="tv-scroller-title">North Carolina Now Collection</div>
+        <div class="tv-scroller-title">North Carolina Now</div>
       </a>
     </div>
 
@@ -619,7 +619,7 @@
       <span></span>
       <a href="/special_collections/wpln-the-fine-print">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_rebeccabain.png" />
-        <div class="tv-scroller-title">The Fine Print with Rebecca Bain Collection</div>
+        <div class="tv-scroller-title">The Fine Print with Rebecca Bain</div>
       </a>
     </div>
 
