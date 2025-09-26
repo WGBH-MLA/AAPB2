@@ -6,151 +6,47 @@
 # - all image files must be made public in S3
 # - #at_<time>_s options cannot be appended to the :id property UNLESS a thumbnail_url is also specified for the image. otherwise, the path to the featured image for will be malformed and not load
 
-- id: cpb-aacip_15-2804x55k2c
-  org_name: WGBH
-  name: "To the Moon: Interview with Buzz Aldrin"
-
-- id: cpb-aacip_508-td9n29q276
-  org_name: Vision Maker Media
-  name: "Surviving Columbus: The Story of the Pueblo People"
-
-- id: cpb-aacip_28-kw57d2qp45
-  org_name: Pacifica Radio Archives
-  name: "Commentary of a Black Southern Bus Rider / Rosa Parks"
-  thumbnail_url: /thumbs/audio-digitized.jpg
-
-- id: cpb-aacip_524-d50ft8fj2h
-  org_name: Nashville Public Televisionn
-  name: "A Word on Words: Julia Child"
-
-- id: cpb-aacip_37-010p2nvv
-  org_name: Iowa Public Television
-  name: "Promise City"
-
-- id: cpb-aacip_15-99p2w600
-  org_name: WGBH
-  name: "Say Brother: Black Power on University Campuses"
-
-- id: cpb-aacip_322-01bk3jtv
-  org_name: WEDU
-  name: "WEDU Interview: Jimmy Carter"
-
-- id: cpb-aacip_512-b853f4mj6h
-  org_name: National Educational Television
-  name: "African Writers of Today: Chinua Achebe"
-
-- id: cpb-aacip_500-b27psr9n
-  org_name: University of Maryland
-  name: "Bluegrass and Mountains: Work Songs in Old Time Music"
-  thumbnail_url: /thumbs/audio-digitized.jpg
-
-- id: cpb-aacip_221-053ffh76
-  org_name: KOCE
-  name: "Voter's Pipeline: Vietnam Refugees in Orange County"
-
-- id: cpb-aacip_305-34sj3z88
-  org_name: New England Public Radio
-  name: "Ayn Rand Lecture on 'A Nation's Unity'"
-  thumbnail_url: /thumbs/audio-digitized.jpg
-
-- id: cpb-aacip_507-m901z42p01
-  org_name: NewsHour Productions
-  name: "The MacNeil/Lehrer Report: Latino Power"
-
-- id: cpb-aacip_120-70zpcgr3
-  org_name: National Educational Television and WQED
-  name: "Creative Person: Fred Rogers"
-
-- id: cpb-aacip_512-2r3nv9b09w
-  org_name: National Educational Television and KQED
-  name: "Take This Hammer"
-
-- id: cpb-aacip_81-021c5bwq
-  org_name: WNED
-  name: " Woman; 107; Equal Rights Amendment, Part 2"
-
-- id: cpb-aacip_15-80ht7n4v
-  org_name: WGBH
-  name: "The Press and the People: The Responsibilities of Television"
-
-- id: cpb-aacip_512-125q815g35
-  org_name: National Educational Television
-  name: "Earth Day"
-
-- id: cpb-aacip_512-707wm14j8q
-  org_name: National Educational Television & WGBH
-  name: "Elliot Norton Interviews: Tallulah Bankhead"
-
-- id: cpb-aacip_512-tm71v5cj66
-  org_name: National Educational Television & WNDT
-  name: "Great Decisions 1965: The UN at Twenty"
-
-- id: cpb-aacip_516-kd1qf8kh4s
-  org_name: William Greaves Productions
-  name: "NET Journal; Still A Brother: Inside the Negro Middle Class"
-
-- id: cpb-aacip_516-k93125rc20
-  org_name: National Educational Television
-  name: "LBJ: An Unposed Profile"
-
-- id: cpb-aacip_15-27zkhbbv
-  org_name: WGBH
-  name: "What's Happening Mr. Silver; William F. Buckley, Jr."
-
-- id: cpb-aacip_151-tq5r786k9m
-  org_name: Film and Media Archive, Washington University in St. Louis
-  name: "Eyes on the Prize: Interview with Diane Nash"
-
-- id: cpb-aacip_507-cc0tq5s22t
-  org_name: NewsHour Productions
-  name: "The Robert MacNeil Report: Transexuality and Sports"
-
-- id: cpb-aacip_375-49g4fb2h
-  org_name: Radio Bilingüe
-  name: "Línea Abierta: The Meaning of July 4th for Latinos"
-  thumbnail_url: /thumbs/audio-digitized.jpg
-
-- id: cpb-aacip_522-dn3zs2m903
-  org_name: CUNY-TV
-  name: "Jewish Women in America: Amy Goodman of ‘Democracy Now!’"
-
-- id: cpb-aacip_15-057cr5nc5k
-  org_name: WGBH
-  name: "Prospects of Mankind with Eleanor Roosevelt; What Status For Women?’"
-
-- id: cpb-aacip_83-407wmf7g
-  org_name: PBS Utah
-  name: "One More Harvest"
+- name: GBH OpenVault Collection
+  org_name: ""
+  url: https://americanarchive.org/special_collections/open-vault
   
-- id: cpb-aacip_17-440rztqd
-  org_name: Louisiana Public Broadcasting
-  name: "Festivals Acadiens"
-
-- id: cpb-aacip_509-2r3nv99t98
-  org_name: Florentine Films
-  name: "The Civil War; Interview with Barbara Fields"
-
-- id: cpb-aacip_512-w37kp7vq3t#at_310.00_s
-  org_name: WETA-TV
-  name: "1974 Nixon Impeachment Hearings; Rep. Barbara Jordan"
-  thumbnail_url: https://s3.amazonaws.com/americanarchive.org/featured/cpb-aacip_512-w37kp7vq3t_gallery.jpg
-
-- id: cpb-aacip_516-g44hm53h63
-  org_name: National Educational Television and Radio Center
-  name: "Public Broadcast Laboratory; University in Society: Do the Ties Bind?"
-
-- id: cpb-aacip_512-gb1xd0rs11
-  org_name: WNET
-  name: "Black Journal; Justice?"
-
-- id: cpb-aacip_260-93ttf7n8
-  org_name: Wyoming PBS
-  name: "Main Street, Wyoming; Women in Wyoming Politics"
-
-- id: cpb-aacip_15-33rv1gdz
-  org_name: WGBH
-  name: "A Woman's Place Is In The House: A Portrait of Elaine Noble"
-
-- id: cpb-aacip_75-257d807m
-  org_name: WNET
-  name: "Assignment America; Sissy Farenthold: A Texas Maverick"
+- name: PBS NewsHour Collection
+  org_name: ""
+  url: https://americanarchive.org/special_collections/newshour
+  
+- name: To the Best of Our Knowledge Collection
+  org_name: ""
+  url: https://americanarchive.org/special_collections/ttbook
+  
+- name: ZOOM Collection
+  org_name: ""
+  url: https://americanarchive.org/exhibits/zoom
+  
+- name: Hispanic Heritage Collection
+  org_name: ""
+  url: https://americanarchive.org/special_collections/hispanic-heritage-collection
+  
+- name: KVZK Collection
+  org_name: ""
+  url: https://americanarchive.org/special_collections/kvzk-collection
+  
+- name: Witnessing New Mexico Exhibit
+  org_name: ""
+  url: https://americanarchive.org/exhibits/witnessing-new-mexico
+  
+- name: Asian American and Pacific Islander (AAPI) Collection
+  org_name: ""
+  url: https://americanarchive.org/special_collections/aapi-collection
+  
+- name: Black Horizons Collection
+  org_name: ""
+  url: https://americanarchive.org/special_collections/wqed-black-horizons
+  
+- name: LGBT+ Collection
+  org_name: ""
+  url: https://americanarchive.org/special_collections/lgbt
+  
+- name: Rock School Collection
+  org_name: ""
+  url: https://americanarchive.org/special_collections/rock-school
+  
