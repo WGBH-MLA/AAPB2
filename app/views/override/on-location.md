@@ -69,7 +69,7 @@ For materials in Library moving image collections other than those in the Americ
 
 #### Viewing Appointments:
 
-Advance notice is not needed for viewing items that have been digitized, but a reservation is recommended to guarantee equipment availability.  If an appointment needs to be cancelled or rescheduled, please contact the reference staff as soon as possible.  Cancellation without sufficient notice can prevent others from having access to the facilities.
+Advance notice and an appointment is required to view items in the AAPB that have been digitized.  If an appointment needs to be cancelled or rescheduled, please contact the reference staff as soon as possible.  Cancellation without sufficient notice can prevent others from having access to the facilities.
 
 #### Submitting Viewing Requests:
 When submitting viewing requests for materials other than those in the American Archive collection, please provide title, call number (e.g. VBG 3214; FCA 4414-4416), and date.
