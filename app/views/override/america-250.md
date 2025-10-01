@@ -34,7 +34,7 @@
 
   <div class="third-content">
     <h2>Bicentennial Special Collection</h2>
-    <img src="https://s3.us-east-1.amazonaws.com/americanarchive.org/flagstudy.png" />
+    <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Bicentennial-main-thumbnail.jpeg" />
     <div>
       To celebrate America’s Semiquincentennial, this collection looks back at public media programming produced fifty years ago to commemorate the nation's bicentennial in 1976. 
     </div>
