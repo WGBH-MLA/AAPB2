@@ -9,44 +9,55 @@
 - name: GBH OpenVault Collection
   org_name: ""
   url: https://americanarchive.org/special_collections/open-vault
+  thumbnail_url: https://s3.amazonaws.com/americanarchive.org/thumbnail/thumbnail-openvault.png
   
 - name: PBS NewsHour Collection
   org_name: ""
   url: https://americanarchive.org/special_collections/newshour
+  thumbnail_url: https://s3.amazonaws.com/americanarchive.org/special-collections/NewsHour.jpg
   
 - name: To the Best of Our Knowledge Collection
   org_name: ""
   url: https://americanarchive.org/special_collections/ttbook
+  thumbnail_url: https://s3.amazonaws.com/americanarchive.org/special-collections/ttbook-logo.png
   
 - name: ZOOM Collection
   org_name: ""
   url: https://americanarchive.org/exhibits/zoom
+  thumbnail_url: https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Zoom_mainimage.png
   
 - name: Hispanic Heritage Collection
   org_name: ""
   url: https://americanarchive.org/special_collections/hispanic-heritage-collection
+  thumbnail_url: https://s3.amazonaws.com/americanarchive.org/special-collections/hhm_collection.png
   
 - name: KVZK Collection
   org_name: ""
   url: https://americanarchive.org/special_collections/kvzk-collection
+  thumbnail_url: https://s3.amazonaws.com/americanarchive.org/special-collections/kvzk_american_samoa.png
   
 - name: Witnessing New Mexico Exhibit
   org_name: ""
   url: https://americanarchive.org/exhibits/witnessing-new-mexico
+  thumbnail_url: https://s3.amazonaws.com/americanarchive.org/exhibits/nm_storymap_cover.png
   
 - name: Asian American and Pacific Islander (AAPI) Collection
   org_name: ""
   url: https://americanarchive.org/special_collections/aapi-collection
+  thumbnail_url: https://s3.amazonaws.com/americanarchive.org/special-collections/WeBelongHere.png
   
 - name: Black Horizons Collection
   org_name: ""
   url: https://americanarchive.org/special_collections/wqed-black-horizons
+  thumbnail_url: https://s3.amazonaws.com/americanarchive.org/special-collections/black-horizons-sig-image.png
   
 - name: LGBT+ Collection
   org_name: ""
   url: https://americanarchive.org/special_collections/lgbt
+  thumbnail_url: https://s3.amazonaws.com/americanarchive.org/special-collections/stonewall-veterans.jpg
   
 - name: Rock School Collection
   org_name: ""
   url: https://americanarchive.org/special_collections/rock-school
+  thumbnail_url: https://s3.amazonaws.com/americanarchive.org/special-collections/rock-school-thumbnail-enhanced.jpeg
   

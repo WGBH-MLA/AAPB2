@@ -68,9 +68,17 @@
 #     bundle exec rails s -b 0.0.0.0
 
 FROM foggbh/aapb2-master-lastbuild:latest
-WORKDIR /usr/src/app/app/
-COPY app/views/ ./views
-COPY app/assets/stylesheets/globals/override.css.scss ./assets/stylesheets/globals/override.css.scss
+WORKDIR /usr/src/app/
+COPY app/assets/stylesheets/globals/override.css.scss ./app/assets/stylesheets/globals/override.css.scss
+COPY app/models/featured.rb ./app/models/featured.rb
+COPY app/views/home/_featured_carousel.html.erb ./app/views/home/_featured_carousel.html.erb
+COPY app/views/layouts/blacklight.html.erb ./app/views/layouts/blacklight.html.erb
+COPY app/views/layouts/plain.html.erb ./app/views/layouts/plain.html.erb
+COPY app/views/override/america-250.md ./app/views/override/america-250.md
+COPY config/environments/production.rb ./config/environments/production.rb
+COPY config/featured/home-featured.yml ./config/featured/home-featured.yml
+COPY app/views/ ./app/views
+# COPY app/assets/stylesheets/globals/override.css.scss ./app/assets/stylesheets/globals/override.css.scss
 RUN bundle exec rake assets:precompile
 RUN RAILS_ENV=production bundle exec rake db:reset
 CMD RAILS_ENV=production bundle exec rake jetty:start && bundle exec rails s -b 0.0.0.0
