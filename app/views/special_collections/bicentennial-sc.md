@@ -8,7 +8,7 @@
 
 In 2026, the United States will celebrate the 250th anniversary of the signing of the Declaration of Independence. As America’s semiquincentennial approaches, this collection looks back at public media programming produced fifty years ago to commemorate the nation's bicentennial in 1976. 
 
-During the bicentennial, public radio and television stations broadcast parades, revolutionary war reenactments, choral and concert performances, speeches by political leaders, and lecture series on themes such as the history and future of democracy. Many local stations also produced series on the history, people, and culture of their state or region. For example, [*North Carolina: A Self Portrait*](https://americanarchive.org/turnstile_challenge?return_to=%2Fcatalog%3Ff%5Bseries_titles%5D%5B%5D%3DN.C.%2BBicentennial%26f%5Baccess_types%5D%5B%5D%3Dall) (1976), was a bicentennial project of WUNC radio in which North Carolinians spoke “about themselves, their state, their families, their interests, and each other.” 
+During the bicentennial, public radio and television stations broadcast parades, revolutionary war reenactments, choral and concert performances, speeches by political leaders, and lecture series on themes such as the history and future of democracy. Many local stations also produced series on the history, people, and culture of their state or region. For example, [*North Carolina: A Self Portrait*](https://americanarchive.org/catalog?f[series_titles][]=North+Carolina%3A+A+Self-Portrait&f[access_types][]=all) (1976), was a bicentennial project of WUNC radio in which North Carolinians spoke “about themselves, their state, their families, their interests, and each other.” 
 
 Local stations also produced news reports and documentaries on regional bicentennial activities and state projects. *The Compass Weekly’s* [“The Tourists Are Coming”](/catalog/cpb-aacip_15-41zcrw5k) (WGBH, 1975) shows how historic Massachusetts towns, such as Lexington and Concord, prepared for an expected influx of visitors during the bicentennial year. In Nebraska, a bicentennial sculpture project drew criticism for failing to include works by Nebraska natives, and because many objected to the abstract designs of the commissioned sculptures. The story of the controversial project is told in [*The 500 Mile Sculpture Garden*](/catalog/cpb-aacip-b9e8ca5f7c4) (Nebraska ETV Network, 1976).
 
@@ -26,7 +26,7 @@ The Bicentennial Collection comprises radio and television programming from publ
 
 [![Bicentennial](https://s3.amazonaws.com/americanarchive.org/special-collections/mcneil-bicentennial.png)](/cpb-aacip-507-tb0xp6vx7k)
 [![Colfax, USA](https://s3.amazonaws.com/americanarchive.org/special-collections/colfax.png)](/catalog/cpb-aacip-37-82x3fpmt)
-[![Can We Forget Our History?](https://s3.amazonaws.com/americanarchive.org/special-collections/can-we-forget-history.png)](/catalog/cpb-aacip-75-90dv4b01)
+[![The Fight to Be Remembered](https://s3.amazonaws.com/americanarchive.org/special-collections/remembered.png)](/catalog/cpb-aacip-f8fe41c8137)
 [![BBC's America, Part I](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-15-71ngffhm)
 [![Plain Speaking, Part I](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-f116c7d21b0)
 [![End of the Bicentennial Year](https://s3.amazonaws.com/americanarchive.org/special-collections/end-bicentennial-year.png)](/catalog/cpb-aacip-507-zg6g15v906) 
