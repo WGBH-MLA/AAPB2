@@ -8,12 +8,12 @@ class Ability
 
     can :play, PBCorePresenter do |pbcore|
       (user.onsite? && (pbcore.public? || pbcore.protected?)) ||
-      (user.usa? && !user.bot? && (user.affirmed_tos? || user.authorized_referer?) && pbcore.public?)
+        (user.usa? && !user.bot? && (user.affirmed_tos? || user.authorized_referer?) && pbcore.public?)
     end
 
     can :play_embedded, PBCorePresenter do |pbcore|
       (user.onsite? && (pbcore.public? || pbcore.protected?)) ||
-      (user.usa? && !user.bot? && pbcore.public?)
+        (user.usa? && !user.bot? && pbcore.public?)
     end
 
     cannot :skip_tos, PBCorePresenter do |pbcore|
@@ -22,7 +22,7 @@ class Ability
 
     can :access_media_url, PBCorePresenter do |pbcore|
       pbcore.public? &&
-      (user.onsite? || user.embed? || user.aapb_referer? || user.authorized_referer?)
+        (user.onsite? || user.embed? || user.aapb_referer? || user.authorized_referer?)
     end
 
     cannot :access_media_url, PBCorePresenter do |pbcore|
