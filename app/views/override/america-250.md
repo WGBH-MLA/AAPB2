@@ -66,7 +66,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/eotp-interviews">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/EyesOnThePrize_Logo.jpg" />
@@ -75,7 +75,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/freedom-riders-interviews">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/AX0004_Freedom_Riders.jpg" />
@@ -84,7 +84,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/ken-burns-civil-war">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/CivilWarKenBurns.jpg" />
@@ -93,7 +93,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/wapina">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WAPINA_Poster.jpg" />
@@ -102,7 +102,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/exhibits/watergate">
         <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/latereturns.jpg" />
@@ -111,7 +111,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/primary_source_sets/war-on-terror">
         <img src="https://s3.amazonaws.com/americanarchive.org/primary_source_sets/thumbnail_war_on_terror.jpg" />
@@ -120,7 +120,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/stonewall-uprising-interviews">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/StonewallUprisingMainImage.jpg" />
@@ -129,7 +129,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/the-great-depression">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/GreatDepressionblackborder_final.png" />
@@ -156,7 +156,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/a-word-on-words">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/John+Seigenthaler.cmky.jpg" />
@@ -165,7 +165,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/hispanic-heritage-collection">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/hhm_collection.png" />
@@ -174,7 +174,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/rock-and-roll">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/rock.jpg" />
@@ -183,7 +183,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/evolution-of-jazz">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/EvolutionofJazz.jpg" />
@@ -192,7 +192,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/vision-maker-media">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/VisionMakerMedia.jpg" />
@@ -201,7 +201,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/exhibits/interviews-with-foreign-leaders">
         <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/interviews3.png" />
@@ -210,7 +210,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/wqed-black-horizons">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/black-horizons-sig-image.png" />
@@ -219,7 +219,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/aapi-collection">
         <img src="" />
@@ -246,7 +246,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/exhibits/hiv-aids-and-public-broadcasting">
         <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/HIV-AIDS%20signature%20image.png" />
@@ -255,7 +255,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/kexp-mind-over-matters">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/kexp-mainimage.png" />
@@ -264,7 +264,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/primary_source_sets/space-race">
         <img src="https://s3.amazonaws.com/americanarchive.org/primary_source_sets/schmitt-with-flag_525px.png" />
@@ -273,7 +273,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/about-science">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/jpegPIA02976width-1600.jpg" />
@@ -282,7 +282,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/wall-street-week">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WallStreetWeek_mainimage.jpg" />
@@ -291,7 +291,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/to-the-moon">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/ToTheMoon_forspeccoll.jpg" />
@@ -300,7 +300,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/exhibits/climate-change">
         <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_SignatureImage.jpg" />
@@ -309,7 +309,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/about-science">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/jpegPIA02976width-1600.jpg" />
@@ -336,7 +336,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/pbs-socal">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/PBSSoCal_Jimcooper.png" />
@@ -345,7 +345,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/new-mexico-public-media-collection">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/NM_riochama_withcaption.png" />
@@ -354,7 +354,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/exhibits/witnessing-new-mexico">
         <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/nm_storymap_cover.png" />
@@ -381,7 +381,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/pacifica-radioarchive">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Pacifica1.jpg" />
@@ -390,7 +390,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/kexp-live-performances">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/kexp_2011_6237938166.png" />
@@ -399,7 +399,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/radio-kdna">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/radio-kdna.jpg" />
@@ -426,7 +426,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/john-beyer-iowa-documentary-collection">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/JB3.jpg" />
@@ -435,16 +435,16 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/new-mexico-public-media-collection">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/NM_riochama_withcaption.png" />
-        <div class="tv-scroller-title">Focus 580</div>
+        <div class="tv-scroller-title"> 580</div>
       </a>
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/kansas-pubmedia">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Kansas_specialcollectionimageupdate2.png" />
@@ -453,7 +453,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/oeta-news-cultural-programming">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/OETA_square_logo.jpg" />
@@ -462,7 +462,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="AIM/primary_source_sets/american-indian-movement">
         <img src="" />
@@ -489,7 +489,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/vegetable-soup">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Vegetable_Soup.jpg" />
@@ -498,7 +498,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/njn-specialcollection">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/NJN_specialcollection_logocollage.png" />
@@ -507,7 +507,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/zoom">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom_mainimage.png" />
@@ -516,7 +516,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/peoplenearhere">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/arto_DM.jpg" />
@@ -525,7 +525,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/say-brother">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/say-brother-basic-black.png" />
@@ -534,7 +534,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/exhibits/wrvr">
         <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/4.+Goodwin+Roll+938+6_square.jpg" />
@@ -543,7 +543,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/primary_source_sets/busing-boston">
         <img src="https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_Boston-Busing.jpg" />
@@ -570,7 +570,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/university-of-alabama-cpt">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Alabama_CPTR.jpg" />
@@ -579,7 +579,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/georgia-gazette">
         <img src="https://thumb.ibb.co/kitByn/about_gpb_building_front_0.jpg" />
@@ -588,7 +588,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus shown">
+    <div class="tv-scroller-item  shown">
       <span></span>
       <a href="/special_collections/georgia-traveler">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/georgia-traveler.png" />
@@ -597,7 +597,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/local-programs-from-wsre">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WSRE_1000.jpg" />
@@ -606,7 +606,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/north-carolina-now">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/NCNow.png" />
@@ -615,7 +615,7 @@
     </div>
 
 
-    <div class="tv-scroller-item focus">
+    <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/wpln-the-fine-print">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_rebeccabain.png" />
@@ -632,88 +632,93 @@
 <script type="text/javascript">
 
   $(document).ready(function() {
+      var shotBlocked = false
     $("button.tv-scroller").click((e) => {
-      console.log( 'The clicked element is ' + e.target )
-      let button = $(e.target)
-      let tvId = "div#" + button.parent()[0].id
+      if(!shotBlocked){
+        shotBlocked = true
+        let button = $(e.target)
+        let tvId = "div#" + button.parent()[0].id
 
-      console.log( 'the TV ID is ' + tvId )
-      let isLeft = button.hasClass("left")
+        let isLeft = button.hasClass("left")
 
-      let ani, aniProp
-      if(isLeft){
-        aniProp = "left"
-        ani = {left: "13em"}
-      } else {
-        aniProp = "right"
-        ani = {right: "13em"}
-      }
-
-      console.log( "Movement: " + aniProp )
-
-      var oldScroll, newScroll
-      var items = $(tvId + " div.tv-scroller-items").children()
-      for(var i=0; i<items.length; i++){
-        if($(items[i]).hasClass("focus")){
-          oldScroll = i
-          break
-        }
-      }
-      console.log( "Current scroll is " +oldScroll )
-      if(oldScroll == 0 && isLeft){
-        console.log( 'none needed!! left edge' )
-        return
-      } else if(oldScroll == items.length-1 && !isLeft){
-        console.log( 'none needed!! right1 edge' )
-        return        
-      }
-
-      if(e.target.classList.contains("left")){
-        newScroll = oldScroll - 1
-        if(newScroll < 0){
-          newScroll = 0
+        let ani, aniProp
+        if(isLeft){
+          aniProp = "left"
+          ani = {left: "13em"}
+        } else {
+          aniProp = "right"
+          ani = {right: "13em"}
         }
 
-      } else {
-        newScroll = oldScroll + 1
-        numScrollerItems = items.length
-        if(newScroll == numScrollerItems){
-          newScroll = numScrollerItems-1
+        console.log( "Movement: " + aniProp )
+
+        var oldScroll, newScroll
+        var items = $(tvId + " div.tv-scroller-items").children()
+        for(var i=0; i<items.length; i++){
+          if($(items[i]).hasClass("focus")){
+            oldScroll = i
+            break
+          }
         }
-      }
+        console.log( "Current scroll is " +oldScroll )
+        if(oldScroll == 0 && isLeft){
+          // console.log( 'none needed!! left edge' )
+          // return
+          console.log( 'hidari de no insaato' )
+          $(items.slice(items.length-4, items.length)).insertBefore($(items[0]))
+        } else if(oldScroll == items.length-5 && !isLeft){
+          // console.log( 'none needed!! right1 edge' )
+          // return
+          console.log( 'migi de no insaato' )
+          $(items.slice(0, 4)).insertAfter($(items[items.length-1]))
+        }
 
-      console.log( "but now after change, current scroll is " + newScroll )
-
-      $(tvId + " div.tv-scroller-item.shown").animate(ani, "slow", function() {
-
-        console.log( 'Animation block' )
-        // touches multiple items to animate them, but therefore runs four times, so block
-        items.removeClass("focus").removeClass("shown")
-        console.log( 'Removed focus and shown classes' )
-
-        let thisScroll
-        for(var x=0; x<4; x++){
-          thisScroll = newScroll + x
-          if(thisScroll > items.length){
-            thisScroll = items.length - 1
-          } else if(thisScroll < 0){
-            thisScroll = 0
+        if(e.target.classList.contains("left")){
+          newScroll = oldScroll - 1
+          if(newScroll < 0){
+            newScroll = 0
           }
 
-          console.log( "Adding shown to item index " + thisScroll )
-          $(items[thisScroll]).addClass("shown")
+        } else {
+          newScroll = oldScroll + 1
+          numScrollerItems = items.length
+          if(newScroll == numScrollerItems){
+            newScroll = numScrollerItems-1
+          }
         }
 
-        $(items[newScroll]).addClass("focus")
-        console.log( "Now adding FOCUS for item"  + newScroll )
+        console.log( "but now after change, current scroll is " + newScroll )
 
-        
-        console.log( 'reset css' )
-        // $(items).not(".shown").animate({opacity: 0}, "slow", function(){
-          $(tvId + " div.tv-scroller-item").css("left", "initial").css("right", "initial").css("opacity", 1)
-        // })
+        $(tvId + " div.tv-scroller-item.shown").animate(ani, "slow", function() {
 
-      })
+          console.log( 'Animation block' )
+          // touches multiple items to animate them, but therefore runs four times, so block
+          items.removeClass("focus").removeClass("shown")
+          console.log( 'Removed focus and shown classes' )
+
+          let thisScroll
+          for(var x=0; x<4; x++){
+            thisScroll = newScroll + x
+            if(thisScroll > items.length){
+              thisScroll = items.length - 1
+            } else if(thisScroll < 0){
+              thisScroll = 0
+            }
+
+            console.log( "Adding shown to item index " + thisScroll )
+            $(items[thisScroll]).addClass("shown")
+          }
+
+          $(items[newScroll]).addClass("focus")
+          console.log( "Now adding FOCUS for item"  + newScroll )
+          console.log( 'reset css' )
+          // $(items).not(".shown").animate({opacity: 0}, "slow", function(){
+            $(tvId + " div.tv-scroller-item").css("left", "initial").css("right", "initial").css("opacity", 1)
+          // })
+          shotBlocked = false
+        })
+      }
+      
 
     })
   })
