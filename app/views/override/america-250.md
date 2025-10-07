@@ -557,7 +557,7 @@
 
 
 <h2>Regional Content (Southeast)</h2>
-<div id="tv-7" class="tv-scroller-container">
+<div id="tv-7" class="tv-scroller-container last-scroller">
   <button class="tv-scroller left">&lt;</button>
   <div class="tv-scroller-items">
 
@@ -946,5 +946,59 @@ button.tv-scroller.left {
 button.tv-scroller.right {
   right: 0.5em;
 }
+
+@media only screen and (max-width: 991px) {
+  body {
+    margin-bottom: 4em;
+  }
+  div.big-video-content {
+    width: 0%;
+  }
+  div.third-content-container {
+    display: block
+  }
+  div.third-content-container div.third-content {
+    display: block;
+    font-size: 2em;
+    width: 75%;
+    margin-left: 3em;
+  }
+  div.third-content-container div.third-content h2 {
+    margin-left: 0;
+    font-size: 2em;
+  }
+  div.tv-scroller-container {
+    margin-bottom: 4em;
+  }
+  div.tv-scroller-container:last-child {
+    margin-bottom: 10em;
+  }
+  div.tv-scroller-items {
+    margin-left: 16%;
+  }
+  div.tv-scroller-items div.tv-scroller-item a div.tv-scroller-title {
+    width: auto;
+    font-size: 2em;
+  }
+  div.tv-scroller-items div.tv-scroller-item  {
+    margin-left: 2.5em;
+  }
+  button.tv-scroller.left {
+    left: 0;
+  }
+  button.tv-scroller.right {
+    right: 0;
+  }
+  h2 {
+    margin-left: 2em;
+  }
+  hr {
+    margin-bottom: 4em;
+  }
+  div.tv-scroller-container.last-scroller {
+    margin-bottom: 40em;
+  }
+}
+
 
 </style>
