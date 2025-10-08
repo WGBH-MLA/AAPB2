@@ -21,14 +21,10 @@ class Ability
     end
 
     can :access_media_url, PBCorePresenter do |pbcore|
-      pbcore.public? &&
-        (user.onsite? || user.embed? || user.aapb_referer? || user.authorized_referer?)
+      (user.onsite? && (pbcore.public? || pbcore.protected?)) ||
+        (user.embed? || user.aapb_referer? || user.authorized_referer?) && (pbcore.public?)
     end
-
-    cannot :access_media_url, PBCorePresenter do |pbcore|
-      !pbcore.public?
-    end
-
+  
     can :api_access_transcript, PBCorePresenter do |pbcore|
       !pbcore.protected? && !pbcore.private? &&
         (
