@@ -22,21 +22,25 @@ class Ability
 
     can :access_media_url, PBCorePresenter do |pbcore|
       (user.onsite? && (pbcore.public? || pbcore.protected?)) ||
-        (user.embed? || user.aapb_referer? || user.authorized_referer?) && (pbcore.public?)
+        ((user.embed? || user.aapb_referer? || user.authorized_referer?) && pbcore.public?)
     end
-  
+    
     can :api_access_transcript, PBCorePresenter do |pbcore|
-      !pbcore.protected? && !pbcore.private? &&
-        (
-          pbcore.transcript_status == PBCorePresenter::CORRECT_TRANSCRIPT ||
-          ([PBCorePresenter::CORRECTING_TRANSCRIPT, PBCorePresenter::UNCORRECTED_TRANSCRIPT] && pbcore.public?)
+      !pbcore.private? &&
+        (user.onsite? || (pbcore.public? &&
+          [
+            PBCorePresenter::CORRECT_TRANSCRIPT,
+            PBCorePresenter::CORRECTING_TRANSCRIPT,
+            PBCorePresenter::UNCORRECTED_TRANSCRIPT
+          ].include?(pbcore.transcript_status)
         )
+      )
     end
-
+    
     can :access_transcript, PBCorePresenter do |pbcore|
-      !pbcore.protected? && !pbcore.private? &&
-        pbcore.public? &&
-        !pbcore.transcript_status.nil?
+      !pbcore.private? &&
+        (user.onsite? || pbcore.public?) && 
+          !pbcore.transcript_status.nil?
     end
   end
   # rubocop:enable Metrics/PerceivedComplexity
