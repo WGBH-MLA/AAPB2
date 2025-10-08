@@ -87,18 +87,36 @@ a.donate-button:active {
   top:1px;
 }
 
+
 a#america-250-bar {
-  letter-spacing: 2px;
-  font-weight: bold;
-  display: block;
-  color: #fff;
   background-color: #9E2064;
+  display: block;
   width: 100%;
-  text-align: center;
-  text-decoration: none;
-  font-family: Arial;
   padding: 0.5em;
+  min-height: 2rem;
+  
+  text-decoration: none;
+  font-family: Arial;  
 }
 
+a#america-250-bar > div {
+  vertical-align: middle;
+  width: 100%;
+  margin-left: auto;
+  letter-spacing: 2px;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  position: absolute;
+  top: 1rem;
+  transition: all .2s cubic-bezier(.3, 0, 0, 1.3);
+}
 
-
+a#america-250-bar:hover > div {
+  top: 1.1rem;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+}
