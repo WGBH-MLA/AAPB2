@@ -24,7 +24,7 @@ class Ability
       (user.onsite? && (pbcore.public? || pbcore.protected?)) ||
         ((user.embed? || user.aapb_referer? || user.authorized_referer?) && pbcore.public?)
     end
-      
+
     can :api_access_transcript, PBCorePresenter do |pbcore|
       !pbcore.private? &&
         (
