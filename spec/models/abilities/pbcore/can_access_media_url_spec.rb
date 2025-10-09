@@ -10,6 +10,7 @@ describe Ability do
     # work if you try to use a mock object, e.g. RSpec instance_double.
     let(:public_pbcore_record) { PBCorePresenter.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')) }
     let(:protected_pbcore_record) { PBCorePresenter.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')) }
+    let (:private_pbcore_record) { PBCorePresenter.new(File.read('./spec/fixtures/pbcore/access-level-private.xml')) }
 
     describe 'can? :access_media_url' do
       context 'when User is on-site; User is an AAPB referer; User is embedding the media' do
