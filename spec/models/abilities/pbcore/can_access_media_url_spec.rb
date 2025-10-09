@@ -39,7 +39,7 @@ describe Ability do
         it 'returns true for protected PBCore records' do
           expect(ability).to be_able_to(:access_media_url, protected_pbcore_record)
         end
-    
+
         it 'returns false for private PBCore records' do
           expect(ability).to_not be_able_to(:access_media_url, private_pbcore_record)
         end
