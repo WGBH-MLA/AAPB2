@@ -957,7 +957,10 @@ button.tv-scroller.right {
     margin-bottom: 4em;
   }
   div.big-video-content {
-    width: 0%;
+    width: 100%;
+  }
+  div.big-video-content div {
+    margin-left: 0;
   }
   div.third-content-container {
     display: block
@@ -966,11 +969,11 @@ button.tv-scroller.right {
     display: block;
     font-size: 2em;
     width: 75%;
-    margin-left: 3em;
+    margin-left: 2em;
   }
   div.third-content-container div.third-content h2 {
     margin-left: 0;
-    font-size: 2em;
+    font-size: 1.6em;
   }
   div.tv-scroller-container {
     margin-bottom: 4em;
@@ -983,7 +986,7 @@ button.tv-scroller.right {
   }
   div.tv-scroller-items div.tv-scroller-item a div.tv-scroller-title {
     width: auto;
-    font-size: 2em;
+    font-size: 1.4em;
   }
   div.tv-scroller-items div.tv-scroller-item  {
     margin-left: 2.5em;
@@ -996,6 +999,7 @@ button.tv-scroller.right {
   }
   h2 {
     margin-left: 2em;
+    font-size: 1.6em;
   }
   hr {
     margin-bottom: 4em;
