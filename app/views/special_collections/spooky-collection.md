@@ -6,7 +6,7 @@
 
 ## Summary
 
-As the air cools and leaves turn, we get ready to celebrate All Hallows Eve with candy, costumes, and horror-related content. 
+As the air cools and leaves turn, we get ready to celebrate All Hallows' Eve with candy, costumes, and horror-related content. 
 
 The Bumps in the Night collection features over 130 television and radio shows from the late 1950s to the 2000s, painting a rich picture of how topics related to the otherworldly and human anxieties about the supernatural have been approached in public broadcasting throughout the years. Many of the programs and series included in this collection were broadcast in October as stations joined in the fun of celebrating Halloween. However, one will also find programs broadcast throughout the year on topics such as local folklore and legends, like [this episode](/catalog/cpb-aacip-59fc00e08b6) of WUNC’s *North Carolina: A Self Portrait* (1976), in which “North Carolinians talk about faith healing and religion, ghost stories and other N.C. folklore, and geography.”
 
