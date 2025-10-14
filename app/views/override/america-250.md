@@ -25,27 +25,33 @@
 <div class="third-content-container">
 
   <div class="third-content">
-    <h2>AAPB Road Trip Special Collection</h2>
-    <img src="https://s3.us-east-1.amazonaws.com/americanarchive.org/special-collections/AAPB_Road_Trip.jpg" />
-    <div>
-      The AAPB Road Trip collection includes local programming from stations across the country, showcasing America’s geographic diversity and rich cultural heritage.
-    </div>
+    <a href="/special_collections/aapb-road-trip">
+      <h2>AAPB Road Trip Special Collection</h2>
+      <img src="https://s3.us-east-1.amazonaws.com/americanarchive.org/special-collections/AAPB_Road_Trip.jpg" />
+      <div>
+        The AAPB Road Trip collection includes local programming from stations across the country, showcasing America’s geographic diversity and rich cultural heritage.
+      </div>
+    </a>
   </div>
 
   <div class="third-content">
-    <h2>Bicentennial Special Collection</h2>
-    <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Bicentennial-main-thumbnail.jpeg" />
-    <div>
-      To celebrate America’s Semiquincentennial, this collection looks back at public media programming produced fifty years ago to commemorate the nation's bicentennial in 1976. 
-    </div>
+    <a href="/special_collections/bicentennial-sc">
+      <h2>Bicentennial Special Collection</h2>
+      <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/Bicentennial-main-thumbnail.jpeg" />
+      <div>
+        To celebrate America’s Semiquincentennial, this collection looks back at public media programming produced fifty years ago to commemorate the nation's bicentennial in 1976. 
+      </div>
+    </a>
   </div>
     
   <div class="third-content">
-    <h2>Stories of the Land Exhibit</h2>
-    <img src="https://s3.us-east-1.amazonaws.com/americanarchive.org/exhibits/stories_of_the_land_intro_image1.jpg" />
-    <div>
-      The <i>Stories of Land</i> exhibit features more than seventy public radio and television programs exploring rural communities and agricultural life in more than thirty states throughout the U.S.
-    </div>
+    <a href="/exhibits/stories-of-the-land">
+      <h2>Stories of the Land Exhibit</h2>
+      <img src="https://s3.us-east-1.amazonaws.com/americanarchive.org/exhibits/stories_of_the_land_intro_image1.jpg" />
+      <div>
+        The <i>Stories of Land</i> exhibit features more than seventy public radio and television programs exploring rural communities and agricultural life in more than thirty states throughout the U.S.
+      </div>
+    </a>
   </div>
 
 </div>
@@ -455,8 +461,8 @@
 
     <div class="tv-scroller-item ">
       <span></span>
-      <a href="AIM/primary_source_sets/american-indian-movement">
-        <img src="" />
+      <a href="/primary_source_sets/american-indian-movement">
+        <img src="https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_AIM.jpg" />
         <div class="tv-scroller-title">The American Indian Movement (AIM)</div>
       </a>
     </div>
@@ -910,7 +916,7 @@ button.tv-scroller.right {
     width: 75%;
     margin-left: 2em;
   }
-  div.third-content-container div.third-content h2 {
+  div.third-content-container div.third-content a h2 {
     margin-left: 0;
     font-size: 1.6em;
   }
