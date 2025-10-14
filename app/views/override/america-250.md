@@ -353,15 +353,6 @@
       </a>
     </div>
 
-
-    <div class="tv-scroller-item  shown">
-      <span></span>
-      <a href="/exhibits/witnessing-new-mexico">
-        <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/nm_storymap_cover.png" />
-        <div class="tv-scroller-title">Witnessing New Mexico: The New Mexico Public Media Digitization Project</div>
-      </a>
-    </div>
-
   </div>
   <button class="tv-scroller right">&gt;</button>
 </div>
@@ -632,7 +623,7 @@
 <script type="text/javascript">
 
   $(document).ready(function() {
-      var shotBlocked = false
+    var shotBlocked = false
     $("button.tv-scroller").click((e) => {
       if(!shotBlocked){
         shotBlocked = true
@@ -650,71 +641,19 @@
           ani = {right: "13em"}
         }
 
-        console.log( "Movement: " + aniProp )
-
-        var oldScroll, newScroll
-        var items = $(tvId + " div.tv-scroller-items").children()
-        for(var i=0; i<items.length; i++){
-          if($(items[i]).hasClass("focus")){
-            oldScroll = i
-            break
-          }
-        }
-        console.log( "Current scroll is " +oldScroll )
-        if(oldScroll == 0 && isLeft){
-          // console.log( 'none needed!! left edge' )
-          // return
-          console.log( 'hidari de no insaato' )
-          $(items.slice(items.length-4, items.length)).insertBefore($(items[0]))
-        } else if(oldScroll == items.length-5 && !isLeft){
-          // console.log( 'none needed!! right1 edge' )
-          // return
-          console.log( 'migi de no insaato' )
-          $(items.slice(0, 4)).insertAfter($(items[items.length-1]))
-        }
-
-        if(e.target.classList.contains("left")){
-          newScroll = oldScroll - 1
-          if(newScroll < 0){
-            newScroll = 0
-          }
-
-        } else {
-          newScroll = oldScroll + 1
-          numScrollerItems = items.length
-          if(newScroll == numScrollerItems){
-            newScroll = numScrollerItems-1
-          }
-        }
-
-        console.log( "but now after change, current scroll is " + newScroll )
-
+        var items = $(tvId + " div.tv-scroller-item")
         $(tvId + " div.tv-scroller-item.shown").animate(ani, "slow", function() {
+          items.removeClass("shown")
 
-          console.log( 'Animation block' )
-          // touches multiple items to animate them, but therefore runs four times, so block
-          items.removeClass("focus").removeClass("shown")
-          console.log( 'Removed focus and shown classes' )
-
-          let thisScroll
-          for(var x=0; x<4; x++){
-            thisScroll = newScroll + x
-            if(thisScroll > items.length){
-              thisScroll = items.length - 1
-            } else if(thisScroll < 0){
-              thisScroll = 0
-            }
-
-            console.log( "Adding shown to item index " + thisScroll )
-            $(items[thisScroll]).addClass("shown")
+          // and always wrap an item
+          if(isLeft){
+            $(items.slice(items.length-1, items.length)).insertBefore($(items[0]))
+          } else if(!isLeft){
+            $(items.slice(0, 1)).insertAfter($(items[items.length-1]))
           }
 
-          $(items[newScroll]).addClass("focus")
-          console.log( "Now adding FOCUS for item"  + newScroll )
-          console.log( 'reset css' )
-          // $(items).not(".shown").animate({opacity: 0}, "slow", function(){
-            $(tvId + " div.tv-scroller-item").css("left", "initial").css("right", "initial").css("opacity", 1)
-          // })
+          $($(tvId + " div.tv-scroller-item").slice(0,4)).addClass("shown")
+          $(tvId + " div.tv-scroller-item").css("left", "initial").css("right", "initial").css("opacity", 1)
           shotBlocked = false
         })
       }
