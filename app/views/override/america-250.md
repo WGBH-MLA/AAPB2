@@ -737,6 +737,10 @@ div.third-content img {
   object-fit: cover;
 }
 
+div.third-content a, div.third-content a:visited {
+  color: #000;
+}
+
 div.third-content div {
   padding-top: 2em;
   background-color: #ddd;
