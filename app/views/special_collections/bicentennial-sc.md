@@ -24,7 +24,7 @@ The Bicentennial Collection comprises radio and television programming from publ
 
 ## Featured
 
-[![Bicentennial](https://s3.amazonaws.com/americanarchive.org/special-collections/mcneil-bicentennial.png)](/cpb-aacip-507-tb0xp6vx7k)
+[![Bicentennial](https://s3.amazonaws.com/americanarchive.org/special-collections/mcneil-bicentennial.png)](/catalog/cpb-aacip-507-tb0xp6vx7k)
 [![Colfax, USA](https://s3.amazonaws.com/americanarchive.org/special-collections/colfax.png)](/catalog/cpb-aacip-37-82x3fpmt)
 [![The Fight to Be Remembered](https://s3.amazonaws.com/americanarchive.org/special-collections/remembered.png)](/catalog/cpb-aacip-f8fe41c8137)
 [![BBC's America, Part I](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-15-71ngffhm)
