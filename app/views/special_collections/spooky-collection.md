@@ -10,7 +10,7 @@
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src="https://youtu.be/MmMO2970Tso" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src="https://www.youtube.com/embed/MmMO2970Tso?si=FFss_l_7M72EUT3H" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
