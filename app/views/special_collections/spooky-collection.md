@@ -4,6 +4,8 @@
 
 ![Bumps in the Night](https://s3.us-east-1.amazonaws.com/americanarchive.org/special-collections/bumps_main_cpb-aacip-5975f7ce739.png "Bumps in the Night")
 
+<iframe class="exhibit-small-iframe" src="https://youtu.be/MmMO2970Tso" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ## Summary
 
 As the air cools and leaves turn, we get ready to celebrate All Hallows' Eve with candy, costumes, and horror-related content. 
