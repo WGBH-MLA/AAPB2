@@ -228,7 +228,7 @@
     <div class="tv-scroller-item ">
       <span></span>
       <a href="/special_collections/aapi-collection">
-        <img src="" />
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WeBelongHere.png" />
         <div class="tv-scroller-title"><i>Asian American and Pacific Islander (AAPI) Collection</i></div>
       </a>
     </div>
@@ -739,9 +739,10 @@ div.third-content img {
 
 div.third-content a, div.third-content a:visited {
   color: #000;
+  text-decoration: none;
 }
 
-div.third-content div {
+div.third-content a div {
   padding-top: 2em;
   background-color: #ddd;
   
@@ -751,7 +752,7 @@ div.third-content div {
   border-radius: 8px;
 }
 
-div.third-content:hover > div {
+div.third-content a:hover > div {
   overflow: hidden;
   display: block;
   min-width: 75%;
@@ -957,6 +958,5 @@ button.tv-scroller.right {
     margin-bottom: 40em;
   }
 }
-
 
 </style>
