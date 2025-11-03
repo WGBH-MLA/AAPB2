@@ -66,3 +66,4 @@ RUN bundle install
 #      Starts the Rails server.
 CMD bundle exec rake jetty:start && \
     bundle exec rails s -b 0.0.0.0
+    
