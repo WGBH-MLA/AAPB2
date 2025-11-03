@@ -6,10 +6,10 @@
 # - all image files must be made public in S3
 # - #at_<time>_s options cannot be appended to the :id property UNLESS a thumbnail_url is also specified for the image. otherwise, the path to the featured image for will be malformed and not load
 
-- name: GBH OpenVault Collection
+- name: GBH Archives Collection
   org_name: ""
   url: https://americanarchive.org/special_collections/open-vault
-  thumbnail_url: https://s3.amazonaws.com/americanarchive.org/thumbnail/thumbnail-openvault.png
+  thumbnail_url: https://s3.amazonaws.com/americanarchive.org/special-collections/gbh-archives-thumbnail-2.png
   
 - name: PBS NewsHour Collection
   org_name: ""
