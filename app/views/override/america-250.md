@@ -49,7 +49,7 @@
       <h2>Stories of the Land Exhibit</h2>
       <img src="https://s3.us-east-1.amazonaws.com/americanarchive.org/exhibits/stories_of_the_land_intro_image1.jpg" />
       <div>
-        The <i>Stories of Land</i> exhibit features more than seventy public radio and television programs exploring rural communities and agricultural life in more than thirty states throughout the U.S.
+        The <i>Stories of the Land</i> exhibit features more than seventy public radio and television programs exploring rural communities and agricultural life in more than thirty states throughout the U.S.
       </div>
     </a>
   </div>
