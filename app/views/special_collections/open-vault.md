@@ -10,7 +10,7 @@
   <tbody>
     <tr>
       <td>
-        <iframe class="exhibit-small-iframe" src="https://www.youtube.com/watch?v=t2LDAlH3PvA&t=11s" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="exhibit-small-iframe" src="https://www.youtube.com/embed/t2LDAlH3PvA?si=QlWD2sxvSfnKo92P" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
