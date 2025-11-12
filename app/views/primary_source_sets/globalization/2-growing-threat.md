@@ -1,15 +1,15 @@
-# Postwar Optimism about the Economic Benefits of International Trade (1965)
+# The Growing “Threat” of Imported Goods in the 1970s (1977)
 
 ## Thumbnail
 
-![Postwar Optimism](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-postwar-optimism.png "Postwar Optimism")
+![Growing Threat](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/2-growing-threat.png "Growing Threat")
 
 ## Guid
-cpb-aacip-512-dz02z13p16
+cpb-aacip-507-fx73t9f04t
 
 ## Introduction
 
-In the aftermath of World War II, the ascendant United States played a central role in an economic order built on international trade. While tariffs to protect domestic manufacturing had been the norm since the 19th century, mid-century economists argued that reduction of trade barriers would promote economic prosperity for all involved. The General Agreement on Tariffs and Trade was signed by 23 major nations in 1947 with this dream in mind. The excerpt, from a 1965 news series entitled Great Decisions, embodies this optimism about international trade. At the outset, former U.S. Assistant Secretary of State Roger Hilsman cites the economic theory of comparative advantage while arguing for the long-term benefits of global trade. The succeeding portion of the clip channels the view of international commerce that prevailed among Western leaders in the postwar era: international trade created a “miracle of economic recovery” for countries recently devastated by World War II.
+Until the 1970s, the value of exported goods from the U.S. greatly outpaced the value of imported goods entering the country. This changed as many U.S. businesses saw increased competition from companies in foreign countries like Japan, Germany, and South Korea. These countries were allies who had received economic aid from the U.S. as part of an American effort to bolster capitalist economies in the beginning of the Cold War. By the 1970s, these countries deployed innovative business tactics and more modern manufacturing technologies to produce high quality cars, steel, and other goods—often at cheaper prices than those offered by American companies. In the garment and shoe industries, a central competitive advantage was the low wages of workers in countries that were poorer than the U.S. These trends threatened American jobs and frustrated American workers, as shown in this 1977 episode of the *MacNeil/Lehrer Report*, which surveys the rise of imports in various industries and features an interview with U.S. trade representative Robert Strauss. As Strauss indicates in the excerpt, the U.S. government was reluctant to raise tariffs on foreign imports—and thus raise consumer prices—during a time of high inflation.
 
 ## Teachingtips
 
@@ -17,7 +17,7 @@ In the aftermath of World War II, the ascendant United States played a central r
 
 ## Cliptime
 
-0199,0472
+0202,0472
 
 ## Author
 ## Subjects
