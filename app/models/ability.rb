@@ -1,6 +1,8 @@
 class Ability
   include CanCan::Ability
 
+  # rubocop:disable Metrics/PerceivedComplexity
+
   def initialize(user)
     can :skip_tos, PBCorePresenter
 
