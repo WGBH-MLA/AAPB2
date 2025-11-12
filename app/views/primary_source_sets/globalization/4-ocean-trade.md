@@ -1,15 +1,15 @@
-# Postwar Optimism about the Economic Benefits of International Trade (1965)
+# Ocean Trade and the Explosion of Global Commerce (1994)
 
 ## Thumbnail
 
-![Postwar Optimism](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-postwar-optimism.png "Postwar Optimism")
+![Ocean Trade](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/4-ocean-trade.png "Ocean Trade")
 
 ## Guid
-cpb-aacip-512-dz02z13p16
+cpb-aacip-394-41mgqsdg
 
 ## Introduction
 
-In the aftermath of World War II, the ascendant United States played a central role in an economic order built on international trade. While tariffs to protect domestic manufacturing had been the norm since the 19th century, mid-century economists argued that reduction of trade barriers would promote economic prosperity for all involved. The General Agreement on Tariffs and Trade was signed by 23 major nations in 1947 with this dream in mind. The excerpt, from a 1965 news series entitled Great Decisions, embodies this optimism about international trade. At the outset, former U.S. Assistant Secretary of State Roger Hilsman cites the economic theory of comparative advantage while arguing for the long-term benefits of global trade. The succeeding portion of the clip channels the view of international commerce that prevailed among Western leaders in the postwar era: international trade created a “miracle of economic recovery” for countries recently devastated by World War II.
+In 1950, the total value of global merchandise exports was $61.8 billion. By 2000, that number [had increased to $6.45 *trillion*](https://www.statista.com/statistics/264682/worldwide-export-volume-in-the-trade-since-1950/)—over a hundred-fold increase. Exports kept growing in the new millennium, more than doubling to $15.3 trillion per year in the next decade (all figures in 2024 dollars). Why this explosion of global trade? Part of the answer was political. The U.S. led a global order that sought to facilitate international trade between capitalist countries. In addition to negotiating NAFTA in the 1990s, the U.S. spearheaded the creation of the World Trade Organization (WTO), which provided a venue for member countries to negotiate terms and manage disputes. Additionally, in the late 20th century, many Communist countries (most prominently China) “liberalized” their economies, allowing for more entrepreneurial activity, foreign investment, and international trade. Technological developments were also significant. As shown in this episode of *Seapower*, aired in 1994 by Maryland Public Television, the widespread use of the shipping container along with advances in maritime and communications technology made it possible to profitably ship manufactured goods over vast oceans. The business trends illuminated in this excerpt have only intensified in the decades since this program was produced: for example, according [to a 2025 report](https://www.pbs.org/newshour/economy/holiday-toys-may-cost-more-by-fall-thanks-to-new-u-s-tariffs-on-chinese-imports), “nearly 80% of toys sold in the U.S. are sourced from China.” 
 
 ## Teachingtips
 
@@ -17,7 +17,7 @@ In the aftermath of World War II, the ascendant United States played a central r
 
 ## Cliptime
 
-0199,0472
+0291,0592
 
 ## Author
 ## Subjects
