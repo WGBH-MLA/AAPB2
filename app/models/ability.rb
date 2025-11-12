@@ -1,8 +1,6 @@
 class Ability
   include CanCan::Ability
 
-  # Disabling because, yes, we know...
-  # rubocop:disable Metrics/PerceivedComplexity
   def initialize(user)
     can :skip_tos, PBCorePresenter
 
@@ -12,10 +10,10 @@ class Ability
           (
             user.usa? ||
             user.globally_allowed?(pbcore.id)
-          )&&
+          ) &&
           !user.bot? &&
-          (user.affirmed_tos? || user.authorized_referer?)
-          && pbcore.public?
+          (user.affirmed_tos? || user.authorized_referer?) &&
+          pbcore.public?
         )
     end
 
