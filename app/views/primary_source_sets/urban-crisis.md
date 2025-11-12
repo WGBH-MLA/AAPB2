@@ -75,50 +75,45 @@ Discuss the following questions:
 - Imagine you lived in a poor neighborhood in one of the cities in this era. What would be hard about growing up in this environment? What would be some opportunities that you might not have that middle-class residents did not have?
 - What kinds of explanations for urban problems might have been offered by political liberals? What reforms do you think they might have proposed?
 - What kinds of explanations for urban problems might have been offered by political conservatives? What reforms do you think they might have proposed?
-- Extension Activity: Ask students to read this *New York Times* summary of President Jimmy Carter’s proposal of a broad federal policy to address problems in American cities. Ask: Which of these proposals do you think would be effective in addressing those problems? Which would not be effective? What criticism might this proposal have faced?
+- Extension Activity: Ask students to read [this *New York Times*](https://www.nytimes.com/1978/03/28/archives/president-proposes-a-broad-new-policy-for-urban-recovery-fate-in.html) summary of President Jimmy Carter’s proposal of a broad federal policy to address problems in American cities. Ask: Which of these proposals do you think would be effective in addressing those problems? Which would not be effective? What criticism might this proposal have faced?
 
-- **STOPPED HERE 11/10**
+3) Ask students to watch the following sources: 
 
-3) Ask students to watch the following sources and then discuss one or more of the questions: 
+- [Stopping the “Vicious Cycle” of Suburban Flight (1976)](/primary_source_sets/urban-crisis/09-259-gh9b8312)
+- [The “Local Control” Argument Against Aid to Cities (1977)](/primary_source_sets/urban-crisis/10-507-x639z91909)
+- [Debating Aid to Struggling Cities (1978)](/primary_source_sets/urban-crisis/11-507-x639z91909)
+- [The Political Challenge of Reviving New Jersey’s Cities (1982)](/primary_source_sets/urban-crisis/12-507-x639z91909)
 
-- [The History and Significance of the Berlin Wall (1981)](/primary_source_sets/cold-war/04-507-k93125r50q)
-- [Unrestricted Travels and Free Elections in East Germany (1989)](/primary_source_sets/cold-war/09-507-x639z91909)
+Present them with the following situation: It is 1983 and there is an economically depressed major city in a county that includes many affluent suburbs. A reform organization called the Society for Urban Renewal is proposing that 10% of property tax revenue collected in the suburbs should be redirected to the major city to fund municipal operations. Then divide students into three groups, and tell each group to consider what they would argue about the proposed reform:
 
-According to these sources, how did the Berlin Wall figure into the Cold War? What changes occurred with respect to the Berlin Wall and, more broadly, East-West relations during the years between the two films? What do these sources reveal about the Wall as a physical structure? A symbolic structure? How did different groups view the Berlin Wall? How did different groups experience the Wall? 
+- Group 1: Mayor of the Major City (Have this group consider: Why does the major city deserve to have a percentage of the tax revenue collected in the suburbs? Why will this reform benefit the whole county?)
+- Group 2: Mayor of an Affluent Suburb (Have this group consider: Why is it unfair for your tax revenue to be funneled to the city? Why would this proposed reform be a mistake?)
+- Group 3: Governor of the State (Have this group consider: What do you see as the positives of the proposed reform? The negatives? Would you support it, or not?)
 
-
-**4) Topic: Communism in Europe in the late 1980s**
-
-Ask students to watch the following sources and then discuss one or more of the questions: 
-
-- [Unrestricted Travels and Free Elections in East Germany (1989)](/primary_source_sets/cold-war/09-507-x639z91909)
-- [Secretary of State James Baker Discusses the Collapse of the Soviet Union (1995)](/primary_source_sets/cold-war/10-507-5x2599zr5q)
-
-According to these sources, what was the state of communism in Europe during the late 1980s? What accounted for those circumstances? How did U.S. and Western officials interpret these circumstances? How did communist officials view them? How did James Baker’s role as former Secretary of State affect his perspective and conclusions? 
+4) After watching and discussing some or all of the clips in this set, divide students into groups and give them the following task: “You work for the mayor of a major city in 1981. Hundreds of factories have shut down, and poverty and unemployment have risen significantly in the last decade. At the same time, crime has spiked and residents complain that the streets aren’t safe. A large number of (predominantly white) middle- and upper-class residents have moved to the suburbs. The city’s finances are in trouble, as the city has had to take out loans to fill budget gaps but is struggling to pay back those loans. It seems the city will need some combination of tax increases, spending cuts, or outside financial aid. Faced with these problems, come up with a list of five proposed municipal reforms (Note: these should be reforms that are in the mayor’s control, and can’t involve getting funding from other layers of government). For each reform, provide a brief explanation of why that reform could help address a problem your city faces.” After completing this task, groups can “share out” some of their proposed reforms, and as a class, you can discuss whether these reforms would be effective.
 
 <hr>
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Cold_War_Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Urban_Crisis_Teaching-Tips.pdf
 
 
 ## Additionalresources
 
-- [**The Cold War series**](https://www.youtube.com/playlist?list=PL8hNHC9nbLlzb4miGp5pZPYCk9Zw0dGke), Turner Original Productions, via YouTube
-- [**What Was the Berlin Wall and How Did It Fall?**](https://www.iwm.org.uk/history/what-was-the-berlin-wall-and-how-did-it-fall), Imperial War Museum, UK
-- [**End of the Cold War**](https://digitalarchive.wilsoncenter.org/topics/end-cold-war), The Wilson Center Digital Archive
-- [**Making the History of 1989**](https://rrchnm.org/portfolio-item/making-the-history-of-1989/), Roy Rosenzweig Center for History and New Media, George Mason University
+- [**A City in Spiral: New York City in the 1960s and 1970s**](https://illinois.pbslearningmedia.org/resource/city-in-spiral-nyc-1960s-1970s-video/new-york-documentary-film/), PBS LearningMedia
+- [**Blackout: NYC in Chaos**](https://www.iwm.org.uk/history/what-was-the-berlin-wall-and-how-did-it-fall), Imperial War Museum, UK
+- [**End of the Cold War**](https://www.pbs.org/wgbh/americanexperience/features/blackout-gallery/), *American Experience*
 
 
-## Youmayalsolike
+## Youmayalsolike CHANGE
 - special collection,wapina
 - exhibit,newshour-cold-war
 
 
 ## Citation
 
-Greer, Brenna. "The Cold War." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/cold-war.
+Leff, Benn. "The Urban Crisis." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/urban-crisis.
 
 
 ## Guid
