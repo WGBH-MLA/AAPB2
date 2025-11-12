@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Audio icon](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/audio-digitized.jpg "Audio icon")
+![Postwar Optimism](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-postwar-optimism.png "Postwar Optimism")
 
 ## Guid
 cpb-aacip-512-dz02z13p16
