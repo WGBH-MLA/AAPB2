@@ -6,6 +6,16 @@
 
 ## Summary
 
+<table class="full-width">
+  <tbody>
+    <tr>
+      <td>
+        <iframe class="exhibit-small-iframe" src="https://www.youtube.com/embed/t2LDAlH3PvA?si=QlWD2sxvSfnKo92P" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 The GBH Archives special collection includes programing and ancillary materials preserved by GBH Archives, public media’s oldest professional archive. The collection includes television episodes, raw interviews, radio broadcasts, news reports, and curated clips, many of which are featured in the [thirty special collections](https://openvault.wgbh.org/collections/) and [seventeen scholar exhibits](https://openvault.wgbh.org/exhibits) found on the GBH Archives website [Open Vault](https://openvault.wgbh.org/). 
 
 Included in the collection are GBH news and public affairs series, such as [*The Press and the People*](https://openvault.wgbh.org/collections/press-and-the-people) (1958–1959), exploring press coverage of key events of the 1950s; [*Say Brother*](https://openvault.wgbh.org/collections/say-brother) (1968–1997), GBH’s longest-running Black public affairs program, subsequently renamed *Basic Black* (1998–2024) and reimagined in 2025 as [*GBH News Rooted*](https://www.wgbh.org/tv-shows/gbh-news-rooted); the landmark debate series [*The Advocates*](https://openvault.wgbh.org/collections/the-advocates) (1969–1974; 1978-1979; 1984); and the documentary series [*FRONTLINE*](https://openvault.wgbh.org/collections/frontline-the-first-15-years) (1983–present). The collection also includes groundbreaking arts and cultural programming, such as [*New Television Workshop*](https://openvault.wgbh.org/collections/new-television-workshop) (1974–1993), which supported the creation and broadcast of contemporary dance, performance, and video art. Alistair Cooke’s introductory and closing remarks for episodes filmed during his tenure as host of [*Masterpiece Theatre*](https://openvault.wgbh.org/collections/masterpiece) are also showcased in the collection. 
