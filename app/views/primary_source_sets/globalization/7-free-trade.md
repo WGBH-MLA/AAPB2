@@ -1,15 +1,15 @@
-# Postwar Optimism about the Economic Benefits of International Trade (1965)
+# Defending Free Trade Against its Critics (2004) 
 
 ## Thumbnail
 
-![Postwar Optimism](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-postwar-optimism.png "Postwar Optimism")
+![Free Trade](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-postwar-optimism.png "Free Trade")
 
 ## Guid
-cpb-aacip-512-dz02z13p16
+cpb-aacip-16-cr5n87399v
 
 ## Introduction
 
-In the aftermath of World War II, the ascendant United States played a central role in an economic order built on international trade. While tariffs to protect domestic manufacturing had been the norm since the 19th century, mid-century economists argued that reduction of trade barriers would promote economic prosperity for all involved. The General Agreement on Tariffs and Trade was signed by 23 major nations in 1947 with this dream in mind. The excerpt, from a 1965 news series entitled Great Decisions, embodies this optimism about international trade. At the outset, former U.S. Assistant Secretary of State Roger Hilsman cites the economic theory of comparative advantage while arguing for the long-term benefits of global trade. The succeeding portion of the clip channels the view of international commerce that prevailed among Western leaders in the postwar era: international trade created a “miracle of economic recovery” for countries recently devastated by World War II.
+Critics of free trade policies argued that unfettered global trade hurt workers all over the world: American laborers lost their jobs to workers in developing economies, and in turn, foreign workers were paid meager wages to toil in horrific conditions. But defenders of free trade, like Dan Griswold of the Cato Institute (a libertarian think tank) argued that critics overlooked the benefits of these policies. In this 2004 clip from *Focus 580* (a call-in show from WILL in Urbana, Illinois) Griswold argues that ordinary Americans and workers in developing countries are better off as a result of global trade.
 
 ## Teachingtips
 
@@ -17,7 +17,7 @@ In the aftermath of World War II, the ascendant United States played a central r
 
 ## Cliptime
 
-0199,0472
+0944,1088
 
 ## Author
 ## Subjects
