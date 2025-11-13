@@ -1,15 +1,15 @@
-# Postwar Optimism about the Economic Benefits of International Trade (1965)
+# Trump’s Trade Policy and Criticism of China (2018)
 
 ## Thumbnail
 
-![Postwar Optimism](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-postwar-optimism.png "Postwar Optimism")
+![Trump Trade Policy](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/11-trump-trade-policy.png "Trump Trade Policy")
 
 ## Guid
-cpb-aacip-512-dz02z13p16
+cpb-aacip_525-d50ft8fk1g
 
 ## Introduction
 
-In the aftermath of World War II, the ascendant United States played a central role in an economic order built on international trade. While tariffs to protect domestic manufacturing had been the norm since the 19th century, mid-century economists argued that reduction of trade barriers would promote economic prosperity for all involved. The General Agreement on Tariffs and Trade was signed by 23 major nations in 1947 with this dream in mind. The excerpt, from a 1965 news series entitled Great Decisions, embodies this optimism about international trade. At the outset, former U.S. Assistant Secretary of State Roger Hilsman cites the economic theory of comparative advantage while arguing for the long-term benefits of global trade. The succeeding portion of the clip channels the view of international commerce that prevailed among Western leaders in the postwar era: international trade created a “miracle of economic recovery” for countries recently devastated by World War II.
+While President Trump was broadly critical of the impact of global trade on Americans, he was focused particularly on harms of trade with China. In the view of Trump and his advisors, China was not merely undercutting U.S. goods because of low labor costs, but gaining advantage by breaking the rules. They charged that the Chinese government turned a blind eye while their companies stole U.S. companies’ intellectual property, while also manipulating their currency and giving their companies illegal subsidies to make their exports unfairly attractive in foreign markets. The U.S. and China waged a “trade war” during Trump’s first term in which both sides leveled tariffs on the other. By 2020, the two countries agreed to a “Phase One” trade agreement that settled some issues, but many disagreements between the two powers remained unresolved. But Trump’s policies did not just target trade with China. His administration pulled out of the Trans-Pacific Partnership (a trade deal with many Pacific Rim countries negotiated under the Obama Administration), renegotiated NAFTA, and launched aggressive tariffs on steel and aluminum that affected many countries, including U.S. allies. This PBS NewsHour segment explores Trump’s criticism of China as well as the political ramifications of the steel and aluminum tariffs.
 
 ## Teachingtips
 
