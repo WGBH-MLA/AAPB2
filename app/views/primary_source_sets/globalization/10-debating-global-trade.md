@@ -1,15 +1,15 @@
-# Postwar Optimism about the Economic Benefits of International Trade (1965)
+# Debating Global Trade in the Age of Trump (2017)
 
 ## Thumbnail
 
-![Postwar Optimism](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-postwar-optimism.png "Postwar Optimism")
+![Debating Global Trade](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/10-debating-global-trade.png "Debating Global Trade")
 
 ## Guid
-cpb-aacip-512-dz02z13p16
+cpb-aacip_525-pg1hh6db7g
 
 ## Introduction
 
-In the aftermath of World War II, the ascendant United States played a central role in an economic order built on international trade. While tariffs to protect domestic manufacturing had been the norm since the 19th century, mid-century economists argued that reduction of trade barriers would promote economic prosperity for all involved. The General Agreement on Tariffs and Trade was signed by 23 major nations in 1947 with this dream in mind. The excerpt, from a 1965 news series entitled Great Decisions, embodies this optimism about international trade. At the outset, former U.S. Assistant Secretary of State Roger Hilsman cites the economic theory of comparative advantage while arguing for the long-term benefits of global trade. The succeeding portion of the clip channels the view of international commerce that prevailed among Western leaders in the postwar era: international trade created a “miracle of economic recovery” for countries recently devastated by World War II.
+During the 2016 Republican Primary campaign, Donald Trump distinguished himself from his Republican rivals by harshly criticizing past trade deals and globalization. In one campaign speech, he called NAFTA “the worst trade deal…in the history of the country,” and claimed such deals were engineered by elites at the expense of ordinary Americans. In perhaps the most famous portion of his speech at the 2016 Republican National Convention, Trump proclaimed, “I have visited the laid-off factory workers, and the communities crushed by our horrible and unfair trade deals. These are the forgotten men and women of our country. People who work hard but no longer have a voice. I am your voice.” As nominee and as president, Trump vowed to lower the trade deficit, renegotiate unfair trade deals, and bring manufacturing jobs back to the United States. Critics—including many economists—charged that Trump had a simplistic vision of international trade and failed to appreciate the ways in which American companies and workers benefited from interconnected global commerce. This excerpt from a 2017 episode of *PBS NewsHour* gives insight into Trump’s criticisms while providing an example of how American companies like Boeing produce goods using components from all over the world.
 
 ## Teachingtips
 
@@ -17,7 +17,7 @@ In the aftermath of World War II, the ascendant United States played a central r
 
 ## Cliptime
 
-0199,0472
+1872,2230
 
 ## Author
 ## Subjects
