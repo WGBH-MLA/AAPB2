@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Elephant Chart](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-postwar-optimism.png "Elephant Chart")
+![Elephant Chart](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/9-elephant-chart.png "Elephant Chart")
 
 ## Guid
 cpb-aacip_525-445h990b33
