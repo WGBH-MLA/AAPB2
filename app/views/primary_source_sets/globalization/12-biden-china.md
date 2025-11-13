@@ -1,15 +1,15 @@
-# Postwar Optimism about the Economic Benefits of International Trade (1965)
+# The Biden Administration’s Combative Stance with China
 
 ## Thumbnail
 
-![Postwar Optimism](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-postwar-optimism.png "Postwar Optimism")
+![Biden China](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/ "Biden China")
 
 ## Guid
 cpb-aacip-512-dz02z13p16
 
 ## Introduction
 
-In the aftermath of World War II, the ascendant United States played a central role in an economic order built on international trade. While tariffs to protect domestic manufacturing had been the norm since the 19th century, mid-century economists argued that reduction of trade barriers would promote economic prosperity for all involved. The General Agreement on Tariffs and Trade was signed by 23 major nations in 1947 with this dream in mind. The excerpt, from a 1965 news series entitled Great Decisions, embodies this optimism about international trade. At the outset, former U.S. Assistant Secretary of State Roger Hilsman cites the economic theory of comparative advantage while arguing for the long-term benefits of global trade. The succeeding portion of the clip channels the view of international commerce that prevailed among Western leaders in the postwar era: international trade created a “miracle of economic recovery” for countries recently devastated by World War II.
+In 2020, Democrat Joe Biden ran as a restoration candidate who would reverse the changes of the Trump Era. While Biden was quite different from Trump in style and substance, he actually continued many Trump administration policies relating to China. As shown in this 2024 NewsHour report, the Biden administration retained many Trump-era tariffs, and added to them by enacting enhanced trade duties on Chinese electric vehicles and other green technology. Like Trump, Biden argued that these tariffs would protect American workers because the Chinese government was unfairly subsidizing these products and “dumping” them in foreign markets. Some political analysts, like reporter Lisa Desjardins in this clip, argued that these trade policies represented a Democratic attempt to win back workers in Rust Belt swing states that had voted for Trump in 2016. Additionally, Biden administration officials argued that it was necessary for national security to make sure that crucial emerging technologies were being “on-shored”—produced in the United States rather than on the soil of a geopolitical adversary. This policy towards China was coupled with the Inflation Reduction Act and the CHIPS and Science Act, both of which aimed to provide subsidies to produce green technology and semiconductors in the U.S. Thus, by the early 2020s, a new bipartisan consensus seemed to be emerging that was more skeptical that open trade with China would benefit ordinary Americans. 
 
 ## Teachingtips
 
@@ -17,7 +17,7 @@ In the aftermath of World War II, the ascendant United States played a central r
 
 ## Cliptime
 
-0199,0472
+0028,0307
 
 ## Author
 ## Subjects
