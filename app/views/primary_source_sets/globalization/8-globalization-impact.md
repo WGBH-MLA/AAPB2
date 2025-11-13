@@ -1,15 +1,15 @@
-# Postwar Optimism about the Economic Benefits of International Trade (1965)
+# The Complex Impact of Globalization on Alabama Communities (2005)
 
 ## Thumbnail
 
-![Postwar Optimism](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-postwar-optimism.png "Postwar Optimism")
+![Globalization Impact](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/8-globalization-impact.png "Globalization Impact")
 
 ## Guid
-cpb-aacip-512-dz02z13p16
+cpb-aacip-507-nk3610wm67
 
 ## Introduction
 
-In the aftermath of World War II, the ascendant United States played a central role in an economic order built on international trade. While tariffs to protect domestic manufacturing had been the norm since the 19th century, mid-century economists argued that reduction of trade barriers would promote economic prosperity for all involved. The General Agreement on Tariffs and Trade was signed by 23 major nations in 1947 with this dream in mind. The excerpt, from a 1965 news series entitled Great Decisions, embodies this optimism about international trade. At the outset, former U.S. Assistant Secretary of State Roger Hilsman cites the economic theory of comparative advantage while arguing for the long-term benefits of global trade. The succeeding portion of the clip channels the view of international commerce that prevailed among Western leaders in the postwar era: international trade created a “miracle of economic recovery” for countries recently devastated by World War II.
+Prior to the passage of NAFTA, proponents promised widespread economic benefits while critics warned of economic calamity. In the end, the actual impact was more nuanced than either side predicted. For example, many economists argued that NAFTA would improve the Mexican economy and thus reduce the push factors that drove unauthorized immigration to the U.S. Indeed, Mexico did see a rise in manufacturing employment opportunities and overall economic growth in the aftermath of NAFTA. However, many Mexican farmers struggled to compete with cheaper crops produced by U.S. agribusinesses, leading to a surge in migration from rural Mexico to the U.S. This provides just one example of the multi-layered impacts of international trade. This segment from *The NewsHour with Jim Lehrer* explores globalization’s impact on rural Alabama communities, illustrating the complex array of forces that act on workers, businesses, and local economies.
 
 ## Teachingtips
 
@@ -17,7 +17,7 @@ In the aftermath of World War II, the ascendant United States played a central r
 
 ## Cliptime
 
-0199,0472
+2220,2551
 
 ## Author
 ## Subjects
