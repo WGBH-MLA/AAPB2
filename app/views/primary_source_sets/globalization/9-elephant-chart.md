@@ -1,15 +1,15 @@
-# Postwar Optimism about the Economic Benefits of International Trade (1965)
+# The Lessons of the “Elephant Chart” (2017)
 
 ## Thumbnail
 
-![Postwar Optimism](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-postwar-optimism.png "Postwar Optimism")
+![Elephant Chart](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-postwar-optimism.png "Elephant Chart")
 
 ## Guid
-cpb-aacip-512-dz02z13p16
+cpb-aacip_525-445h990b33
 
 ## Introduction
 
-In the aftermath of World War II, the ascendant United States played a central role in an economic order built on international trade. While tariffs to protect domestic manufacturing had been the norm since the 19th century, mid-century economists argued that reduction of trade barriers would promote economic prosperity for all involved. The General Agreement on Tariffs and Trade was signed by 23 major nations in 1947 with this dream in mind. The excerpt, from a 1965 news series entitled Great Decisions, embodies this optimism about international trade. At the outset, former U.S. Assistant Secretary of State Roger Hilsman cites the economic theory of comparative advantage while arguing for the long-term benefits of global trade. The succeeding portion of the clip channels the view of international commerce that prevailed among Western leaders in the postwar era: international trade created a “miracle of economic recovery” for countries recently devastated by World War II.
+While most economists argue for the overall benefits of global trade, they acknowledge that those benefits are uneven. Some groups benefit more than others—and indeed, some might not benefit at all. In this piece from the *PBS NewsHour*, economics correspondent Paul Solman introduces viewers to the “Elephant Chart,” a way of measuring historical income trends for people in different parts of the global income distribution. The 2017 segment was aired in the wake of Brexit (the British referendum that separated Britain from the European Union) and the election of Donald Trump. Many political commentators in that moment argued that the rise of right-wing populism was fueled by the frustrations of working and middle classes in wealthier countries who believed they were being hurt by the rise of international trade.
 
 ## Teachingtips
 
@@ -17,7 +17,7 @@ In the aftermath of World War II, the ascendant United States played a central r
 
 ## Cliptime
 
-0199,0472
+2311,2660
 
 ## Author
 ## Subjects
