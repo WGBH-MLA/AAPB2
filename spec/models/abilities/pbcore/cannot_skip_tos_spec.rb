@@ -7,7 +7,7 @@ describe Ability do
 
   context 'for PBCore records with transcripts' do
     let(:public_pbcore_record) { PBCorePresenter.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')) }
-   #not clear why/if we need to test for this? let(:protected_pbcore_record) { PBCorePresenter.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')) }
+  # Not clear why/if we need to test for this? let(:protected_pbcore_record) { PBCorePresenter.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')) }
 
     context 'when User is offsite; User has affirmed TOS; User is in US; user is a bot' do
       let(:user) { instance_double(User, 'onsite?' => false, 'affirmed_tos?' => true, 'usa?' => true, 'bot?' => true) }
