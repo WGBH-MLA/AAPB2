@@ -81,7 +81,7 @@ describe Ability do
       end
     end
 
-     context 'when User is offsite; User is not in the US, User is not a bot; User has not affirmed TOS; User is not an authorized referer; Media is globally available' do
+    context 'when User is offsite; User is not in the US, User is not a bot; User has not affirmed TOS; User is not an authorized referer; Media is globally available' do
       let(:user) { instance_double(User, 'onsite?' => false, 'usa?' => false, 'bot?' => false, 'affirmed_tos?' => false, 'authorized_referer?' => false, 'globally_allowed?' => true) }
 
       it 'can play returns false for a public record' do
@@ -93,7 +93,7 @@ describe Ability do
       end
     end
 
-     context 'when User is offsite; User is not in the US, User is not a bot; User has not affirmed TOS; User is not an authorized referer; Media is globally available' do
+    context 'when User is offsite; User is not in the US, User is not a bot; User has not affirmed TOS; User is not an authorized referer; Media is globally available' do
       let(:user) { instance_double(User, 'onsite?' => false, 'usa?' => false, 'bot?' => false, 'affirmed_tos?' => true, 'authorized_referer?' => false, 'globally_allowed?' => true) }
 
       it 'can play returns true for a public record' do
