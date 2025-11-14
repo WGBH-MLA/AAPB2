@@ -12,7 +12,7 @@ describe Ability do
 
     # Tests for onsite user
     context 'when User is onsite' do
-      let(:user) { instance_double(User, 'onsite?' => true) }
+      let(:user) { instance_double(User, 'onsite?' => true, 'usa?' => true, 'bot?' => false, 'affirmed_tos?' => false, 'authorized_referer?' => false) }
 
       it 'can play returns true for a public record' do
         expect(ability).to be_able_to(:play, public_pbcore_record)

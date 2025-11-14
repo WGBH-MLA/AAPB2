@@ -26,7 +26,7 @@ class Ability
     end
 
     cannot :skip_tos, PBCorePresenter do |pbcore|
-      !user.affirmed_tos? && !user.onsite? && !user.bot?
+      !user.affirmed_tos? && !user.onsite? && !user.bot? && pbcore.public?
     end
 
     can :access_media_url, PBCorePresenter do |pbcore|
