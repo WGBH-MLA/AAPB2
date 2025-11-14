@@ -69,11 +69,35 @@ describe Ability do
       end
     end
 
-    context 'when User is offsite; User is not in the US, User is not a bot; User has not affirmed TOS; User is not an authorized referer' do
-      let(:user) { instance_double(User, 'onsite?' => false, 'usa?' => false, 'bot?' => false, 'affirmed_tos?' => false, 'authorized_referer?' => false) }
+    context 'when User is offsite; User is not in the US, User is not a bot; User has not affirmed TOS; User is not an authorized referer; Media is not globally available' do
+      let(:user) { instance_double(User, 'onsite?' => false, 'usa?' => false, 'bot?' => false, 'affirmed_tos?' => false, 'authorized_referer?' => false, 'globally_allowed?' => false) }
 
       it 'can play returns false for a public record' do
         expect(ability).not_to be_able_to(:play, public_pbcore_record)
+      end
+
+      it 'can play returns false for a private record' do
+        expect(ability).not_to be_able_to(:play, protected_pbcore_record)
+      end
+    end
+
+     context 'when User is offsite; User is not in the US, User is not a bot; User has not affirmed TOS; User is not an authorized referer; Media is globally available' do
+      let(:user) { instance_double(User, 'onsite?' => false, 'usa?' => false, 'bot?' => false, 'affirmed_tos?' => false, 'authorized_referer?' => false, 'globally_allowed?' => true) }
+
+      it 'can play returns false for a public record' do
+        expect(ability).not_to be_able_to(:play, public_pbcore_record)
+      end
+
+      it 'can play returns false for a private record' do
+        expect(ability).not_to be_able_to(:play, protected_pbcore_record)
+      end
+    end
+
+     context 'when User is offsite; User is not in the US, User is not a bot; User has not affirmed TOS; User is not an authorized referer; Media is globally available' do
+      let(:user) { instance_double(User, 'onsite?' => false, 'usa?' => false, 'bot?' => false, 'affirmed_tos?' => true, 'authorized_referer?' => false, 'globally_allowed?' => true) }
+
+      it 'can play returns true for a public record' do
+        expect(ability).to be_able_to(:play, public_pbcore_record)
       end
 
       it 'can play returns false for a private record' do
