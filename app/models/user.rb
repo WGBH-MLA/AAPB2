@@ -13,8 +13,6 @@ class User
   WGBH_IP_RANGE_1 = IPAddr.new('198.147.175.0/24')
   WGBH_IP_RANGE_2 = IPAddr.new('204.152.12.0/23')
 
-  ALLOWED_GLOBAL_GUIDS = Set.new(YAML.load_file(Rails.root.join('config', 'global_guids.yml'))['allowed'])
-
   attr_reader :request
 
   def initialize(request)
@@ -28,14 +26,6 @@ class User
   def usa?
     %w(US PR WS GU MP VI).include?(GeoLocation.country_code(request.remote_ip)) || onsite?
     # WGBH doesn't actually geocode to USA. No idea why.
-  end
-
-  def globally_allowed?(guid)
-    ALLOWED_GLOBAL_GUIDS.include?(guid)
-  end
-
-  def available?(guid)
-    usa? || globally_allowed?(guid)
   end
 
   def bot?
