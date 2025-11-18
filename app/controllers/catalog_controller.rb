@@ -5,7 +5,7 @@ class CatalogController < ApplicationController
   include ApplicationHelper
   include BlacklightGUIDFetcher
 
-  before_action :require_turnstile, only: [:index]
+  # before_action :require_turnstile, only: [:index]
 
   # allows usage of default_processor_chain v
   # self.search_params_logic = true
