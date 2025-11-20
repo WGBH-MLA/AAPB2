@@ -33,8 +33,8 @@ describe Ability do
       end
     end
 
-    context 'when User is offsite; User has not affirmed TOS; User is not in US; user is not a bot' do
-      let(:user) { instance_double(User, 'onsite?' => false, 'affirmed_tos?' => false, 'usa?' => false, 'bot?' => false) }
+    context 'when User is offsite; User has not affirmed TOS; User is not in US; user is not a bot; User is not an authorized referrer' do
+      let(:user) { instance_double(User, 'onsite?' => false, 'affirmed_tos?' => false, 'usa?' => false, 'bot?' => false, 'authorized_referer?' => false) }
 
       it 'skip_tos returns false for a public record' do
         expect(ability).not_to be_able_to(:skip_tos, public_pbcore_record)
@@ -42,7 +42,7 @@ describe Ability do
     end
 
     context 'when User is onsite and has not affirmed TOS' do
-      let(:user) { instance_double(User, 'onsite?' => true, 'affirmed_tos?' => false, 'usa?' => true, 'bot?' => false) }
+      let(:user) { instance_double(User, 'onsite?' => true, 'affirmed_tos?' => false, 'usa?' => true, 'bot?' => false, 'authorized_referer?' => false) }
 
       it 'skip_tos returns true for a public record' do
         expect(ability).not_to be_able_to(:skip_tos, public_pbcore_record)
