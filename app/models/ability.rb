@@ -4,10 +4,12 @@ class Ability
   # rubocop:disable Metrics/PerceivedComplexity
 
   def initialize(user)
-    can :skip_tos, PBCorePresenter
+    can :skip_tos, PBCorePresenter do |_pbcore|
+     !user.bot? && (user.affirmed_tos? || user.authorized_referer?)
+    end
 
     can :play, PBCorePresenter do |pbcore|
-      (user.onsite? && (pbcore.public? || pbcore.protected?)) ||
+      (user.onsite? && (pbcore.public? || pbcore.protected?) && user.affirmed_tos?) ||
         (
           (user.usa? || GlobalMedia.allowed?(pbcore.id)) &&
           !user.bot? &&
@@ -23,10 +25,6 @@ class Ability
           !user.bot? &&
           pbcore.public?
         )
-    end
-
-    cannot :skip_tos, PBCorePresenter do |pbcore|
-      !user.affirmed_tos? && !user.onsite? && !user.bot? && pbcore.public?
     end
 
     can :access_media_url, PBCorePresenter do |pbcore|
