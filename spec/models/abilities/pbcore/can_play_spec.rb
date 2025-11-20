@@ -44,7 +44,6 @@ describe Ability do
       end
     end
 
-
     # Tests for offsite users, but in US
     context 'when User is offsite; User is in the US, User is a bot; User affirmed TOS; User is an authorized referer' do
       let(:user) { instance_double(User, 'onsite?' => false, 'usa?' => true, 'bot?' => true, 'affirmed_tos?' => true, 'authorized_referer?' => true) }
