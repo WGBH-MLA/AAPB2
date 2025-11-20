@@ -5,7 +5,7 @@ class Ability
 
   def initialize(user)
     can :skip_tos, PBCorePresenter do |_pbcore|
-     !user.bot? && (user.affirmed_tos? || user.authorized_referer?)
+      !user.bot? && (user.affirmed_tos? || user.authorized_referer?)
     end
 
     can :play, PBCorePresenter do |pbcore|
