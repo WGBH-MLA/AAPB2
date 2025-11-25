@@ -50,6 +50,9 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 **Kristin Lehner**
 <br>Senior Director of Content and Curriculum, PBS LearningMedia
 
+**Joy D. Lindsey**
+<br>Deputy Executive Director, National Council for the Social Studies
+
 **Stephen Wesson**
 <br>Manager of Professional Learning Products, Library of Congress
 

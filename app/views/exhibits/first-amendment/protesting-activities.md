@@ -33,8 +33,6 @@ The AAPB provides a wealth of primary sources relevant to broad but coherent the
   </ul>
 </div>
 
-You could simply encourage students to take notes with these questions in mind, or if you want to give your students more structure, you could provide students with this [graphic organizer](https://uofi.app.box.com/s/m38q1eyocrboxmznlxxw4z01fhs396).
-
 ### Activity 3: Prompt Analysis
 #### Write a blog
 

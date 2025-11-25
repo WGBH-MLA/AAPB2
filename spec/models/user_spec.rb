@@ -65,9 +65,7 @@ describe User do
   describe '#aapb_referer?' do
     @aapb_referers = [
       'http://americanarchive.org',
-      'http://demo.americanarchive.org',
-      'http://popuparchive.com',
-      'http://www.popuparchive.com'
+      'http://demo.americanarchive.org'
     ]
 
     @aapb_referers.each do |aapb_referer|
