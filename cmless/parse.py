@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import re
-from .models import Collection
+from models import Collection, Exhibit
 
 
 def parse_cmless(file):
@@ -65,10 +65,40 @@ def parse_collections(directory):
         try:
             parsed = parse_cmless(path.join(directory, file))
             parsed['Slug'] = file.replace('.md', '')
-            parsed = Collection(**parsed)  # Validate with Collection model
+            # Validate with Collection model
+            parsed = Collection(**parsed)
         except Exception as e:
             print(f"Error parsing {file}: {e}")
             continue
 
         results.append(parsed)
     return results
+
+def parse_exhibits(directory):
+    """
+    Parses all cmless exhibits in the given directory
+
+    :param directory: The directory to parse
+    :return: A dictionary of parsed cmless files
+    """
+    from os import listdir, path
+
+
+    exhibits = {}
+    files = [f for f in listdir(directory) if f.endswith('.md')]
+    for file in files:
+        try:
+            parsed = parse_cmless(path.join(directory, file))
+            parsed['Slug'] = file.replace('.md', '')
+            # Validate with Exhibit model
+            exhibits[file] = [Exhibit(**parsed)]
+        except Exception as e:
+            print(f"Error parsing {file}: {e}")
+            continue
+    exhibit_dirs = [d for d in listdir(directory) if path.isdir(d)]
+
+    for d in exhibit_dirs:
+        if d in exhibit_files:
+            exhibits[d].append(exhibit_files[d])
+
+    return exhibits
