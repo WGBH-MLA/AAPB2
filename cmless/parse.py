@@ -88,17 +88,31 @@ def parse_exhibits(directory):
     files = [f for f in listdir(directory) if f.endswith('.md')]
     for file in files:
         try:
+            slug = file.replace('.md', '')
             parsed = parse_cmless(path.join(directory, file))
             parsed['Slug'] = file.replace('.md', '')
+            parsed['Page'] = parsed.get('Page', 0)
             # Validate with Exhibit model
-            exhibits[file] = [Exhibit(**parsed)]
+            exhibits[slug] = [Exhibit(**parsed)]
         except Exception as e:
             print(f"Error parsing {file}: {e}")
             continue
-    exhibit_dirs = [d for d in listdir(directory) if path.isdir(d)]
+    exhibit_dirs = [d for d in listdir(directory) if path.isdir(path.join(directory, d))]
+    # print('Found exhibit directories:', exhibit_dirs)
+    for exhibit_slug in exhibit_dirs:
+        print('Parsing exhibit directory:', exhibit_slug)
+        exhibit_path = path.join(directory, exhibit_slug)
+        exhibit_files = [f for f in listdir(exhibit_path) if f.endswith('.md')]
 
-    for d in exhibit_dirs:
-        if d in exhibit_files:
-            exhibits[d].append(exhibit_files[d])
+        for page in exhibit_files:
+            try:
+                parsed = parse_cmless(path.join(directory, exhibit_slug, page))
+                slug = page.replace('.md', '')
+                parsed['Slug'] = slug
+                # Validate with Exhibit model
+                exhibits[exhibit_slug].append(Exhibit(**parsed))
+            except Exception as e:
+                print(f"Error parsing {file} in {d}: {e}")
+                continue
 
     return exhibits
