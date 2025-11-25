@@ -1,4 +1,11 @@
-from pydantic import BaseModel, Field, ConfigDict
+from pydantic import BaseModel, Field, ConfigDict, ValidationError, AfterValidator
+from typing import Annotated
+import markdown as md
+
+
+def parse_markdown(text: str) -> dict:
+    html = md.markdown(text)
+    return html
 
 
 class CMLess(BaseModel):

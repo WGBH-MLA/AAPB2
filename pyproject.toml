@@ -1,11 +1,13 @@
 [project]
 name = "aapb2"
 version = "0.1.0"
-description = "Add your description here"
+description = "AAPB2 python helpers"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.10"
 dependencies = [
     "black>=25.1.0",
+    "ipykernel>=7.1.0",
+    "markdown>=3.10",
     "pydantic>=2.11.7",
     "rich>=14.0.0",
     "ruff>=0.12.3",
