@@ -1,23 +1,30 @@
 class Ability
   include CanCan::Ability
 
-  # Disabling because, yes, we know...
   # rubocop:disable Metrics/PerceivedComplexity
+
   def initialize(user)
-    can :skip_tos, PBCorePresenter
+    can :skip_tos, PBCorePresenter do |_pbcore|
+      !user.bot? && (user.affirmed_tos? || user.authorized_referer?)
+    end
 
     can :play, PBCorePresenter do |pbcore|
-      (user.onsite? && (pbcore.public? || pbcore.protected?)) ||
-        (user.usa? && !user.bot? && (user.affirmed_tos? || user.authorized_referer?) && pbcore.public?)
+      (user.onsite? && (pbcore.public? || pbcore.protected?) && user.affirmed_tos?) ||
+        (
+          (user.usa? || GlobalMedia.allowed?(pbcore.id)) &&
+          !user.bot? &&
+          (user.affirmed_tos? || user.authorized_referer?) &&
+          pbcore.public?
+        )
     end
 
     can :play_embedded, PBCorePresenter do |pbcore|
       (user.onsite? && (pbcore.public? || pbcore.protected?)) ||
-        (user.usa? && !user.bot? && pbcore.public?)
-    end
-
-    cannot :skip_tos, PBCorePresenter do |pbcore|
-      !user.onsite? && !user.affirmed_tos? && user.usa? && !user.bot? && pbcore.public?
+        (
+          (user.usa? || GlobalMedia.allowed?(pbcore.id)) &&
+          !user.bot? &&
+          pbcore.public?
+        )
     end
 
     can :access_media_url, PBCorePresenter do |pbcore|
@@ -46,5 +53,4 @@ class Ability
         !pbcore.transcript_status.nil?
     end
   end
-  # rubocop:enable Metrics/PerceivedComplexity
 end
