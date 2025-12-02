@@ -45,3 +45,4 @@ class Exhibit(CMLess):
     gallery: str | None = Field(None, alias="Gallery")
     records: str | None = Field(None, alias="Records")
     page: int | None = Field(None, alias="Page")
+    children: list['Exhibit'] | None = None

@@ -4,7 +4,7 @@
 
 ## Summary
 
-##Extended
+## Extended
 
 As concern about the environment grew among scientists in the mid-1950s, they began to measure the Earth's carbon dioxide levels at Mauna Loa Observatory in Hawaii in 1958. "Human beings are now carrying out a large-scale geophysical experiment of a kind that could not have happened in the past nor be reproduced in the future," said Roger Revelle of the Scripps Institution of Oceanography in 1957.
 
