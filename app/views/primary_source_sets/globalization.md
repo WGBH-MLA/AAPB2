@@ -55,13 +55,25 @@ In the balance, has the increase in global trade since World War II harmed or be
 
 #### Classroom Activities
 
-1)  Watch [CLIP 1](https://americanarchive.org/primary_source_sets/globalization/1-postwar-optimism), [CLIP 2](https://americanarchive.org/primary_source_sets/globalization/2-growing-threat), [CLIP 3](https://americanarchive.org/primary_source_sets/globalization/3-NAFTA-trade), and [CLIP 4](https://americanarchive.org/primary_source_sets/globalization/4-ocean-trade), and show students [the following chart](https://fred.stlouisfed.org/series/B021RE1A156NBEA) showing the rise of imports starting in the 1970s. Discuss the following questions:
+1)  Watch the following clips:
+- [CLIP 1](https://americanarchive.org/primary_source_sets/globalization/1-postwar-optimism)
+- [CLIP 2](https://americanarchive.org/primary_source_sets/globalization/2-growing-threat)
+- [CLIP 3](https://americanarchive.org/primary_source_sets/globalization/3-NAFTA-trade)
+- [CLIP 4](https://americanarchive.org/primary_source_sets/globalization/4-ocean-trade)
+
+Show students [the following chart](https://fred.stlouisfed.org/series/B021RE1A156NBEA) showing the rise of imports starting in the 1970s. Discuss the following questions:
 
 - What kinds of goods became increasingly likely to be imported into the United States in the late 20th and early 21st centuries?
 - What are some reasons that certain imported goods might be more desirable to American consumers?
 - What social, economic, or political factors help explain the rise in international trade over this timeframe?
 
-2)  Ask students to watch [CLIP 5](https://americanarchive.org/primary_source_sets/globalization/5-walmart-sweatshops), [CLIP 6](https://americanarchive.org/primary_source_sets/globalization/6-organized-labors), [CLIP 7](https://americanarchive.org/primary_source_sets/globalization/7-free-trade), and [CLIP 8](https://americanarchive.org/primary_source_sets/globalization/8-globalization-impact). These sources collectively illuminate some of the complex “pros and cons” of global trade. Then have students discuss the following questions:
+2)  Ask students to watch:
+- [CLIP 5](https://americanarchive.org/primary_source_sets/globalization/5-walmart-sweatshops)
+- [CLIP 6](https://americanarchive.org/primary_source_sets/globalization/6-organized-labors)
+- [CLIP 7](https://americanarchive.org/primary_source_sets/globalization/7-free-trade)
+- [CLIP 8](https://americanarchive.org/primary_source_sets/globalization/8-globalization-impact).
+
+These sources collectively illuminate some of the complex “pros and cons” of global trade. Then have students discuss the following questions:
 
 - What are some ways that people benefit from global trade?
 - What are some ways that people are harmed by global trade?
