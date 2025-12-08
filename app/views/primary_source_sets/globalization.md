@@ -55,11 +55,11 @@ In the balance, has the increase in global trade since World War II harmed or be
 
 #### Classroom Activities
 
-1)  Watch the following clips:
-- [CLIP 1](https://americanarchive.org/primary_source_sets/globalization/1-postwar-optimism)
-- [CLIP 2](https://americanarchive.org/primary_source_sets/globalization/2-growing-threat)
-- [CLIP 3](https://americanarchive.org/primary_source_sets/globalization/3-NAFTA-trade)
-- [CLIP 4](https://americanarchive.org/primary_source_sets/globalization/4-ocean-trade)
+1) Watch the following clips:
+- [Postwar Optimism about the Economic Benefits of International Trade](https://americanarchive.org/primary_source_sets/globalization/1-postwar-optimism)
+- [The Growing “Threat” of Imported Goods in the 1970s](https://americanarchive.org/primary_source_sets/globalization/2-growing-threat)
+- [NAFTA Promotes US Trade with Mexico and Canada](https://americanarchive.org/primary_source_sets/globalization/3-NAFTA-trade)
+- [Ocean Trade and the Explosion of Global Commerce](https://americanarchive.org/primary_source_sets/globalization/4-ocean-trade)
 
 Show students [the following chart](https://fred.stlouisfed.org/series/B021RE1A156NBEA) showing the rise of imports starting in the 1970s. Discuss the following questions:
 
@@ -67,11 +67,11 @@ Show students [the following chart](https://fred.stlouisfed.org/series/B021RE1A1
 - What are some reasons that certain imported goods might be more desirable to American consumers?
 - What social, economic, or political factors help explain the rise in international trade over this timeframe?
 
-2)  Ask students to watch:
-- [CLIP 5](https://americanarchive.org/primary_source_sets/globalization/5-walmart-sweatshops)
-- [CLIP 6](https://americanarchive.org/primary_source_sets/globalization/6-organized-labors)
-- [CLIP 7](https://americanarchive.org/primary_source_sets/globalization/7-free-trade)
-- [CLIP 8](https://americanarchive.org/primary_source_sets/globalization/8-globalization-impact).
+2) Ask students to watch:
+- [Walmart, Sweatshops, and the Price of Cheap Clothes](https://americanarchive.org/primary_source_sets/globalization/5-walmart-sweatshops)
+- [Organized Labor’s Critique of Globalization and Free Trade](https://americanarchive.org/primary_source_sets/globalization/6-organized-labors)
+- [Defending Free Trade Against its Critics](https://americanarchive.org/primary_source_sets/globalization/7-free-trade)
+- [The Complex Impact of Globalization on Alabama Communities](https://americanarchive.org/primary_source_sets/globalization/8-globalization-impact)
 
 These sources collectively illuminate some of the complex “pros and cons” of global trade. Then have students discuss the following questions:
 
@@ -80,7 +80,13 @@ These sources collectively illuminate some of the complex “pros and cons” of
 - What are some examples of specific people or groups that might benefit from global trade? Specific people and groups that are harmed?
 - What do you think? In the balance, are Americans better or worse off as a result of global trade? What actions do you think the government should (or shouldn’t) take to restrain or restrict international commerce?
 
-3)  During his ultimately successful 2016 presidential campaign, Donald Trump railed against the impact that “free trade” deals and the rise of China had had on American businesses and workers. In this regard, Trump was far more critical of globalization and “free trade” than most Republican political leaders in recent U.S. History. Ask students to watch CLIP 8, CLIP 9, CLIP 10, and CLIP 11, which revolve around the views and policies around trade of Donald Trump and his Democratic successor Joe Biden. Then discuss the following questions:
+3) During his ultimately successful 2016 presidential campaign, Donald Trump railed against the impact that “free trade” deals and the rise of China had had on American businesses and workers. In this regard, Trump was far more critical of globalization and “free trade” than most Republican political leaders in recent U.S. History. Ask students to watch:
+- [The Lessons of the “Elephant Chart”](https://americanarchive.org/primary_source_sets/globalization/9-elephant-chart)
+- [Debating Global Trade in the Age of Trump](https://americanarchive.org/primary_source_sets/globalization/10-debating-global-trade)
+- [Trump’s Trade Policy and Criticism of China](https://americanarchive.org/primary_source_sets/globalization/11-trump-trade-policy)
+- [The Biden Administration’s Combative Stance with China](https://americanarchive.org/primary_source_sets/globalization/12-biden-china)
+
+These sources revolve around the views and policies around trade of Donald Trump and his Democratic successor Joe Biden. Then discuss the following questions:
 
 - Donald Trump performed meaningfully better than other recent Republican candidates among certain demographic groups: including white voters without college degrees, labor union members, and residents of certain “Rust Belt” counties. Do you think Trump’s views on trade help explain that political appeal? Why or why not?
 - The Trump administration increased tariffs on a wide range of goods at various points during his presidency. Based on the clips, what seem to be the potential benefits of raising tariffs? What are the potential drawbacks?
