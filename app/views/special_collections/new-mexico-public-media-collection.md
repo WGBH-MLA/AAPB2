@@ -28,6 +28,7 @@ Collaborating stations include KENW-TV at Eastern New Mexico University in Porta
 
 ## Resources
 
+- [Wtinessing New Mexico: The New Mexico Public Media Digitization Project](https://americanarchive.org/exhibits/witnessing-new-mexico)
 - [NMPBS Public Media Digitization Project page](https://www.newmexicopbs.org/new-mexico-public-media-digitization-project/)
 - [New Mexico State Library Digital Archive](https://nmsl-montage.auto-graphics.com/)
 - [New Mexico State Archives and Libraries](http://www.statearchives.us/new-mexico.htm)
