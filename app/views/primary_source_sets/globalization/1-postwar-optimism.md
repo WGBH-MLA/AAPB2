@@ -11,6 +11,10 @@ cpb-aacip-512-dz02z13p16
 
 In the aftermath of World War II, the ascendant United States played a central role in an economic order built on international trade. While tariffs to protect domestic manufacturing had been the norm since the 19th century, mid-century economists argued that reduction of trade barriers would promote economic prosperity for all involved. The General Agreement on Tariffs and Trade was signed by 23 major nations in 1947 with this dream in mind. The excerpt, from a 1965 news series entitled *Great Decisions*, embodies this optimism about international trade. At the outset, former U.S. Assistant Secretary of State Roger Hilsman cites the economic theory of comparative advantage while arguing for the long-term benefits of global trade. The succeeding portion of the clip channels the view of international commerce that prevailed among Western leaders in the postwar era: international trade created a “miracle of economic recovery” for countries recently devastated by World War II.
 
+<b>Great Decisions 1965; 3; Trade, Food and Dollars: What Policies for the US?</b>
+<b>| WNDT | 1965</b>
+<i>This video clip and associated transcript appear from 03:19 - 07:18 in the full record.<i>
+
 ## Teachingtips
 
 ## Citation
