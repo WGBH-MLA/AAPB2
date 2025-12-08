@@ -11,6 +11,10 @@ cpb-aacip-507-nk3610wm67
 
 Prior to the passage of NAFTA, proponents promised widespread economic benefits while critics warned of economic calamity. In the end, the actual impact was more nuanced than either side predicted. For example, many economists argued that NAFTA would improve the Mexican economy and thus reduce the push factors that drove unauthorized immigration to the U.S. Indeed, Mexico did see a rise in manufacturing employment opportunities and overall economic growth in the aftermath of NAFTA. However, many Mexican farmers struggled to compete with cheaper crops produced by U.S. agribusinesses, leading to a surge in migration from rural Mexico to the U.S. This provides just one example of the multi-layered impacts of international trade. This segment from *The NewsHour with Jim Lehrer* explores globalization’s impact on rural Alabama communities, illustrating the complex array of forces that act on workers, businesses, and local economies.
 
+<b>The NewsHour with Jim Lehrer</b>
+<b>| NewsHour Productions | October 25, 2005</b>
+<i>This video clip and associated transcript appear from 37:00 - 42:31 in the full record.<i>
+
 ## Teachingtips
 
 ## Citation
