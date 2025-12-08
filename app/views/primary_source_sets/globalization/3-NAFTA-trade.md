@@ -11,6 +11,10 @@ cpb-aacip-507-1z41r6np9f
 
 Despite growing opposition to free trade, late 20th century politicians largely supported these policies. Case in point: the passage of the North American Free Trade Agreement (NAFTA), which lowered trade barriers between the U.S, Mexico, and Canada. The trilateral deal was first negotiated by Republican President George H.W. Bush, and then passed under the next president, Democrat Bill Clinton, in 1993. Clinton publicly and privately lobbied for the act’s passage, overcoming the fierce opposition of prominent labor unions and many members of his own party. This 1995 *MacNeil/Lehrer NewsHour* report on NAFTA provides a general overview of the agreement while also showing the political opposition that initially threatened its passage. Trade ballooned after NAFTA encouraged commerce between the three countries: the total volume of U.S. trade with Canada and Mexico [more than doubled](https://wits.worldbank.org/CountryProfile/en/Country/USA/Year/2018/TradeFlow/EXPIMP/Partner/CAN/Product/all-groups) in the decade after the agreement was enacted.
 
+<b>The MacNeil/Lehrer NewsHour</b>
+<b>| NewsHour Productions | April 13, 1995</b>
+<i>This video clip and associated transcript appear from 08:56 - 11:22 in the full record.<i>
+
 ## Teachingtips
 
 ## Citation
