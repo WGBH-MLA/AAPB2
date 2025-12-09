@@ -1,11 +1,11 @@
 # The Urban Crisis
 
-## Thumbnail CHANGE
+## Thumbnail
 
-![Fallout Shelter sign, Tifton County Georgia, by Michael Rivera (cropped) https://commons.wikimedia.org/wiki/File:Fallout_Shelter_sign,_Union_Depot,_Tifton.jpg, CC-BY-SA 4.0](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_Cold_War.jpg "Fallout Shelter sign, Tifton County Georgia, by Michael Rivera (cropped) https://commons.wikimedia.org/wiki/File:Fallout_Shelter_sign,_Union_Depot,_Tifton.jpg, CC-BY-SA 4.0")
+![Demolition of Pruitt–Igoe, U.S. Department of Housing and Urban Development Office of Policy Development and Research, April 1996 (date of publication)](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/pruitt-igoe-thumbnail.jpeg "Demolition of Pruitt–Igoe, U.S. Department of Housing and Urban Development Office of Policy Development and Research, April 1996 (date of publication)")
 
-## Cover CHANGE
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_Cold_War.jpg
+## Cover
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/pruitt-igoe-16x9.jpeg
 
 ## Author
 
@@ -102,18 +102,17 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Urban_Cris
 ## Additionalresources
 
 - [**A City in Spiral: New York City in the 1960s and 1970s**](https://illinois.pbslearningmedia.org/resource/city-in-spiral-nyc-1960s-1970s-video/new-york-documentary-film/), PBS LearningMedia
-- [**Blackout: NYC in Chaos**](https://www.iwm.org.uk/history/what-was-the-berlin-wall-and-how-did-it-fall), Imperial War Museum, UK
-- [**End of the Cold War**](https://www.pbs.org/wgbh/americanexperience/features/blackout-gallery/), *American Experience*
+- [**Blackout: NYC in Chaos**](https://www.pbs.org/wgbh/americanexperience/features/blackout-gallery/), *American Experience*
 
 
-## Youmayalsolike CHANGE
-- special collection,wapina
-- exhibit,newshour-cold-war
+## Youmayalsolike 
+- special collection,njn-specialcollection
+- special collection,newshour
 
 
 ## Citation
 
-Leff, Benn. "The Urban Crisis." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/urban-crisis.
+Leff, Ben. "The Urban Crisis." GBH and the Library of Congress. https://americanarchive.org/primary_source_sets/urban-crisis.
 
 
 ## Guid
