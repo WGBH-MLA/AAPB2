@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import re
-from models import Collection, Exhibit
+from .models import Collection, Exhibit
 
 
 def parse_cmless(file):
@@ -74,6 +74,7 @@ def parse_collections(directory):
         results.append(parsed)
     return results
 
+
 def parse_exhibits(directory: str) -> list[Exhibit]:
     """
     Parses all cmless exhibits in the given directory
@@ -82,7 +83,6 @@ def parse_exhibits(directory: str) -> list[Exhibit]:
     :return: A list of Exhibit pages
     """
     from os import listdir, path
-
 
     exhibits = []
     files = [f for f in listdir(directory) if f.endswith('.md')]
@@ -112,11 +112,80 @@ def parse_exhibits(directory: str) -> list[Exhibit]:
                         print(f"Error parsing {file}: {x}")
                         continue
             if exhibit.children:
-                exhibit.children.sort(key=lambda x: (x.page if x.page is not None else -1))
+                exhibit.children.sort(
+                    key=lambda x: (x.page if x.page is not None else -1)
+                )
             exhibits.append(exhibit)
-        
+
         except Exception as e:
             print(f"Error parsing {slug}: {e}")
             continue
 
     return exhibits
+
+
+def parse_cmless_thumbnail(markdown_string: str) -> list[dict[str, str]]:
+    """
+    Parse a markdown string containing cmless images into a list of objects.
+
+    Args:
+        markdown_string (str): The markdown string to parse
+
+    Returns:
+        List[Dict[str, str]]: List of dictionaries with 'title' and 'image_url' keys
+    """
+    # Pattern to match ![title](url)
+    pattern = r'\!\[([^\]]*)\]\(([^\)]*)\)'
+    matches = re.findall(pattern, markdown_string)
+
+    cmless_images = []
+    for match in matches:
+        title, url = match
+        cmless_images.append({'title': title.strip(), 'url': url.strip().split(' ')[0]})
+
+    return cmless_images
+
+
+def parse_featured_markdown(markdown_string: str) -> list[dict[str, str]]:
+    """
+    Parse a markdown string containing featured items into a list of objects.
+
+    Expected format: [![title](image_url)](link_url)
+
+    Args:
+        markdown_string (str): The markdown string to parse
+
+    Returns:
+        List[Dict[str, str]]: List of dictionaries with 'title', 'image_url', and 'link_url' keys
+    """
+    # Pattern to match [![title](image_url)](link_url)
+    pattern = r'\[\!\[([^\]]*)\]\(([^\)]*)\)\]\(([^\)]*)\)'
+
+    matches = re.findall(pattern, markdown_string)
+
+    featured_items = []
+    for match in matches:
+        title, image_url, link_url = match
+        guid = link_url.split('/')[-1].split('#')[0]  # Extract guid from link_url
+        start_time = link_url.split('#at_')[-1] if '#at_' in link_url else None
+        featured_items.append(
+            {
+                'title': title.strip(),
+                # 'thumbnail': image_url.strip(),
+                'guids': guid.strip(),
+                'start_time': (
+                    start_time.strip().replace('_s', '') if start_time else None
+                ),
+            }
+        )
+
+    return featured_items
+
+
+def markdownify(text: str) -> str:
+    """
+    Converts markdown text to HTML string
+    """
+    from markdown import markdown
+
+    return str(markdown(text))

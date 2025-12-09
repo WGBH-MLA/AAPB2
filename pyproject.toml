@@ -1,14 +1,18 @@
 [project]
-name = "aapb2"
+name = "cmless"
 version = "0.1.0"
-description = "AAPB2 python helpers"
+description = "CMLess python helpers"
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = [
-    "black>=25.1.0",
-    "ipykernel>=7.1.0",
-    "markdown>=3.10",
-    "pydantic>=2.11.7",
-    "rich>=14.0.0",
-    "ruff>=0.12.3",
-]
+dependencies = ["markdown>=3.10", "pydantic>=2.11.7"]
+
+
+[build-system]
+requires = ["uv_build>=0.8.9,<0.9.0"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-root = ""
+
+[dependency-groups]
+dev = ["black>=25.1.0", "ipykernel>=7.1.0", "rich>=14.0.0", "ruff>=0.12.3"]
