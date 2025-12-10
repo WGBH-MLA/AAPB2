@@ -2,21 +2,40 @@
   <div class="row embed-player-row">
     <div class="col-xs-12 col-sm-6 col-md-6 embed-player">
       <section class="videocontent">
-      <%=
-        @pbcore.media_srcs.map do |media_src|
-          media = @pbcore.video? ? 'video' : 'audio'
-          content_tag(media,
-                      controls: true,
-                      "class" => "video-js vjs-default-skin vjs-fluid",
-                      "id" => "player_media",
-                      "aria-label" => "video player",
-                      oncontextmenu: 'return false;',
-                      preload: 'auto',
-                      crossorigin: 'with-credentials',
-                      :"data-setup" => '{}',
-                      poster: @pbcore.img_src) do %>
+        <% if @pbcore.hls_src.present? %>
+          <!-- HLS player -->
+          <video
+            id="player_media"
+            class="video-js vjs-default-skin vjs-fluid"
+            controls
+            preload="auto"
+            crossorigin="with-credentials"
+            data-setup='{}'>
+            <source src="<%= @pbcore.hls_src %>" type="application/x-mpegURL">
+            <% if @pbcore.captions_src %>
+              <track kind="captions" src="<%= @pbcore.captions_src %>" srclang="en" label="English" default />
+            <% end %>
+            <% if ChapterFile.file_present?(@pbcore.id) %>
+              <track kind="chapters" src="<%= ChapterFile.vtt_url(@pbcore.id) %>" srclang="en" label="Chapters" />
+            <% end %>
+          </video>
+        <% else %>
+          <!-- Standard MP4/MP3 player -->
+          <%=
+          @pbcore.media_srcs.map do |media_src|
+            media = @pbcore.video? ? 'video' : 'audio'
+            content_tag(media,
+            controls: true,
+            "class" => "video-js vjs-default-skin vjs-fluid",
+            "id" => "player_media",
+            "aria-label" => "video player",
+            oncontextmenu: 'return false;',
+            preload: 'auto',
+            crossorigin: 'with-credentials',
+            "data-setup" => '{}',
+            poster: @pbcore.img_src) do %>
 
-            <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'application/x-mpegURL' : 'audio/mp3' %>' />
+          <source src="<%= media_src %>" type='<%= @pbcore.video? ? "video/mp4" : "audio/mp3" %>' />
 
             <% if @pbcore.captions_src %>
               <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
@@ -24,15 +43,19 @@
             <% if ChapterFile.file_present?(@pbcore.id) %>
               <track kind="chapters" src=<%= ChapterFile.vtt_url(@pbcore.id) %> srclang="en" label="Chapters" />
             <% end %>
-            <% if @pbcore.audio_description_src %>
-              <track kind="descriptions" src="<%= @pbcore.audio_description_src %>" srclang="en" label="Audio Description" />
-            <% end %>
             <%
           end
         end.join().html_safe()
       %>
-      </section>
-    </div>
+
+      <% if @pbcore.audio_description_src %>
+        <!-- Optional toggle button for MP3 AD -->
+        <button id="toggle-ad">Toggle Audio Description</button>
+        <audio id="ad_audio" src="<%= @pbcore.audio_description_src %>"></audio>
+      <% end %>
+    <% end %>
+  </section>
+</div>
     <div class="col-xs-12 col-sm-6 col-md-6 embed-data">
       <dl>
         <dt>Title</dt>
