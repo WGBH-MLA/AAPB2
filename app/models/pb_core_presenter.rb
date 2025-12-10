@@ -218,6 +218,12 @@ class PBCorePresenter
       hls_file.file_present? ? hls_file.url : nil
     end
   end
+  def audio_description_file
+    @audio_description_file ||= begin
+      ad = AudioDescriptionFile.new(id)
+      ad.file_present? ? ad : nil
+  end
+end
   def img?
     media_type == MOVING_IMAGE && digitized?
   end

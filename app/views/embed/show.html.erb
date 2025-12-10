@@ -23,10 +23,10 @@
               <track kind="chapters" src="<%= ChapterFile.vtt_url(@pbcore.id) %>" srclang="en" label="Chapters" />
             <% end %>
 
-            <% if ad_file.file_present? %>
-              <track kind="descriptions" src="<%= ad_file.url %>" srclang="en" label="Audio Description" />
+            <% if @pbcore.audio_description_file %>
               <button id="toggle-ad">Toggle Audio Description</button>
-              <% end %>
+              <audio id="ad_audio" src="<%= @pbcore.audio_description_file.url %>"></audio>
+            <% end %>
           </video>
         <% else %>
           <!-- Standard MP4/MP3 player -->
