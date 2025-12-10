@@ -3,6 +3,7 @@
     <div class="col-xs-12 col-sm-6 col-md-6 embed-player">
       <section class="videocontent">
         <% if @pbcore.hls_src.present? %>
+          <% ad_file = AudioDescriptionFile.new(@pbcore.id) %>
           <!-- HLS player -->
           <video
             id="player_media"
@@ -11,13 +12,21 @@
             preload="auto"
             crossorigin="with-credentials"
             data-setup='{}'>
+
             <source src="<%= @pbcore.hls_src %>" type="application/x-mpegURL">
+
             <% if @pbcore.captions_src %>
               <track kind="captions" src="<%= @pbcore.captions_src %>" srclang="en" label="English" default />
             <% end %>
+
             <% if ChapterFile.file_present?(@pbcore.id) %>
               <track kind="chapters" src="<%= ChapterFile.vtt_url(@pbcore.id) %>" srclang="en" label="Chapters" />
             <% end %>
+
+            <% if ad_file.file_present? %>
+              <track kind="descriptions" src="<%= ad_file.url %>" srclang="en" label="Audio Description" />
+              <button id="toggle-ad">Toggle Audio Description</button>
+              <% end %>
           </video>
         <% else %>
           <!-- Standard MP4/MP3 player -->
@@ -47,12 +56,6 @@
           end
         end.join().html_safe()
       %>
-
-      <% if @pbcore.audio_description_src %>
-        <!-- Optional toggle button for MP3 AD -->
-        <button id="toggle-ad">Toggle Audio Description</button>
-        <audio id="ad_audio" src="<%= @pbcore.audio_description_src %>"></audio>
-      <% end %>
     <% end %>
   </section>
 </div>
