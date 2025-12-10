@@ -24,6 +24,9 @@
             <% if ChapterFile.file_present?(@pbcore.id) %>
               <track kind="chapters" src=<%= ChapterFile.vtt_url(@pbcore.id) %> srclang="en" label="Chapters" />
             <% end %>
+            <% if @pbcore.audio_description_src %>
+              <track kind="descriptions" src="<%= @pbcore.audio_description_src %>" srclang="en" label="Audio Description" />
+            <% end %>
             <%
           end
         end.join().html_safe()

@@ -211,6 +211,10 @@ class PBCorePresenter
   def verify_transcript_src(url)
     HTTParty.head(url).code == 200
   end
+  def audio_description_src
+    ad = AudioDescriptionFile.new(id)
+    ad.file_present? ? ad.audio_src : nil
+  end
   def img?
     media_type == MOVING_IMAGE && digitized?
   end
