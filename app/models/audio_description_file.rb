@@ -5,7 +5,7 @@ class AudioDescriptionFile < ExternalFile
 
   def initialize(id)
     @id = normalize_guid(id)
-    @audio_src = "#{URL_BASE}/#{id}/#{id}.mp3"
+    @audio_src = "#{URL_BASE}/#{id}/#{id}.mp4"
     super("audio_description", @id, @audio_src)
   end
 
