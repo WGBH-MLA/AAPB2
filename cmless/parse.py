@@ -182,6 +182,26 @@ def parse_featured_markdown(markdown_string: str) -> list[dict[str, str]]:
     return featured_items
 
 
+def parse_records_markdown(markdown_string: str) -> list[str]:
+    """
+    Parse a markdown string containing records into a list of record guids.
+
+    Expected format:
+        - [](/catalog/guid)
+
+    Args:
+        markdown_string (str): The markdown string to parse
+
+    Returns:
+        List[str]: List of record guids
+    """
+    # Pattern to match [Record Title](record_url)
+    pattern = r'- \[.*?\]\(/catalog/cpb-aacip-([a-zA-Z0-9_-]+)\)'
+    matches = re.findall(pattern, markdown_string)
+    record_guids = [f'cpb-aacip-{match.strip()}' for match in matches]
+    return record_guids
+
+
 def markdownify(text: str) -> str:
     """
     Converts markdown text to HTML string
