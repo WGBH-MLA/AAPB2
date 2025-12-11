@@ -46,3 +46,11 @@ class Exhibit(CMLess):
     records: str | None = Field(None, alias="Records")
     page: int | None = Field(None, alias="Page")
     children: list['Exhibit'] | None = None
+
+
+class Author(BaseModel):
+    """Author model for CMLess documents"""
+
+    name: str
+    title: str | None = Field(None)
+    image: str | None = Field(None)

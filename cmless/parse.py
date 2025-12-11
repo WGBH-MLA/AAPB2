@@ -202,6 +202,44 @@ def parse_records_markdown(markdown_string: str) -> list[str]:
     return record_guids
 
 
+def pasre_authors_markdown(markdown_string: str) -> list[str]:
+    """
+    Parse a markdown string containing authors into a list of author names.
+
+    Expected format:
+        - <img src="url/to/source"/>
+          <a class="name">Author Name</a>
+          <a class="title">Author Title</a>
+
+    Args:
+        markdown_string (str): The markdown string to parse
+
+    Returns:
+        List[str]: List of author names
+    """
+    # Pattern to match - Author Name
+    from bs4 import BeautifulSoup
+    from cmless.models import Author
+
+    parts = markdown_string.split('\n- ')
+    authors = []
+    for part in parts:
+        soup = BeautifulSoup(part, 'html.parser')
+        author_tag = soup.find('a', class_='name')
+        if not author_tag:
+            print('No author name found in part:', part)
+            continue
+        author = Author(name=author_tag.text.strip())
+        title_tag = soup.find('a', class_='title')
+        if title_tag:
+            author.title = title_tag.text.strip()
+        image_tag = soup.find('img')
+        if image_tag:
+            author.image = image_tag.get('src')
+        authors.append(author)
+    return authors
+
+
 def markdownify(text: str) -> str:
     """
     Converts markdown text to HTML string
