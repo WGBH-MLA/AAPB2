@@ -5,7 +5,7 @@ class CatalogController < ApplicationController
   include ApplicationHelper
   include BlacklightGUIDFetcher
 
-  before_action :require_turnstile, only: [:index], if: -> { Rails.env.production? }
+  before_action :require_turnstile, only: [:index]
 
   # allows usage of default_processor_chain v
   # self.search_params_logic = true
@@ -269,12 +269,8 @@ class CatalogController < ApplicationController
           end
         end
 
-        if can? :access_transcript, @pbcore
-          # If @transcript_search_term not in param, it just doesn't get populated on search input
-          @transcript_search_term = params['term']
-          # how shown are we talkin here?
-          @transcript_open = @pbcore.correct_transcript? ? true : false
-        end
+        # Used as placeholder text in transcript search box, ok if empty.
+        @transcript_search_term = params['term']
 
         render
       end
@@ -298,7 +294,7 @@ class CatalogController < ApplicationController
   private
 
   def require_turnstile
-    return if cookies.encrypted[:turnstile_verified]
+    return if cookies.encrypted[:turnstile_verified] || !Rails.env.production?
     redirect_to turnstile_challenge_path(return_to: request.fullpath)
   end
 

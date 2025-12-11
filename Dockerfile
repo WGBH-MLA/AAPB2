@@ -4,7 +4,7 @@ WORKDIR /usr/src/app
 RUN /bin/echo -e "deb http://archive.debian.org/debian stretch main\ndeb http://archive.debian.org/debian-security stretch/updates main\n" > /etc/apt/sources.list
 
 # Install non-ruby dependencies
-RUN apt update && apt install -y nodejs curl libcurl3 libcurl3-openssl-dev openjdk-8-jdk
+RUN apt update && apt install -y --allow-unauthenticated nodejs curl libcurl3 libcurl3-openssl-dev openjdk-8-jdk
 
 # Copy source code to container
 COPY . .
@@ -66,3 +66,4 @@ RUN bundle install
 #      Starts the Rails server.
 CMD bundle exec rake jetty:start && \
     bundle exec rails s -b 0.0.0.0
+    

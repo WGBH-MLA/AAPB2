@@ -1,0 +1,14 @@
+version: 2
+updates:
+  # GitHub Actions
+  - package-ecosystem: github-actions
+    directory: .github/workflows
+    schedule:
+      interval: weekly
+      day: wednesday
+      time: '06:00'
+      timezone: US/Eastern
+    commit-message:
+      prefix: ⬆
+    labels:
+      - maintenance 🔧
