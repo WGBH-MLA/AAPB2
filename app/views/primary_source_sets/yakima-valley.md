@@ -33,24 +33,24 @@ In this set, students will listen to a program from KDNA Radio. Specifically, st
 Yakima Valley’s first broadcast Spanish-language radio station, KREW, aired in 1950. Herminia Mendez, a local pioneer in Latino radio and media entertainment, was the first broadcaster at the station. She started with a 15-minute show, which later increased to an hour. Unfortunately, the program went off the air, but KDNA (another Spanish-language station) began broadcasting in the Yakima Valley in 1979, and the station still operates today. This station, launched by the Northwest Communities Education Center, broadcasts educational and informational programs, which are crucial for keeping the community up to date on topics that affected them and providing resources on how to overcome obstacles related to literacy, language, poverty, health issues, and discrimination. KDNA was key to reviving the Chicana/o Movement in the 1970s, and it continues to play a crucial role in keeping the community united and involved in social change. 
 
 Before engaging with this resource set, students are encouraged to explore the following:
-The Spanish radio station(s) in your city and state
-The percentage of Spanish speakers in your city and state who might listen to this(these) radio station(s)
-The social issues that Latinos encounter in your city (e.g., low-wage jobs, housing)
-Besides the radio, what other forms of communication does the Latino community use to stay informed?
+- The Spanish radio station(s) in your city and state
+- The percentage of Spanish speakers in your city and state who might listen to this(these) radio station(s)
+- The social issues that Latinos encounter in your city (e.g., low-wage jobs, housing)
+- Besides the radio, what other forms of communication does the Latino community use to stay informed?
 
 <hr>
 
 #### Essential Question 
 
-What do the voices of Black Power activists contribute to our understanding about African Americans’ rights and experiences in the post-civil rights era United States?
-
+What are the different topics discussed in the radio program? What actions do these programs advise the Latino community to take in regard to the topics discussed or in fighting against the injustices they encounter? Does the Latino community in the Yakima Valley continue to face these social injustices?
+ 
 <hr>
 
 #### General Discussion Questions
-- What do you think the goals of the Black Power Movement were? 
-- What challenges did Black Power activists face?
-- How have these primary source audio and video clips affected your understanding about Black Power as a concept or a movement?
-
+- What are the main topics addressed in the different radio episodes? 
+- How does each topic impact the Latino community living in the Yakima Valley?
+- What are the organizations and resources supporting the Latino community in the Yakima Valley?
+  
 <hr>
 
 #### Classroom Activities
@@ -109,7 +109,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Black-Powe
 
 ## Citation
 
-Greer, Brenna Wynn. "The Black Power Movement." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/black-power.
+Amezcua, Angelica. "The Latino Community in the Yakima Valley." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/yakima-valley.
 
 ## Guid
 ## Cliptime
