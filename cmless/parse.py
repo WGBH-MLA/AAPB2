@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import re
-from .models import Collection, Exhibit
+from .models import Collection, Exhibit, Author
 
 
 def parse_cmless(file):
@@ -202,7 +202,7 @@ def parse_records_markdown(markdown_string: str) -> list[str]:
     return record_guids
 
 
-def pasre_authors_markdown(markdown_string: str) -> list[str]:
+def pasre_authors_markdown(markdown_string: str) -> list[Author]:
     """
     Parse a markdown string containing authors into a list of author names.
 
@@ -215,11 +215,10 @@ def pasre_authors_markdown(markdown_string: str) -> list[str]:
         markdown_string (str): The markdown string to parse
 
     Returns:
-        List[str]: List of author names
+        List[Author]: List of Author objects
     """
     # Pattern to match - Author Name
     from bs4 import BeautifulSoup
-    from cmless.models import Author
 
     parts = markdown_string.split('\n- ')
     authors = []
