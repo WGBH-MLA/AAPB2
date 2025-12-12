@@ -1,5 +1,7 @@
 # Suggested Learning Activities
 
+4
+
 ## Summary
 
 <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/first-amendment/learning_activities.png" style="float: right; width: 30%;">
