@@ -20,7 +20,9 @@
       <div class="col-sm-12 col-md-8 player col-md-offset-2">
     <% end %>
 
-        <section class="videocontent">
+        <section class="videocontent"
+            id="player-wrapper"
+            data-ad-hls="<%= @pbcore.audio_description_hls_url %>">
         <%=
           @pbcore.media_srcs.map do |media_src|
             media = @pbcore.video? ? 'video' : 'audio'
