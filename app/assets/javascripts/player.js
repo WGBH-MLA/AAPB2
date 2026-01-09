@@ -350,24 +350,28 @@ $(function() {
     
     // ---- HLS Audio Description handling ----
     var wrapper = document.getElementById('player-wrapper');
+    var adHlsUrl = wrapper?.dataset?.adHls;
 
-    if (wrapper) {
-      var adHlsSrc = wrapper.dataset.adHls;
+    if (adHlsUrl) {
+      var btn = document.createElement('button');
+      btn.id = 'toggle-audio-description';
+      btn.innerText = 'Audio Description';
+      btn.className = 'player-button';
+      wrapper.parentNode.insertBefore(btn, wrapper.nextSibling);
 
-      if (adHlsSrc) {
-        // Replace source with the AD-enabled HLS master
-        player.src({
-          src: adHlsSrc,
-          type: 'application/x-mpegURL'
-        });
-
-        player.ready(function () {
-          // Ensure Video.js scans HLS audio tracks
-          if (player.audioTracks && player.audioTracks().length > 0) {
-            console.log('HLS audio tracks detected:', player.audioTracks().length);
-          }
-        });
-      }
+      var adEnabled = false;
+      btn.addEventListener('click', function () {
+        if (!adEnabled) {
+          player.src({ src: adHlsUrl, type: 'application/x-mpegURL' });
+          btn.innerText = 'Standard Audio';
+        } else {
+          player.src(player.options_.sources);
+          btn.innerText = 'Audio Description';
+        }
+        adEnabled = !adEnabled;
+        player.load();
+        player.play();
+      });
     }
     // ---- end HLS Audio Description handling ----
 
