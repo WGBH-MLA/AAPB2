@@ -2,10 +2,10 @@
 
 ## Thumbnail
 
-![Demolition of Pruitt–Igoe, U.S. Department of Housing and Urban Development Office of Policy Development and Research, April 1996 (date of publication)](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/pruitt-igoe-thumbnail.jpeg "Demolition of Pruitt–Igoe, U.S. Department of Housing and Urban Development Office of Policy Development and Research, April 1996 (date of publication)")
+![Demolition of Pruitt–Igoe, U.S. Department of Housing and Urban Development Office of Policy Development and Research, April 1996 (date of publication)](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/south-bronx-thumbnail-2.jpeg "Demolition of Pruitt–Igoe, U.S. Department of Housing and Urban Development Office of Policy Development and Research, April 1996 (date of publication)")
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/pruitt-igoe-16x9.jpeg
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/south-bronx-16x9.jpeg
 
 ## Author
 
@@ -21,7 +21,7 @@ In 1976, New Yorkers were “choked with rage” at the “sickness of the city.
 
 Americans across the country channeled similar feelings of anger about decaying conditions in their cities, but the issues of the 1970s and early 1980s started long before. The problems were partially rooted in the aftermath of World War II, when predominantly white middle- and upper-class Americans moved out of cities into the suburbs. By the 1970s, the decline of the manufacturing sector led to the elimination of millions of stable, unionized, factory jobs that had once sustained the urban working class. The people who remained in the cities—who were disproportionately poor people of color kept out of the suburbs by formal and informal housing practices—had increasingly gloomy economic prospects, consigned to dead-end jobs or stuck scraping by on welfare. In this environment, the physical infrastructure and social fabric of American cities began to crumble as problems of poverty, crime, violence, and drug addiction grew increasingly dire. And since economic decay and suburban flight undercut the urban tax base, municipal governments struggled to fund the social services to combat these social problems.
 
-As these social dynamics took root in the late 1970s and early 1980s, Americans grappled with the proper political response to the urban crisis. The crime rate had risen significantly, and cities were increasingly viewed as dangerous places in which law-abiding citizens were unsafe. These prevailing attitudes helped fuel “tough on crime” politics in which legislators enacted tougher laws with stricter penalties, while governments shifted fiscal priorities away from social services towards policing. Local, state, and federal governments also wrestled with fiscal debates about taxation and spending. Municipal budgets were in crisis, and urban leaders called for financial support from surrounding suburbs, states, and federal governments. Resistance came from residents and politicians outside distressed cities who felt that they shouldn’t have to “bail out” cities that, in their view, had mismanaged their finances. Thus, the urban crisis had created political conflicts that divided Americans along lines of race, class, and geography.
+As these social dynamics took root in the late 1970s and early 1980s, Americans grappled with the proper political response to the urban crisis. The crime rate had risen significantly, and cities were increasingly viewed as dangerous places in which law-abiding citizens were unsafe. These prevailing attitudes helped fuel “tough on crime” politics in which legislators enacted tougher laws with stricter penalties, while governments shifted fiscal priorities away from social services towards policing. Local, state, and federal governments also wrestled with fiscal debates about taxation and spending. Municipal budgets were in crisis, and urban leaders called for financial support from surrounding suburbs, states, and federal governments. Resistance came from residents and politicians outside distressed cities who felt that they shouldn’t have to bail out cities that, in their view, had mismanaged their finances. Thus, the urban crisis had created political conflicts that divided Americans along lines of race, class, and geography.
 
 
 ## Teachingtips
