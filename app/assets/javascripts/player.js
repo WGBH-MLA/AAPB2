@@ -347,6 +347,30 @@ $(function() {
 
   if($('#player_media').length != 0){
     var player = videojs('#player_media');
+    
+    // ---- HLS Audio Description handling ----
+    var wrapper = document.getElementById('player-wrapper');
+
+    if (wrapper) {
+      var adHlsSrc = wrapper.dataset.adHls;
+
+      if (adHlsSrc) {
+        // Replace source with the AD-enabled HLS master
+        player.src({
+          src: adHlsSrc,
+          type: 'application/x-mpegURL'
+        });
+
+        player.ready(function () {
+          // Ensure Video.js scans HLS audio tracks
+          if (player.audioTracks && player.audioTracks().length > 0) {
+            console.log('HLS audio tracks detected:', player.audioTracks().length);
+          }
+        });
+      }
+    }
+    // ---- end HLS Audio Description handling ----
+
 
     // time markers from url parameters
     var time_markers = getTimeMarkers();
