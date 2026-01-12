@@ -46,6 +46,7 @@ In the balance, has the increase in global trade since World War II harmed or be
 <hr>
 
 #### General Discussion Questions
+
 - What arguments would a defender of “free trade” make about the benefits of globalization?
 - What arguments would a critic of “free trade” make about the costs of globalization?
 - What policies should the U.S. government pursue with respect to trade with companies in other countries? For example, should the U.S. place tariffs on imported goods?
