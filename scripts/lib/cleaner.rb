@@ -197,11 +197,11 @@ class Cleaner
     match(doc, '[not(pbcoreDescription)]') do
       raise 'Missing pbcoreDescription. At least one description required.'
     end
-    
+
     match(doc, '[not(pbcoreTitle)]') do
       raise 'Missing pbcoreTitle. At least one title required.'
     end
-    
+
     # formatting:
 
     Formatter.instance.format(doc).sub("<\?xml version='1\.0' encoding='UTF-8'\?> \n", '')
