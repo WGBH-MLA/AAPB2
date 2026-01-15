@@ -58,15 +58,6 @@ class Cleaner
       Cleaner.delete(node)
     end
 
-    match(doc, '[not(pbcoreTitle)]') do
-      # If there is a match, it's the root node, so no "node" parameter is needed.
-      Cleaner.insert_after_match(
-        doc,
-        '/pbcoreDescriptionDocument/pbcoreIdentifier',
-        REXML::Document.new('<pbcoreTitle titleType="Program">unknown</pbcoreTitle>')
-      )
-    end
-
     match(doc, '/pbcoreTitle[not(@titleType)]') do |node|
       node.attributes['titleType'] = ''
     end
@@ -204,9 +195,13 @@ class Cleaner
     end
 
     match(doc, '[not(pbcoreDescription)]') do
-      raise 'No pbcoreDescription remains after removal of duplicate values'
+      raise 'Missing pbcoreDescription. At least one description required.'
     end
-
+    
+    match(doc, '[not(pbcoreTitle)]') do
+      raise 'Missing pbcoreTitle. At least one title required.'
+    end
+    
     # formatting:
 
     Formatter.instance.format(doc).sub("<\?xml version='1\.0' encoding='UTF-8'\?> \n", '')
