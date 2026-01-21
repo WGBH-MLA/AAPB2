@@ -7,7 +7,7 @@ class Ability
     can :skip_tos, PBCorePresenter do |pbcore|
       (!user.bot? && (user.affirmed_tos? || user.authorized_referer?)) ||
         (user.onsite? && pbcore.private?) ||
-          (!user.onsite? && (pbcore.protected? || pbcore.private?))
+        (!user.onsite? && (pbcore.protected? || pbcore.private?))
     end
 
     can :play, PBCorePresenter do |pbcore|
