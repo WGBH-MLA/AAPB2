@@ -5,9 +5,9 @@ class Ability
 
   def initialize(user)
     can :skip_tos, PBCorePresenter do |pbcore|
-      can?(:access_media_url, pbcore) &&
-        !user.bot? &&
-        (user.affirmed_tos? || user.authorized_referer?)
+      (!user.bot? && (user.affirmed_tos? || user.authorized_referer?)) ||
+        (user.onsite? && pbcore.private?) ||
+          (!user.onsite? && (pbcore.protected? || pbcore.private?))
     end
 
     can :play, PBCorePresenter do |pbcore|
