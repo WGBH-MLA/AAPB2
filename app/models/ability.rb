@@ -1,8 +1,6 @@
 class Ability
   include CanCan::Ability
 
-  # rubocop:disable Metrics/PerceivedComplexity
-
   def initialize(user)
     can :skip_tos, PBCorePresenter do |pbcore|
       can?(:play, pbcore) &&
@@ -39,4 +37,4 @@ class Ability
       !pbcore.private? && !pbcore.transcript_status.nil?
     end
   end
-
+end
