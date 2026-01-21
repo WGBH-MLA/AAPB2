@@ -51,12 +51,6 @@
 
         <div class="row">
           <div class="col-md-12">
-            <%= render partial: 'time_range' %>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-md-12">
 
             <button id="skip-back" class="player-button skip-button">◀◀ 10s</button>
             <button id="skip-forward" class="player-button skip-button">10s ▶▶</button>
@@ -74,6 +68,12 @@
           </div>
         </div>
 
+        <div class="row">
+          <div class="col-md-12">
+            <%= render partial: 'time_range' %>
+          </div>
+        </div>
+        
         <%= render partial: 'share_modal' %>
 
       </div>
