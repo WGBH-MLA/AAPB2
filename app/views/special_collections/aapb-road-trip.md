@@ -2,20 +2,20 @@
 
 ## Thumbnail
 
-![AAPB Road Trip](https://s3.amazonaws.com/americanarchive.org/special-collections/road-trip-thumbnail-diamond.png "AAPB Road Trip Logo")
+![A road sign that reads AAPB Road Trip in front of a map of the U.S.](https://s3.amazonaws.com/americanarchive.org/special-collections/road-trip-thumbnail-diamond.png "A road sign that reads AAPB Road Trip in front of a map of the U.S.")
 
 ## Summary
 
 Join the AAPB on a virtual road trip! The AAPB Road Trip special collection features programming from stations across the country from the 1960s to the present. We're making stops in all fifty states and Washington, D.C., as well as the U.S. territories of Puerto Rico, American Samoa, the U.S. Virgin Islands, and Guam. Experience the nation's rich history, cultural diversity, and stunning natural beauty through classic public media programming. 
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ccZq8xsN5ub2wndyxu_6V6lnFeMo-TL1" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1UaEYxp_Szq83kyraTQuL5UaC5R5DfdI&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 <p></p>
 
 The AAPB Road Trip special collection includes programming from stations in major metropolitan areas as well as smaller stations serving rural communities. Many programs document regional history, industry, and culture. WCTE’s four-part documentary [*The Wilder Davidson Story: The End of an Era*](/catalog/cpb-aacip-23-7312jv7f), chronicles life and labor in the coal-mining towns of Wilder and Davidson, Tennessee, in the early twentieth century. Maine Public Broadcasting’s [*Field Trip*, “Maple Syrup Making,”](/catalog/cpb-aacip-245-95j9kqw4) takes a behind-the-scenes look at the production of the state’s sweetest commodity. And South Carolina ETV’s [*Family Across the Sea*](/catalog/cpb-aacip-41-56932dxj) explores the cultural, historical, and linguistic connections between the Gullah people of the Southeastern United States and the people of Sierra Leone.
 
 Other programs in the collection showcase the nation’s varied landscapes and wildlife. Arizona Public Media’s [*The Desert Speaks*, “Exploring Arizona’s Big Empty,”](/catalog/cpb-aacip-360a231998f) takes viewers on a journey to the Arizona Strip, a remote area north of the Grand Canyon noteworthy for its breathtaking beauty and rugged terrain. [*Natural, Wild, and Free*](/catalog/cpb-aacip-111-40xpp2nf), from Arkansas Educational TV Network, explores the history of Arkansas wildlife, from the near-extinction of many native species by the early 1900s to more recent efforts to restore their populations.
 
-Programs such as WNET’s [*Black Journal*, “Black St. Louis,”](/catalog/cpb-aacip-972cd988b7b) Wisconsin PBS’s [*Wisconsin Stories*, "Finding a Home,”](/catalog/cpb-aacip-29-6663z1nb) and the KNME-TV documentary [*Surviving Columbus*](/catalog/cpb-aacip-526-jh3cz33930) chronicle the experiences of Black, immigrant, and Indigenous communities in America, both historically and today. Other items in the collection, such as the telethon [*Beyond the Flood8](/catalog/cpb-aacip-526-tt4fn1221h), co-produced by Minneapolis-St. Paul television stations following the flooding of the Red River in 1997, demonstrate how Americans come together in times of crisis.
+Programs such as WNET’s [*Black Journal*, “Black St. Louis,”](/catalog/cpb-aacip-972cd988b7b) Wisconsin PBS’s [*Wisconsin Stories*, "Finding a Home,”](/catalog/cpb-aacip-29-6663z1nb) and the KNME-TV documentary [*Surviving Columbus*](/catalog/cpb-aacip-526-jh3cz33930) chronicle the experiences of Black, immigrant, and Indigenous communities in America, both historically and today. Other items in the collection, such as the telethon [*Beyond the Flood*](/catalog/cpb-aacip-526-tt4fn1221h), co-produced by Minneapolis-St. Paul television stations following the flooding of the Red River in 1997, demonstrate how Americans come together in times of crisis.
 
 Comprising raw interviews, historical documentaries, travelogue series, and more, the varied programming in the AAPB Road Trip special collection reflects the diversity of the nation’s landscapes, cultures, and communities. So hop in–we’re hitting the road!
 
@@ -26,7 +26,7 @@ The AAPB Road Trip special collection was first launched in 2018 and included tw
 ## Featured
 
 [![Points North (Vermont)](https://s3.amazonaws.com/americanarchive.org/special-collections/vermont.jpeg)](/catalog/cpb-aacip-46-4302vc5g)
-[![Mississippi Roads](https://s3.amazonaws.com/americanarchive.org/special-collections/mississippi-roads.png)](/catalog/cpb-aacip-60-7312jthk)
+[![Learning the Birds (Texas)](https://s3.amazonaws.com/americanarchive.org/special-collections/birds.jpeg)](/catalog/cpb-aacip-841a7e670b7)
 [![Image of Nebraska](https://s3.amazonaws.com/americanarchive.org/special-collections/sandoz-nebraska.png)](/catalog/cpb-aacip-f241961d1ff)
 [![The Japanese of California](https://s3.amazonaws.com/americanarchive.org/special-collections/japanese-california.jpeg)](/catalog/cpb-aacip-28-154dn40189)
 [![Grandpa Joe's Country (Alaska)](https://s3.amazonaws.com/americanarchive.org/special-collections/alaska.png)](/catalog/cpb-aacip-526-f18sb3z13t)
@@ -35,7 +35,7 @@ The AAPB Road Trip special collection was first launched in 2018 and included tw
 ## Resources
 
 - [Explore the archive by state or station](http://americanarchive.org/participating-orgs)
-- [Local, USA](https://www.pbs.org/show/local-usa/)(PBS, 2015 to present)
+- [Local, USA](https://www.pbs.org/show/local-usa/) (PBS, 2015 to present)
 - [American Stories: A Reading Road Trip](https://www.pbsbooks.org/readingroadtrip/) (PBS Books)
 - [America 250](https://americanarchive.org/america-250)
 
