@@ -30,13 +30,13 @@ The AAPB Road Trip special collection was first launched in 2018 and included tw
 [![Image of Nebraska](https://s3.amazonaws.com/americanarchive.org/special-collections/sandoz-nebraska.png)](/catalog/cpb-aacip-f241961d1ff)
 [![The Japanese of California](https://s3.amazonaws.com/americanarchive.org/special-collections/japanese-california.jpeg)](/catalog/cpb-aacip-28-154dn40189)
 [![Grandpa Joe's Country (Alaska)](https://s3.amazonaws.com/americanarchive.org/special-collections/alaska.png)](/catalog/cpb-aacip-526-f18sb3z13t)
-[![Guam Secret Study](https://s3.amazonaws.com/americanarchive.org/special-collections/guam.jpeg)](/catalog/cpb-aacip-333-50gtj055) 
+[![The Secret Guam Study](https://s3.amazonaws.com/americanarchive.org/special-collections/guam2.png)](/catalog/cpb-aacip-333-50gtj055) 
 
 ## Resources
 
 - [Explore the archive by state or station](http://americanarchive.org/participating-orgs)
-- [Local, USA](https://www.pbs.org/show/local-usa/) (PBS, 2015 to present)
-- [American Stories: A Reading Road Trip](https://www.pbsbooks.org/readingroadtrip/) (PBS Books)
+- [Local, USA (PBS, 2015 to present)](https://www.pbs.org/show/local-usa/)
+- [American Stories: A Reading Road Trip (PBS Books)](https://www.pbsbooks.org/readingroadtrip/)
 - [America 250](https://americanarchive.org/america-250)
 
 ## Funders
