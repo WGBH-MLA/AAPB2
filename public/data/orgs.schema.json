@@ -41,9 +41,21 @@
           "type": "string"
         },
         "Url": {
-          "type": "string"
-        }
-      },
+          "oneOf": [
+            {
+              "type": "string",
+              "format": "uri"
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "format": "uri"
+              },
+              "minItems": 1
+            }
+          ]
+        },
       "required": ["Name", "Short name", "State", "City", "About", "location"],
       "additionalProperties": false
     }
