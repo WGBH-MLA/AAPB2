@@ -24,10 +24,10 @@
         "State": { "type": "string" },
         "Url": {
           "oneOf": [
-            { "type": "string", "format": "uri" },
+            { "type": "string" },
             {
               "type": "array",
-              "items": { "type": "string", "format": "uri" },
+              "items": { "type": "string" },
               "minItems": 1
             }
           ]
