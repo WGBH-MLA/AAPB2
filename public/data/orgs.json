@@ -2524,6 +2524,19 @@
     "Name": "PBS",
     "About": "PBS is a membership organization that, in partnership with its member stations, serves the American public with programming and services of the highest quality, using media to educate, inspire, entertain and express a diversity of perspectives. PBS empowers individuals to achieve their potential and strengthen the social, democratic, and cultural health of the U.S.",
     "location": [38.8623, -77.0503]
+   },
+    "NCSG55204": {
+    "Short name": "Shaw University",
+    "State": "North Carolina",
+    "City": "Raleigh",
+    "Logo": "shaw-org-logo.png",
+    "Url": [
+      "https://live365.com/station/WSHA-Shaw-University-Radio-a29868",
+      "https://shawu.libguides.com/archives"
+    ],
+    "Name": "Shaw University",
+    "About": "Shaw University, the first HBCU in the south, was founded in 1865 by Rev. Henry Martin Tupper and his wife Sarah Tupper. Shaw University is known for many of its firsts including the first HBCU owned radio station, WSHA. WSHA-FM was established as part of the Shaw University School of Communications and made its first broadcast in November 1968. The primary function of WSHA was to serve as an extension of the radio teaching lab through which students could put into practical use what they were taught in class. WSHA studios were planned by Professor James E. Lynch, an Ohio State University consultant engaged for this purpose. Originally operating at 10 watts, later to be approved to operate at a higher power, the equipment was of top professional quality and was ordered and installed under the supervision of Al Boggioni, consulting engineer also from Ohio State University. Mrs. Elizabeth Shimer Czech was appointed supervisor of the radio station WSHA as well as head of the new Radio-TV-Film Department in 1968. Under her guidance, some 50 students were prepared for the initial broadcast and to operate the station, through non-credit workshops. Except for the supervisor, receptionist, and a part-time engineer, the WSHA staff was entirely made up of students majoring in Radio-TV-Film. Students were also required to have their FCC third-class licenses before being accepted as regular operators of WSHA. As an educational, non-commercial station, WSHA programming was established to serve the entire Raleigh community. Programming was set up in three different blocks in order to reach three different types of audience which included a cultural and informational emphasis, community involvement such as news, public affairs, and minority viewpoints, and Contemporary sound- mainly music geared towards young adults. Since WSHA was operated by students in a predominantly Black university, and area stations did not cover Black news in depth, the students were encouraged to discover and air stories which would fill the existing gaps and could lead to a better understanding between the races. Programs would later increase to include jazz, blues, reggae, soul, R&B, and gospel as well as various talk shows such as Traces of Faces and Places, and Shaw University sports broadcasts. After petitions were filed by students, alumni, and community members, WSHA-FM was ultimately sold in 2018.",
+    "location": [35.7712, -78.6379]
    }
 }
   
