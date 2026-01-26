@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Demolition of Pruitt–Igoe, U.S. Department of Housing and Urban Development Office of Policy Development and Research, April 1996 (date of publication)](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/south-bronx-thumbnail-2.jpeg "Demolition of Pruitt–Igoe, U.S. Department of Housing and Urban Development Office of Policy Development and Research, April 1996 (date of publication)")
+![Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/south-bronx-thumbnail-2.jpeg "Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.")
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/south-bronx-16x9.jpeg
@@ -26,13 +26,13 @@ As these social dynamics took root in the late 1970s and early 1980s, Americans 
 
 ## Teachingtips
 
-Collectively, the sources capture multiple layers of the urban crisis. The first three clips illuminate some of the structural causes of urban decay. The next three clips portray some of the “symptoms” by depicting bleak conditions in Newark, New York, and Boston. Several more clips speak to the rise in crime and the resulting anger and fear that fueled the War on Crime. The remaining clips lay out the contours of a political debate of the era: should tax revenue collected by federal, state, and nearby local governments be redirected to cities to address the problems of urban decay?  
+Collectively, the sources capture multiple layers of the urban crisis. The first three clips illuminate some of the structural causes of urban decay. The next three clips portray some of the symptoms by depicting bleak conditions in Newark, New York, and Boston. Several more clips speak to the rise in crime and the resulting anger and fear that fueled the War on Crime. The remaining clips lay out the contours of a political debate of the era: should tax revenue collected by federal, state, and nearby local governments be redirected to cities to address the problems of urban decay?  
 
 #### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
 
-- The rise and maturation of an industrialized economy in the US by the mid-20th Century
+- The rise and maturation of an industrialized economy in the US by the mid-20th century
 - Some understanding of the way power and responsibilities are divided between federal, state, and local governments in the United States
 
 <hr>
@@ -60,7 +60,7 @@ What social problems plagued American cities in the late 1970s and early 1980s, 
 - [The Struggles of the Auto Industry (1980)](/primary_source_sets/urban-crisis/02-e702335a440)
 - [Why Vietnam (1965)](/primary_source_sets/urban-crisis/03-507-gt5fb4xb92)
 
-Then ask them to make a diagram or flowchart to depict the causal processes that created urban decay in the late 1970s and early 1980s. Ideally, this schematic should show some of the “chain reactions” that took place in the postwar decades and depict how different causes reinforced each other. Students can either write their maps on paper or use a free concept mapping tool on the internet.
+Then ask them to make a diagram or flowchart to depict the causal processes that created urban decay in the late 1970s and early 1980s. Ideally, this schematic should show some of the chain reactions that took place in the postwar decades and depict how different causes reinforced each other. Students can either write their maps on paper or use a free concept mapping tool on the internet.
 
 2) Ask students to watch the following sources: 
 
@@ -75,7 +75,7 @@ Discuss the following questions:
 - Imagine you lived in a poor neighborhood in one of the cities in this era. What would be hard about growing up in this environment? What would be some opportunities that you might not have that middle-class residents did not have?
 - What kinds of explanations for urban problems might have been offered by political liberals? What reforms do you think they might have proposed?
 - What kinds of explanations for urban problems might have been offered by political conservatives? What reforms do you think they might have proposed?
-- Extension Activity: Ask students to read [this *New York Times*](https://www.nytimes.com/1978/03/28/archives/president-proposes-a-broad-new-policy-for-urban-recovery-fate-in.html) summary of President Jimmy Carter’s proposal of a broad federal policy to address problems in American cities. Ask: Which of these proposals do you think would be effective in addressing those problems? Which would not be effective? What criticism might this proposal have faced?
+- Extension Activity: Ask students to read [this *New York Times*](https://www.nytimes.com/1978/03/28/archives/president-proposes-a-broad-new-policy-for-urban-recovery-fate-in.html) summary of then-President Jimmy Carter’s proposal of a broad federal policy to address problems in American cities. Ask: Which of these proposals do you think would be effective in addressing those problems? Which would not be effective? What criticism might this proposal have faced?
 
 3) Ask students to watch the following sources: 
 
@@ -90,7 +90,7 @@ Present them with the following situation: It is 1983 and there is an economical
 - Group 2: Mayor of an Affluent Suburb (Have this group consider: Why is it unfair for your tax revenue to be funneled to the city? Why would this proposed reform be a mistake?)
 - Group 3: Governor of the State (Have this group consider: What do you see as the positives of the proposed reform? The negatives? Would you support it, or not?)
 
-4) After watching and discussing some or all of the clips in this set, divide students into groups and give them the following task: “You work for the mayor of a major city in 1981. Hundreds of factories have shut down, and poverty and unemployment have risen significantly in the last decade. At the same time, crime has spiked and residents complain that the streets aren’t safe. A large number of (predominantly white) middle- and upper-class residents have moved to the suburbs. The city’s finances are in trouble, as the city has had to take out loans to fill budget gaps but is struggling to pay back those loans. It seems the city will need some combination of tax increases, spending cuts, or outside financial aid. Faced with these problems, come up with a list of five proposed municipal reforms (Note: these should be reforms that are in the mayor’s control, and can’t involve getting funding from other layers of government). For each reform, provide a brief explanation of why that reform could help address a problem your city faces.” After completing this task, groups can “share out” some of their proposed reforms, and as a class, you can discuss whether these reforms would be effective.
+4) After watching and discussing some or all of the clips in this set, divide students into groups and give them the following task: “You work for the mayor of a major city in 1981. Hundreds of factories have shut down, and poverty and unemployment have risen significantly in the last decade. At the same time, crime has spiked and residents complain that the streets aren’t safe. A large number of (predominantly white) middle- and upper-class residents have moved to the suburbs. The city’s finances are in trouble, as the city has had to take out loans to fill budget gaps but is struggling to pay back those loans. It seems the city will need some combination of tax increases, spending cuts, or outside financial aid. Faced with these problems, come up with a list of five proposed municipal reforms (Note: these should be reforms that are *in the mayor’s control*, and can’t involve getting funding from other layers of government). For each reform, provide a brief explanation of why that reform could help address a problem your city faces.” After completing this task, groups can “share out” some of their proposed reforms, and as a class, you can discuss whether these reforms would be effective.
 
 <hr>
 
