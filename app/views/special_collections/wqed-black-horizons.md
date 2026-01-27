@@ -16,7 +16,9 @@ The program presents an eclectic range of topics—one week, a public affairs pr
 
 Recognized as the nation’s first community-supported television station and a precursor to the Public Broadcasting Service (PBS), WQED was founded in 1953 and began broadcasting in 1954. In 1968, it launched *Black Horizons*, one of the earliest and longest-running television programs designed to serve the needs of Black communities. *Black Horizons* marked a community response to the rising momentum of the Civil Rights Movement and the recommendations of U.S. President Lyndon Johnson’s 1968 Kerner Commission to broaden media hiring and coverage.  
 
-In 2023, the National Endowment for Humanities and the National Historical Publications and Records Commission awarded funds to help WQED preserve and provide access to media documenting the Black experience in Pittsburgh, Pennsylvania. This effort has been completed through collaboration with the American Archive of Public Broadcasting.  
+In 2023, the National Endowment for Humanities and the National Historical Publications and Records Commission awarded funds to help WQED preserve and provide access to media documenting the Black experience in Pittsburgh, Pennsylvania. This effort has been completed through collaboration with the American Archive of Public Broadcasting.
+
+For more information on the *Black Horizons* collection, please visit [WQED's Content Connection](https://contentconnection.org/) site to view a [video overview](https://contentconnection.org/resource/wqed-black-horizons-collection-aapb-video/) of the archive. There, you can also find video guides to [searching the collection](https://contentconnection.org/resource/searching-black-horizons/) and [sharing clips](https://contentconnection.org/resource/sharing-clips-black-horizons/). 
 
 ## Featured
 
@@ -30,6 +32,9 @@ In 2023, the National Endowment for Humanities and the National Historical Publi
 ## Resources
 
 - [*Black Horizons*, WQED.org](https://www.wqed.org/blackhorizons/)
+- [Video: *Black Horizons* Collection Ovierview](https://contentconnection.org/resource/wqed-black-horizons-collection-aapb-video/)
+- [Video: Searching the *Black Horizons* Collection](https://contentconnection.org/resource/searching-black-horizons/)
+- [Video: Sharing *Black Horizons* Clips](https://contentconnection.org/resource/sharing-clips-black-horizons/)
 - [*Voice of the Arts* interview with WQED Archivist Molly Tighe](https://www.wqed.org/podcasts/molly-tighe-wqed-digital-archivist/)
 - [Black Pittsburgh Matters, City of Pittsburgh](https://www.pittsburghpa.gov/Resident-Services/Community-Programming/Black-Pittsburgh-Matters)
 - [*Televising Black Politics in the Black Power Era*: Black Journal *and* Soul!](https://americanarchive.org/exhibits/black-power)

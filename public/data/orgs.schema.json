@@ -8,40 +8,29 @@
     "^.+$": {
       "type": "object",
       "properties": {
-        "About": {
-          "type": "string"
-        },
-        "City": {
-          "type": "string"
-        },
+        "About": { "type": "string" },
+        "City": { "type": "string" },
         "location": {
           "type": "array",
           "items": [
-            {
-              "type": "number"
-            },
-            {
-              "type": "number"
-            }
+            { "type": "number" },
+            { "type": "number" }
           ]
         },
-        "Logo": {
-          "type": "string"
-        },
-        "Name": {
-          "type": "string"
-        },
-        "Productions": {
-          "type": "string"
-        },
-        "Short name": {
-          "type": "string"
-        },
-        "State": {
-          "type": "string"
-        },
+        "Logo": { "type": "string" },
+        "Name": { "type": "string" },
+        "Productions": { "type": "string" },
+        "Short name": { "type": "string" },
+        "State": { "type": "string" },
         "Url": {
-          "type": "string"
+          "oneOf": [
+            { "type": "string" },
+            {
+              "type": "array",
+              "items": { "type": "string" },
+              "minItems": 1
+            }
+          ]
         }
       },
       "required": ["Name", "Short name", "State", "City", "About", "location"],
