@@ -471,12 +471,14 @@ describe 'Catalog' do
     end
 
     it 'has poster otherwise if media' do
+      allow_any_instance_of(User).to receive(:affirmed_tos?).and_return(true)
       visit 'catalog/cpb-aacip_37-16c2fsnr'
       expect_all_the_text('clean-every-title-is-episode-number.xml')
       expect_video(poster: s3_thumb('cpb-aacip-37-16c2fsnr'))
     end
 
     it 'has default poster for audio that ' do
+      allow_any_instance_of(User).to receive(:affirmed_tos?).and_return(true)
       visit 'catalog/cpb-aacip_169-9351chfc'
       expect_all_the_text('clean-audio-digitized.xml')
       expect_audio(poster: '/thumbs/AUDIO.png')
@@ -491,6 +493,7 @@ describe 'Catalog' do
     end
 
     it 'links to exhibit' do
+      allow_any_instance_of(User).to receive(:affirmed_tos?).and_return(true)
       visit '/catalog/cpb-aacip_111-21ghx7d6'
       expect(page).to have_text('This record is featured in'), missing_page_text_custom_error('This record is featured in', page.current_path)
       expect_video(poster: s3_thumb('cpb-aacip-111-21ghx7d6'))

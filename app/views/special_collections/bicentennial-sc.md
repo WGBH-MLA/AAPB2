@@ -8,7 +8,7 @@
 
 In 2026, the United States will celebrate the 250th anniversary of the signing of the Declaration of Independence. As America’s semiquincentennial approaches, this collection looks back at public media programming produced fifty years ago to commemorate the nation's bicentennial in 1976. 
 
-During the bicentennial, public radio and television stations broadcast parades, revolutionary war reenactments, choral and concert performances, speeches by political leaders, and lecture series on themes such as the history and future of democracy. Many local stations also produced series on the history, people, and culture of their state or region. For example, [*North Carolina: A Self Portrait*](https://americanarchive.org/catalog?f[series_titles][]=North+Carolina%3A+A+Self-Portrait&f[access_types][]=all) (1976), was a bicentennial project of WUNC radio in which North Carolinians spoke “about themselves, their state, their families, their interests, and each other.” 
+During the bicentennial, public radio and television stations broadcast parades, revolutionary war reenactments, choral and concert performances, speeches by political leaders, and lecture series on themes such as the history and future of democracy. One such lecture series was the American Enterprise Institute’s [Distinguished Lecture Series on the Bicentennial](https://americanarchive.org/catalog?f[series_titles][]=Distinguished+Lecture+Series+on+the+Bicentennial&f[access_types][]=all), featuring prominent scholars expounding on the American revolution and its legacy. Many local stations also produced series on the history, people, and culture of their state or region. For example, [*North Carolina: A Self Portrait*](https://americanarchive.org/catalog?f[series_titles][]=North+Carolina%3A+A+Self-Portrait&f[access_types][]=all) (1976), was a bicentennial project of WUNC radio in which North Carolinians spoke “about themselves, their state, their families, their interests, and each other.” 
 
 Local stations also produced news reports and documentaries on regional bicentennial activities and state projects. *The Compass Weekly’s* [“The Tourists Are Coming”](/catalog/cpb-aacip_15-41zcrw5k) (WGBH, 1975) shows how historic Massachusetts towns, such as Lexington and Concord, prepared for an expected influx of visitors during the bicentennial year. In Nebraska, a bicentennial sculpture project drew criticism for failing to include works by Nebraska natives, and because many objected to the abstract designs of the commissioned sculptures. The story of the controversial project is told in [*The 500 Mile Sculpture Garden*](/catalog/cpb-aacip-b9e8ca5f7c4) (Nebraska ETV Network, 1976).
 
@@ -35,10 +35,12 @@ The Bicentennial Collection comprises radio and television programming from publ
 
 - [The 1976 Bicentennial of American Independence](https://www.si.edu/spotlight/united-states-bicentennial)
 - [The U.S. Bicentennial, 1976](https://inclusivehistorian.com/u-s-bicentennial-1976/)
+- [Public Media Making History at 250](https://www.publicmedia250.org/)
+- [America 250](https://america250.org/)
+- [AEI Archive: Distinguished Lecture Series on the Bicentennial of the United States](https://www.aei.org/aei-archive-bicentennial-lecture-series/)
 - [The I-80 Sculpture Project](https://www.nshsf.org/projects/i80-sculpture/)
 - [Recognition of Black History Month](https://ford.blogs.archives.gov/2024/02/01/recognition-of-black-history-month/)
 - [Celebrating American Women During the Bicentennial](https://prologue.blogs.archives.gov/2025/03/05/celebrating-american-women-during-the-bicentennial/)
-- [America 250](https://america250.org/)
 
 ## Funders
 
