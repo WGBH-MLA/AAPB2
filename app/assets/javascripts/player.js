@@ -360,7 +360,7 @@ $(function() {
       btn.id = 'toggle-audio-description';
       btn.innerText = 'Audio Description';
       btn.className = 'player-button';
-      wrapper.parentNode.insertBefore(btn, wrapper.nextSibling);
+      document.getElementById("player-controls").append(btn);
 
       var adEnabled = false;
       btn.addEventListener('click', function () {
