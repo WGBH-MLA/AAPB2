@@ -359,7 +359,7 @@ $(function() {
       var btn = document.createElement('button');
       btn.id = 'toggle-audio-description';
       btn.innerText = 'Audio Description';
-      btn.className = 'player-button';
+      btn.className = 'player-button audio-description';
       document.getElementById("player-controls").append(btn);
 
       var adEnabled = false;
