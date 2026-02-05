@@ -26,13 +26,13 @@ As these social dynamics took root in the late 1970s and early 1980s, Americans 
 
 ## Teachingtips
 
-Collectively, the sources capture multiple layers of the urban crisis. The first three clips illuminate some of the structural causes of urban decay. The next three clips portray some of the symptoms by depicting bleak conditions in Newark, New York, and Boston. Several more clips speak to the rise in crime and the resulting anger and fear that fueled the War on Crime. The remaining clips lay out the contours of a political debate of the era: should tax revenue collected by federal, state, and nearby local governments be redirected to cities to address the problems of urban decay?  
+Collectively, the sources capture multiple layers of the urban crisis. The first three clips illuminate some of the structural causes of urban decay. The next three clips portray some of the symptoms by depicting bleak conditions in Newark, New York, and Boston. Several more clips speak to the rise in crime and the resulting anger and fear that fueled the War on Crime. The remaining clips lay out the contours of a political debate of the era: Should tax revenue collected by federal, state, and nearby local governments be redirected to cities to address the problems of urban decay?  
 
 #### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
 
-- The rise and maturation of an industrialized economy in the US by the mid-20th century
+- The rise and maturation of an industrialized economy in the U.S. by the mid-20th century
 - Some understanding of the way power and responsibilities are divided between federal, state, and local governments in the United States
 
 <hr>
@@ -46,7 +46,7 @@ What social problems plagued American cities in the late 1970s and early 1980s, 
 #### General Discussion Questions
 - What were the social, economic, and political forces that contributed to urban decay in the 1970s?
 - What were some of the hardships faced by urban residents in the late 1970s and early 1980s?
-- How and why did the urban crisis particularly affect African American and Latinos?
+- How and why did the urban crisis particularly affect African Americans and Latinos?
 - What were some of the political reforms that were proposed or attempted to address the problems of the cities? What might have been the sources of resistance to these efforts?
 
 
@@ -58,7 +58,7 @@ What social problems plagued American cities in the late 1970s and early 1980s, 
 
 - [Middle Class Exodus to the Suburbs (1966)](/primary_source_sets/urban-crisis/01-516-hx15m6375q)
 - [The Struggles of the Auto Industry (1980)](/primary_source_sets/urban-crisis/02-e702335a440)
-- [Why Vietnam (1965)](/primary_source_sets/urban-crisis/03-507-gt5fb4xb92)
+- [The Domino Effect of Plant Closures in the Rust Belt (1978)](/primary_source_sets/urban-crisis/03-507-gt5fb4xb92)
 
 Then ask them to make a diagram or flowchart to depict the causal processes that created urban decay in the late 1970s and early 1980s. Ideally, this schematic should show some of the chain reactions that took place in the postwar decades and depict how different causes reinforced each other. Students can either write their maps on paper or use a free concept mapping tool on the internet.
 
@@ -72,7 +72,7 @@ Then ask them to make a diagram or flowchart to depict the causal processes that
 
 Discuss the following questions: 
 
-- Imagine you lived in a poor neighborhood in one of the cities in this era. What would be hard about growing up in this environment? What would be some opportunities that you might not have that middle-class residents did not have?
+- Imagine you lived in a poor neighborhood in one of the cities in this era. What would be hard about growing up in this environment? What are some opportunities that you might not have that middle-class residents would have?
 - What kinds of explanations for urban problems might have been offered by political liberals? What reforms do you think they might have proposed?
 - What kinds of explanations for urban problems might have been offered by political conservatives? What reforms do you think they might have proposed?
 - Extension Activity: Ask students to read [this *New York Times*](https://www.nytimes.com/1978/03/28/archives/president-proposes-a-broad-new-policy-for-urban-recovery-fate-in.html) summary of then-President Jimmy Carter’s proposal of a broad federal policy to address problems in American cities. Ask: Which of these proposals do you think would be effective in addressing those problems? Which would not be effective? What criticism might this proposal have faced?
