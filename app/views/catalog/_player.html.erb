@@ -22,7 +22,7 @@
 
         <section class="videocontent"
             id="player-wrapper"
-            data-ad-hls="<%= @audio_description_file&.url %>">
+            data-ad-hls="<%= @audio_description_url %>">
         <%=
           @pbcore.media_srcs.map do |media_src|
             media = @pbcore.video? ? 'video' : 'audio'

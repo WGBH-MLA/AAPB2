@@ -350,7 +350,10 @@ $(function() {
     
     // ---- HLS Audio Description handling ----
     var wrapper = document.getElementById('player-wrapper');
-    var adHlsUrl = wrapper?.dataset?.adHls;
+    var adHlsUrl
+    if(wrapper && wrapper.dataset && wrapper.dataset.adHls){
+      adHlsUrl = wrapper.dataset.adHls;
+    }
 
     if (adHlsUrl) {
       var btn = document.createElement('button');
