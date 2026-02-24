@@ -1,6 +1,6 @@
 // Imported from OpenVault with minor adjustments.
-window.onunload = function(){};
-$(function() {
+window.onunload = function () { };
+$(function () {
 
   $slider_positions = [];
   $current_handle = null;
@@ -9,14 +9,14 @@ $(function() {
     var url = window.location.href;
     name = name.replace(/[\[\]]/g, '\\$&');
     var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
-        results = regex.exec(url);
+      results = regex.exec(url);
     if (!results) return null;
     if (!results[2]) return '';
     return decodeURIComponent(results[2].replace(/\+/g, ' '));
   }
 
   function updateTranscriptGrid() {
-    
+
     showTranscript();
   }
   function showTranscript() {
@@ -28,14 +28,14 @@ $(function() {
   }
 
   function updatePlayerGrid() {
-    if(!player){
+    if (!player) {
       return;
     }
     var playerHeight = player.height();
     var playerWidth = player.width();
 
 
-    if(!$divPlayer.hasClass('primary-source-set-player')){
+    if (!$divPlayer.hasClass('primary-source-set-player')) {
       // ^ hack to exclude grid shift for educator resources player ts viewer show/hide
 
       if ($divPlayer.hasClass('col-md-8') && $divPlayer.hasClass('player')) {
@@ -45,7 +45,7 @@ $(function() {
         $divPlayer.removeClass('col-md-offset-2').removeClass('col-md-8');
         $divExhibitPromo.addClass('col-md-6');
         $divExhibitPromo.removeClass('col-md-offset-2').removeClass('col-md-8');
-      } else if ($divPlayer.hasClass('col-md-6') && $divPlayer.hasClass('player'))  {
+      } else if ($divPlayer.hasClass('col-md-6') && $divPlayer.hasClass('player')) {
         // push minimized transcript viewer panel down below player
 
         $divPlayer.addClass('col-md-offset-2').addClass('col-md-8');
@@ -58,16 +58,16 @@ $(function() {
 
       var deets = document.getElementById("primary-source-clip-details")
       var start, dest
-      if(deets.parentElement.id === "clip-details-small"){
+      if (deets.parentElement.id === "clip-details-small") {
 
         // start = document.getElementById("clip-details-small")
         // document.getElementById("primary-source-clip-details").remove()
-        console.log( 'i moved it to wide' )
+        console.log('i moved it to wide')
         dest = document.getElementById("clip-details-wide")
-      } else if(deets.parentElement.id === "clip-details-wide" ){
+      } else if (deets.parentElement.id === "clip-details-wide") {
         // start = document.getElementById("clip-details-wide")
         // document.getElementById("primary-source-clip-details").remove()
-        console.log( 'i moved it to small' )
+        console.log('i moved it to small')
         dest = document.getElementById("clip-details-small")
       }
 
@@ -75,12 +75,12 @@ $(function() {
       dest.append(deets)
 
     }
-    
+
   }
 
   function updateTranscriptButton() {
     var sliders = document.getElementsByClassName("transcript-slide");
-    for(var i = 0; i < sliders.length; ++i){
+    for (var i = 0; i < sliders.length; ++i) {
       var slide = sliders[i];
       if (slide.classList.contains('show-transcript')) {
         slide.innerHTML = 'Show<div class="transcript-circle">+</div>';
@@ -98,7 +98,7 @@ $(function() {
     var start = getParameterByName('start');
     var end = getParameterByName('end');
 
-    if(start && end){
+    if (start && end) {
       return [start, end];
     }
   }
@@ -106,8 +106,8 @@ $(function() {
   function getTimeMarkersFromEducatorResourceClip() {
     var start = document.getElementById("clip-start").innerHTML;
     var end = document.getElementById("clip-end").innerHTML;
-    console.log( 'ssss', start, end )
-    if(start && end){
+    console.log('ssss', start, end)
+    if (start && end) {
       return [start, end];
     }
   }
@@ -121,46 +121,46 @@ $(function() {
   function convertTimeCodeToSeconds(timeString) {
 
     var timeArray = timeString.split(":");
-    var hours   = parseInt(timeArray[0]) * 60 * 60;
+    var hours = parseInt(timeArray[0]) * 60 * 60;
     var minutes = parseInt(timeArray[1]) * 60;
     var seconds = parseInt(timeArray[2]);
-    var frames  = 0;
+    var frames = 0;
     var totalTime = hours + minutes + seconds + frames;
     return totalTime;
   }
 
   function addRangeSlider() {
-    var value = "0,"+$video_duration;
+    var value = "0," + $video_duration;
 
     noUiSlider.create($con, {
-        start: [0, $video_duration],
-        connect: true,
-        range: {
-            'min': 0,
-            'max': $video_duration
-        }
+      start: [0, $video_duration],
+      connect: true,
+      range: {
+        'min': 0,
+        'max': $video_duration
+      }
     });
 
-    $('.noUi-touch-area').each(function(index, handle){
+    $('.noUi-touch-area').each(function (index, handle) {
       $(handle).attr('id', 'handle-' + index);
     });
   }
 
-  function getHost(){
+  function getHost() {
     var uri = window.location.protocol + '//' + window.location.hostname;
     // for dev env
     return window.location.port ? uri + ':' + window.location.port : uri;
   }
 
-  function getShareGuts(uri){
+  function getShareGuts(uri) {
     var pbcore_guid = $('#pbcore-guid').text();
 
     var radio = $('input.share-at-time:checked');
-    if(radio && radio.attr('id') == 'on') {
+    if (radio && radio.attr('id') == 'on') {
       // segment of whatever / slider
       var tm = getTimeMarkerQuery();
       return pbcore_guid + tm;
-    } else if(radio && radio.attr('id') == 'current'){
+    } else if (radio && radio.attr('id') == 'current') {
       // #at_time_s
       return pbcore_guid + '?proxy_start_time=' + player.currentTime();
     } else {
@@ -181,41 +181,41 @@ $(function() {
   };
 
   function parse_timecode(hms) {
-      var arr = hms.split(':');
-      return parseFloat(arr[2]) +
-             60 * parseFloat(arr[1]) +
-             60*60 * parseFloat(arr[0]);
+    var arr = hms.split(':');
+    return parseFloat(arr[2]) +
+      60 * parseFloat(arr[1]) +
+      60 * 60 * parseFloat(arr[0]);
   }
 
   function greatest_less_than_or_equal_to(t) {
-      var last = 0;
-      for (var i=0; i < sorted.length; i++) {
-          if (sorted[i] <= t) {
-              last = sorted[i];
-          } else {
-              return last;
-          }
+    var last = 0;
+    for (var i = 0; i < sorted.length; i++) {
+      if (sorted[i] <= t) {
+        last = sorted[i];
+      } else {
+        return last;
       }
+    }
   };
 
   function set_user_scroll(state) {
-      $player.data('user-scroll', state);
+    $player.data('user-scroll', state);
   }
 
   function is_user_scroll() {
-      return $player.data('user-scroll');
+    return $player.data('user-scroll');
   }
 
   function skipPlayer(forward) {
     var now = player.currentTime();
-    if(forward){
-      player.currentTime(now+10);
+    if (forward) {
+      player.currentTime(now + 10);
     } else {
-      player.currentTime(now-10);
+      player.currentTime(now - 10);
     }
   }
 
-  function toTC(int_seconds){
+  function toTC(int_seconds) {
     var date = new Date(0)
     date.setSeconds(int_seconds);
     return date.toISOString().substr(11, 8);
@@ -224,18 +224,18 @@ $(function() {
   var $transcript = $('#transcript');
 
   var lines = {};
-  $transcript.contents().find('[data-timecodebegin]').each(function(i,el){
-      var $el = $(el);
-      lines[parse_timecode($el.data('timecodebegin'))] = $el;
+  $transcript.contents().find('[data-timecodebegin]').each(function (i, el) {
+    var $el = $(el);
+    lines[parse_timecode($el.data('timecodebegin'))] = $el;
   });
-  var sorted = Object.keys(lines).sort(function(a,b){return a - b;});
+  var sorted = Object.keys(lines).sort(function (a, b) { return a - b; });
   // Browser seems to preserve key order, but don't rely on that.
   // JS default sort is lexicographic.
 
   var $player = $('#player_media_html5_api');
 
   // chrome needs this!!
-  if($player[0]){
+  if ($player[0]) {
     var proxyStartTime = getParameterByName('proxy_start_time');
     // If timecode included in URL, play to pass thumbnail,
     // then pause at that timecode.
@@ -246,8 +246,8 @@ $(function() {
       var $line = lines[key];
 
       // only scroll transcript if there actually is a transcript
-      if($line){
-        $transcript.contents().scrollTop($line.position().top-40);
+      if ($line) {
+        $transcript.contents().scrollTop($line.position().top - 40);
       }
     }
   }
@@ -257,23 +257,23 @@ $(function() {
   $video_duration = parseInt($('#video-duration').text());
 
   // only do it if theres a duration value
-  if($video_duration > 0){
+  if ($video_duration > 0) {
 
-    $('#time-range-switch').click(function() {
+    $('#time-range-switch').click(function () {
       $('#time-range-container').slideToggle();
     });
 
     addRangeSlider();
 
-    $con.noUiSlider.on('update', function(e) {
+    $con.noUiSlider.on('update', function (e) {
       var new_slider_positions = $con.noUiSlider.get();
-      $('#start-time').text( new_slider_positions[0] );
-      $('#end-time').text( new_slider_positions[1] );
+      $('#start-time').text(new_slider_positions[0]);
+      $('#end-time').text(new_slider_positions[1]);
 
-      $('#start-display').text( toTC(new_slider_positions[0]) );
-      $('#end-display').text( toTC(new_slider_positions[1]) );
+      $('#start-display').text(toTC(new_slider_positions[0]));
+      $('#end-display').text(toTC(new_slider_positions[1]));
 
-      if($current_handle == 0 || $current_handle == 1){
+      if ($current_handle == 0 || $current_handle == 1) {
         player.currentTime($slider_positions[$current_handle]);
       }
 
@@ -281,24 +281,24 @@ $(function() {
     });
   }
 
-  $('.noUi-touch-area').mousedown(function(e) {
+  $('.noUi-touch-area').mousedown(function (e) {
     // set current_handle to 0 or 1
     $current_handle = parseInt(e.target.id.slice(-1));
   });
 
-  $('.noUi-touch-area').on('touchstart', function(e) {
+  $('.noUi-touch-area').on('touchstart', function (e) {
     // set current_handle to 0 or 1
     $current_handle = parseInt(e.target.id.slice(-1));
   });
 
-  $('#player_media').on('loadstart', function() {
+  $('#player_media').on('loadstart', function () {
     // firefox needs this!
-    if(!$player[0]){
+    if (!$player[0]) {
       $player = $('#player_media').find('video,audio');
     }
   });
 
-  $('#player_media').on('durationchange', function() {
+  $('#player_media').on('durationchange', function () {
     // firefox needs this!
     var proxyStartTime = getParameterByName('proxy_start_time');
     // If timecode included in URL, play to pass thumbnail,
@@ -308,36 +308,36 @@ $(function() {
     }
   });
 
-  $player.on('timeupdate', function(){
+  $player.on('timeupdate', function () {
     var current = $player[0].currentTime;
     var key = greatest_less_than_or_equal_to(current);
     var $line = lines[key];
     var class_name = 'current';
     if ($line && !$line.hasClass(class_name)) {
-        $transcript.contents().find('[data-timecodebegin]').removeClass(class_name);
-        $line.addClass(class_name);
+      $transcript.contents().find('[data-timecodebegin]').removeClass(class_name);
+      $line.addClass(class_name);
     };
   });
 
-  $('.play-from-here').unbind('click').on('click', function(){
+  $('.play-from-here').unbind('click').on('click', function () {
     var time = parse_timecode($(this).data('timecode'));
     $player[0].currentTime = time;
     $player[0].play();
   });
 
-  $(document).keypress(function(e) {
-    if(e.keyCode == 37) {
+  $(document).keypress(function (e) {
+    if (e.keyCode == 37) {
       $('button#skip-back').trigger('click');
     } else if (e.keyCode == 39) {
       $('button#skip-forward').trigger('click');
     }
   });
 
-  $('button#skip-back').unbind('click').click(function() {
+  $('button#skip-back').unbind('click').click(function () {
     skipPlayer(false);
   });
 
-  $('button#skip-forward').unbind('click').click(function() {
+  $('button#skip-forward').unbind('click').click(function () {
     skipPlayer(true);
   });
 
@@ -345,31 +345,30 @@ $(function() {
   var $divPlayer = $('div.player');
   var $divExhibitPromo = $('div.exhibit-promo');
 
-  if($('#player_media').length != 0){
+  if ($('#player_media').length != 0) {
     var player = videojs('#player_media');
-    
-   var player = videojs('#player_media');
-// ---- Accessible Audio Description ControlBar Button ----
+
+    var player = videojs('#player_media');
+    // Accessible Audio Description ControlBar Button
     const Button = videojs.getComponent('Button');
-    
+
     class AudioDescriptionToggle extends Button {
       constructor(player, options) {
         super(player, options);
-        
         this.controlText('Toggle Audio Description');
         this.addClass('vjs-audio-description-button');
-        
+
         this.adEnabled = false;
         this.originalSources = player.currentSources();
         this.adHlsUrl = player.el().dataset.adHls;
         this.savedTracks = [];
       }
-      
+
       handleClick() {
         if (!this.adHlsUrl) return;
-        
+
         const currentTime = this.player().currentTime();
-        
+
         // Save existing text tracks (captions)
         this.savedTracks = [];
         const tracks = this.player().remoteTextTracks();
@@ -382,51 +381,48 @@ $(function() {
             default: tracks[i].default
           });
         }
-        
+
         if (!this.adEnabled) {
-          this.player().src({
-            src: this.adHlsUrl,
-            type: 'application/x-mpegURL'
-          });
+          this.player().src({ src: this.adHlsUrl, type: 'application/x-mpegURL' });
+          this.addClass('vjs-ad-active');
         } else {
           this.player().src(this.originalSources);
+          this.removeClass('vjs-ad-active');
         }
-        
+
         this.player().one('loadedmetadata', () => {
           this.player().currentTime(currentTime);
-          
-          // Re-attach captions
+
+          // Reattach captions
           this.savedTracks.forEach(track => {
             this.player().addRemoteTextTrack(track, false);
           });
-          
+
           this.player().play();
         });
-        
+
         this.adEnabled = !this.adEnabled;
       }
     }
-    
+
     videojs.registerComponent('AudioDescriptionToggle', AudioDescriptionToggle);
-    
-    player.ready(function() {
+
+    player.ready(function () {
       const adUrl = player.el().dataset.adHls;
-      
       if (adUrl) {
         player.getChild('controlBar').addChild('AudioDescriptionToggle', {}, 0);
       }
     });
-    
     // ---- End Accessible Audio Description ControlBar Button ----
 
     // time markers from url parameters
     var time_markers = getTimeMarkers();
-    if(!time_markers && document.getElementById("clip-start")){
+    if (!time_markers && document.getElementById("clip-start")) {
       // time markers from edu resource clip!
       time_markers = getTimeMarkersFromEducatorResourceClip();
     }
 
-    if(time_markers){
+    if (time_markers) {
       $('#time-range-switch-container, #time-range-container').hide();
 
       player.offset({
@@ -445,7 +441,7 @@ $(function() {
   var searchTotalElem = $('div.transcript-search-results');
   var searchButton = $('#transcript-search-btn');
 
-  $('div.transcript-slide').unbind('click').on('click', function(){
+  $('div.transcript-slide').unbind('click').on('click', function () {
     updatePlayerGrid();
     updateTranscriptGrid();
     updateTranscriptButton();
@@ -453,23 +449,23 @@ $(function() {
 
   // hide player once (thanks turbolinks!)
   var tstate = $('#transcript-state');
-  if(tstate.hasClass('closed') && tstate.hasClass('initial')) {
+  if (tstate.hasClass('closed') && tstate.hasClass('initial')) {
     tstate.removeClass('initial');
     updatePlayerGrid()
     updateTranscriptGrid();
     updateTranscriptButton();
   }
 
-  $('.transcript-message-close').unbind('click').on('click', function() {
+  $('.transcript-message-close').unbind('click').on('click', function () {
     $('.transcript-message').slideUp(500);
   });
 
-  $('.share-at-time').change(function() {
+  $('.share-at-time').change(function () {
     $('#timecode-embed').val(getEmbedHtml());
     $('#timecode-share').val(getShareUrl());
   });
 
-  $('#embed-copy-button').click(function() {
+  $('#embed-copy-button').click(function () {
     /* Get the text field */
     var copyText = document.getElementById('timecode-embed');
 
@@ -481,7 +477,7 @@ $(function() {
     document.execCommand('copy');
   });
 
-  $('#share-copy-button').click(function() {
+  $('#share-copy-button').click(function () {
     /* Get the text field */
     var copyText = document.getElementById('timecode-share');
 
@@ -494,22 +490,22 @@ $(function() {
   });
 
   // initialize share modal content when button is clicked, so we getta the current timecode
-  $('#content-share').click(function() {
+  $('#content-share').click(function () {
     $('#timecode-embed').val(getEmbedHtml());
     $('#timecode-share').val(getShareUrl());
   });
 
   // check for this empty element to show modal
-  if($("#legal-modal").length > 2){
+  if ($("#legal-modal").length > 2) {
     let modalMsg = document.createElement("div")
     modalMsg.innerHTML = "By accessing this content you agree to the AAPB's <a href='/legal/orr-rules'>Online Reading Room Rules of Use</a>. Click this message to continue."
 
     // add modal dialog for legal language...
-    videojs.getPlayer('#player_media_html5_api').ready(function() {
+    videojs.getPlayer('#player_media_html5_api').ready(function () {
       var myPlayer = this;
       var modal = myPlayer.createModal(modalMsg);
 
-      $(".lite-videocontent").click(function() {
+      $(".lite-videocontent").click(function () {
         modal.close()
       })
     });
