@@ -52,8 +52,8 @@
   width: 58px;
 }
 
-.vjs-audio-description-toggle .vjs-control-text {
-  font-size: 14px;
+.vjs-audio-description-toggle:before {
+  content: "AD";
 }
 
 .skip-button {
