@@ -348,36 +348,76 @@ $(function() {
   if($('#player_media').length != 0){
     var player = videojs('#player_media');
     
-    // ---- HLS Audio Description handling ----
-    var wrapper = document.getElementById('player-wrapper');
-    var adHlsUrl
-    if(wrapper && wrapper.dataset && wrapper.dataset.adHls){
-      adHlsUrl = wrapper.dataset.adHls;
-    }
-
-    if (adHlsUrl) {
-      var btn = document.createElement('button');
-      btn.id = 'toggle-audio-description';
-      btn.innerText = 'Audio Description';
-      btn.className = 'player-button audio-description';
-      document.getElementById("player-controls").append(btn);
-
-      var adEnabled = false;
-      btn.addEventListener('click', function () {
-        if (!adEnabled) {
-          player.src({ src: adHlsUrl, type: 'application/x-mpegURL' });
-          btn.innerText = 'Standard Audio';
-        } else {
-          player.src(player.options_.sources);
-          btn.innerText = 'Audio Description';
+   var player = videojs('#player_media');
+// ---- Accessible Audio Description ControlBar Button ----
+    const Button = videojs.getComponent('Button');
+    
+    class AudioDescriptionToggle extends Button {
+      constructor(player, options) {
+        super(player, options);
+        
+        this.controlText('Toggle Audio Description');
+        this.addClass('vjs-audio-description-button');
+        
+        this.adEnabled = false;
+        this.originalSources = player.currentSources();
+        this.adHlsUrl = player.el().dataset.adHls;
+        this.savedTracks = [];
+      }
+      
+      handleClick() {
+        if (!this.adHlsUrl) return;
+        
+        const currentTime = this.player().currentTime();
+        
+        // Save existing text tracks (captions)
+        this.savedTracks = [];
+        const tracks = this.player().remoteTextTracks();
+        for (let i = 0; i < tracks.length; i++) {
+          this.savedTracks.push({
+            kind: tracks[i].kind,
+            label: tracks[i].label,
+            language: tracks[i].language,
+            src: tracks[i].src,
+            default: tracks[i].default
+          });
         }
-        adEnabled = !adEnabled;
-        player.load();
-        player.play();
-      });
+        
+        if (!this.adEnabled) {
+          this.player().src({
+            src: this.adHlsUrl,
+            type: 'application/x-mpegURL'
+          });
+        } else {
+          this.player().src(this.originalSources);
+        }
+        
+        this.player().one('loadedmetadata', () => {
+          this.player().currentTime(currentTime);
+          
+          // Re-attach captions
+          this.savedTracks.forEach(track => {
+            this.player().addRemoteTextTrack(track, false);
+          });
+          
+          this.player().play();
+        });
+        
+        this.adEnabled = !this.adEnabled;
+      }
     }
-    // ---- end HLS Audio Description handling ----
-
+    
+    videojs.registerComponent('AudioDescriptionToggle', AudioDescriptionToggle);
+    
+    player.ready(function() {
+      const adUrl = player.el().dataset.adHls;
+      
+      if (adUrl) {
+        player.getChild('controlBar').addChild('AudioDescriptionToggle', {}, 0);
+      }
+    });
+    
+    // ---- End Accessible Audio Description ControlBar Button ----
 
     // time markers from url parameters
     var time_markers = getTimeMarkers();
