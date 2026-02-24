@@ -53,23 +53,8 @@
 }
 
 /* Audio Description Button */
-.vjs-audio-description-button {
-  width: 3em;
-  text-align: center;
-  font-size: 12px;
-  font-weight: bold;
-  line-height: 1.2em;
-  cursor: pointer;
-  color: white;
-}
-
-.vjs-audio-description-button:before {
+.vjs-audio-description-button .vjs-icon-placeholder:before {
   content: "AD";
-}
-
-.vjs-audio-description-button.vjs-ad-active:before {
-  content: "AD";
-  color: #FFD700; /* highlight active state */
 }
 
 .skip-button {
