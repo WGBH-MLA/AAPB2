@@ -392,7 +392,14 @@ $(function () {
     }
     
     videojs.registerComponent('ADMenuButton', ADMenuButton);
-    
+
+    player.ready(function() {
+      const adUrl = player.el().dataset.adHls;
+      
+      if (adUrl) {
+        player.getChild('controlBar').addChild('ADMenuButton', {}, 0);
+      }
+    });
     // ---- End Accessible Audio Description Menu Button ----
 
     // time markers from url parameters
