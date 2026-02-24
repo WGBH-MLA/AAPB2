@@ -348,7 +348,6 @@ $(function () {
   if ($('#player_media').length != 0) {
     var player = videojs('#player_media');
 
-    var player = videojs('#player_media');
     // ---- Accessible Audio Description Menu Button ----
 
     const MenuButton = videojs.getComponent('MenuButton');
