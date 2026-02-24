@@ -349,71 +349,90 @@ $(function () {
     var player = videojs('#player_media');
 
     var player = videojs('#player_media');
-    // Accessible Audio Description ControlBar Button
-    const Button = videojs.getComponent('Button');
+    // ---- Accessible Audio Description Menu Button ----
 
-    class AudioDescriptionToggle extends Button {
+    const MenuButton = videojs.getComponent('MenuButton');
+    const MenuItem = videojs.getComponent('MenuItem');
+
+    class ADMenuItem extends MenuItem {
       constructor(player, options) {
         super(player, options);
-        this.controlText('Toggle Audio Description');
-        this.addClass('vjs-audio-description-button');
-
-        this.adEnabled = false;
-        this.originalSources = player.currentSources();
-        this.adHlsUrl = player.el().dataset.adHls;
-        this.savedTracks = [];
+        this.adUrl = options.adUrl;
+        this.originalSources = options.originalSources;
       }
 
       handleClick() {
-        if (!this.adHlsUrl) return;
+        const player = this.player();
+        const currentTime = player.currentTime();
 
-        const currentTime = this.player().currentTime();
-
-        // Save existing text tracks (captions)
-        this.savedTracks = [];
-        const tracks = this.player().remoteTextTracks();
-        for (let i = 0; i < tracks.length; i++) {
-          this.savedTracks.push({
-            kind: tracks[i].kind,
-            label: tracks[i].label,
-            language: tracks[i].language,
-            src: tracks[i].src,
-            default: tracks[i].default
-          });
-        }
-
-        if (!this.adEnabled) {
-          this.player().src({ src: this.adHlsUrl, type: 'application/x-mpegURL' });
-          this.addClass('vjs-ad-active');
+        if (this.options_.value === 'ad') {
+          player.src({ src: this.adUrl, type: 'application/x-mpegURL' });
         } else {
-          this.player().src(this.originalSources);
-          this.removeClass('vjs-ad-active');
+          player.src(this.originalSources);
         }
 
-        this.player().one('loadedmetadata', () => {
-          this.player().currentTime(currentTime);
-
-          // Reattach captions
-          this.savedTracks.forEach(track => {
-            this.player().addRemoteTextTrack(track, false);
-          });
-
-          this.player().play();
+        player.one('loadedmetadata', () => {
+          player.currentTime(currentTime);
+          player.play();
         });
 
-        this.adEnabled = !this.adEnabled;
+        // update selected state
+        const items = this.player().controlBar
+          .getChild('ADMenuButton')
+          .items;
+
+        items.forEach(item => item.selected(false));
+        this.selected(true);
       }
     }
 
-    videojs.registerComponent('AudioDescriptionToggle', AudioDescriptionToggle);
+    class ADMenuButton extends MenuButton {
+      constructor(player, options) {
+        super(player, options);
+        this.controlText('Audio Description');
+        this.addClass('vjs-audio-description-button');
+
+        this.adUrl = player.el().dataset.adHls;
+        this.originalSources = player.currentSources();
+      }
+
+      createItems() {
+        const items = [];
+
+        if (!this.adUrl) return items;
+
+        items.push(new ADMenuItem(this.player_, {
+          label: 'Off',
+          selectable: true,
+          selected: true,
+          value: 'off',
+          originalSources: this.originalSources
+        }));
+
+        items.push(new ADMenuItem(this.player_, {
+          label: 'English (Audio Description)',
+          selectable: true,
+          selected: false,
+          value: 'ad',
+          adUrl: this.adUrl,
+          originalSources: this.originalSources
+        }));
+
+        return items;
+      }
+    }
+
+    videojs.registerComponent('ADMenuButton', ADMenuButton);
 
     player.ready(function () {
       const adUrl = player.el().dataset.adHls;
+
       if (adUrl) {
-        player.getChild('controlBar').addChild('AudioDescriptionToggle', {}, 0);
+        player.getChild('controlBar').addChild('ADMenuButton', {}, 12);
       }
     });
-    // ---- End Accessible Audio Description ControlBar Button ----
+
+    // ---- End Accessible Audio Description Menu Button ----
 
     // time markers from url parameters
     var time_markers = getTimeMarkers();
