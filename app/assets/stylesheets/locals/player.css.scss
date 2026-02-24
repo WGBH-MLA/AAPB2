@@ -52,9 +52,9 @@
   width: 58px;
 }
 
-/* Audio Description Button */
 .vjs-audio-description-button .vjs-icon-placeholder:before {
   content: "AD";
+  font-weight: bold;
 }
 
 .skip-button {
