@@ -356,32 +356,20 @@ $(function () {
     class ADMenuItem extends MenuItem {
       constructor(player, options) {
         super(player, options);
-        this.adUrl = options.adUrl;
-        this.originalSources = options.originalSources;
+        this.controlText(options.label);
       }
 
       handleClick() {
         const player = this.player();
-        const currentTime = player.currentTime();
+        const adUrl = player.el().dataset.adHls;
 
-        if (this.options_.value === 'ad') {
-          player.src({ src: this.adUrl, type: 'application/x-mpegURL' });
+        if (this.options_.value === 'on') {
+          player.src({ src: adUrl, type: 'application/x-mpegURL' });
         } else {
-          player.src(this.originalSources);
+          player.src(player.originalSources);
         }
-
-        player.one('loadedmetadata', () => {
-          player.currentTime(currentTime);
-          player.play();
-        });
-
-        // update selected state
-        const items = this.player().controlBar
-          .getChild('ADMenuButton')
-          .items;
-
-        items.forEach(item => item.selected(false));
-        this.selected(true);
+        
+        player.play();
       }
     }
 
@@ -391,46 +379,20 @@ $(function () {
         this.controlText('Audio Description');
         this.addClass('vjs-audio-description-button');
 
-        this.adUrl = player.el().dataset.adHls;
-        this.originalSources = player.currentSources();
+        // Save original sources once
+        player.originalSources_ = player.currentSources();
       }
-
+      
       createItems() {
-        const items = [];
-
-        if (!this.adUrl) return items;
-
-        items.push(new ADMenuItem(this.player_, {
-          label: 'Off',
-          selectable: true,
-          selected: true,
-          value: 'off',
-          originalSources: this.originalSources
-        }));
-
-        items.push(new ADMenuItem(this.player_, {
-          label: 'English (Audio Description)',
-          selectable: true,
-          selected: false,
-          value: 'ad',
-          adUrl: this.adUrl,
-          originalSources: this.originalSources
-        }));
-
-        return items;
+        return [
+          new ADMenuItem(this.player_, { label: 'Off', value: 'off' }),
+          new ADMenuItem(this.player_, { label: 'On', value: 'on' })
+        ];
       }
     }
-
+    
     videojs.registerComponent('ADMenuButton', ADMenuButton);
-
-    player.ready(function () {
-      const adUrl = player.el().dataset.adHls;
-
-      if (adUrl) {
-        player.getChild('controlBar').addChild('ADMenuButton', {}, 12);
-      }
-    });
-
+    
     // ---- End Accessible Audio Description Menu Button ----
 
     // time markers from url parameters
