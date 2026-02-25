@@ -354,9 +354,15 @@ $(function () {
 
     class ADMenuItem extends MenuItem {
       constructor(player, options) {
-        options.selectable = true;        // allows "selected" state
+        options.selectable = true; // allows selected highlight
         super(player, options);
         this.controlText(options.label);
+
+        // Highlight correctly on initial render
+        if ((options.value === 'on' && player.adActive_) ||
+          (options.value === 'off' && !player.adActive_)) {
+          this.selected(true);
+        }
       }
 
       handleClick() {
@@ -367,7 +373,7 @@ $(function () {
 
         const turningOn = this.options_.value === 'on';
 
-        // Switch source without calling reset()
+        // Switch video source
         if (turningOn) {
           player.src({ src: adUrl, type: 'application/x-mpegURL' });
           player.adActive_ = true;
@@ -376,13 +382,13 @@ $(function () {
           player.adActive_ = false;
         }
 
-        // Preserve playback position and paused state
+        // Preserve playback position and state
         player.one('loadedmetadata', function () {
           player.currentTime(currentTime);
           if (!wasPaused) player.play();
         });
 
-        // Update button highlighting for selected menu item
+        // Update menu item highlighting
         const button = player.getChild('controlBar').getChild('ADMenuButton');
         if (button) {
           button.children().forEach(item => {
@@ -390,7 +396,6 @@ $(function () {
           });
         }
 
-        // trigger custom event for any other listeners
         player.trigger('adchange');
       }
     }
@@ -413,15 +418,6 @@ $(function () {
           new ADMenuItem(this.player_, { label: 'On', value: 'on' })
         ];
       }
-      
-      // This runs whenever the menu is opened
-      update() {
-        const isActive = this.player_.adActive_;
-        this.children().forEach(item => {
-          item.selected(item.options_.value === (isActive ? 'on' : 'off'));
-        });
-        super.update();
-      }  
     }
 
     videojs.registerComponent('ADMenuButton', ADMenuButton);
@@ -432,7 +428,7 @@ $(function () {
 
       if (!adUrl) return;
 
-      // Add the button next to captions
+      // Insert next to captions button
       if (!controlBar.getChild('ADMenuButton')) {
         const children = controlBar.children();
         const captionsIndex = children.findIndex(c => c.name() === 'SubsCapsButton');
