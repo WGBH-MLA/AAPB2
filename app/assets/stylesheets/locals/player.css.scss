@@ -51,7 +51,16 @@
   vertical-align: middle;
   width: 58px;
 }
-  
+
+.vjs-audio-description-button .vjs-menu-item.vjs-selected {
+  background-color: #ffffff;
+  color: #2b333f;
+}
+
+.vjs-audio-description-button.vjs-ad-active {
+  color: #ff0;
+}
+
 .skip-button {
   width: 9vw;
 }
