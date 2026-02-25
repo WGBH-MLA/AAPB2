@@ -355,94 +355,116 @@ $(function () {
 
     class ADMenuItem extends MenuItem {
       constructor(player, options) {
+        options.selectable = true;
         super(player, options);
         this.controlText(options.label);
       }
-      
+
       handleClick() {
         const player = this.player();
         const adUrl = player.el().dataset.adHls;
-        
+
         const currentTime = player.currentTime();
         const wasPaused = player.paused();
-        
-        if (this.options_.value === 'on') {
-          player.pause();
-          player.reset();
-          
+        const turningOn = this.options_.value === 'on';
+
+        player.pause();
+        player.reset();
+
+        if (turningOn) {
           player.src({
             src: adUrl,
             type: 'application/x-mpegURL',
             withCredentials: true
           });
-          
           player.adActive_ = true;
         } else {
-          player.pause();
-          player.reset();
           player.src(player.originalSources_);
           player.adActive_ = false;
         }
-        
-        const button = player.getChild('controlBar').getChild('ADMenuButton');
-        if (button) {
-          button.toggleClass('vjs-ad-active', player.adActive_);
-        }
-        
+
         player.one('loadedmetadata', function () {
           player.currentTime(currentTime);
-          if (!wasPaused) {
-            player.play();
-          }
+          if (!wasPaused) player.play();
         });
+
+        player.trigger('adchange');
       }
     }
 
     class ADMenuButton extends MenuButton {
       constructor(player, options) {
         super(player, options);
-        this.controlText('Audio Description');
+
         this.addClass('vjs-audio-description-button');
 
-        // Save original sources once
-      if (!player.originalSources_) {
-        player.originalSources_ = player.currentSources();
+        if (!player.originalSources_) {
+          player.originalSources_ = player.currentSources();
+        }
+
+        // ✅ STEP 3 GOES HERE
+        this.updateState();
+
+        player.on('adchange', () => {
+          this.updateState();
+        });
       }
-    }
-      
+
+      // ✅ STEP 3 METHOD GOES HERE
+      updateState() {
+        const isActive = this.player_.adActive_ === true;
+
+        this.controlText(
+          isActive
+            ? 'Audio Description, On'
+            : 'Audio Description, Off'
+        );
+
+        this.el().setAttribute(
+          'aria-label',
+          isActive
+            ? 'Audio Description is On'
+            : 'Audio Description is Off'
+        );
+
+        this.toggleClass('vjs-ad-active', isActive);
+      }
+
       createItems() {
         const isActive = this.player_.adActive_ === true;
-        
+
         return [
-          new AdMenuItem(this.player_, {
+          new ADMenuItem(this.player_, {
             label: 'Off',
             value: 'off',
             selected: !isActive
           }),
-          new AdMenuItem(this.player_, {
+          new ADMenuItem(this.player_, {
             label: 'On',
             value: 'on',
             selected: isActive
           })
         ];
       }
-    
+    }
+
     videojs.registerComponent('ADMenuButton', ADMenuButton);
-    
-    player.ready(function() {
+
+    player.ready(function () {
       const controlBar = this.getChild('controlBar');
       const adUrl = this.el().dataset.adHls;
-      
+
       if (!adUrl) return;
 
       if (!controlBar.getChild('ADMenuButton')) {
         const children = controlBar.children();
         const captionsIndex = children.findIndex(c => c.name() === 'SubsCapsButton');
         const insertIndex = captionsIndex !== -1 ? captionsIndex + 1 : children.length;
-        
+
         controlBar.addChild('ADMenuButton', {}, insertIndex);
       }
     });
+
     // ---- End Accessible Audio Description Menu Button ----
 
     // time markers from url parameters
