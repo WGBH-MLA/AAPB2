@@ -354,11 +354,12 @@ $(function () {
 
     class ADMenuItem extends MenuItem {
       constructor(player, options) {
-        options.selectable = true; // allows selected highlight
+        options.selectable = true; // MUST be set before super()
         super(player, options);
+
         this.controlText(options.label);
 
-        // Highlight correctly on initial render
+        // Set initial highlight based on player.adActive_
         if ((options.value === 'on' && player.adActive_) ||
           (options.value === 'off' && !player.adActive_)) {
           this.selected(true);
@@ -375,26 +376,29 @@ $(function () {
 
         // Switch video source
         if (turningOn) {
-          player.src({ src: adUrl, type: 'application/x-mpegURL' });
+          player.src({ src: adUrl, type: 'application/x-mpegURL', withCredentials: true });
           player.adActive_ = true;
         } else {
           player.src(player.originalSources_);
           player.adActive_ = false;
         }
 
-        // Preserve playback position and state
+        // Preserve playback position and paused state
         player.one('loadedmetadata', function () {
           player.currentTime(currentTime);
           if (!wasPaused) player.play();
         });
 
-        // Update menu item highlighting
+        // Update highlights for menu items
         const button = player.getChild('controlBar').getChild('ADMenuButton');
         if (button) {
           button.children().forEach(item => {
             item.selected(item.options_.value === (turningOn ? 'on' : 'off'));
           });
         }
+
+        // Trigger ARIA live announcement for screen readers
+        player.announce(`Audio Description ${turningOn ? 'On' : 'Off'}`);
 
         player.trigger('adchange');
       }
@@ -406,7 +410,6 @@ $(function () {
         this.controlText('Audio Description');
         this.addClass('vjs-audio-description-button');
 
-        // Save original sources once
         if (!player.originalSources_) {
           player.originalSources_ = player.currentSources();
         }
@@ -428,11 +431,11 @@ $(function () {
 
       if (!adUrl) return;
 
-      // Insert next to captions button
       if (!controlBar.getChild('ADMenuButton')) {
         const children = controlBar.children();
         const captionsIndex = children.findIndex(c => c.name() === 'SubsCapsButton');
         const insertIndex = captionsIndex !== -1 ? captionsIndex + 1 : children.length;
+
         controlBar.addChild('ADMenuButton', {}, insertIndex);
       }
     });
