@@ -81,6 +81,22 @@
 .vjs-audio-description-button.vjs-ad-active::before {
   color: #fff !important; /* white when AD is on */
 }
+
+.vjs-menu .vjs-menu-item {
+  color: #ccc;          
+  background-color: transparent;
+}
+
+.vjs-menu .vjs-menu-item.vjs-selected {
+  color: #fff !important;          
+  background-color: #444 !important;  
+}
+
+.vjs-menu .vjs-menu-item:hover {
+  color: #fff !important;
+  background-color: #555 !important;
+}
+  
 .skip-button {
   width: 9vw;
 }
