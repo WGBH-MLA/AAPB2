@@ -359,11 +359,12 @@ $(function () {
 
         this.controlText(options.label);
 
-        // Set initial highlight based on player.adActive_
-        if ((options.value === 'on' && player.adActive_) ||
-            (options.value === 'off' && !player.adActive_)) {
-          this.selected(true);
-        }
+        // initial highlight
+        const isActive = player.adActive_ === true;
+        this.selected(
+          (options.value === 'on' && isActive) ||
+          (options.value === 'off' && !isActive)
+        );
       }
 
       handleClick() {
@@ -371,25 +372,22 @@ $(function () {
         const adUrl = player.el().dataset.adHls;
         const currentTime = player.currentTime();
         const wasPaused = player.paused();
-
         const turningOn = this.options_.value === 'on';
 
-        // Switch video source
         if (turningOn) {
-          player.src({ src: adUrl, type: 'application/x-mpegURL' });
+          player.src({ src: adUrl, type: 'application/x-mpegURL', withCredentials: true });
           player.adActive_ = true;
         } else {
           player.src(player.originalSources_);
           player.adActive_ = false;
         }
 
-        // Preserve playback position and paused state
         player.one('loadedmetadata', function () {
           player.currentTime(currentTime);
           if (!wasPaused) player.play();
         });
 
-        // Update highlights for menu items
+        // highlight menu items
         const button = player.getChild('controlBar').getChild('ADMenuButton');
         if (button) {
           button.children().forEach(item => {
@@ -398,9 +396,7 @@ $(function () {
           button.toggleClass('vjs-ad-active', player.adActive_);
         }
 
-        // Trigger ARIA live announcement for screen readers
         player.announce(`Audio Description ${turningOn ? 'On' : 'Off'}`);
-
         player.trigger('adchange');
       }
     }
@@ -422,17 +418,6 @@ $(function () {
           new ADMenuItem(this.player_, { label: 'On', value: 'on' })
         ];
       }
-      update() {
-        const isActive = this.player_.adActive_ === true;
-
-        this.children().forEach(item => {
-          item.selected(item.options_.value === (isActive ? 'on' : 'off'));
-        });
-
-        this.toggleClass('vjs-ad-active', isActive);
-
-        super.update();
-      } 
     }
 
     videojs.registerComponent('ADMenuButton', ADMenuButton);
@@ -440,7 +425,6 @@ $(function () {
     player.ready(function () {
       const controlBar = this.getChild('controlBar');
       const adUrl = this.el().dataset.adHls;
-
       if (!adUrl) return;
 
       if (!controlBar.getChild('ADMenuButton')) {
