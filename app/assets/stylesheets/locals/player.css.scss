@@ -52,20 +52,15 @@
   width: 58px;
 }
 
-/* Audio Description Button Menu */
-.vjs-audio-description-button .vjs-menu-item {
+/* Audio Description button in the control bar */
+.vjs-audio-description-button {
+  color: white;
   cursor: pointer;
 }
 
-/* Highlight the selected menu item */
-.vjs-audio-description-button .vjs-menu-item.vjs-selected {
-  font-weight: bold;
-  background-color: rgba(255, 255, 255, 0.1);
-}
-
-/* Optional: slightly darker hover state */
-.vjs-audio-description-button .vjs-menu-item:hover {
-  background-color: rgba(255, 255, 255, 0.2);
+/* Highlight when AD is active */
+.vjs-audio-description-button.vjs-ad-active {
+  color: #FFD700; /* gold like captions active */
 }
 
 .skip-button {
