@@ -25,7 +25,7 @@ Episodes of *PowerPoint* were contributed to the AAPB by the University of Maryl
 ## Featured
 
 [![National Dialogue on Race (Premiere)](https://s3.us-east-1.amazonaws.com/americanarchive.org/special-collections/pp-tape-sqaure.jpeg)](/catalog/cpb-aacip_532-nk3610x637)
-[![Black is the Color of Space](https://s3.amazonaws.com/americanarchive.org/special-collections/space-square.jpeg)](/cpb-aacip-f4e1ed3e107)
+[![Black is the Color of Space](https://s3.amazonaws.com/americanarchive.org/special-collections/space-square.jpeg)](/catalog/cpb-aacip-f4e1ed3e107)
 [![Willie Brown, Tommy Davidson](https://s3.amazonaws.com/americanarchive.org/special-collections/willie-tommy.png)](/catalog/cpb-aacip-c697effdc02)
 [![CARICOM States, Angela Davis](https://s3.amazonaws.com/americanarchive.org/special-collections/angela-davis-sq2.jpeg)](/catalog/cpb-aacip-0ed41120341)
 [![Paul Robeson, Miles Davis](https://s3.amazonaws.com/americanarchive.org/special-collections/robeson-davis.png)](/catalog/cpb-aacip-74df75fb7af)
