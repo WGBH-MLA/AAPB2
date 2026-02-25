@@ -408,13 +408,20 @@ $(function () {
       }
 
       createItems() {
-        const isActive = this.player_.adActive_ === true;
-
         return [
-          new ADMenuItem(this.player_, { label: 'Off', value: 'off', selected: !isActive }),
-          new ADMenuItem(this.player_, { label: 'On', value: 'on', selected: isActive })
+          new ADMenuItem(this.player_, { label: 'Off', value: 'off' }),
+          new ADMenuItem(this.player_, { label: 'On', value: 'on' })
         ];
       }
+      
+      // This runs whenever the menu is opened
+      update() {
+        const isActive = this.player_.adActive_;
+        this.children().forEach(item => {
+          item.selected(item.options_.value === (isActive ? 'on' : 'off'));
+        });
+        super.update();
+      }  
     }
 
     videojs.registerComponent('ADMenuButton', ADMenuButton);
