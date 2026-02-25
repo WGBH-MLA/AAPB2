@@ -375,7 +375,7 @@ $(function () {
         const turningOn = this.options_.value === 'on';
 
         if (turningOn) {
-          player.src({ src: adUrl, type: 'application/x-mpegURL', withCredentials: true });
+          player.src({ src: adUrl, type: 'application/x-mpegURL' });
           player.adActive_ = true;
         } else {
           player.src(player.originalSources_);
