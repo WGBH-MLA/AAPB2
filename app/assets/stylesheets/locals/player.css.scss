@@ -54,30 +54,33 @@
 
 /* Audio Description button */
 .vjs-audio-description-button {
-  color: #fff;
-  background: none;
+  color: #fff !important;  /* force white */
+  background: none !important;
 }
 
+/* Target the icon/pseudo-element Video.js uses */
+.vjs-audio-description-button::before {
+  color: #fff !important;
+  font-size: 16px; /* adjust size to match other buttons */
+  content: "\f028"; /* optional: use speaker icon if needed */
+}
+
+/* Hover/focus */
 .vjs-audio-description-button:hover,
 .vjs-audio-description-button:focus {
-  color: #fff;
+  color: #fff !important;
 }
 
-.vjs-menu .vjs-menu-item {
-  color: #ccc;          
-  background-color: transparent;
+.vjs-audio-description-button:hover::before,
+.vjs-audio-description-button:focus::before {
+  color: #fff !important;
 }
 
-.vjs-menu .vjs-menu-item.vjs-selected {
-  color: #fff;          
-  background-color: #444;  
+/* Active class from your JS */
+.vjs-audio-description-button.vjs-ad-active,
+.vjs-audio-description-button.vjs-ad-active::before {
+  color: #fff !important; /* white when AD is on */
 }
-
-.vjs-menu .vjs-menu-item:hover {
-  color: #fff;
-  background-color: #555;
-}
-
 .skip-button {
   width: 9vw;
 }
