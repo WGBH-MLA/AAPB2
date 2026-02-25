@@ -358,18 +358,33 @@ $(function () {
         super(player, options);
         this.controlText(options.label);
       }
-
+      
       handleClick() {
         const player = this.player();
         const adUrl = player.el().dataset.adHls;
-
+        
+        const currentTime = player.currentTime();
+        const wasPaused = player.paused();
+        
         if (this.options_.value === 'on') {
           player.src({ src: adUrl, type: 'application/x-mpegURL' });
+          player.adActive_ = true;
         } else {
-          player.src(player.originalSources);
+          player.src(player.originalSources_);
+          player.adActive_ = false;
         }
         
-        player.play();
+        const button = player.getChild('controlBar').getChild('ADMenuButton');
+        if (button) {
+          button.toggleClass('vjs-ad-active', player.adActive_);
+        }
+        
+        player.one('loadedmetadata', function () {
+          player.currentTime(currentTime);
+          if (!wasPaused) {
+            player.play();
+          }
+        });
       }
     }
 
@@ -380,8 +395,10 @@ $(function () {
         this.addClass('vjs-audio-description-button');
 
         // Save original sources once
+      if (!player.originalSources_) {
         player.originalSources_ = player.currentSources();
       }
+    }
       
       createItems() {
         return [
@@ -392,12 +409,19 @@ $(function () {
     }
     
     videojs.registerComponent('ADMenuButton', ADMenuButton);
-
+    
     player.ready(function() {
-      const adUrl = player.el().dataset.adHls;
+      const controlBar = this.getChild('controlBar');
+      const adUrl = this.el().dataset.adHls;
       
-      if (adUrl) {
-        player.getChild('controlBar').addChild('ADMenuButton', {}, 0);
+      if (!adUrl) return;
+
+      if (!controlBar.getChild('ADMenuButton')) {
+        const children = controlBar.children();
+        const captionsIndex = children.findIndex(c => c.name() === 'SubsCapsButton');
+        const insertIndex = captionsIndex !== -1 ? captionsIndex + 1 : children.length;
+        
+        controlBar.addChild('ADMenuButton', {}, insertIndex);
       }
     });
     // ---- End Accessible Audio Description Menu Button ----
