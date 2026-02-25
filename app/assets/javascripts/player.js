@@ -395,6 +395,7 @@ $(function () {
           button.children().forEach(item => {
             item.selected(item.options_.value === (turningOn ? 'on' : 'off'));
           });
+          button.toggleClass('vjs-ad-active', player.adActive_);
         }
 
         // Trigger ARIA live announcement for screen readers
@@ -421,6 +422,17 @@ $(function () {
           new ADMenuItem(this.player_, { label: 'On', value: 'on' })
         ];
       }
+      update() {
+        const isActive = this.player_.adActive_ === true;
+
+        this.children().forEach(item => {
+          item.selected(item.options_.value === (isActive ? 'on' : 'off'));
+        });
+
+        this.toggleClass('vjs-ad-active', isActive);
+
+        super.update();
+      } 
     }
 
     videojs.registerComponent('ADMenuButton', ADMenuButton);
