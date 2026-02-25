@@ -367,9 +367,19 @@ $(function () {
         const wasPaused = player.paused();
         
         if (this.options_.value === 'on') {
-          player.src({ src: adUrl, type: 'application/x-mpegURL' });
+          player.pause();
+          player.reset();
+          
+          player.src({
+            src: adUrl,
+            type: 'application/x-mpegURL',
+            withCredentials: true
+          });
+          
           player.adActive_ = true;
         } else {
+          player.pause();
+          player.reset();
           player.src(player.originalSources_);
           player.adActive_ = false;
         }
@@ -401,12 +411,21 @@ $(function () {
     }
       
       createItems() {
+        const isActive = this.player_.adActive_ === true;
+        
         return [
-          new ADMenuItem(this.player_, { label: 'Off', value: 'off' }),
-          new ADMenuItem(this.player_, { label: 'On', value: 'on' })
+          new AdMenuItem(this.player_, {
+            label: 'Off',
+            value: 'off',
+            selected: !isActive
+          }),
+          new AdMenuItem(this.player_, {
+            label: 'On',
+            value: 'on',
+            selected: isActive
+          })
         ];
       }
-    }
     
     videojs.registerComponent('ADMenuButton', ADMenuButton);
     
