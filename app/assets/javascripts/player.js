@@ -349,13 +349,12 @@ $(function () {
     var player = videojs('#player_media');
 
     // ---- Accessible Audio Description Menu Button ----
-
     const MenuButton = videojs.getComponent('MenuButton');
     const MenuItem = videojs.getComponent('MenuItem');
 
     class ADMenuItem extends MenuItem {
       constructor(player, options) {
-        options.selectable = true;
+        options.selectable = true;        // allows "selected" state
         super(player, options);
         this.controlText(options.label);
       }
@@ -363,31 +362,35 @@ $(function () {
       handleClick() {
         const player = this.player();
         const adUrl = player.el().dataset.adHls;
-
         const currentTime = player.currentTime();
         const wasPaused = player.paused();
+
         const turningOn = this.options_.value === 'on';
 
-        player.pause();
-        player.reset();
-
+        // Switch source without calling reset()
         if (turningOn) {
-          player.src({
-            src: adUrl,
-            type: 'application/x-mpegURL',
-            withCredentials: true
-          });
+          player.src({ src: adUrl, type: 'application/x-mpegURL' });
           player.adActive_ = true;
         } else {
           player.src(player.originalSources_);
           player.adActive_ = false;
         }
 
+        // Preserve playback position and paused state
         player.one('loadedmetadata', function () {
           player.currentTime(currentTime);
           if (!wasPaused) player.play();
         });
 
+        // Update button highlighting for selected menu item
+        const button = player.getChild('controlBar').getChild('ADMenuButton');
+        if (button) {
+          button.children().forEach(item => {
+            item.selected(item.options_.value === (turningOn ? 'on' : 'off'));
+          });
+        }
+
+        // trigger custom event for any other listeners
         player.trigger('adchange');
       }
     }
@@ -395,55 +398,21 @@ $(function () {
     class ADMenuButton extends MenuButton {
       constructor(player, options) {
         super(player, options);
-
+        this.controlText('Audio Description');
         this.addClass('vjs-audio-description-button');
 
+        // Save original sources once
         if (!player.originalSources_) {
           player.originalSources_ = player.currentSources();
         }
-
-        // ✅ STEP 3 GOES HERE
-        this.updateState();
-
-        player.on('adchange', () => {
-          this.updateState();
-        });
-      }
-
-      // ✅ STEP 3 METHOD GOES HERE
-      updateState() {
-        const isActive = this.player_.adActive_ === true;
-
-        this.controlText(
-          isActive
-            ? 'Audio Description, On'
-            : 'Audio Description, Off'
-        );
-
-        this.el().setAttribute(
-          'aria-label',
-          isActive
-            ? 'Audio Description is On'
-            : 'Audio Description is Off'
-        );
-
-        this.toggleClass('vjs-ad-active', isActive);
       }
 
       createItems() {
         const isActive = this.player_.adActive_ === true;
 
         return [
-          new ADMenuItem(this.player_, {
-            label: 'Off',
-            value: 'off',
-            selected: !isActive
-          }),
-          new ADMenuItem(this.player_, {
-            label: 'On',
-            value: 'on',
-            selected: isActive
-          })
+          new ADMenuItem(this.player_, { label: 'Off', value: 'off', selected: !isActive }),
+          new ADMenuItem(this.player_, { label: 'On', value: 'on', selected: isActive })
         ];
       }
     }
@@ -456,15 +425,14 @@ $(function () {
 
       if (!adUrl) return;
 
+      // Add the button next to captions
       if (!controlBar.getChild('ADMenuButton')) {
         const children = controlBar.children();
         const captionsIndex = children.findIndex(c => c.name() === 'SubsCapsButton');
         const insertIndex = captionsIndex !== -1 ? captionsIndex + 1 : children.length;
-
         controlBar.addChild('ADMenuButton', {}, insertIndex);
       }
     });
-
     // ---- End Accessible Audio Description Menu Button ----
 
     // time markers from url parameters
