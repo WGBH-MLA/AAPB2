@@ -52,15 +52,30 @@
   width: 58px;
 }
 
-/* Audio Description button in the control bar */
+/* Audio Description button */
 .vjs-audio-description-button {
-  color: white;
-  cursor: pointer;
+  color: #fff;
+  background: none;
 }
 
-/* Highlight when AD is active */
-.vjs-audio-description-button.vjs-ad-active {
-  color: #FFD700; /* gold like captions active */
+.vjs-audio-description-button:hover,
+.vjs-audio-description-button:focus {
+  color: #fff;
+}
+
+.vjs-menu .vjs-menu-item {
+  color: #ccc;          
+  background-color: transparent;
+}
+
+.vjs-menu .vjs-menu-item.vjs-selected {
+  color: #fff;          
+  background-color: #444;  
+}
+
+.vjs-menu .vjs-menu-item:hover {
+  color: #fff;
+  background-color: #555;
 }
 
 .skip-button {
