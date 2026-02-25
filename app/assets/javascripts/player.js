@@ -354,14 +354,14 @@ $(function () {
 
     class ADMenuItem extends MenuItem {
       constructor(player, options) {
-        options.selectable = true; // MUST be set before super()
+        options.selectable = true;
         super(player, options);
 
         this.controlText(options.label);
 
         // Set initial highlight based on player.adActive_
         if ((options.value === 'on' && player.adActive_) ||
-          (options.value === 'off' && !player.adActive_)) {
+            (options.value === 'off' && !player.adActive_)) {
           this.selected(true);
         }
       }
@@ -376,7 +376,7 @@ $(function () {
 
         // Switch video source
         if (turningOn) {
-          player.src({ src: adUrl, type: 'application/x-mpegURL', withCredentials: true });
+          player.src({ src: adUrl, type: 'application/x-mpegURL' });
           player.adActive_ = true;
         } else {
           player.src(player.originalSources_);
