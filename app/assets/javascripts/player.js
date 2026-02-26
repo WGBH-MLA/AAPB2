@@ -411,7 +411,11 @@ $(function () {
           player.originalSources_ = player.currentSources();
         }
       }
-
+      
+      buildCSSClass() {
+        return 'vjs-menu-button-popup vjs-control vjs-button ${super.buildCSSClass()}';
+      }
+      
       createItems() {
         return [
           new ADMenuItem(this.player_, { label: 'Off', value: 'off' }),
