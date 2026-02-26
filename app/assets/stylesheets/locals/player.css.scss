@@ -52,13 +52,55 @@
   width: 58px;
 }
 
-.vjs-audio-description-button .vjs-menu-item.vjs-selected {
-  background-color: #ffffff;
-  color: #2b333f;
+/* ===== Audio Description Button ===== */
+
+.vjs-audio-description-button {
+  color: #fff; /* white icon */
 }
 
+.vjs-audio-description-button .vjs-icon-placeholder:before {
+  content: "AD";          /* simple text icon */
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+/* Hover / focus state */
+.vjs-audio-description-button:hover,
+.vjs-audio-description-button:focus {
+  color: #fff;
+  background-color: rgba(255,255,255,0.15);
+}
+
+/* When AD is active */
 .vjs-audio-description-button.vjs-ad-active {
-  color: #ff0;
+  color: #fff;
+  background-color: #007cba; /* blue highlight */
+  border-radius: 2px;
+}
+
+/* ===== AD Menu Popup ===== */
+
+.vjs-menu .vjs-menu-content {
+  background-color: #111; /* darker than control bar */
+}
+
+.vjs-menu .vjs-menu-item {
+  color: #ccc;
+  padding: 0.5em 1em;
+}
+
+.vjs-menu .vjs-menu-item:hover,
+.vjs-menu .vjs-menu-item:focus {
+  background-color: #333;
+  color: #fff;
+}
+
+/* Selected state */
+.vjs-menu .vjs-menu-item.vjs-selected {
+  background-color: #007cba;
+  color: #fff;
+  font-weight: 600;
 }
 
 .skip-button {
