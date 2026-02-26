@@ -359,12 +359,8 @@ $(function () {
 
         this.controlText(options.label);
 
-        // initial highlight
-        const isActive = player.adActive_ === true;
-        this.selected(
-          (options.value === 'on' && isActive) ||
-          (options.value === 'off' && !isActive)
-        );
+        this.on(player, 'adchange', this.update);
+        this.update();
       }
 
       handleClick() {
@@ -381,23 +377,28 @@ $(function () {
           player.src(player.originalSources_);
           player.adActive_ = false;
         }
-
+        
+        const button = player.getChild('controlBar').getChild('ADMenuButton');
+        if (button) {
+          button.toggleClass('vjs-ad-active', player.adActive_);
+        }
+        
         player.one('loadedmetadata', function () {
           player.currentTime(currentTime);
           if (!wasPaused) player.play();
         });
-
-        // highlight menu items
-        const button = player.getChild('controlBar').getChild('ADMenuButton');
-        if (button) {
-          button.children().forEach(item => {
-            item.selected(item.options_.value === (turningOn ? 'on' : 'off'));
-          });
-          button.toggleClass('vjs-ad-active', player.adActive_);
-        }
-
-        player.announce(`Audio Description ${turningOn ? 'On' : 'Off'}`);
+        
         player.trigger('adchange');
+        player.announce(`Audio Description ${turningOn ? 'On' : 'Off'}`);
+      }
+      
+      update() {
+        const isActive = this.player().adActive_ === true;
+        
+        this.selected(
+          (this.options_.value === 'on' && isActive) ||
+          (this.options_.value === 'off' && !isActive)
+        );
       }
     }
 
@@ -413,7 +414,7 @@ $(function () {
       }
       
       buildCSSClass() {
-        return 'vjs-menu-button-popup vjs-control vjs-button ${super.buildCSSClass()}';
+        return `vjs-menu-button-popup vjs-control vjs-button ${super.buildCSSClass()}`;
       }
       
       createItems() {
