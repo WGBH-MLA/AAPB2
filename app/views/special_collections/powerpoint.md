@@ -34,6 +34,7 @@ Episodes of *PowerPoint* were contributed to the AAPB by the University of Maryl
 ## Resources
 
 - [Episodes of Groundbreaking PowerPoint Show Now Available Online](https://www.lib.umd.edu/about/news/2023-02/episodes-groundbreaking-powerpoint-show-now-available-online) (University of Maryland)
+- [PowerPoint Finding Aid](https://archives.lib.umd.edu/repositories/2/resources/1923) (University of Maryland)
 - [About PowerPoint Radio](https://straightstreetmedia.org/powerpoint-radio) (Straight Street Media)
 - [Reggie Hicks reflects on broadcasting's growth in diversity](https://grady.uga.edu/news/reggie-hicks-reflects-on-broadcastings-growth-in-diversity/)) (University of Georgia)
 
