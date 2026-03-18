@@ -8,6 +8,8 @@
 
 Join the AAPB on a virtual road trip! The AAPB Road Trip special collection features programming from stations across the country from the 1960s to the present. We're making stops in all fifty states and Washington, D.C., as well as the U.S. territories of Puerto Rico, American Samoa, the U.S. Virgin Islands, and Guam. Experience the nation's rich history, cultural diversity, and stunning natural beauty through classic public media programming. 
 
+>**To learn more about items in the collection, check out the interactive map below. Each location features an associated AAPB record, a brief description, and a link to watch or listen to the program.**
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1UaEYxp_Szq83kyraTQuL5UaC5R5DfdI&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 <p></p>
 
