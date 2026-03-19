@@ -1,19 +1,19 @@
-# “The Subprime Mortgage Crisis, Explained” (2007)
+# The Federal Government Responds to the Financial Crisis (2009)
 
 ## Thumbnail
 
-![Subprime Mortgage Crisis](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-subprime-mortgage.png "Subprime Mortgage Crisis")
+![Financial Crisis](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/3-financial-crisis.png "Financial Crisis")
 
 ## Guid
-cpb-aacip-507-cf9j38m54j
+cpb-aacip-525-7h1dj59f26
 
 ## Introduction
 
-This 2007 PBS NewsHour “explainer” by economics reporter Paul Solman introduces viewers to subprime mortgages (home loans given to people whose financial history made it difficult to obtain traditional loans), and explains why investors across the globe invested in mortgage-backed securities, despite the high risks. Crucially, Solman details how the domino effect of borrowers defaulting on subprime loans was the catalyst for the Great Recession.  
+With financial institutions crumbling and the economy entering free fall, the federal government stepped in to address the unfolding crisis. This September 2009 PBS *NewsHour* report commemorated the one year anniversary of the collapse of Leman Brothers, a major investment firm whose declaration of bankruptcy became a pivotal moment in the Great Recession. In response, the government—first under the presidency of George W. Bush and then under Barack Obama—enacted a number of policies and programs to stabilize the economy. This *Newshour* piece discusses several of these efforts, including TARP (the Troubled Asset Relief Program), which provided hundreds of billions of dollars of capital to keep major private sector financial institutions afloat (as well as Fannie Mae and Freddie Mac, two government-created institutes that guaranteed consumer mortgages in order to encourage lending). The report also discusses proposed regulations that aimed to discourage the risky financial behavior that unleashed the Great Recession. These reform efforts ultimately coalesced into the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010.
 
-<b>The NewsHour with Jim Lehrer</b>
+<b>The NewsHour With Jim Lehrer : WETA : September 14, 2009 7:00pm-8:00pm EDT; The NewsHour With Jim Lehrer</b>
 <b>| NewsHour Productions | 2007</b>
-<i>This video clip and associated transcript appear from 32:28 - 39:27 in the full record.<i>
+<i>This video clip and associated transcript appear from 02:57 - 07:31 in the full record.<i>
 
 ## Teachingtips
 
@@ -21,7 +21,7 @@ This 2007 PBS NewsHour “explainer” by economics reporter Paul Solman introdu
 
 ## Cliptime
 
-1948,2367
+0177,0451
 
 ## Author
 ## Subjects
