@@ -1,15 +1,15 @@
-# “The Subprime Mortgage Crisis, Explained” (2007)
+# “Unemployment and the Economic Impact of the Great Recession” (2009)
 
 ## Thumbnail
 
-![Subprime Mortgage Crisis](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-subprime-mortgage.png "Subprime Mortgage Crisis")
+![Economic Impact](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-subprime-mortgage.png "Economic Impact")
 
 ## Guid
-cpb-aacip-507-cf9j38m54j
+cpb-aacip_525-cv4bn9z52s
 
 ## Introduction
 
-This 2007 PBS NewsHour “explainer” by economics reporter Paul Solman introduces viewers to subprime mortgages (home loans given to people whose financial history made it difficult to obtain traditional loans), and explains why investors across the globe invested in mortgage-backed securities, despite the high risks. Crucially, Solman details how the domino effect of borrowers defaulting on subprime loans was the catalyst for the Great Recession.  
+The subprime housing crisis severely damaged, and even destroyed, many of the largest American financial institutions. This chain reaction continued and ultimately spread throughout the American economy. Many Americans lost money they had invested, leading to decreased consumer spending. Financial institutions, scarred by the recent experience of losing money on risky loans, were reluctant, or unable, to make loans to businesses. With their revenue declining and without easy access to capital, many businesses failed or laid off workers to stay afloat. As a result, the unemployment rate more than doubled between 2007 and August 2009, when it peaked at 10%. This *PBS NewsHour* report from September 2009 profiles the experience of a sampling of the millions of Americans—both blue- and white-collar—who lost their jobs during the Great Recession.
 
 <b>The NewsHour with Jim Lehrer</b>
 <b>| NewsHour Productions | 2007</b>
