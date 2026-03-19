@@ -1,5 +1,4 @@
 require ::File.expand_path('../../config/environment', __FILE__)
-require_relative 'lib/downloader'
 require_relative 'lib/cleaner'
 require_relative 'lib/pb_core_ingester'
 
@@ -24,12 +23,6 @@ class DownloadCleanIngest
     end
   end
 
-  def download(opts)
-    [Downloader.new(
-      { is_just_reindex: @is_just_reindex }.merge(opts)
-    ).run]
-  end
-
   def initialize(argv)
     orig = argv.clone
 
@@ -49,37 +42,12 @@ class DownloadCleanIngest
 
     unrecognized_flags = args.select { |arg| arg =~ /^-/ }
     raise("Unrecognized flags: #{unrecognized_flags.join(', ')}") unless unrecognized_flags.empty?
-    raise("#{JUST_REINDEX} should only be used with #{IDS}, #{ID_FILES}, #{EXHIBITS}, or #{QUERY} modes") if @is_just_reindex && ![IDS, ID_FILES, EXHIBITS, QUERY].include?(mode)
 
     log_init(orig)
     $LOG.info("START: Process ##{Process.pid}: #{__FILE__} #{orig.join(' ')}")
 
-    @flags = { is_just_reindex: @is_just_reindex }
-
     begin
       case mode
-
-      when ALL
-        raise ParamsError.new unless args.count < 2 && (!args.first || args.first.to_i > 0)
-        target_dirs = download(page: args.first.to_i)
-
-      when BACK
-        raise ParamsError.new unless args.count == 1 && args.first.to_i > 0
-        target_dirs = download(days: args.first.to_i)
-
-      when QUERY
-        raise ParamsError.new unless args.count == 1
-        target_dirs = download(query: args.first)
-
-      when IDS
-        raise ParamsError.new unless args.count >= 1
-        target_dirs = download(ids: args)
-
-      when ID_FILES
-        raise ParamsError.new unless args.count >= 1
-        # readlines does not remove newlines from list, at least on am linux 2
-        ids = args.map { |id_file| File.readlines(id_file).map(&:chomp) }.flatten
-        target_dirs = download(ids: ids)
 
       when DIRS
         raise ParamsError.new if args.empty? || args.map { |dir| !File.directory?(dir) }.any?
@@ -88,12 +56,6 @@ class DownloadCleanIngest
       when FILES
         raise ParamsError.new if args.empty?
         @files = args
-
-      when EXHIBITS
-        raise ParamsError.new unless args.count >= 1
-        # this will fail if exhibit path does not exist
-        ids = args.map { |exhibit_path| Exhibit.find_by_path(exhibit_path).ids }.flatten
-        target_dirs = download(ids: ids)
 
       else
         raise ParamsError.new
@@ -126,42 +88,20 @@ class DownloadCleanIngest
   def usage_message
     <<-EOF.gsub(/^ {4}/, '')
       USAGE: #{File.basename(__FILE__)}
-               [#{BATCH_COMMIT}] [#{STDOUT_LOG}] [#{LEAVE_FILES}] [#{JUST_REINDEX}]
-               ( #{ALL} [PAGE] | #{BACK} DAYS | #{QUERY} 'QUERY'
-                 | #{IDS} ID ... | #{ID_FILES} ID_FILE ...
+               [#{BATCH_COMMIT}] [#{STDOUT_LOG}] [#{LEAVE_FILES}]
                  | #{FILES} FILE ... | #{DIRS} DIR ...
-                 | #{EXHIBITS} EXHIBIT ...)
 
       boolean flags:
         #{BATCH_COMMIT}: Optionally, make just one commit at the end, rather than
           one commit per file.
         #{STDOUT_LOG}: Optionally, log to stdout, rather than a log file.
         #{LEAVE_FILES}: Leave pbcore files in place.
-        #{JUST_REINDEX}: Rather than querying the AMS, query the local solr. This
-          is typically used when the indexing strategy has changed, but the AMS
-          data has not changed.
 
       mutually exclusive modes:
-        #{ALL}: Download, clean, and ingest all PBCore from the AMS. Optionally,
-          supply a results page to begin with.
-        #{BACK}: Download, clean, and ingest only those records updated in the
-          last N days. (I don't trust the underlying API, so give yourself a
-          buffer if you use this for daily updates.)
-        #{QUERY}: First obtain a list of IDs to update using the url query fragment.
-          Unless #{JUST_REINDEX} is given, these records will be re-downloaded,
-          cleaned, and ingested.
-        #{IDS}: Download (or query), clean, and ingest records with the given IDs.
-          Will usually be used in conjunction with #{BATCH_COMMIT}, rather than
-          committing after each record.
-        #{ID_FILES}: Read the files, and then download (or query), clean, and
-          ingest records with the given IDs. Again, this will usually be used in
-          conjunction with #{BATCH_COMMIT}, rather than committing after each record.
         #{FILES}: Clean and ingest the given files.
         #{DIRS}: Clean and ingest the given directories. (While "#{FILES} dir/*"
           could suffice in many cases, for large directories it might not work,
           and this is easier than xargs.)
-        #{EXHIBITS}: Clean and ingest those records which support the specified
-          exhibits, including those belonging to sub-exhibits.
       EOF
   end
 

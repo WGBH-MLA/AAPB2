@@ -10,3 +10,16 @@ jobs:
   format:
     name: 👮 Formatter
     uses: ./.github/workflows/rubocop.yml
+
+  orgs:
+    name: 🫀 Validate Orgs
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📰 Checkout code
+        uses: actions/checkout@v4
+
+      - name: ✔️ Validate Orgs
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          file: public/data/orgs.json
+          schema: public/data/orgs.schema.json

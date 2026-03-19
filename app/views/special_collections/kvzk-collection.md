@@ -6,7 +6,19 @@
 
 ## Summary 
 
+<table class="full-width">
+  <tbody>
+    <tr>
+      <td>
+        <iframe class="exhibit-small-iframe" src="https://player.vimeo.com/video/1080620760" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 The KVZK Collection includes over 6,000 television programs, episodes, and raw footage documenting American Samoan culture, politics, and history. Digitization of KVZK material is ongoing, and thousands more items will be added to the collection in the coming months. The collection includes news reports, sporting events, patriotic and religious ceremonies, high school and college graduations, performing arts festivals, conferences, spelling bees, and pageants. The oldest program in the collection dates from the 1960s; however, most were produced between 1980 and the mid-2000s. Recordings are in Samoan, English, or both.
+
+>**If you'd like to support the continuation of our work to preserve American Samoan public media, please [consider donating to our fundraising drive](https://americanarchive.donorsupport.co/page/AmericanSamoa) to save more than 6,000 undigitized tapes at risk of being lost forever.**
 
 The collection is noteworthy for its rich cultural content. Some items, such as a [presentation at the Lee Auditorium](/catalog/cpb-aacip-d64491273c6) in American Samoa by high school students reprising their recent performance at the 1964-1965 New York World’s Fair, showcase traditional Samoan music and dance performances. Others, such as [Faga'itua High School’s 2015 graduation ceremony](/catalog/cpb-aacip-3f517639614), feature students singing along to contemporary pop music and performing the latest dance trends. Footage from the [Miss American Samoa](/catalog/cpb-aacip-32f4f9aa618) and [Miss South Pacific](/catalog/cpb-aacip-15d98b1f18e) pageants includes traditional and popular music and dancing, as well as contestant speeches and [outtakes](/catalog/cpb-aacip-8105b8667f7). The collection also features sporting events, including [fautasi (long boat) races](/catalog/cpb-aacip-d2491e4cdee), [boxing matches](/catalog/cpb-aacip-3cd17ab0b98), and [women’s volleyball and weightlifting competitions](/catalog/cpb-aacip-4f654284a5c). 
 

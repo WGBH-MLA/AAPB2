@@ -62,7 +62,8 @@ describe CatalogController do
       context 'with a record with a "Proxy Start Time annotation' do
         context 'when no proxy_start_time is included in params' do
           it 'redirects to URL with @pbcore.proxy_start_time' do
-            allow_any_instance_of(User).to receive(:onsite?).and_return(true)
+            allow_any_instance_of(User).to receive(:authorized_referer?).and_return(true)
+            allow_any_instance_of(User).to receive(:usa?).and_return(true)
             get 'show', id: "cpb-aacip-114-90dv49m9"
             expect(response.redirect?).to eq true
             expect(response.status).to eq 302

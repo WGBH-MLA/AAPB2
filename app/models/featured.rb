@@ -2,7 +2,7 @@ require 'yaml'
 require_relative '../../lib/aapb'
 
 class Featured
-  attr_reader :id
+  attr_reader :url
   attr_reader :org_name
   attr_reader :name
   attr_reader :thumbnail_url
@@ -14,7 +14,7 @@ class Featured
   private
 
   def initialize(hash)
-    @id = hash.delete('id') || raise('expected id')
+    @url = hash.delete('url') || raise('expected url')
     @org_name = hash.delete('org_name') || raise('expected org_name')
     @name = hash.delete('name') || raise('expected org_name')
     @thumbnail_url = hash.delete('thumbnail_url') || "#{AAPB::S3_BASE}/featured/#{@id}_gallery.jpg"

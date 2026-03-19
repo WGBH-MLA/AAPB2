@@ -1,2 +1,2 @@
-ci.yml
-ci.old.yml
+ci*.*yml
+aws*.*yml
