@@ -1,19 +1,19 @@
-# “The Subprime Mortgage Crisis, Explained” (2007)
+# The Tea Party Wins Political Power (2010)
 
 ## Thumbnail
 
-![Subprime Mortgage Crisis](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-subprime-mortgage.png "Subprime Mortgage Crisis")
+![Tea Party Wins](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/7-tea-party-wins.png "Tea Party Wins")
 
 ## Guid
-cpb-aacip-507-cf9j38m54j
+cpb-aacip-525-639k35nb54 
 
 ## Introduction
 
-This 2007 PBS NewsHour “explainer” by economics reporter Paul Solman introduces viewers to subprime mortgages (home loans given to people whose financial history made it difficult to obtain traditional loans), and explains why investors across the globe invested in mortgage-backed securities, despite the high risks. Crucially, Solman details how the domino effect of borrowers defaulting on subprime loans was the catalyst for the Great Recession.  
+In the 2010 midterm "wave election," Republicans gained 63 House seats (the largest swing since 1938) and six Senate seats, taking control of the House and narrowing the Democratic Senate majority. Many commentators credited the Tea Party with driving Republican voters to the polls. The 2010 election also led to a surge of newly elected congresspeople, many of whom were Tea Party candidates that had initially been opposed by the Republican establishment. While these candidates had campaigned on reducing spending, governing required identifying specific government programs to cut. This *PBS NewsHour* piece, aired just a few days after the 2010 election, surveys the ascent of Tea Party Republicans and features an interview with newly-elected Utah Senator Mike Lee.
 
-<b>The NewsHour with Jim Lehrer</b>
-<b>| NewsHour Productions | 2007</b>
-<i>This video clip and associated transcript appear from 32:28 - 39:27 in the full record.<i>
+<b>PBS NewsHour; November 8, 2010 6:00pm-7:00pm PST</b>
+<b>| NewsHour Productions | 210</b>
+<i>This video clip and associated transcript appear from 41:10 - 46:17 in the full record.<i>
 
 ## Teachingtips
 
@@ -21,7 +21,7 @@ This 2007 PBS NewsHour “explainer” by economics reporter Paul Solman introdu
 
 ## Cliptime
 
-1948,2367
+2470,2777
 
 ## Author
 ## Subjects
