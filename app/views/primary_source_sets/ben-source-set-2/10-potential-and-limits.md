@@ -1,19 +1,19 @@
-# “The Subprime Mortgage Crisis, Explained” (2007)
+# Political Commentators Assess the Potential and Limits of the Occupy Movement (2011)
 
 ## Thumbnail
 
-![Subprime Mortgage Crisis](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-subprime-mortgage.png "Subprime Mortgage Crisis")
+![Political Commentators](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/10-political-commentators.png "Political Commentators")
 
 ## Guid
-cpb-aacip-507-cf9j38m54j
+cpb-aacip-525-3b5w66b25p
 
 ## Introduction
 
-This 2007 PBS NewsHour “explainer” by economics reporter Paul Solman introduces viewers to subprime mortgages (home loans given to people whose financial history made it difficult to obtain traditional loans), and explains why investors across the globe invested in mortgage-backed securities, despite the high risks. Crucially, Solman details how the domino effect of borrowers defaulting on subprime loans was the catalyst for the Great Recession.  
+Several weeks after the emergence of Occupy Wall Street, the *PBS NewsHour* gathered three analysts to assess the nascent movement. Magazine editor Sarah Van Gelder offered a sympathetic perspective on the Occupy movement, Manhattan Institute fellow Josh Barro offered a more critical view, and historian Beverly Gage placed the Occupy Movement in the context of past popular unrest against the financial sector. Their discussion illuminated both the potential and the limitations of the movement. On the one hand, protesters spoke to popular frustrations including wage stagnation, growing inequality and a sluggish economic recovery. Complaints about the injustice of the top 1% benefiting at the expense of the other 99% struck a chord with many Americans. However, commentators from across the political spectrum (including several in this clip) noted that the movement was not necessarily formulating a well-defined policy vision to address these problems.     
 
-<b>The NewsHour with Jim Lehrer</b>
-<b>| NewsHour Productions | 2007</b>
-<i>This video clip and associated transcript appear from 32:28 - 39:27 in the full record.<i>
+<b>PBS NewsHour; October 17, 2011 7:00pm-8:00pm EDT</b>
+<b>| NewsHour Productions | 2011</b>
+<i>This video clip and associated transcript appear from 12:52 - 18:39 in the full record.<i>
 
 ## Teachingtips
 
@@ -21,7 +21,7 @@ This 2007 PBS NewsHour “explainer” by economics reporter Paul Solman introdu
 
 ## Cliptime
 
-1948,2367
+0772,1119
 
 ## Author
 ## Subjects
