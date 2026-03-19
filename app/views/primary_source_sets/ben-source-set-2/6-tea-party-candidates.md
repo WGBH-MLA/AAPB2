@@ -1,19 +1,19 @@
-# “The Subprime Mortgage Crisis, Explained” (2007)
+# “Tea Party Candidates” Challenge the Republican Establishment (2010)
 
 ## Thumbnail
 
-![Subprime Mortgage Crisis](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-subprime-mortgage.png "Subprime Mortgage Crisis")
+![Republican Establishment](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/6-republican-establishment.png "Republican Establishment")
 
 ## Guid
-cpb-aacip-507-cf9j38m54j
+cpb-aacip-525-sx6445jp2j
 
 ## Introduction
 
-This 2007 PBS NewsHour “explainer” by economics reporter Paul Solman introduces viewers to subprime mortgages (home loans given to people whose financial history made it difficult to obtain traditional loans), and explains why investors across the globe invested in mortgage-backed securities, despite the high risks. Crucially, Solman details how the domino effect of borrowers defaulting on subprime loans was the catalyst for the Great Recession.  
+While the bulk of Tea Party animus was levelled at Democrats, conservative activists also voiced frustrations with a Republican establishment viewed as complicit with government overreach. After all, debt had climbed under the previous Republican administration, and Republicans had supported TARP in 2008 that spent billions of dollars to stabilize the economy. Thus, in 2010, many conservatives began to rally around certain challengers in Republican primaries who became known as Tea Party candidates, trying to defeat the candidates supported by the Republican establishment. After several Tea Party challengers won in a September 2010  primary in September 2010, the *PBS NewsHour* convened three commentators to discuss the political developments. This segment shows how the Tea Party movement inspired the Republican base, but also illuminates the fissures within the party and the risk of nominating extreme conservative candidates who might be less successful in a general election.
 
-<b>The NewsHour with Jim Lehrer</b>
+<b>PBS NewsHour; September 15, 2010 7:00pm-8:00pm EDT</b>
 <b>| NewsHour Productions | 2007</b>
-<i>This video clip and associated transcript appear from 32:28 - 39:27 in the full record.<i>
+<i>This video clip and associated transcript appear from 15:35 - 21:48 in the full record.<i>
 
 ## Teachingtips
 
@@ -21,7 +21,7 @@ This 2007 PBS NewsHour “explainer” by economics reporter Paul Solman introdu
 
 ## Cliptime
 
-1948,2367
+0935,1308
 
 ## Author
 ## Subjects
