@@ -1,4 +1,4 @@
-# Globalization and the Debate over “Free Trade”
+# The Tea Party and Occupy Wall Street
 
 ## Thumbnail
 
