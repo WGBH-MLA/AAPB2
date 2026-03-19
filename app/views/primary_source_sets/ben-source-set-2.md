@@ -57,9 +57,9 @@ During an economic crisis like the Great Recession, what role should the governm
 #### Classroom Activities
 
 1) Ask students to watch the following clips:
-- CLIP 1
-- CLIP 2
-- CLIP 3
+- [The Subprime Mortgage Crisis, Explained (2007)](https://americanarchive.org/primary_source_sets/ben-source-set-2/1-subprime-mortage)
+- [Unemployment and the Economic Impact of the Great Recession (2009)](https://americanarchive.org/primary_source_sets/ben-source-set-2/2-unemployment)
+- [The Federal Government Responds to the Financial Crisis (2009)](https://americanarchive.org/primary_source_sets/ben-source-set-2/3-federal-government-response)
 
 These clips introduce students to the Great Recession and the initial government response. Consider the following as potential discussion questions:
 - Why did so many people default on their mortgages between 2005 and 2008? Why did this trend have such a devastating impact on the economy as a whole? 
@@ -67,10 +67,10 @@ These clips introduce students to the Great Recession and the initial government
 - What steps did the government take to address the financial crisis? Why did legislators think these policies were necessary?
 
 2) Ask students to watch the following clips:
-- CLIP 4
-- CLIP 5
-- CLIP 6
-- CLIP 7
+- [Tea Party Activists Rally in Washington, D.C. (2009)](https://americanarchive.org/primary_source_sets/ben-source-set-2/4-tea-party-activists)
+- [Tea Party Activists Protest ‘Obamacare’ (2009)](https://americanarchive.org/primary_source_sets/ben-source-set-2/5-tea-party-activists-protest)
+- [“Tea Party Candidates” Challenge the Republican Establishment (2010)](https://americanarchive.org/primary_source_sets/ben-source-set-2/6-tea-party-candidates)
+- [The Tea Party Wins Political Power (2010)](https://americanarchive.org/primary_source_sets/ben-source-set-2/7-tea-party-wins)
 
 These clips introduce students to the Tea Party movement. Consider the following as potential discussion questions:
 - Think about the name of this conservative movement: The Tea Party. Why do you think conservative activists embraced that label? How does the moniker relate to the beliefs and values of the Tea Party movement?
@@ -80,9 +80,9 @@ These clips introduce students to the Tea Party movement. Consider the following
 - More broadly, what opportunities did the Tea Party movement present to the Republican Party? What challenges did the Tea Party pose?
 
 3) Ask students to watch the following clips:
-- CLIP 8
-- CLIP 9
-- CLIP 10
+- [The Occupy Wall Street Movement Emerges in Zuccotti Park (2011)](https://americanarchive.org/primary_source_sets/ben-source-set-2/8-occupy-wall-street)
+- [The Occupy Movement and City Authorities in Conflict (2011)](https://americanarchive.org/primary_source_sets/ben-source-set-2/9-occupy-movement)
+- [Political Commentators Assess the Potential and Limits of the Occupy Movement (2011)](https://americanarchive.org/primary_source_sets/ben-source-set-2/10-potential-and-limits)
 
 These clips introduce students to the Occupy Wall Street movement. Consider the following as potential discussion questions:
 - Pay attention to the protest signs and the rhetoric of Occupy protesters. What criticisms were made about the American economy?  Who were considered the villains in their story? Who were considered the victims?
@@ -90,8 +90,8 @@ These clips introduce students to the Occupy Wall Street movement. Consider the 
 - While the Tea Party emerged in 2009 and 2010–during the first two years of Obama’s presidency–the Occupy Wall Street only formed in the fall of 2011, well after the financial crash and after the 2010 midterms. What historical and political factors might explain the fact that this progressive movement emerged after the Tea Party?
 
 4) After students have watched at least some of the earlier clips, have them watch the following clips:
-- CLIP 11
-- CLIP 12
+- [The Moral Foundations of the Tea Party and Occupy Movements](https://americanarchive.org/primary_source_sets/ben-source-set-2/11-moral-foundations)
+- [Leadership and the Tea Party and Occupy Movements (2011)](https://americanarchive.org/primary_source_sets/ben-source-set-2/12-leadership-and-tea-party)
 
 These clips compare the Tea Party and Occupy movements. Consider the following discussion questions and activities: 
 - Make a Venn diagram comparing the ideology, tactics, and goals of the Tea Party and Occupy Wall Street. In particular, what did each movement believe about capitalism and the role of government in society?
