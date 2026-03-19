@@ -1,19 +1,19 @@
-# “The Subprime Mortgage Crisis, Explained” (2007)
+# “Tea Party Activists Rally in Washington, D.C.” (2009)
 
 ## Thumbnail
 
-![Subprime Mortgage Crisis](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-subprime-mortgage.png "Subprime Mortgage Crisis")
+![Tea Party Activists](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/4-tea-party-activists.png "Tea Party Activists")
 
 ## Guid
-cpb-aacip-507-cf9j38m54j
+cpb-aacip-1f1c1aaec5e
 
 ## Introduction
 
-This 2007 PBS NewsHour “explainer” by economics reporter Paul Solman introduces viewers to subprime mortgages (home loans given to people whose financial history made it difficult to obtain traditional loans), and explains why investors across the globe invested in mortgage-backed securities, despite the high risks. Crucially, Solman details how the domino effect of borrowers defaulting on subprime loans was the catalyst for the Great Recession.  
+A social movement known as the Tea Party emerged in the months after the inauguration of Barack Obama. Some commentators cite the on-air rant of CNBC reporter Rick Santelli as a catalyst. Santelli shouted from the floor of the Chicago Mercantile Exchange, asking “How many of you people want to pay for your neighbor’s mortgage that has an extra bathroom and can’t pay their bills? Raise their hand!” While Santelli did not singlehandedly launch the Tea Party, he undoubtedly expressed sentiments that resonated with many political conservatives. On April 15, 2009 (Tax Day), an estimated 250,000 Americans joined a Tea Party rally, criticizing government taxation, spending and the growing national debt. Tea Party protesters attacked the stimulus and the bailouts as examples of irresponsible and unsustainable government spending. Conservative media provided ample sympathetic coverage of this and other Tea Party rallies, spurring public anger and encouraging further protest. Fox News host Glenn Beck (featured in the clip) attracted a large following by expressing the frustrations of many viewers of the network. This segment on *Bill Moyers Journal* provided footage from a Tea Party rally in Washington, D.C., on September 12, 2009. The posters, clothes and interview comments provide a window into the ideology of Tea Party protesters who believed that Obama and the Democratic government were a tyrannical force threatening their freedom.
 
-<b>The NewsHour with Jim Lehrer</b>
-<b>| NewsHour Productions | 2007</b>
-<i>This video clip and associated transcript appear from 32:28 - 39:27 in the full record.<i>
+<b>Bill Moyers Journal (2007-2010); 1323; Sam Tanenhaus; Michael Zweig and Bill Fletcher</b>
+<b>| Public Affairs Television & Doctoroff Media Group | 2009</b>
+<i>This video clip and associated transcript appear from 03:02 - 05:11 in the full record.<i>
 
 ## Teachingtips
 
@@ -21,7 +21,7 @@ This 2007 PBS NewsHour “explainer” by economics reporter Paul Solman introdu
 
 ## Cliptime
 
-1948,2367
+0182,0311
 
 ## Author
 ## Subjects
