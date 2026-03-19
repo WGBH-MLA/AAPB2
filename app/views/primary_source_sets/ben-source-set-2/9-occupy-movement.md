@@ -1,19 +1,19 @@
-# “The Subprime Mortgage Crisis, Explained” (2007)
+# The Occupy Movement and City Authorities in Conflict (2011)
 
 ## Thumbnail
 
-![Subprime Mortgage Crisis](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-subprime-mortgage.png "Subprime Mortgage Crisis")
+![Occupy Movement](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/9-occupy-movement.png "Occupy Movement")
 
 ## Guid
-cpb-aacip-507-cf9j38m54j
+cpb-aacip-525-s17sn0278x
 
 ## Introduction
 
-This 2007 PBS NewsHour “explainer” by economics reporter Paul Solman introduces viewers to subprime mortgages (home loans given to people whose financial history made it difficult to obtain traditional loans), and explains why investors across the globe invested in mortgage-backed securities, despite the high risks. Crucially, Solman details how the domino effect of borrowers defaulting on subprime loans was the catalyst for the Great Recession.  
+Occupy Wall Street started in New York City, but in the fall of 2011, the movement spread as protesters built encampments in cities and college campuses across the country. As shown in this November 2011 *PBS NewsHour* report, tensions between public authorities and Occupy protesters mounted as the weeks passed. Officials expressed concern about sanitary conditions, drug use and violence within the encampments (though these charges were typically disputed by activists). In some cities, confrontations between police and protesters led to physical altercations and property destruction. Ultimately, in New York City, Oakland, Portland and other cities, city officials sent police to clear out the encampments. The clip features footage of encampments and protest activity, as well as excerpts of interviews with the mayor of Portland and with an Occupy spokesman about the impending eviction of Occupy protesters. 
 
-<b>The NewsHour with Jim Lehrer</b>
-<b>| NewsHour Productions | 2007</b>
-<i>This video clip and associated transcript appear from 32:28 - 39:27 in the full record.<i>
+<b>PBS NewsHour; November 11, 2011 3:00pm-4:00pm PST</b>
+<b>| NewsHour Productions | 2011</b>
+<i>This video clip and associated transcript appear from 20:13 - 26:11 in the full record.<i>
 
 ## Teachingtips
 
@@ -21,7 +21,7 @@ This 2007 PBS NewsHour “explainer” by economics reporter Paul Solman introdu
 
 ## Cliptime
 
-1948,2367
+1213,1571
 
 ## Author
 ## Subjects
