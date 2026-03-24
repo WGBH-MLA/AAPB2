@@ -120,7 +120,7 @@ These clips compare the Tea Party and Occupy movements. Consider the following d
 
 ## Citation
 
-Cover image, ["Day 40 of Occupy Wall Street in New York, Tuesday, October 25. Photos of protesters and life in Liberty Plaza."](https://commons.wikimedia.org/wiki/Occupy_Wall_Street#/media/File:Day_40_Occupy_Wall_Street_October_25_2011_Shankbone_13.JPG) 2011 (cropped). Photograph by David Shankbone. [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+Cover image: Shankbone, David. [*Day 40 of Occupy Wall Street in New York, Tuesday, October 25. Photos of protesters and life in Liberty Plaza.*](https://commons.wikimedia.org/wiki/Occupy_Wall_Street#/media/File:Day_40_Occupy_Wall_Street_October_25_2011_Shankbone_13.JPG) 2011 (cropped). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 ## Guid
 ## Cliptime
