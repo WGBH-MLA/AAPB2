@@ -9,11 +9,11 @@ cpb-aacip-507-cf9j38m54j
 
 ## Introduction
 
-This 2007 *PBS NewsHour* “explainer” by economics reporter Paul Solman introduces viewers to subprime mortgages (home loans given to people whose financial history made it difficult to obtain traditional loans), and explains why investors across the globe invested in mortgage-backed securities, despite the high risks. Crucially, Solman details how the domino effect of borrowers defaulting on subprime loans was the catalyst for the Great Recession.
+This 2007 *NewsHou with Jim Leherr* “explainer” by economics reporter Paul Solman introduces viewers to subprime mortgages (home loans given to people whose financial history made it difficult to obtain traditional loans), and explains why investors across the globe invested in mortgage-backed securities, despite the high risks. Crucially, Solman details how the domino effect of borrowers defaulting on subprime loans was the catalyst for the Great Recession.
 
 <b>The NewsHour with Jim Lehrer</b>
 <b>| NewsHour Productions | 2007</b>
-<i>This video clip and associated transcript appear from 32:28 - 39:27 in the full record.<i>
+<i>This video clip and associated transcript appear from 32:28 - 39:28 in the full record.<i>
 
 ## Teachingtips
 
@@ -21,7 +21,7 @@ This 2007 *PBS NewsHour* “explainer” by economics reporter Paul Solman intro
 
 ## Cliptime
 
-1948,2367
+1948,2368
 
 ## Author
 ## Subjects
