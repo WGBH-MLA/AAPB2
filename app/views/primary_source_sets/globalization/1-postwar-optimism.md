@@ -21,7 +21,7 @@ In the aftermath of World War II, the ascendant United States played a central r
 
 ## Cliptime
 
-0199,0472
+0199,0438
 
 ## Author
 ## Subjects
