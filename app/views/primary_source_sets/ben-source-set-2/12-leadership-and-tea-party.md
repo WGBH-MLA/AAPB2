@@ -5,7 +5,7 @@
 ![Tea Party and Occupy Movements](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg "Tea Party and Occupy Movements")
 
 ## Guid
-cpb-aacip-507-cf9j38m54j
+cpb-aacip-15-pz51g0jn0s
 
 ## Introduction
 
