@@ -32,6 +32,7 @@ These clips are divided into three modules: (1) The first four clips trace a his
 #### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
+
 - The rise and maturation of an industrialized economy in the U.S. by the mid-20th Century
 - General background about policies that can either promote or restrict international trade (e.g. tariffs, quotas)
 
@@ -55,6 +56,7 @@ In the balance, has the increase in global trade since World War II harmed or be
 #### Classroom Activities
 
 1) Watch the following clips:
+   
 - [Postwar Optimism about the Economic Benefits of International Trade (1965)](https://americanarchive.org/primary_source_sets/globalization/1-postwar-optimism)
 - [The Growing “Threat” of Imported Goods in the 1970s (1977)](https://americanarchive.org/primary_source_sets/globalization/2-growing-threat)
 - [NAFTA Promotes U.S. Trade with Mexico and Canada (1995)](https://americanarchive.org/primary_source_sets/globalization/3-NAFTA-trade)
@@ -67,6 +69,7 @@ Then show students [the following chart](https://fred.stlouisfed.org/series/B021
 - What social, economic, or political factors help explain the rise in international trade over this timeframe?
 
 2) Ask students to watch the following clips:
+   
 - [Walmart, Sweatshops, and the Price of Cheap Clothes (2004)](https://americanarchive.org/primary_source_sets/globalization/5-walmart-sweatshops)
 - [Organized Labor’s Critique of Globalization and Free Trade (1999)](https://americanarchive.org/primary_source_sets/globalization/6-organized-labors)
 - [Defending Free Trade Against its Critics (2004)](https://americanarchive.org/primary_source_sets/globalization/7-free-trade)
@@ -80,6 +83,7 @@ These sources collectively illuminate some of the complex pros and cons of globa
 - What do *you* think? In the balance, are Americans better or worse off as a result of global trade? What actions do you think the government should (or shouldn’t) take to restrain or restrict international commerce?
 
 3) During his ultimately successful 2016 presidential campaign, Donald Trump railed against the impact that free trade deals and the rise of China had had on American businesses and workers. In this regard, Trump was far more critical of globalization and free trade than most Republican political leaders in recent U.S. History. Ask students to watch the following clips:
+   
 - [The Lessons of the “Elephant Chart” (2017)](https://americanarchive.org/primary_source_sets/globalization/9-elephant-chart)
 - [Debating Global Trade in the Age of Trump (2017)](https://americanarchive.org/primary_source_sets/globalization/10-debating-global-trade)
 - [Trump’s Trade Policy and Criticism of China (2018)](https://americanarchive.org/primary_source_sets/globalization/11-trump-trade-policy)
