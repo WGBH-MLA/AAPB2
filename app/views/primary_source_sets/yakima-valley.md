@@ -55,8 +55,7 @@ What are the different topics discussed in the radio program? What actions do th
 
 #### Classroom Activities
 
-##### Activity 1. 
-##### 1982: Immigration Protest and the Challenges of the Undocumented Community March
+##### Activity 1. 1982: Immigration Protest and the Challenges of the Undocumented Community March
 
 Divide students into groups of three and ask them to listen to the below extract. In this program, students will learn about the march from Toppenish to Yakima to protest the immigration raids. 
 
@@ -75,8 +74,7 @@ Each group must fill out the following details about the march/
 After completing the table, discuss the answers as a class and write the main ideas for each number on the board. Then discuss other protests and marches throughout U.S. history and how they can bring light to different injustices. 
 
 
-##### Activity 2. 
-##### 1985: La educación bilingüe en el Valle de Yakima
+##### Activity 2. 1985: La educación bilingüe en el Valle de Yakima
 
 In the below radio episode, Ricardo García interviews Camilo Pérez and Héctor González about the importance of bilingual education, its obstacles, and how crucial it is to strengthen Spanish skills. Each student must listen to the entire episode and write whether they agree or disagree with the statements made in the program. Students must explain their answer.
 
@@ -85,26 +83,25 @@ In the below radio episode, Ricardo García interviews Camilo Pérez and Héctor
 
 a. Camilo stated: _“Para la mayoría de nuestras familias latinas, no es realista enseñarles español a sus hijos debido a las condiciones en las que viven, al tipo de trabajo que tienen, ya que no hay ni tiempo ni oportunidad, ni son los más adecuados para enseñar el idioma en el desarrollo de la lectura y la escritura. Hay mucho que pueden hacer los padres, y es muy importante que participen y ayuden, pero tenemos que reconocer que las escuelas tienen la mayor responsabilidad. Debemos hacer que cumplan con esa responsabilidad y que se necesita un programa educativo tanto como en la casa como en la escuela que nos ayude a desarrollar nuestro idioma.”_ 
 
-Question: Do you agree with the above statement that both parents and education are crucial for maintaining children's Spanish literacy skills? Explain your answer.
+##### Question: Do you agree with the above statement that both parents and education are crucial for maintaining children's Spanish literacy skills? Explain your answer.
 
 b. Camilo also stated: _“Hay muy pocos distritos donde se enseña de verdad el español en los primeros años de la educación bilingüe. Hay muy pocos maestros que tienen el entrenamiento para enseñar educación bilingüe y muchos maestros que no son bilingües dependen de los asistentes, quienes tampoco tienen el entrenamiento necesario para ayudar a los estudiantes a aprender inglés. Desde el primer año, los estudiantes no reciben el apoyo que necesitan. Esto lleva a que los estudiantes no avancen en su educación y eventualmente decidan dejar la escuela y no se gradúen.”_
 
-Question: Do you agree with the above statement that the lack of training in bilingual education for teachers can hinder the students' experience to the point where those who did not learn English end up dropping out of school? Explain your answer. 
+##### Question: Do you agree with the above statement that the lack of training in bilingual education for teachers can hinder the students' experience to the point where those who did not learn English end up dropping out of school? Explain your answer. 
 
 c. Camilo further stated:_“Donde la comunidad latina tenga una fuerza política, donde se sienta y se respete como comunidad, ésta tiene más oportunidades para tener una buena educación bilingüe, como en San Antonio y en Denver”_
 
-Question: Do you agree with the above statement that a united community is more powerful and can demand its right to have efficient bilingual education? Explain your answer. 
+##### Question: Do you agree with the above statement that a united community is more powerful and can demand its right to have efficient bilingual education? Explain your answer. 
 
 d. Camilo said:_“Hay muchos chicanos, muchos que están progresando y económicamente son parte de la media clase y son oponentes de la educación bilingüe. Como el educador Richard Rodríguez, quien se cambió su nombre de Ricardo a Richard, incluso esto refleja su falta de consciencia y falta de respeto a sus propios orígenes. Él escribió un libro oponiéndose a la educación bilingüe y otro libro titulado Hunger of Memory que es como una autobiografía y él ha hecho todo lo que pueda en todo el país para oponerse a los derechos que tenemos en cuanto a la educación bilingüe, oponerse a la acción afirmativa. Es un títere útil del sistema en contra de nuestra propia comunidad, él dice que está mejor después de haber perdido su identidad, haber cambiado su nombre, haber desechado su español a comparación de la comunidad latina quien intenta conservar su idioma y su cultura. Él representa una fuerza bien negativa que lucha en contra de los derechos de la comunidad latina. El argumento de Richard Rodríguez en contra de la educación bilingüe es que este país es un país angloparlante, dirigido por anglos y que por eso el precio de educarnos en este país tiene que ser la asimilación. El único objetivo de la educación debería ser la asimilación de la comunidad latina. Los inmigrantes que llegaron antes de Europa en los años 1920 de Irlanda e Italia se han asimilado porque eran blancos porque eran de culturas similares a los anglos. Sin embargo, es importante reconocer que la cultura latina es diferente y ha sobrevivido muchos años de opresión, pero ha podido sobrevivir y seguirá sobreviviendo porque hay ese orgullo sobre la cultura latina.”_
 
-Question: Do you agree wiht Richard Rodriguez's view that the role of education is to assimilate Latino children into Anglo culture, and that Latinos must assimilate? Explain your answer. 
+##### Question: Do you agree wiht Richard Rodriguez's view that the role of education is to assimilate Latino children into Anglo culture, and that Latinos must assimilate? Explain your answer. 
 
 e. ¿Qué pueden hacer los padres para luchar por la educación bilingüe para sus hijos? Camilo answered: _“Primero, es importante reconocer que los niños indocumentados tienen los mismos derechos que los niños documentados. Tienen los mismos derechos a la educación. Los padres deben motivar a sus hijos a continuar usando el español en casa, en la comunidad y en la escuela. Los padres son los primeros maestros y les enseñan a sus hijos sobre su identidad y su idioma. Sin embargo, hay padres que no se informan y permiten que sus hijos pierdan el español porque en sus casas todo el tiempo hablan inglés, los programas que ven en la televisión son en inglés y no hacen un esfuerzo para que sus hijos vean programas en español. Esto lleva a que, cuando los latinos son jóvenes, ya no usen el español y no valoran este idioma. Los padres y la educación son responsables de que se pierda la cultura y el idioma en las nuevas generaciones de latinos.”_
 
-Question: Do you agree with the statement above that what parents do can either motivate their children ot maintain their Spanish and culture or lead them to assimilate to teh Anglo culture and language? Explain your answer.
+##### Question: Do you agree with the statement above that what parents do can either motivate their children ot maintain their Spanish and culture or lead them to assimilate to teh Anglo culture and language? Explain your answer.
 
-##### Activity 3. 
-##### 1991: Los jóvenes hispanos entre dos culturas/ Hispanic youth living in two cultures 
+##### Activity 3. 1991: Los jóvenes hispanos entre dos culturas/ Hispanic youth living in two cultures 
 
 Assign the below radio program as homework to students. In this talk, students will learn about the obstacles that the Latino youth in the Yakima valley faced in 1991. 
 
@@ -121,8 +118,7 @@ After listening to the talk, students must write a brief summary of ONE of the t
 
 Task: Summarize one of the topics and the differences in how the topic is discussed now compared to 1991:
 
-##### Activity 4. 
-##### 1996: Ninfa Bangumar Gutierrez, activista y pionera de los cambios sociales en el Valle de Yakima
+##### Activity 4. 1996: Ninfa Bangumar Gutierrez, activista y pionera de los cambios sociales en el Valle de Yakima
 
 In this episode, Ricardo Garcia interviews Ninfa Bangumar Gutierrez, an activist and pioneer of the social change that took place in the 1960s in the Yakima Valley. 
 
@@ -136,41 +132,13 @@ Group Two: Why did she move to Washington? What did she do for work?
 Group Three: What were the different obstacles Ninfa faced in the Yakima Valley?
 Group Four: What did Ninfa do in the ’60s and ’70s to fight against the social injustices the Latino community faced in the Yakima Valley? 
 
-##### Activity 5. 
-##### In Summary
+##### Activity 5. In Summary
 
 In this set, you have explored the different issues the Latino community has encountered in the Yakima Valley in the years 1982, 1985, 1991, and 1996. The topics ranged from immigration issues, bilingual education, health issues, and the impact of activism. KDNA, the radio station that was key in informing and mobilizing the Latino community, is still on air today.
 
-
-
+- [**KDNA**](https://kdna.org/ways-to-listen/)
+  
 In this last activity, students must listen to a recent broadcast from the station and write a brief summary of the issues that are discussed. Then, students will share in class their summaries. 
-
-
-
-##### Group 2: Nonviolence and Black Power
-- [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9-207-60qrfqmn) (1991)
-- [Stokely Carmichael Discusses Organizing and Voting](https://americanarchive.org/primary_source_sets/black-power/1-28-zw18k75h85) (1966)
-- [Activist James Bevel Promotes Nonviolence](https://americanarchive.org/primary_source_sets/black-power/2-28-6688g8fs31) (1966)
-
-##### Group 3: Black Panther Party for Self Defense 
-- [Radio broadcast of Bobby Seale at “Free Huey Newton” Rally](https://americanarchive.org/primary_source_sets/black-power/5-28-q52f766p51) (1968)
-- [Black Student Takeover at Brandeis University](https://americanarchive.org/primary_source_sets/black-power/6-15-99p2w600) (1969)
-- [Angela Davis Speaks at Black Panther Rally](https://americanarchive.org/primary_source_sets/black-power/7-28-vh5cc0vc2h) (1969)
-
-##### Group 4: Student Protests
-- [Stokely Carmichael Discusses Black Power](https://americanarchive.org/primary_source_sets/black-power/3-28-zp3vt1h700) (1966)
-- [Black Student Takeover at Brandeis University](https://americanarchive.org/primary_source_sets/black-power/6-15-99p2w600) (1969)
-- [Student Press Conference Following Student Takeover at Amherst College](https://americanarchive.org/primary_source_sets/black-power/8-305-1289335k) (1970)
-
-2)  Bring the groups back together for a discussion guided by the following questions:
-
-- How did Black Power advocates define Black Power? What, if any, thread was running through their definitions?
-- What distinguished Black Power objectives and protests from those of the civil rights era? 
-- What issues did Black Power activists identify as the biggest challenges to Black people and Black communities?
-- What was the relationship between Black Power and education?
-- How did Stokely Carmichael and James Bevel, both well-known and important activists in the civil rights movement, view Black Power?
-
-<hr>
 
 ## Pdflink
 
@@ -178,16 +146,15 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Black-Powe
 
 ## Additionalresources
 
-- [**SNCC Digital Gateway**](https://snccdigital.org/), SNCC Legacy Project and Duke University
-- [**Black Panther Party Community News Service**](https://search.freedomarchives.org/search.php?view_collection=90), The Freedom Archives
-- [**Curriculum**](https://freedomarchives.org/projects/curriculum/), The Freedom Archives
-- [**The Black Panther Party Ten-Point Program**](https://www.blackpast.org/african-american-history/primary-documents-african-american-history/black-panther-party-ten-point-program-1966/), BlackPast
-- [**Black Culture Connection**](https://www.pbs.org/articles/topic/black-culture-connection), PBS
-
+- [**Radio KDNA-voice of the farm worker: surpasses 40 years**](https://www.yakimaherald.com/news/local/radio-kdna----voice-of-the-farm-worker----surpasses-40/article_a048501e-f543-55b3-a8f5-c3c51c7fae9e.html/)
+  
+The Origins of Latino Community Radio 
+https://revisitwa.org/local_theme/latino-heritage-in-the-yakima-valley/
+https://revisitwa.org/waypoint/krew-radio-station-pepes-bakery/
 
 ## Youmayalsolike
 - exhibit,black-power
-- special collection,say-brother
+- special collection,hispanic-heritage-collection
 - special collection,soul-of-black-identity
 
 
