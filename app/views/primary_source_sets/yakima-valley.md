@@ -26,7 +26,7 @@ In this set, we will explore the history of the Latino community in the Yakima V
 
 ## Teachingtips
 
-In this set, students will listen to a talk show from KDNA radio titled Buenas Noches that covers issues that directly impact the Latino community in the Yakima Valley. Students might need to listen to the show more than once. Another suggestion is to start listening to the assigned episode in class and then finish it for homework.  
+In this set, students will listen to a talk show from KDNA radio titled _Buenas Noches_ that covers issues that directly impact the Latino community in the Yakima Valley. Students might need to listen to the show more than once. Another suggestion is to start listening to the assigned episode in class and then finish it for homework.  
 
 #### Background Information
 
@@ -57,7 +57,7 @@ What are the different topics discussed in the radio program? What actions do th
 
 ##### Activity 1. 1982: Immigration Protest and the Challenges of the Undocumented Community March
 
-Divide students into groups of three and ask them to listen to the below extract. In this program, students will learn about the march from Toppenish to Yakima to protest the immigration raids. 
+Divide students into groups of three and ask them to listen to the below extract. In this episode, students will learn about the march from Toppenish to Yakima to protest the immigration raids. 
 
 - [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9-207-60qrfqmn) (1991)
 
