@@ -60,9 +60,8 @@ What are the different topics discussed in the radio program? What actions do th
 Divide students into groups of three and ask them to listen to the below extract. In this program, students will learn about the march from Toppenish to Yakima to protest the immigration raids. 
 
 - [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9-207-60qrfqmn) (1991)
-- [Stokely Carmichael Discusses Black Power](https://americanarchive.org/primary_source_sets/black-power/3-28-zp3vt1h700) (1966)
 
-Each group must fill out the following details about the march/
+Each group must fill out the following details about the march
 
 1. Purpose:
 2. When:
@@ -71,7 +70,7 @@ Each group must fill out the following details about the march/
 5. Outcome:
 6. Two chants used in the march and their meaning: 
 
-After completing the table, discuss the answers as a class and write the main ideas for each number on the board. Then discuss other protests and marches throughout U.S. history and how they can bring light to different injustices. 
+After completing the above, discuss the answers as a class and write the main ideas for each number on the board. Then discuss other protests and marches throughout U.S. history and how they can bring light to different injustices. 
 
 
 ##### Activity 2. 1985: La educación bilingüe en el Valle de Yakima
@@ -79,7 +78,6 @@ After completing the table, discuss the answers as a class and write the main id
 In the below radio episode, Ricardo García interviews Camilo Pérez and Héctor González about the importance of bilingual education, its obstacles, and how crucial it is to strengthen Spanish skills. Each student must listen to the entire episode and write whether they agree or disagree with the statements made in the program. Students must explain their answer.
 
 - [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9-207-60qrfqmn) (1991)
-- [Stokely Carmichael Discusses Black Power](https://americanarchive.org/primary_source_sets/black-power/3-28-zp3vt1h700) (1966)
 
 a. Camilo stated: _“Para la mayoría de nuestras familias latinas, no es realista enseñarles español a sus hijos debido a las condiciones en las que viven, al tipo de trabajo que tienen, ya que no hay ni tiempo ni oportunidad, ni son los más adecuados para enseñar el idioma en el desarrollo de la lectura y la escritura. Hay mucho que pueden hacer los padres, y es muy importante que participen y ayuden, pero tenemos que reconocer que las escuelas tienen la mayor responsabilidad. Debemos hacer que cumplan con esa responsabilidad y que se necesita un programa educativo tanto como en la casa como en la escuela que nos ayude a desarrollar nuestro idioma.”_ 
 
@@ -167,5 +165,4 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Black-Powe
 
 Amezcua, Angelica. "The Latino Community in the Yakima Valley." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/yakima-valley.
 
-## Guid
-## Cliptime
+
