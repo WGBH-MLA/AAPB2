@@ -147,15 +147,20 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Black-Powe
 ## Additionalresources
 
 - [**Radio KDNA-voice of the farm worker: surpasses 40 years**](https://www.yakimaherald.com/news/local/radio-kdna----voice-of-the-farm-worker----surpasses-40/article_a048501e-f543-55b3-a8f5-c3c51c7fae9e.html/)
-  
-The Origins of Latino Community Radio 
-https://revisitwa.org/local_theme/latino-heritage-in-the-yakima-valley/
-https://revisitwa.org/waypoint/krew-radio-station-pepes-bakery/
+- [**Latino Heritage in the Yakima Valley**](https://revisitwa.org/local_theme/latino-heritage-in-the-yakima-valley/)
+- [**KREW Radio Station**](https://revisitwa.org/waypoint/krew-radio-station-pepes-bakery/)
 
 ## Youmayalsolike
 - exhibit,black-power
+- exhibit,latino-empowerment-through-public-broadcasting
 - special collection,hispanic-heritage-collection
-- special collection,soul-of-black-identity
+
+## References
+- [Darian, L. (2006). The emerging Hispanic Homeland of the Pacific Northwest: A case study of Yakima Valley, Washington. Master’s thesis, Montana State University. Scholarworks.]( https://scholarworks.montana.edu/server/api/core/bitstreams/f924bb01-b095-474a-b6de-d5dc2e88d0dc/content)
+- [Data USA: Yakima, WA. (2022).](https://datausa.io/profile/geo/yakima-wa#health_care_diversity)
+- Gamboa, E. (1990). Mexican Labor and World War II: Bracero in the Pacific Northwest, 1942-1947. University of Washington Press. 
+- [Rosales Castañeda, O. (n.d.). Radio KDNA: The voice of the farmworkers, 1975-1985. Seattle Civil Rights and Labor History Project. Retrieved January, 25, 2025, from](https://depts.washington.edu/civilr/farmwk_ch8.htm)  
+- [Winkler, H. (2022, July 25). From Agricultural Roots to Vibrant Diversity: The Origin Story of the City of Yakima. Yakima Talk.](https://yakimatalk.com/2022/07/25/from-agricultural-roots-to-vibrant-diversity-the-origin-story-of-the-city-of-yakima/) 
 
 
 ## Citation
