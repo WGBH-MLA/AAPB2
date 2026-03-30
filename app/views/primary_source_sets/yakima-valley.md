@@ -18,39 +18,39 @@ Angélica Amezcua, Ph.D., University of Washington
 
 ## Introduction
 
-The history of Yakima Valley, Washington, is deeply intertwined with its successes in agriculture, particularly the harvests of apples, cherries, and hops. Even as Yakima Valley has evolved from its rural origins into a vibrant and diverse metropolis, the area is still one of the top ten most productive agricultural regions in the United States. Today, Yakima Valley produces 60% of Washington’s apples. The city of Yakima was established over 125 years ago along the Northern Pacific Railway line, and since the 1880s, it has developed into the cultural, business, educational, health services, and governmental hub of Central Washington. The Old North Yakima Historic District, established in 1885, boasts late Victorian and early twentieth-century commercial buildings that reflect the city’s growth and prosperity. 
+The history of Yakima Valley, Washington, is deeply intertwined with its successes in agriculture, particularly the harvests of apples, cherries, and hops. Even as Yakima Valley has evolved from its rural origins into a vibrant and diverse metropolis, the area is still one of the top ten most productive agricultural regions in the United States. Today, Yakima Valley produces 60% of Washington’s apples. The city of Yakima was established over 125 years ago along the Northern Pacific Railway line, and since the 1880s, it has developed into the cultural, business, educational, health services, and governmental hub of central Washington. The Old North Yakima Historic District, established in 1885, boasts late Victorian and early twentieth-century commercial buildings that reflect the city’s growth and prosperity. 
 
-But none of this growth and prosperity would have been possible without the farmworkers who labored throughout Yakima Valley. In April 1942, Mexican laborers arrived by train to fulfill a labor shortage (Gamboa, 1990). They were the first of thousands to enter under the Bracero Program (see Farmworkers in the U.S: history, living conditions and resistance). As these workers contributed to the economic expansion of Yakima Valley, they began a demographic transformation that has continued to this day. The area is culturally rich, with members of the Yakama Nation and the Latino, Japanese, and Filipino communities, all calling Yakima Valley home. In particular, the Latino community, most of whom are of Mexican descent, now make up 47.1% of the population. That number is likely to increase as immigration to the area continues.
+But none of this growth and prosperity would have been possible without the farmworkers who labored throughout Yakima Valley. In April 1942, Mexican laborers arrived by train to fulfill a labor shortage (Gamboa, 1990). They were the first of thousands to enter the U.S. under the Bracero Program (see Farmworkers in the U.S: history, living conditions and resistance). As these workers contributed to the economic expansion of Yakima Valley, they began a demographic transformation that has continued to this day. The area is culturally rich, with members of the Yakama Nation and the Latino, Japanese, and Filipino communities, all calling Yakima Valley home. In particular, the Latino community, most of whom are of Mexican descent, now make up 47.1% of the population (DATAUSA). That number is likely to increase as immigration to the area continues.
 
-In this set, we will further explore the history of the Latino community in the Yakima Valley and the impact of radio on different aspects of society, such as income, immigration, bilingual education, health, assimilation, and activism.  
+In this set, we will explore the history of the Latino community in the Yakima Valley and the impact of radio (Radio KDNA) on different aspects of society, such as income, immigration, bilingual education, health, assimilation, and activism.   
 
 ## Teachingtips
 
-In this set, students will listen to a program from KDNA Radio. Specifically, students will listen to a talk show titled Buenas Noches that covers issues that directly impact the Latino community in the Yakima Valley. Students might need to listen to the show more than once. Another suggestion is to start listening to the assigned episode in class and then finish it for homework. 
+In this set, students will listen to a talk show from KDNA radio titled Buenas Noches that covers issues that directly impact the Latino community in the Yakima Valley. Students might need to listen to the show more than once. Another suggestion is to start listening to the assigned episode in class and then finish it for homework.  
 
 #### Background Information
 
-Yakima Valley’s first broadcast Spanish-language radio station, KREW, aired in 1950. Herminia Mendez, a local pioneer in Latino radio and media entertainment, was the first broadcaster at the station. She started with a 15-minute show, which later increased to an hour. Unfortunately, the program went off the air, but KDNA (another Spanish-language station) began broadcasting in the Yakima Valley in 1979, and the station still operates today. This station, launched by the Northwest Communities Education Center, broadcasts educational and informational programs, which are crucial for keeping the community up to date on topics that affected them and providing resources on how to overcome obstacles related to literacy, language, poverty, health issues, and discrimination. KDNA was key to reviving the Chicana/o Movement in the 1970s, and it continues to play a crucial role in keeping the community united and involved in social change. 
+Yakima Valley’s first broadcast Spanish-language radio station, KREW, aired in 1950. Herminia Mendez, a local pioneer in Latino radio and media entertainment, was the first broadcaster at the station. She started with a 15-minute show, which later increased to an hour. Unfortunately, the program went off the air, but KDNA (another Spanish-language station) began broadcasting in the Yakima Valley in 1979.This station, launched by the Northwest Communities Education Center and still in operation today, broadcasts educational and informational programs crucial for keeping the community up to date on topics that affect them and for providing resources on how to overcome obstacles related to literacy, language, poverty, health issues, and discrimination. KDNA was key to reviving the Chicana/o Movement in the 1970s, and it continues to play a critical role in keeping the community united and involved in social change.  
 
 Before engaging with this resource set, students are encouraged to explore the following:
 - The Spanish radio station(s) in your city and state
 - The percentage of Spanish speakers in your city and state who might listen to this(these) radio station(s)
 - The social issues that Latinos encounter in your city (e.g., low-wage jobs, housing)
-- Besides the radio, what other forms of communication does the Latino community use to stay informed?
+- Besides radio, what other forms of communication or media does the Latino community use to stay informed?
 
 <hr>
 
 #### Essential Question 
 
-What are the different topics discussed in the radio program? What actions do these programs advise the Latino community to take in regard to the topics discussed or in fighting against the injustices they encounter? Does the Latino community in the Yakima Valley continue to face these social injustices?
+What are the different topics discussed in the radio program? What actions do these program episodes advise the Latino community to take in regard to the topics discussed or in fighting against the injustices they may encounter? Does the Latino community in the Yakima Valley continue to face these social injustices?
  
 <hr>
 
 #### General Discussion Questions
-- What are the main topics addressed in the different radio episodes? 
+- What are the main topics addressed in each radio episode?
 - How does each topic impact the Latino community living in the Yakima Valley?
 - What are the organizations and resources supporting the Latino community in the Yakima Valley?
-  
+
 <hr>
 
 #### Classroom Activities
