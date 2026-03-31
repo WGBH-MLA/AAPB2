@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Free Trade](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/1-postwar-optimism.png "Free Trade")
+![Free Trade](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/audio-sq.jpeg "Free Trade")
 
 ## Guid
 cpb-aacip-16-cr5n87399v
