@@ -21,7 +21,7 @@ Until the 1970s, the value of exported goods from the U.S. greatly outpaced the 
 
 ## Cliptime
 
-0202,0472
+0202,0472.5
 
 ## Author
 ## Subjects
