@@ -364,6 +364,9 @@ $(function() {
 
       var adEnabled = false;
       btn.addEventListener('click', function () {
+        // preserve player time when switching
+        var playerTime = player.currentTime();
+
         if (!adEnabled) {
           player.src({ src: adHlsUrl, type: 'application/x-mpegURL' });
           btn.innerText = 'Standard Audio';
@@ -371,6 +374,11 @@ $(function() {
           player.src(player.options_.sources);
           btn.innerText = 'Audio Description';
         }
+
+        // back to where we were before switch
+        player.currentTime( playerTime );
+
+
         adEnabled = !adEnabled;
         player.load();
         player.play();
