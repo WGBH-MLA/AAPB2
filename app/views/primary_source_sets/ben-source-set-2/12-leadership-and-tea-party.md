@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Tea Party and Occupy Movements](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/audio-sq.jpeg "Tea Party and Occupy Movements")
+![Tea Party and Occupy Movements](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/2306x1620-audio.png "Tea Party and Occupy Movements")
 
 ## Guid
 cpb-aacip-15-pz51g0jn0s
