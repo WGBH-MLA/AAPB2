@@ -252,6 +252,10 @@ class CatalogController < ApplicationController
         @skip_orr_terms = can? :skip_tos, @pbcore
 
         @captions = CaptionFile.retrieve_captions(@pbcore.id)
+        @audio_description_file = AudioDescriptionFile.new(@pbcore.id)
+        if @audio_description_file.file_present?
+          @audio_description_url = @audio_description_file.url
+        end
 
         if can? :play, @pbcore
           # can? play because we're inside this block
