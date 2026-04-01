@@ -370,6 +370,7 @@ $(function () {
         const wasPaused = player.paused();
         const turningOn = this.options_.value === 'on';
 
+        
         if (turningOn) {
           player.src({ src: adUrl, type: 'application/x-mpegURL' });
           player.adActive_ = true;
@@ -383,10 +384,8 @@ $(function () {
           button.toggleClass('vjs-ad-active', player.adActive_);
         }
         
-        player.one('loadedmetadata', function () {
-          player.currentTime(currentTime);
-          if (!wasPaused) player.play();
-        });
+        player.currentTime(currentTime);
+        if (!wasPaused) player.play();
         
         player.trigger('adchange');
         player.announce(`Audio Description ${turningOn ? 'On' : 'Off'}`);
