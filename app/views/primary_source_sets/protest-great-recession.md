@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Man holds sign during Occupy Wall Street Protest that says 'To Big to Fail is To Big to Allow.'](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/OccupyWallStreetImage.png "Man holds sign during Occupy Wall Street Protest that says \'To Big to Fail is To Big to Allow.\'")
+![Man holds sign during Occupy Wall Street Protest that says 'Too Big to Fail is Too Big to Allow.'](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/OccupyWallStreetImage.png "Man holds sign during Occupy Wall Street Protest that says 'Too Big to Fail is Too Big to Allow.'")
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/occupy-16x9.jpeg
