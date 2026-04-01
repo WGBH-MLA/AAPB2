@@ -5,7 +5,7 @@
 ![All Power to the People, Courtesy New York Public Library, https://nypl.getarchive.net/media/all-power-to-the-people-bu-x405-d5f130](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_Black-Power.jpg "All Power to the People, Courtesy New York Public Library, https://nypl.getarchive.net/media/all-power-to-the-people-bu-x405-d5f130")
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_Black-Power.jpg
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main-Yakima-Valley.jpg
 
 ## Author
 
@@ -59,7 +59,7 @@ What are the different topics discussed in the radio program? What actions do th
 
 Divide students into groups of three and ask them to listen to the below extract. In this episode, students will learn about the march from Toppenish to Yakima to protest the immigration raids. 
 
-- [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9-207-60qrfqmn) (1991)
+- [Immigration Protest and the Challenges of the Undocumented Community March](https://americanarchive.org/primary_source_sets/yakima-valley/1-199-80h7fxq) (1981)
 
 Each group must fill out the following details about the march
 
@@ -77,7 +77,7 @@ After completing the above, discuss the answers as a class and write the main id
 
 In the below radio episode, Ricardo García interviews Camilo Pérez and Héctor González about the importance of bilingual education, its obstacles, and how crucial it is to strengthen Spanish skills. Each student must listen to the entire episode and write whether they agree or disagree with the statements made in the program. Students must explain their answer.
 
-- [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9-207-60qrfqmn) (1991)
+- [La educación bilingüe en el Valle de Yakima](https://americanarchive.org/primary_source_sets/yakima-valley/2-199-19f4qk0) (1986)
 
 a. Camilo stated: _“Para la mayoría de nuestras familias latinas, no es realista enseñarles español a sus hijos debido a las condiciones en las que viven, al tipo de trabajo que tienen, ya que no hay ni tiempo ni oportunidad, ni son los más adecuados para enseñar el idioma en el desarrollo de la lectura y la escritura. Hay mucho que pueden hacer los padres, y es muy importante que participen y ayuden, pero tenemos que reconocer que las escuelas tienen la mayor responsabilidad. Debemos hacer que cumplan con esa responsabilidad y que se necesita un programa educativo tanto como en la casa como en la escuela que nos ayude a desarrollar nuestro idioma.”_ 
 
