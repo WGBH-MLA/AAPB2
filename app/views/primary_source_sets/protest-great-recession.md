@@ -1,13 +1,11 @@
-# The Tea Party and Occupy Wall Street
+# Protest During the Great Recession
 
 ## Thumbnail
 
-![Day 40 of Occupy Wall Street in New York, Tuesday, October 25. https://commons.wikimedia.org/wiki/Occupy_Wall_Street#](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/OccupyWallStreetImage.png "Day 40 of Occupy Wall Street in New York, Tuesday, October 25. https://commons.wikimedia.org/wiki/Occupy_Wall_Street")
-
-Day 40 of Occupy Wall Street in New York, Tuesday, October 25. Photos of protesters and life in Liberty Plaza. [https://commons.wikimedia.org/wiki/Occupy_Wall_Street](https://commons.wikimedia.org/wiki/Occupy_Wall_Street#/media/File:Day_40_Occupy_Wall_Street_October_25_2011_Shankbone_13.JPG).
+![Man holds sign during Occupy Wall Street Protest that says 'Too Big to Fail is Too Big to Allow.'](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/OccupyWallStreetImage.png "Man holds sign during Occupy Wall Street Protest that says 'Too Big to Fail is Too Big to Allow.'")
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/\
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/occupy-16x9.jpeg
 
 ## Author
 
@@ -20,13 +18,11 @@ Ben Leff, University of Illinois Laboratory High School, Urbana, IL
 
 ## Introduction
 
-In 2009, Americans faced the worst economic situation since the Great Depression of the 1930s. A wave of defaults and foreclosures in the housing sector ravaged financial institutions that had invested heavily in home mortgages. Several major financial firms failed and others survived only with emergency government bailouts. A domino effect led to the collapse of the stock market, which lost half its value between late 2007 and March 2009. Ordinary Americans suffered: millions of Americans lost their homes to foreclosure; unemployment reached 10%; and tens of millions more Americans were underemployed or had given up seeking work. The acute financial crisis of 2007-2008 would lead to what was called the Great Recession, and Americans continued to struggle for years amidst a sluggish economic recovery.
+In 2009, Americans faced the worst economic situation since the Great Depression of the 1930s. A wave of defaults and foreclosures in the housing sector ravaged financial institutions that had invested heavily in home mortgages. Several major financial firms failed and others survived only with emergency government bailouts. A domino effect led to the collapse of the stock market, which lost half its value between late 2007 and March 2009. Ordinary Americans suffered: millions of Americans lost their homes to foreclosure, unemployment reached 10%, and tens of millions more Americans were underemployed or had given up seeking work. The acute financial crisis of 2007-2008 would lead to what was called the Great Recession, and Americans continued to struggle for years amidst a sluggish economic recovery.
 
-Economic hardship bred political frustration and anger. At one end of the political spectrum, the Tea Party movement arose in 2009, skeptical of government, taxes and regulations, and catalyzed by government spending in response to the economic crisis and the policy proposals of newly elected Democratic President Barack Obama. On the other side, the Occupy Wall Street movement emerged in 2011. These activists blamed corporate greed for the Great Recession and argued that a decades-long rise in inequality—the top 1% of the wealthiest Americans benefiting at the expense of the 99% (everyone else)—was the root cause of the country’s economic woes.
+Economic hardship bred political frustration and anger. At one end of the political spectrum, the Tea Party movement arose in 2009, skeptical of government, taxes, and regulations, and catalyzed by government spending in response to the economic crisis and the policy proposals of newly elected Democratic President Barack Obama. On the other side, the Occupy Wall Street movement emerged in 2011. These activists blamed corporate greed for the Great Recession and argued that a decades-long rise in inequality—the top 1% of the wealthiest Americans benefiting at the expense of the 99% (everyone else)—was the root cause of the country’s economic woes.
 
-The Tea Party and Occupy Wall Street differed in ideology, tactics, organization and impact, but both were manifestations of frustration with the economic aftermath of the financial crisis, and both movements left a political legacy that persisted long after the rallies ended.
-
-**Content Advisory:** These archival materials may reference content that could be sensitive for some audiences. It is recommended that teachers and faculty preview these media sources to determine their appropriateness before sharing with students.
+The Tea Party and Occupy Wall Street differed in ideology, tactics, organization, and impact, but both were manifestations of frustration with the economic aftermath of the financial crisis, and both movements left a political legacy that persisted long after the rallies ended.
 
 ## Teachingtips
 
@@ -35,6 +31,7 @@ This primary source discussion set can be divided into four sections. The first 
 #### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
+
 - The major differences between Republican and Democratic views on the proper role of government in the economy.
 
 <hr>
@@ -57,22 +54,26 @@ During an economic crisis like the Great Recession, what role should the governm
 #### Classroom Activities
 
 1) Ask students to watch the following clips:
+
 - [The Subprime Mortgage Crisis, Explained (2007)](https://americanarchive.org/primary_source_sets/ben-source-set-2/1-subprime-mortage)
 - [Unemployment and the Economic Impact of the Great Recession (2009)](https://americanarchive.org/primary_source_sets/ben-source-set-2/2-unemployment)
 - [The Federal Government Responds to the Financial Crisis (2009)](https://americanarchive.org/primary_source_sets/ben-source-set-2/3-federal-government-response)
 
 These clips introduce students to the Great Recession and the initial government response. Consider the following as potential discussion questions:
+
 - Why did so many people default on their mortgages between 2005 and 2008? Why did this trend have such a devastating impact on the economy as a whole? 
 - What were the symptoms of the Great Recession in the U.S.?  That is, what were some ways that Americans experienced hardship?
 - What steps did the government take to address the financial crisis? Why did legislators think these policies were necessary?
 
 2) Ask students to watch the following clips:
+   
 - [Tea Party Activists Rally in Washington, D.C. (2009)](https://americanarchive.org/primary_source_sets/ben-source-set-2/4-tea-party-activists)
-- [Tea Party Activists Protest ‘Obamacare’ (2009)](https://americanarchive.org/primary_source_sets/ben-source-set-2/5-tea-party-activists-protest)
+- [Tea Party Activists Protest "Obamacare" (2009)](https://americanarchive.org/primary_source_sets/ben-source-set-2/5-tea-party-activists-protest)
 - [“Tea Party Candidates” Challenge the Republican Establishment (2010)](https://americanarchive.org/primary_source_sets/ben-source-set-2/6-tea-party-candidates)
 - [The Tea Party Wins Political Power (2010)](https://americanarchive.org/primary_source_sets/ben-source-set-2/7-tea-party-wins)
 
 These clips introduce students to the Tea Party movement. Consider the following as potential discussion questions:
+
 - Think about the name of this conservative movement: The Tea Party. Why do you think conservative activists embraced that label? How does the moniker relate to the beliefs and values of the Tea Party movement?
 - Which government responses to the financial crisis angered Tea Party protesters? What were some of their criticisms?
 - Given what you learned about the Tea Party, why were conservatives so upset about the Affordable Care Act, a.k.a. Obamacare?
@@ -80,20 +81,24 @@ These clips introduce students to the Tea Party movement. Consider the following
 - More broadly, what opportunities did the Tea Party movement present to the Republican Party? What challenges did the Tea Party pose?
 
 3) Ask students to watch the following clips:
+   
 - [The Occupy Wall Street Movement Emerges in Zuccotti Park (2011)](https://americanarchive.org/primary_source_sets/ben-source-set-2/8-occupy-wall-street)
 - [The Occupy Movement and City Authorities in Conflict (2011)](https://americanarchive.org/primary_source_sets/ben-source-set-2/9-occupy-movement)
 - [Political Commentators Assess the Potential and Limits of the Occupy Movement (2011)](https://americanarchive.org/primary_source_sets/ben-source-set-2/10-potential-and-limits)
 
 These clips introduce students to the Occupy Wall Street movement. Consider the following as potential discussion questions:
+
 - Pay attention to the protest signs and the rhetoric of Occupy protesters. What criticisms were made about the American economy?  Who were considered the villains in their story? Who were considered the victims?
 - The Occupy movement was largely an organic movement that lacked well-defined leadership, a fact that many participants embraced. What are the benefits of this kind of social movement? What are the potential limitations of such a movement?
 - While the Tea Party emerged in 2009 and 2010–during the first two years of Obama’s presidency–the Occupy Wall Street only formed in the fall of 2011, well after the financial crash and after the 2010 midterms. What historical and political factors might explain the fact that this progressive movement emerged after the Tea Party?
 
 4) After students have watched at least some of the earlier clips, have them watch the following clips:
-- [The Moral Foundations of the Tea Party and Occupy Movements](https://americanarchive.org/primary_source_sets/ben-source-set-2/11-moral-foundations)
+   
+- [The Moral Foundations of the Tea Party and Occupy Movements (2012)](https://americanarchive.org/primary_source_sets/ben-source-set-2/11-moral-foundations)
 - [Leadership and the Tea Party and Occupy Movements (2011)](https://americanarchive.org/primary_source_sets/ben-source-set-2/12-leadership-and-tea-party)
 
 These clips compare the Tea Party and Occupy movements. Consider the following discussion questions and activities: 
+
 - Make a Venn diagram comparing the ideology, tactics, and goals of the Tea Party and Occupy Wall Street. In particular, what did each movement believe about capitalism and the role of government in society?
 - Search the internet for images from Tea Party and Occupy protests. Identify a particularly interesting poster/sign that reveals something important about the beliefs of that movement. In small groups, discuss the posters and compare their messages.
 - Consider the modern-day Democratic and Republican parties. How have both parties been affected by the Tea Partiers and the Occupy protesters? To what extent are they similar? To what extent are they different?
@@ -110,8 +115,12 @@ These clips compare the Tea Party and Occupy movements. Consider the following d
 - [**“The Tea Party and the Remaking of American Conservatism”**](https://scholar.harvard.edu/files/williamson/files/tea_party_pop_0.pdf) (Perspectives on Politics)
 
 ## Youmayalsolike
+- exhibit,first-amendment
+- special collection,newshour
 
 ## Citation
+
+Cover image: Shankbone, David. [*Day 40 of Occupy Wall Street in New York, Tuesday, October 25. Photos of protesters and life in Liberty Plaza.*](https://commons.wikimedia.org/wiki/Occupy_Wall_Street#/media/File:Day_40_Occupy_Wall_Street_October_25_2011_Shankbone_13.JPG) 2011 (cropped). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 ## Guid
 ## Cliptime
