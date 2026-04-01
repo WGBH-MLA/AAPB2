@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Moral Foundations](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/11-moral-foundations.png "Moral Foundations")
+![Moral Foundations](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/2306x1620.png "Moral Foundations")
 
 ## Guid
 cpb-aacip-3e29bec5723 
