@@ -388,7 +388,6 @@ $(function () {
         if (!wasPaused) player.play();
         
         player.trigger('adchange');
-        player.announce(`Audio Description ${turningOn ? 'On' : 'Off'}`);
       }
       
       update() {
