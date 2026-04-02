@@ -108,6 +108,8 @@ These clips compare the Tea Party and Occupy movements. Consider the following d
 
 ## Pdflink
 
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Protest_Teaching-Tips.pdf
+
 ## Additionalresources
 
 - [**“The Giant Pool of Money”**](https://www.thisamericanlife.org/355/the-giant-pool-of-money) (This American Life/NPR News)
