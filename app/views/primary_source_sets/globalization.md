@@ -107,6 +107,8 @@ The members of Group 1 (pro-free trade) and Group 2 (free trade skeptics) start 
 
 ## Pdflink
 
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Globalization_Teaching-Tips.pdf
+
 ## Additionalresources
 
 - [**Modern Globalization and its Effects**](https://cptv.pbslearningmedia.org/resource/ush22-soc-globalization/modern-globalization-and-its-effects-interactive-lesson/us-history-collection/) (PBS Learning Media)
