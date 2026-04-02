@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![All Power to the People, Courtesy New York Public Library, https://nypl.getarchive.net/media/all-power-to-the-people-bu-x405-d5f130](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_Black-Power.jpg "All Power to the People, Courtesy New York Public Library, https://nypl.getarchive.net/media/all-power-to-the-people-bu-x405-d5f130")
+![Attendants at a union protest meeting, Courtesy Washington State University Library, https://content.libraries.wsu.edu/digital/collection/nash/id/4550/rec/514](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main-Yakima-Valley.jpg "Attendants at a union meeting, Courtesy Washington State University Library, https://content.libraries.wsu.edu/digital/collection/nash/id/4550/rec/514")
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main-Yakima-Valley.jpg
