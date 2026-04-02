@@ -112,7 +112,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Urban_Cris
 
 ## Citation
 
-Leff, Ben. "The Urban Crisis." GBH and the Library of Congress. https://americanarchive.org/primary_source_sets/urban-crisis.
+Cover image: Vergara, Camilo J., photographer. South Bronx, 1973. Photograph (cropped). https://lccn.loc.gov/2020702547.
 
 
 ## Guid
