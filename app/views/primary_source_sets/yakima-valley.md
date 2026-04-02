@@ -103,16 +103,17 @@ e. ¿Qué pueden hacer los padres para luchar por la educación bilingüe para s
 
 Assign the below radio program as homework to students. In this talk, students will learn about the obstacles that the Latino youth in the Yakima valley faced in 1991. 
 
-- [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9-207-60qrfqmn) (1991)
-- [Stokely Carmichael Discusses Black Power](https://americanarchive.org/primary_source_sets/black-power/3-28-zp3vt1h700) (1966)
-
 The program is divided into two topics: 
 
-The first topic [0:00 to 57:40]: Alejandro Tomas from Sunnyside and the radio host discuss health issues such as HIV, AIDS, and the consequences of poor decisions made by Latino youth. 
+The first topic: Alejandro Tomas from Sunnyside and the radio host discuss health issues such as HIV, AIDS, and the consequences of poor decisions made by Latino youth. 
 
-In the second topic [1:03:10 to 1:52:33], the host talks about the self-esteem of youth in the U.S. and the difficulties of living between two cultures, two languages, two sets of cultural values, which she describes as a new form of mestizaje (the mixing of two or more cultures). 
+- [Los jóvenes hispanos entre dos culturas/ Hispanic youth living in two cultures (part one)](https://americanarchive.org/primary_source_sets/yakima-valley/3-199-13zs7jvc) (1991)
 
-After listening to the talk, students must write a brief summary of ONE of the topics (health issues or the experience of living between two cultures) discussed in the talk and reflect on how the chosen topic is discussed now compared to how it was addressed in the 1991 talk. Also, include the different obstacles that the radio hosts encountered when discussing such topic:
+In the second topic: the host talks about the self-esteem of youth in the U.S. and the difficulties of living between two cultures, two languages, two sets of cultural values, which she describes as a new form of mestizaje (the mixing of two or more cultures). 
+
+- [Los jóvenes hispanos entre dos culturas/ Hispanic youth living in two cultures (part one)](https://americanarchive.org/primary_source_sets/yakima-valley/4-199-13zs7jvc) (1991)
+
+After listening to the program, students must write a brief summary of ONE of the topics (health issues or the experience of living between two cultures) discussed in the show and reflect on how the chosen topic is discussed now compared to how it was addressed in the 1991. Also, include the different obstacles that the radio hosts encountered when discussing such topic:
 
 Task: Summarize one of the topics and the differences in how the topic is discussed now compared to 1991:
 
