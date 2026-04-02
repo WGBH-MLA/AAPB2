@@ -111,7 +111,7 @@ The first topic: Alejandro Tomas from Sunnyside and the radio host discuss healt
 
 In the second topic: the host talks about the self-esteem of youth in the U.S. and the difficulties of living between two cultures, two languages, two sets of cultural values, which she describes as a new form of mestizaje (the mixing of two or more cultures). 
 
-- [Los jóvenes hispanos entre dos culturas/ Hispanic youth living in two cultures (part one)](https://americanarchive.org/primary_source_sets/yakima-valley/4-199-13zs7jvc) (1991)
+- [Los jóvenes hispanos entre dos culturas/ Hispanic youth living in two cultures (part two)](https://americanarchive.org/primary_source_sets/yakima-valley/4-199-13zs7jvc) (1991)
 
 After listening to the program, students must write a brief summary of ONE of the topics (health issues or the experience of living between two cultures) discussed in the show and reflect on how the chosen topic is discussed now compared to how it was addressed in the 1991. Also, include the different obstacles that the radio hosts encountered when discussing such topic:
 
@@ -150,9 +150,9 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Black-Powe
 - [**KREW Radio Station**](https://revisitwa.org/waypoint/krew-radio-station-pepes-bakery/)
 
 ## Youmayalsolike
-- exhibit,black-power
 - exhibit,latino-empowerment-through-public-broadcasting
 - special collection,hispanic-heritage-collection
+- special collection,radio-KDNA
 
 ## References
 - [Darian, L. (2006). The emerging Hispanic Homeland of the Pacific Northwest: A case study of Yakima Valley, Washington. Master’s thesis, Montana State University. Scholarworks.]( https://scholarworks.montana.edu/server/api/core/bitstreams/f924bb01-b095-474a-b6de-d5dc2e88d0dc/content)
