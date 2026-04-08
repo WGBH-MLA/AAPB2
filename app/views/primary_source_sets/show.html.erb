@@ -109,7 +109,7 @@
             <div class="primary-source-content">
               <%= @primary_source_set.teachingtips_html %>
             </div>
-            
+
             </div>
           </div>
         </div>
@@ -121,7 +121,7 @@
 
             <h3 class="primary-source-title">Additional Resources</h3>
 
-            <p></p> 
+            <p></p>
 
             <% @primary_source_set.additional_resources.each do |a| %>
               <%= a %>
@@ -134,18 +134,18 @@
 
             <div class="col-md-12 primary-source-section">
 
-              <h3 class="primary-source-title">Citation</h3>
+              <h3 class="primary-source-title">Citations</h3>
               <div>
 
               <div class="primary-source-content">
                 <%= @primary_source_set.citation_html %>
               </div>
-              
+
               </div>
             </div>
           </div>
         <% end %>
-        
+
         <div class="row">
 
           <div class="col-md-12 primary-source-container primary-source-section gray-bg">
@@ -211,7 +211,7 @@
                   <% if @captions.file_present? %>
                     <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
                   <% end %>
-                  
+
                   <%
                 end
               end.join().html_safe
@@ -295,11 +295,11 @@
               <div class="primary-source-content">
                 <%= @primary_source_set.teachingtips_html %>
               </div>
-              
+
               </div>
             </div>
           </div>
-          
+
           <hr/>
         <% end %>
 
@@ -316,7 +316,7 @@
               <div class="primary-source-content">
                 <%= @primary_source_set.citation_html %>
               </div>
-              
+
               </div>
             </div>
           </div>
@@ -352,17 +352,17 @@
 
           </div>
         </div>
-        
+
       <% end %>
 
     </div>
     <!-- END: Main Column -->
-    
+
   </div>
 </div>
 
 <script type="text/javascript">
-  $(document).ready(function() { 
+  $(document).ready(function() {
     $("div.player").removeClass("col-md-offset-2")
 
     $("div.primary-source-showhide").click(function() {
