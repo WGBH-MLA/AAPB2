@@ -109,10 +109,5 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Black-Powe
 - special collection,say-brother
 - special collection,soul-of-black-identity
 
-
-## Citation
-
-Greer, Brenna Wynn. "The Black Power Movement." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/black-power.
-
 ## Guid
 ## Cliptime

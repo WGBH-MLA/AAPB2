@@ -106,9 +106,5 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Great-Depr
 ## Youmayalsolike
 - special collection,the-great-depression
 
-## Citation
-
-Wilkins, Sue. "The Great Depression and Southern Sharecroppers." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/great-depression.
-
 ## Guid
 ## Cliptime

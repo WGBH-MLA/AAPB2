@@ -89,9 +89,5 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Busing-Bos
 ## Youmayalsolike
 - exhibit,education
 
-## Citation
-
-Breakstone, Joel. "Busing in Boston, 1974-1988." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/busing-boston.
-
 ## Guid
 ## Cliptime

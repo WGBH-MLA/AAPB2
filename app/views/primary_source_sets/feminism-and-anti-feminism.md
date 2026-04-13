@@ -78,9 +78,5 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Feminism-a
 ## Youmayalsolike
 - special collection,woman-series
 
-## Citation
-
-Galvao, Lindsey. "Feminism, Anti-Feminism, and Social Activism from the 1960s to the 1980s." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/feminism-and-anti-feminism.
-
 ## Guid
 ## Cliptime
