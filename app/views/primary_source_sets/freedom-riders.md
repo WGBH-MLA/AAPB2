@@ -106,10 +106,5 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Freedom_Ri
 - exhibit,eotp
 - exhibit,civil-rights
 
-
-## Citation
-
-Breakstone, Joel. "Freedom Riders" WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/freedom-riders.
-
 ## Guid
 ## Cliptime

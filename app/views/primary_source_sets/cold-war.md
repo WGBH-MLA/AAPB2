@@ -116,11 +116,5 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Cold_War_T
 - special collection,wapina
 - exhibit,newshour-cold-war
 
-
-## Citation
-
-Greer, Brenna. "The Cold War." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/cold-war.
-
-
 ## Guid
 ## Cliptime

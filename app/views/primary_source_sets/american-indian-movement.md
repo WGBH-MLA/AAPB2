@@ -100,9 +100,5 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_American-I
 - exhibit,native-narratives
 - special collection,vision-maker-media
 
-## Citation
-
-Greer, Brenna Wynn. "The American Indian Movement." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/american-indian-movement.
-
 ## Guid
 ## Cliptime
