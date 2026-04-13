@@ -120,9 +120,5 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_AIDS-Crisi
 - special collection,ucla-inthelife
 - special collection,lgbt
 
-## Citation
-
-Leff, Ben. "The AIDS Crisis, 1981-1993." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/aids-epidemic.
-
 ## Guid
 ## Cliptime
