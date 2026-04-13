@@ -1,4 +1,4 @@
-# “Tea Party Candidates” Challenge the Republican Establishment (2010)
+# Tea Party Candidates Challenge the Republican Establishment (2010)
 
 ## Thumbnail
 
