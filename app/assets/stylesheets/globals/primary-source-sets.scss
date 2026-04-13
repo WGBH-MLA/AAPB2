@@ -99,12 +99,16 @@ div.primary-source-moretitle {
   font-weight: bold;
   color: #000;
 }
-/*
-div.primary-source-container {
-  position: relative;
-  height: 20em;
+
+.primary-source-container .row {
+  display: flex;
+  flex-wrap: wrap;
 }
-*/
+
+.primary-source-container .col-md-3 {
+  display: flex;
+}
+
 div.primary-source-background {
   position: absolute;
   z-index: -1;

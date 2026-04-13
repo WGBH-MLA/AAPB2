@@ -27,7 +27,7 @@
   <div class="third-content">
     <a href="/special_collections/aapb-road-trip">
       <h2>AAPB Road Trip Special Collection</h2>
-      <img src="https://s3.us-east-1.amazonaws.com/americanarchive.org/special-collections/AAPB_Road_Trip.jpg" />
+      <img src="https://s3.us-east-1.amazonaws.com/americanarchive.org/special-collections/road-trip-thumbnail-diamond.png" />
       <div>
         The AAPB Road Trip collection includes local programming from stations across the country, showcasing America’s geographic diversity and rich cultural heritage.
       </div>

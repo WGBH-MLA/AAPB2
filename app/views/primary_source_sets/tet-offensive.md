@@ -21,11 +21,11 @@ On January 30, 1968, the Viet Cong and North Vietnamese Army (NVA) launched a se
 
 ## Teachingtips
 
-This source set includes a series of video clips regarding the Tet Offensive in 1968. The sources provide a range of perspectives on the goals of the Tet Offensive, reactions to it, and its outcomes. These suggested activities provide opportunities to consider similarities and differences across sources and to place the sources into historical context. 
+This source set includes a series of video clips regarding the Tet Offensive in 1968. The sources provide a range of perspectives on the goals of the Tet Offensive, reactions to it, and its outcomes. These suggested activities provide opportunities to consider similarities and differences across sources and to place the sources into historical context.
 
 #### Background Information
 
-Before engaging with this resource set, students should be familiar with the following: 
+Before engaging with this resource set, students should be familiar with the following:
 
 - French colonial rule in Vietnam
 - The Cold War
@@ -34,17 +34,17 @@ Before engaging with this resource set, students should be familiar with the fol
 
 <hr>
 
-#### Essential Question 
+#### Essential Question
 
-What was the impact of the Tet Offensive on the Vietnam War? 
+What was the impact of the Tet Offensive on the Vietnam War?
 
 <hr>
 
 #### General Discussion Questions
 
-- What were the goals of the Tet Offensive? 
+- What were the goals of the Tet Offensive?
 - Across this source set, how were reactions to the Tet Offensive similar or different?
-- What factors might explain differences in reactions to the Tet Offensive? 
+- What factors might explain differences in reactions to the Tet Offensive?
 <hr>
 
 #### Classroom Activities
@@ -55,15 +55,15 @@ What was the impact of the Tet Offensive on the Vietnam War?
 - [Interview with North Vietnamese General Anh Tuan](https://americanarchive.org/primary_source_sets/tet-offensive/1-15-r785h7c46d) (1981)
 - [Major General Tran Do Describes the Objectives of the Tet Offensive](https://americanarchive.org/primary_source_sets/tet-offensive/5-15-w950g3hd9s) (1981)
 
-According to these sources, what was the purpose of the Tet Offensive? How are the explanations similar? How are they different? What are the backgrounds of the various speakers? How might their backgrounds influence how they describe the purpose of the Tet Offensive? 
+According to these sources, what was the purpose of the Tet Offensive? How are the explanations similar? How are they different? What are the backgrounds of the various speakers? How might their backgrounds influence how they describe the purpose of the Tet Offensive?
 
-2) Ask students to watch the following sources: 
+2) Ask students to watch the following sources:
 
 - [Former Secretary of State Dean Rusk Details Reactions to the Tet Offensive](https://americanarchive.org/primary_source_sets/tet-offensive/6-15-4t6f18sf2s) (1981)
 - [Presidential Advisor Walt Rostow Describes Reactions to the Tet Offensive](https://americanarchive.org/primary_source_sets/tet-offensive/2-15-g15t727m0n) (1981)
 - [Presidential Advisor Harry McPherson Describes Reactions to the Tet Offensive](https://americanarchive.org/primary_source_sets/tet-offensive/4-15-k649p2xh7b) (1981)
 
-According to the individuals in these videos, how did White House staff respond to the Tet Offensive? How are the explanations similar? How are they different? Given that all the individuals in these videos served in the Johnson Administration, why might their recollections of reactions to the Tet Offensive differ? 
+According to the individuals in these videos, how did White House staff respond to the Tet Offensive? How are the explanations similar? How are they different? Given that all the individuals in these videos served in the Johnson Administration, why might their recollections of reactions to the Tet Offensive differ?
 
 <hr>
 
@@ -85,9 +85,6 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Tet-Offens
 - special collection,vietnam-a-television-history
 - exhibit,first-amendment
 
-## Citation
-
-Breakstone, Joel. "The Tet Offensive." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/tet-offensive.
-
+## References
 ## Guid
 ## Cliptime

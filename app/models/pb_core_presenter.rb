@@ -292,7 +292,6 @@ class PBCorePresenter
       access_levels = xpaths('/*/pbcoreAnnotation[@annotationType="Level of User Access"]')
       raise('Should have at most 1 "Level of User Access" annotation') if access_levels.count > 1
       raise('Should have "Level of User Access" annotation if digitized') if digitized? && access_levels.count == 0
-      raise('Should not have "Level of User Access" annotation if not digitized') if !digitized? && access_levels.count != 0
       access_levels.first # Returns nil for non-digitized
     end
   end
