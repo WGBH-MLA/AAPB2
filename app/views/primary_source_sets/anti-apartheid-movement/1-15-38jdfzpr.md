@@ -13,7 +13,7 @@ cpb-aacip-15-38jdfzpr
 ## Introduction
 
 **Content Advisory: This clip includes graphic footage of violence.**
-This excerpt from the National Educational Television series Changing World details the pass laws that restricted Black South Africans’ movement under apartheid and recounts the brutal killing of Black South Africans by government forces in Sharpeville in 1960. 
+This excerpt from the National Educational Television series Changing World details the pass laws that restricted Black South Africans’ movement under apartheid and recounts the brutal killing of Black South Africans by government forces in Sharpeville in 1960.
 
 
 <b>Changing World</b>
@@ -22,7 +22,7 @@ This excerpt from the National Educational Television series Changing World deta
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

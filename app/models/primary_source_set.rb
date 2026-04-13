@@ -12,7 +12,7 @@ class PrimarySourceSet < Cmless
   attr_reader :introduction_html
   attr_reader :cover_html
   attr_reader :thumbnail_html
-  attr_reader :citation_html
+  attr_reader :references_html
 
   attr_reader :author_html
   attr_reader :subjects_html
@@ -77,8 +77,8 @@ class PrimarySourceSet < Cmless
       Nokogiri::HTML(thumbnail_html).xpath('//img[1]/@src').first.text
   end
 
-  def citation_html
-    doc = Nokogiri::HTML::DocumentFragment.parse(@citation_html)
+  def references_html
+    doc = Nokogiri::HTML::DocumentFragment.parse(@references_html)
     doc.inner_html.html_safe
   end
 
