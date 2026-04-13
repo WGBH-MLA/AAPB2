@@ -110,7 +110,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Urban_Cris
 - special collection,newshour
 
 
-## Citation
+## References
 
 Cover image: Vergara, Camilo J., photographer. South Bronx, 1973. Photograph (cropped). https://lccn.loc.gov/2020702547.
 
