@@ -129,16 +129,16 @@
           </div>
         </div>
 
-        <% if @primary_source_set.citation_html.length > 0 %>
+        <% if @primary_source_set.references_html.length > 0 %>
           <div class="row" >
 
             <div class="col-md-12 primary-source-section">
 
-              <h3 class="primary-source-title">Citations</h3>
+              <h3 class="primary-source-title">References</h3>
               <div>
 
               <div class="primary-source-content">
-                <%= @primary_source_set.citation_html %>
+                <%= @primary_source_set.references_html %>
               </div>
 
               </div>
@@ -303,18 +303,18 @@
           <hr/>
         <% end %>
 
-        <% if @primary_source_set.citation_html.length > 0 %>
+        <% if @primary_source_set.references_html.length > 0 %>
 
           <div class="row" >
 
             <!-- resource links -->
             <div class="col-md-12 primary-source-section">
 
-              <h3 class="primary-source-title">Citation</h3>
+              <h3 class="primary-source-title">References</h3>
               <div>
 
               <div class="primary-source-content">
-                <%= @primary_source_set.citation_html %>
+                <%= @primary_source_set.references_html %>
               </div>
 
               </div>
