@@ -119,7 +119,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Globalizat
 - special collection,newshour
 - special collection,focus-580
 
-## Citation
+## References
 
 Cover image by Carol M. Highsmith. Aerial view of a massive shipping-container yard in Charleston, South Carolina. United States Charleston South Carolina, 2017-05-02. Photograph (cropped). [https://www.loc.gov/item/2017879833/](https://www.loc.gov/item/2017879833/).
 
