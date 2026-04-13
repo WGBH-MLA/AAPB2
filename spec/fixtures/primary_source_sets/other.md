@@ -18,7 +18,7 @@ Public Education, Homework, Betrayal
 
 ## Introduction
 
-One professional development strategy that is "absolutely necessary," Avocado said, is the use of visitations. 
+One professional development strategy that is "absolutely necessary," Avocado said, is the use of visitations.
 
 ## Teachingtips
 
@@ -30,7 +30,7 @@ No more homework - easy.
 
 <hr>
 
-#### Essential Question - 
+#### Essential Question -
 
 Are we not the teachers of ourselves, in the grand classroom of the world?
 
@@ -63,7 +63,7 @@ http://www.google.com
 - special collection,say-brother
 - special collection,soul-of-black-identity
 
-## Citation
+## References
 
 Student, Mr., 2004, Canvas
 

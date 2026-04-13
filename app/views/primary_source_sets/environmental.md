@@ -19,9 +19,9 @@ Catherine Sardo Weidner, Lake Forest College
 
 Throughout the early 20th century, concerns about the environment focused primarily on conservation and the protection of the natural world. In the early 1960s, however, environmentalists shifted their attention to man-made threats to the environment, particularly the pollution resulting from chemicals, auto emissions, oil spills, and industrial waste. The publication of Rachel Carson’s 1962 book, _Silent Spring_, which argued that the widespread use of pesticides, particularly DDT, imperiled both humans and songbirds, was a watershed moment. By the end of the decade, membership in both the Wilderness Society and the Sierra Club soared, and in bipartisan fashion, Congress passed the Clean Air Act (1963), the Water Quality Act (1965) and the Motor Vehicle Air Pollution Control Act (1965) in rapid succession. The widespread appeal of the environmental agenda was clear by 1970, when an estimated 20 million Americans participated in the first Earth Day events on April 22 and President Richard Nixon created the Environmental Protection Agency (EPA). Building on this momentum, Congress passed the Federal Water Pollution Control Act in 1972,  the Endangered Species Act in 1973, and strengthened the Clean Air Act in bipartisan fashion.
 
-Environmentalism became more controversial after the oil shocks of the early 1970s. It was much harder for a nation accustomed to cheap and abundant sources of fossil fuels to agree on a path forward after the 1973-74 Arab oil embargo. Although the Department of Energy was founded in 1977 to develop a national energy plan and to fund research into alternatives to fossil fuels, bipartisan support for industrial regulation and energy alternatives collapsed after the election of Ronald Reagan in 1980.  As the Reagan administration rolled back environmental regulations and cut EPA funding, the environmental movement grew and splintered. Radical environmentalist groups such as Greenpeace engaged in direct-action civil disobedience campaigns against whaling, nuclear power, nuclear testing, and radioactive waste disposal. The Earth Liberation Front embraced even more extreme tactics, engaging in “eco-sabotage” to stop the clear cutting of forests or the construction of oil pipelines. By the late 1980s, the growth of the environmental justice (EJ) movement brought a racial and class dimension to eco-activism, showing how environmental pollution disproportionately affected racial minorities and poorer people, and expanding the support base of environmentalism beyond the educated white middle class. 
+Environmentalism became more controversial after the oil shocks of the early 1970s. It was much harder for a nation accustomed to cheap and abundant sources of fossil fuels to agree on a path forward after the 1973-74 Arab oil embargo. Although the Department of Energy was founded in 1977 to develop a national energy plan and to fund research into alternatives to fossil fuels, bipartisan support for industrial regulation and energy alternatives collapsed after the election of Ronald Reagan in 1980.  As the Reagan administration rolled back environmental regulations and cut EPA funding, the environmental movement grew and splintered. Radical environmentalist groups such as Greenpeace engaged in direct-action civil disobedience campaigns against whaling, nuclear power, nuclear testing, and radioactive waste disposal. The Earth Liberation Front embraced even more extreme tactics, engaging in “eco-sabotage” to stop the clear cutting of forests or the construction of oil pipelines. By the late 1980s, the growth of the environmental justice (EJ) movement brought a racial and class dimension to eco-activism, showing how environmental pollution disproportionately affected racial minorities and poorer people, and expanding the support base of environmentalism beyond the educated white middle class.
 
-Global issues have commanded the attention of the environmental movement since the 1990s. In 1988, NASA linked global warming, or the long-term heating of the earth’s surface, to human activity, particularly the burning of fossil fuels. Carbon emissions, acid rain, ozone depletion, and the disappearance of the rainforests became issues to be addressed on a global scale through international diplomacy. Initially a reluctant participant, the United States ratified the Montreal Protocol in 1988, which established a plan for eliminating chlorofluorocarbons; endorsed the Kyoto Protocol for reducing greenhouse gasses a decade later, though the Senate never approved it; and signed the Paris Climate Accord in 2016, before withdrawing from the agreement in 2020 and rejoining in 2021.  Although the goal of protecting the planet remains popular, the lack of a bipartisan consensus about the causes of global warming and the impact of climate change has made it difficult for the United States to adopt a consistent energy policy since 2000.  
+Global issues have commanded the attention of the environmental movement since the 1990s. In 1988, NASA linked global warming, or the long-term heating of the earth’s surface, to human activity, particularly the burning of fossil fuels. Carbon emissions, acid rain, ozone depletion, and the disappearance of the rainforests became issues to be addressed on a global scale through international diplomacy. Initially a reluctant participant, the United States ratified the Montreal Protocol in 1988, which established a plan for eliminating chlorofluorocarbons; endorsed the Kyoto Protocol for reducing greenhouse gasses a decade later, though the Senate never approved it; and signed the Paris Climate Accord in 2016, before withdrawing from the agreement in 2020 and rejoining in 2021.  Although the goal of protecting the planet remains popular, the lack of a bipartisan consensus about the causes of global warming and the impact of climate change has made it difficult for the United States to adopt a consistent energy policy since 2000.
 
 
 ## Teachingtips
@@ -35,20 +35,20 @@ Before engaging with this resource set, students should possess the following:
 - Postwar affluence, the Interstate Highway system and the growth of suburbia
 - The convergence of environmental politics with the New Left and the antiwar movement
 - The founding of the EPA and growth of environmental regulations
-- Ronald Reagan’s election and Republican anti-environmentalism 
+- Ronald Reagan’s election and Republican anti-environmentalism
 - The controversy over global warming and climate change
 
 <hr>
 
-#### Essential Question 
+#### Essential Question
 
 What has motivated the environmental movement since the 1960s and how has our political system responded to the movement and the environmental challenges facing the planet?
 
 <hr>
 
 #### General Discussion Questions
-- What role do you think large scale environmental disasters like the steep decline of many bird species, oil spills, and nuclear reactor meltdowns played in expanding the ranks of the environmental movement?  
-- How did grassroots activism shape the larger environmental movement? 
+- What role do you think large scale environmental disasters like the steep decline of many bird species, oil spills, and nuclear reactor meltdowns played in expanding the ranks of the environmental movement?
+- How did grassroots activism shape the larger environmental movement?
 - How are the oil consumption habits of Americans related to the history of the environmental movement?
 - How do industrial practices and policies affect the environment and to what degree is the government responsible for regulating industry to preserve the planet for future generations?
 - Are sustainable practices such as moving to EV’s or solar energy compatible with progress toward reducing the nation’s reliance on fossil fuels or cooling global temperatures?
@@ -114,6 +114,8 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Environmen
 ## Youmayalsolike
 - exhibit,climate-change
 
+
+## References
 ## Guid
 ## Cliptime
 
