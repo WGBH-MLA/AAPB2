@@ -17,7 +17,7 @@ A social movement known as the Tea Party emerged in the months after the inaugur
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

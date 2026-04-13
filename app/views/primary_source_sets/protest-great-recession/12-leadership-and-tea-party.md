@@ -17,7 +17,7 @@ By the end of November 2011, panelists on *The Emily Rooney Show* (on WGBH in Bo
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

@@ -5,7 +5,7 @@
 ![Tea Party Wins](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/7-tea-party-wins.png "Tea Party Wins")
 
 ## Guid
-cpb-aacip-525-639k35nb54 
+cpb-aacip-525-639k35nb54
 
 ## Introduction
 
@@ -17,7 +17,7 @@ In the 2010 midterm "wave election," Republicans gained 63 House seats (the larg
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

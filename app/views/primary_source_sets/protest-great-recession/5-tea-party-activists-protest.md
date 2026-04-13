@@ -17,7 +17,7 @@ Tea Party protesters emerged during the financial crisis and mobilized against t
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 
