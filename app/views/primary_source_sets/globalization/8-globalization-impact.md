@@ -17,7 +17,7 @@ Prior to the passage of NAFTA, proponents promised widespread economic benefits 
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

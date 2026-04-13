@@ -1,4 +1,4 @@
-# Defending Free Trade Against its Critics (2004) 
+# Defending Free Trade Against its Critics (2004)
 
 ## Thumbnail
 
@@ -17,7 +17,7 @@ Critics of free trade policies argued that unfettered global trade hurt workers 
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

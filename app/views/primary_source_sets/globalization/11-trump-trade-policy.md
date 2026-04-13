@@ -17,7 +17,7 @@ While then-President Trump was broadly critical of the impact of global trade on
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

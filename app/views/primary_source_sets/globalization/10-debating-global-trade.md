@@ -17,7 +17,7 @@ During the 2016 Republican Primary campaign, Donald Trump distinguished himself 
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

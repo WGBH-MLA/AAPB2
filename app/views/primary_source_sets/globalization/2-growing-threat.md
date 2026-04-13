@@ -17,7 +17,7 @@ Until the 1970s, the value of exported goods from the U.S. greatly outpaced the 
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

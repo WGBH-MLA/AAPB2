@@ -17,7 +17,7 @@ In the 1990s, the U.S. spearheaded the creation of the World Trade Organization 
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 
