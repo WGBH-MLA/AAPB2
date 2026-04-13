@@ -17,7 +17,7 @@ With financial institutions crumbling and the economy entering free fall, the fe
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

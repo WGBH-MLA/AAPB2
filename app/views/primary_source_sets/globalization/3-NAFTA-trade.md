@@ -17,7 +17,7 @@ Despite growing opposition to free trade, late 20th century politicians largely 
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

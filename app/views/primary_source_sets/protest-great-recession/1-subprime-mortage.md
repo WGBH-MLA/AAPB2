@@ -17,7 +17,7 @@ This 2007 *NewsHou with Jim Leherr* “explainer” by economics reporter Paul S
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

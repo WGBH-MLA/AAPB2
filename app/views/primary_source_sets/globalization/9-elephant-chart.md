@@ -17,7 +17,7 @@ While most economists argue for the overall benefits of global trade, they ackno
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

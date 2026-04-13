@@ -17,7 +17,7 @@ The subprime housing crisis severely damaged, and even destroyed, many of the la
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

@@ -1,4 +1,4 @@
-# Walmart, Sweatshops, and the Price of Cheap Clothes (2004) 
+# Walmart, Sweatshops, and the Price of Cheap Clothes (2004)
 
 ## Thumbnail
 
@@ -9,7 +9,7 @@ cpb-aacip-507-7s7hq3sh3g
 
 ## Introduction
 
-Perhaps no American business better embodied the impact of global trade than Walmart. In the 1990s and 2000s, Walmart became the dominant American retailer in large part by selling goods manufactured overseas for low prices. As this excerpt from *The NewsHour with Jim Lehrer* explains, Walmart’s prices could be so low because the imported goods sold at the store were produced in low-wage countries under grueling conditions. The clip illuminates the incentives that drive various players in the economic system: global firms seeking to minimize production costs, American businesses looking for cheap goods to sell in American stores, and consumers looking for the best bargain.  
+Perhaps no American business better embodied the impact of global trade than Walmart. In the 1990s and 2000s, Walmart became the dominant American retailer in large part by selling goods manufactured overseas for low prices. As this excerpt from *The NewsHour with Jim Lehrer* explains, Walmart’s prices could be so low because the imported goods sold at the store were produced in low-wage countries under grueling conditions. The clip illuminates the incentives that drive various players in the economic system: global firms seeking to minimize production costs, American businesses looking for cheap goods to sell in American stores, and consumers looking for the best bargain.
 
 <b>The NewsHour with Jim Lehrer</b>
 <b>| NewsHour Productions | August 23, 2004</b>
@@ -17,7 +17,7 @@ Perhaps no American business better embodied the impact of global trade than Wal
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 
