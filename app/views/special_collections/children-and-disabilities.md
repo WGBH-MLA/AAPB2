@@ -33,7 +33,7 @@ Currently, the AAPB is raising funds to update additional programs to expand the
 ## Featured
 
 [![Zoom, episode 325](https://s3.amazonaws.com/americanarchive.org/special-collections/timmy-in-class-325.png)](/catalog/cpb-aacip-15-79v15vmd)
-[![Zoom, episode 506](https://s3.amazonaws.com/americanarchive.org/special-collections/ginny-outside-506.png)](/catalog/cpb-aacip-15-687h4k13)
+[![Zoom, episode 506](https://s3.amazonaws.com/americanarchive.org/special-collections/ginny-3.png)](/catalog/cpb-aacip-15-687h4k13)
 [![The Puzzle Children](https://s3.amazonaws.com/americanarchive.org/special-collections/puzzle-children-sq.jpeg)](/catalog/cpb-aacip-1fa6c4ee1b2)
 [![Rebop, episode 107](https://s3.amazonaws.com/americanarchive.org/special-collections/todd-magic.png)](/catalog/cpb-aacip-15-26m0dfn5)
 [![Rainbow's End, episode 103](https://s3.amazonaws.com/americanarchive.org/special-collections/re-103.png)](/catalog/cpb-aacip-d1fb0fce265)
