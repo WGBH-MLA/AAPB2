@@ -2547,6 +2547,14 @@
     "Name": "CENTRO, The Center for Puerto Rican Studies at Hunter College",
     "About": "CENTRO, The Center for Puerto Rican Studies at Hunter College, is the largest university-based research institute, library, and archive dedicated to the Puerto Rican experience in the United States.",
     "location": [40.7999, -73.9388]
+   },
+    "NCSG55206": {
+    "Short name": "Private Donor",
+    "State": "Massachusetts",
+    "City": "Boston",
+    "Name": "Private Donor",
+    "About": "",  
+    "location": [42.3571, -71.1481]
    }
 }
   

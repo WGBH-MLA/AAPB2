@@ -55,9 +55,9 @@ During an economic crisis like the Great Recession, what role should the governm
 
 1) Ask students to watch the following clips:
 
-- [The Subprime Mortgage Crisis, Explained (2007)](https://americanarchive.org/primary_source_sets/ben-source-set-2/1-subprime-mortage)
-- [Unemployment and the Economic Impact of the Great Recession (2009)](https://americanarchive.org/primary_source_sets/ben-source-set-2/2-unemployment)
-- [The Federal Government Responds to the Financial Crisis (2009)](https://americanarchive.org/primary_source_sets/ben-source-set-2/3-federal-government-response)
+- [The Subprime Mortgage Crisis, Explained (2007)](https://americanarchive.org/primary_source_sets/protest-great-recession/1-subprime-mortage)
+- [Unemployment and the Economic Impact of the Great Recession (2009)](https://americanarchive.org/primary_source_sets/protest-great-recession/2-unemployment)
+- [The Federal Government Responds to the Financial Crisis (2009)](https://americanarchive.org/primary_source_sets/protest-great-recession/3-federal-government-response)
 
 These clips introduce students to the Great Recession and the initial government response. Consider the following as potential discussion questions:
 
@@ -67,10 +67,10 @@ These clips introduce students to the Great Recession and the initial government
 
 2) Ask students to watch the following clips:
    
-- [Tea Party Activists Rally in Washington, D.C. (2009)](https://americanarchive.org/primary_source_sets/ben-source-set-2/4-tea-party-activists)
-- [Tea Party Activists Protest "Obamacare" (2009)](https://americanarchive.org/primary_source_sets/ben-source-set-2/5-tea-party-activists-protest)
-- [“Tea Party Candidates” Challenge the Republican Establishment (2010)](https://americanarchive.org/primary_source_sets/ben-source-set-2/6-tea-party-candidates)
-- [The Tea Party Wins Political Power (2010)](https://americanarchive.org/primary_source_sets/ben-source-set-2/7-tea-party-wins)
+- [Tea Party Activists Rally in Washington, D.C. (2009)](https://americanarchive.org/primary_source_sets/protest-great-recession/4-tea-party-activists)
+- [Tea Party Activists Protest "Obamacare" (2009)](https://americanarchive.org/primary_source_sets/protest-great-recession/5-tea-party-activists-protest)
+- [“Tea Party Candidates” Challenge the Republican Establishment (2010)](https://americanarchive.org/primary_source_sets/protest-great-recession/6-tea-party-candidates)
+- [The Tea Party Wins Political Power (2010)](https://americanarchive.org/primary_source_sets/protest-great-recession/7-tea-party-wins)
 
 These clips introduce students to the Tea Party movement. Consider the following as potential discussion questions:
 
@@ -82,9 +82,9 @@ These clips introduce students to the Tea Party movement. Consider the following
 
 3) Ask students to watch the following clips:
    
-- [The Occupy Wall Street Movement Emerges in Zuccotti Park (2011)](https://americanarchive.org/primary_source_sets/ben-source-set-2/8-occupy-wall-street)
-- [The Occupy Movement and City Authorities in Conflict (2011)](https://americanarchive.org/primary_source_sets/ben-source-set-2/9-occupy-movement)
-- [Political Commentators Assess the Potential and Limits of the Occupy Movement (2011)](https://americanarchive.org/primary_source_sets/ben-source-set-2/10-potential-and-limits)
+- [The Occupy Wall Street Movement Emerges in Zuccotti Park (2011)](https://americanarchive.org/primary_source_sets/protest-great-recession/8-occupy-wall-street)
+- [The Occupy Movement and City Authorities in Conflict (2011)](https://americanarchive.org/primary_source_sets/protest-great-recession/9-occupy-movement)
+- [Political Commentators Assess the Potential and Limits of the Occupy Movement (2011)](https://americanarchive.org/primary_source_sets/protest-great-recession/10-potential-and-limits)
 
 These clips introduce students to the Occupy Wall Street movement. Consider the following as potential discussion questions:
 
@@ -94,8 +94,8 @@ These clips introduce students to the Occupy Wall Street movement. Consider the 
 
 4) After students have watched at least some of the earlier clips, have them watch the following clips:
    
-- [The Moral Foundations of the Tea Party and Occupy Movements (2012)](https://americanarchive.org/primary_source_sets/ben-source-set-2/11-moral-foundations)
-- [Leadership and the Tea Party and Occupy Movements (2011)](https://americanarchive.org/primary_source_sets/ben-source-set-2/12-leadership-and-tea-party)
+- [The Moral Foundations of the Tea Party and Occupy Movements (2012)](https://americanarchive.org/primary_source_sets/protest-great-recession/11-moral-foundations)
+- [Leadership and the Tea Party and Occupy Movements (2011)](https://americanarchive.org/primary_source_sets/protest-great-recession/12-leadership-and-tea-party)
 
 These clips compare the Tea Party and Occupy movements. Consider the following discussion questions and activities: 
 
