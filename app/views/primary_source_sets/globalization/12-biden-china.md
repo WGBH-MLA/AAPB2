@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Biden China](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/ "Biden China")
+![Biden China](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/12-Biden-China "Biden China")
 
 ## Guid
 cpb-aacip-98ce5c6694f
