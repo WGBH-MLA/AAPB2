@@ -1,4 +1,4 @@
-# The Biden Administration’s Combative Stance with China
+# The Biden Administration’s Combative Stance with China (2024)
 
 ## Thumbnail
 
