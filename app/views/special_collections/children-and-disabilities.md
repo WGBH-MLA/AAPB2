@@ -63,4 +63,4 @@ Records are described at the item level and contain brief descriptions. Search b
 
 ## Sort
 
-asset_date+asc
+score+desc
