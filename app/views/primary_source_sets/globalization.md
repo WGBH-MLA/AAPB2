@@ -59,7 +59,7 @@ In the balance, has the increase in global trade since World War II harmed or be
    
 - [Postwar Optimism about the Economic Benefits of International Trade (1965)](https://americanarchive.org/primary_source_sets/globalization/1-postwar-optimism)
 - [The Growing “Threat” of Imported Goods in the 1970s (1977)](https://americanarchive.org/primary_source_sets/globalization/2-growing-threat)
-- [NAFTA Promotes U.S. Trade with Mexico and Canada (1995)](https://americanarchive.org/primary_source_sets/globalization/3-NAFTA-trade)
+- [NAFTA Promotes U.S. Trade with Mexico and Canada (1995)](https://americanarchive.org/primary_source_sets/globalization/3-nafta-trade)
 - [Ocean Trade and the Explosion of Global Commerce (1994)](https://americanarchive.org/primary_source_sets/globalization/4-ocean-trade)
 
 Then show students [the following chart](https://fred.stlouisfed.org/series/B021RE1A156NBEA) showing the rise of imports starting in the 1970s. Discuss the following questions:
