@@ -2,10 +2,10 @@
 
 ## Thumbnail
 
-![Attendants at a union protest meeting, Courtesy Washington State University Library, https://content.libraries.wsu.edu/digital/collection/nash/id/4550/rec/514](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main-Yakima-Valley.jpg "Attendants at a union meeting, Courtesy Washington State University Library, https://content.libraries.wsu.edu/digital/collection/nash/id/4550/rec/514")
+![Yakima Washington as seen from Lookout Point, Courtesy Michael S. Shannon, Wikimedia Commons, https://creativecommons.org/licenses/by-sa/4.0](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main-Yakima-Valley-R.jpg “Yakima Washington as seen from Lookout Point, Courtesy Michael S. Shannon, Wikimedia Commons, https://creativecommons.org/licenses/by-sa/4.0”)
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main-Yakima-Valley.jpg
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main-Yakima-Valley-R.jpg
 
 ## Author
 
@@ -157,6 +157,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Black-Powe
 
 ## References
 
+- Photo Credit. Michael S. Shannon, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 - [Darian, L. (2006). *The emerging Hispanic Homeland of the Pacific Northwest: A case study of Yakima Valley, Washington* (Master’s thesis, Montana State University). Scholarworks.]( https://scholarworks.montana.edu/server/api/core/bitstreams/f924bb01-b095-474a-b6de-d5dc2e88d0dc/content)
 - [Data USA.(2022) *Yakima, WA.*](https://datausa.io/profile/geo/yakima-wa#health_care_diversity)
 - Gamboa, E. (1990). *Mexican Labor and World War II: Bracero in the Pacific Northwest, 1942-1947.* University of Washington Press. 
