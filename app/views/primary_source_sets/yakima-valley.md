@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Yakima Washington as seen from Lookout Point, Courtesy Michael S. Shannon, Wikimedia Commons, <https://creativecommons.org/licenses/by-sa/4.0]>(https://s3.amazonaws.com/americanarchive.org/primary_source_sets/main-yakima-valley-r.jpg “Yakima Washington as seen from Lookout Point, Courtesy Michael S. Shannon, Wikimedia Commons, <https://creativecommons.org/licenses/by-sa/4.0>”)
+![Yakima Washington as seen from Lookout Point, Courtesy Michael S. Shannon, Wikimedia Commons,(https://commons.wikimedia.org/wiki/File:Yakima,_Washington_as_seen_from_Lookout_Point.jpg](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/main-yakima-valley-r.jpg “Yakima Washington as seen from Lookout Point, Courtesy Michael S. Shannon, Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Yakima,_Washington_as_seen_from_Lookout_Point.jpg”)
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/main-yakima-valley-r.jpg
