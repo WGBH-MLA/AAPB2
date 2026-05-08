@@ -59,7 +59,7 @@ What are the different topics discussed in the radio program? What actions do th
 
 Divide students into groups of three and ask them to listen to the below extract. In this episode, students will learn about the march from Toppenish to Yakima to protest the immigration raids. 
 
-- [Immigration Protest and the Challenges of the Undocumented Community March](https://americanarchive.org/primary_source_sets/yakima-valley/1-199-80h7fxq) (1981)
+- [Immigration Protest and the Challenges of the Undocumented Community March](/primary_source_sets/yakima-valley/1-199-80ht7fxq) (1981)
 
 Each group must fill out the following details about the march
 
@@ -77,7 +77,7 @@ After completing the above, discuss the answers as a class and write the main id
 
 In the below radio episode, Ricardo García interviews Camilo Pérez and Héctor González about the importance of bilingual education, its obstacles, and how crucial it is to strengthen Spanish skills. Each student must listen to the entire episode and write whether they agree or disagree with the statements made in the program. Students must explain their answer.
 
-- [La educación bilingüe en el Valle de Yakima](https://americanarchive.org/primary_source_sets/yakima-valley/2-199-19f4qk0) (1986)
+- [La educación bilingüe en el Valle de Yakima](/primary_source_sets/yakima-valley/2-199-19f4qtk0) (1986)
 
 a. Camilo stated: _“Para la mayoría de nuestras familias latinas, no es realista enseñarles español a sus hijos debido a las condiciones en las que viven, al tipo de trabajo que tienen, ya que no hay ni tiempo ni oportunidad, ni son los más adecuados para enseñar el idioma en el desarrollo de la lectura y la escritura. Hay mucho que pueden hacer los padres, y es muy importante que participen y ayuden, pero tenemos que reconocer que las escuelas tienen la mayor responsabilidad. Debemos hacer que cumplan con esa responsabilidad y que se necesita un programa educativo tanto como en la casa como en la escuela que nos ayude a desarrollar nuestro idioma.”_ 
 
@@ -107,11 +107,11 @@ The program is divided into two topics:
 
 The first topic: Alejandro Tomas from Sunnyside and the radio host discuss health issues such as HIV, AIDS, and the consequences of poor decisions made by Latino youth. 
 
-- [Los jóvenes hispanos entre dos culturas/ Hispanic youth living in two cultures (part one)](https://americanarchive.org/primary_source_sets/yakima-valley/3-199-13zs7jvc) (1991)
+- [Los jóvenes hispanos entre dos culturas/ Hispanic youth living in two cultures (part one)](/primary_source_sets/yakima-valley/3-199-13zs7jvc) (1991)
 
 In the second topic: the host talks about the self-esteem of youth in the U.S. and the difficulties of living between two cultures, two languages, two sets of cultural values, which she describes as a new form of mestizaje (the mixing of two or more cultures). 
 
-- [Los jóvenes hispanos entre dos culturas/ Hispanic youth living in two cultures (part two)](https://americanarchive.org/primary_source_sets/yakima-valley/4-199-13zs7jvc) (1991)
+- [Los jóvenes hispanos entre dos culturas/ Hispanic youth living in two cultures (part two)](/primary_source_sets/yakima-valley/4-199-13zs7jvc) (1991)
 
 After listening to the program, students must write a brief summary of ONE of the topics (health issues or the experience of living between two cultures) discussed in the show and reflect on how the chosen topic is discussed now compared to how it was addressed in the 1991. Also, include the different obstacles that the radio hosts encountered when discussing such topic:
 
@@ -121,8 +121,8 @@ Task: Summarize one of the topics and the differences in how the topic is discus
 
 In this episode, Ricardo Garcia interviews Ninfa Bangumar Gutierrez, an activist and pioneer of the social change that took place in the 1960s in the Yakima Valley. 
 
-- [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9-207-60qrfqmn) (1991)
-- [Stokely Carmichael Discusses Black Power](https://americanarchive.org/primary_source_sets/black-power/3-28-zp3vt1h700) (1966)
+- [Malcolm X Radio Documentary](/primary_source_sets/black-power/9-207-60qrfqmn) (1991)
+- [Stokely Carmichael Discusses Black Power](/primary_source_sets/black-power/3-28-zp3vt1h700) (1966)
 
 Divide the students into four groups. Each group will need to listen to the entire program and answer their assigned question(s): 
 
