@@ -159,7 +159,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB-Yakima-Val
 
 - Photo Credit. Michael S. Shannon, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
 - [Darian, L. (2006). *The emerging Hispanic Homeland of the Pacific Northwest: A case study of Yakima Valley, Washington* (Master’s thesis, Montana State University). Scholarworks.](https://scholarworks.montana.edu/server/api/core/bitstreams/f924bb01-b095-474a-b6de-d5dc2e88d0dc/content)
-- [Data USA.(2022) *Yakima, WA.*](https://datausa.io/profile/geo/yakima-wa)
+- [Data USA.(2022) *Yakima, WA.*](https://datausa.io/profile/geo/yakima-wa#health_care_diversity)
 - Gamboa, E. (1990). *Mexican Labor and World War II: Bracero in the Pacific Northwest, 1942-1947.* University of Washington Press. 
 - [Rosales Castañeda, O. (n.d.). *Radio KDNA: The voice of the farmworkers, 1975-1985.* Seattle Civil Rights and Labor History Project. Retrieved January, 25, 2025.](https://depts.washington.edu/civilr/farmwk_ch8.htm)  
 - [Winkler, H. (2022, July 25). *From agricultural roots to vibrant diversity: The origin story of the city of Yakima.* Yakima Talk.](https://yakimatalk.com/2022/07/25/from-agricultural-roots-to-vibrant-diversity-the-origin-story-of-the-city-of-yakima/) 
