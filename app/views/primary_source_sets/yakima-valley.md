@@ -150,7 +150,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB-Yakima-Val
 - [**KREW Radio Station**](https://revisitwa.org/waypoint/krew-radio-station-pepes-bakery/)
 
 ## Youmayalsolike
-- exhibit,latino-empowerment-through-public-broadcasting
+- exhibit,latino-empowerment
 - special collection,hispanic-heritage-collection
 - special collection,radio-KDNA
 
