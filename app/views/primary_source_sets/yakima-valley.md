@@ -5,7 +5,7 @@
 ![Yakima Washington as seen from Lookout Point, Courtesy Michael S. Shannon, Wikimedia Commons](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/main-yakima-valley-r.jpg)
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/main-yakima-valley-r.jpg
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/main-yakima-valley.jpg
 
 ## Author
 
