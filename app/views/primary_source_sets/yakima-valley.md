@@ -141,7 +141,7 @@ In this last activity, students must listen to a recent broadcast from the stati
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Black-Power_Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB-Yakima-Valley-Teaching-Tips.pdf
 
 ## Additionalresources
 
