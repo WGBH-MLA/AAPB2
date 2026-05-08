@@ -152,7 +152,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB-Yakima-Val
 ## Youmayalsolike
 - exhibit,latino-empowerment
 - special collection,hispanic-heritage-collection
-- special collection,radio-KDNA
+- special collection,radio-kdna
 
 
 ## References
