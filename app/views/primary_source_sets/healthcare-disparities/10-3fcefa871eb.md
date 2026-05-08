@@ -17,7 +17,7 @@ As this *PBS NewsHour* video segment depicts, the COVID-19 pandemic hit Native A
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

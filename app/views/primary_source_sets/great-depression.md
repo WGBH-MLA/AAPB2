@@ -25,7 +25,7 @@ This resource set is composed of twelve short video clips from interviews conduc
 
 ## Teachingtips
 
-The sources in this set are composed of original interviews for a documentary titled *The Great Depression* (1993). All of the interviewees lived during the Great Depression and New Deal; some were sharecroppers or children of sharecroppers, some were bankers, some were landowning farmers, and some were children of parents who helped to organize the Southern Tenant Farmers’ Union. Their firsthand accounts allow students to go beyond textbook narratives to more fully understand this period in U.S. history as well as the unique experiences of southern sharecroppers and tenant farmers. 
+The sources in this set are composed of original interviews for a documentary titled *The Great Depression* (1993). All of the interviewees lived during the Great Depression and New Deal; some were sharecroppers or children of sharecroppers, some were bankers, some were landowning farmers, and some were children of parents who helped to organize the Southern Tenant Farmers’ Union. Their firsthand accounts allow students to go beyond textbook narratives to more fully understand this period in U.S. history as well as the unique experiences of southern sharecroppers and tenant farmers.
 
 #### Background Information
 
@@ -40,7 +40,7 @@ Before engaging with this resource set, students should be familiar with the fol
 
 <hr>
 
-#### Essential Question 
+#### Essential Question
 
 What led tenant farmers and sharecroppers to unionize?
 
@@ -106,9 +106,6 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Great-Depr
 ## Youmayalsolike
 - special collection,the-great-depression
 
-## Citation
-
-Wilkins, Sue. "The Great Depression and Southern Sharecroppers." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/great-depression.
-
+## References
 ## Guid
 ## Cliptime

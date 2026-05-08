@@ -42,9 +42,9 @@ Before engaging with this resource set, students should be familiar with the fol
 
 <hr>
 
-#### Essential Question 
+#### Essential Question
 
-Is the right to control and make decisions related to contraception and childbearing a private, individual right or one that should be regulated by the state?  
+Is the right to control and make decisions related to contraception and childbearing a private, individual right or one that should be regulated by the state?
 
 <hr>
 
@@ -71,7 +71,7 @@ Is the right to control and make decisions related to contraception and childbea
 - [The Supreme Court Considers Overturning _Roe v. Wade_](/primary_source_sets/reproductive-rights/9-bb394816d73) (2021)
 
 Lead a class discussion, asking students:
-What were the key arguments underpinning the Supreme Court’s decision in _Roe v. Wade_?   
+What were the key arguments underpinning the Supreme Court’s decision in _Roe v. Wade_?
 
 How did the Court define fetal viability in 1973, and what limits did they place on terminating a pregnancy?
 
@@ -84,7 +84,7 @@ What are the key arguments of the majority in the _Dobbs_ ruling? How did the Co
 As of June 2022, Gallup polls (see link in Additional Resources) showed that a slight majority of Americans did not want abortion overturned and 8 in 10 believed that the procedure should remain legal to some degree. Do you believe the Supreme Court, an unelected body, should have the power to decide this issue for American citizens, especially American women?
 
 Follow-up activity:
-Ask students to research one of the many reproductive rights cases (see link in Additional Resources) decided by the Supreme Court. Divide the class into three groups: plaintiffs, defendants and justices.  Ask the plaintiffs and defendants to research and argue their cases before the justices, who will ask questions and issue an oral and written opinion.   
+Ask students to research one of the many reproductive rights cases (see link in Additional Resources) decided by the Supreme Court. Divide the class into three groups: plaintiffs, defendants and justices.  Ask the plaintiffs and defendants to research and argue their cases before the justices, who will ask questions and issue an oral and written opinion.
 
 
 **2) Organizing Pro-Choice and Pro-Life Women**
@@ -105,7 +105,7 @@ The American women’s suffrage movement mobilized both men and women in an effo
 
 
 **3) Inequity in Abortion Access: Before, During and After _Roe_**
-      
+
 Ask students to watch or listen to the following sources:
 
 
@@ -117,15 +117,15 @@ Ask students to watch or listen to the following sources:
 Lead a class discussion, asking students:
 What impact did one’s race, ethnicity, or socio-economic status have upon obtaining access to a safe, legal abortion both before and after _Roe v. Wade_?
 
-Why did Congress prohibit public funding for abortions in 1977, and who was most adversely affected by this law? 
+Why did Congress prohibit public funding for abortions in 1977, and who was most adversely affected by this law?
 
 How has access to contraception, prenatal care, and abortion services changed since the _Dobbs_ ruling?
- 
+
 To what extent are abortion restrictions today based on geography (or where one lives), and to what extent are they based on race, ethnicity, and class?
 
 
 Follow-up activity:
-Screen the documentary _The Janes_ (see link in Additional Resources) for students.  Ask them to write a brief review of the film, which considers the question of inequity in abortion access both pre- and post-_Roe_. 
+Screen the documentary _The Janes_ (see link in Additional Resources) for students.  Ask them to write a brief review of the film, which considers the question of inequity in abortion access both pre- and post-_Roe_.
 
 
 <hr>
@@ -153,9 +153,6 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Reproducti
 - exhibit,civil-rights
 - special collection,woman-series
 
-## Citation
-
-Weidner, Catherine. "Reproductive Rights" WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/reproductive-rights.
-
+## References
 ## Guid
 ## Cliptime

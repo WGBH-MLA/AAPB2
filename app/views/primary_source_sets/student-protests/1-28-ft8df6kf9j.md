@@ -9,7 +9,7 @@ cpb-aacip-28-ft8df6kf9j
 
 ## Introduction
 
-In this KPFA (Berkeley, CA) audio recording, Bobby Seale, Chairman of the Black Panther Party, speaks at a rally at the University of California, Berkeley. Seale calls for the release of Black Panther co-founder Huey Newton and seven anti-draft protesters. During the speech, he decries police brutality. 
+In this KPFA (Berkeley, CA) audio recording, Bobby Seale, Chairman of the Black Panther Party, speaks at a rally at the University of California, Berkeley. Seale calls for the release of Black Panther co-founder Huey Newton and seven anti-draft protesters. During the speech, he decries police brutality.
 
 <b>Rally for the Oakland Seven and Huey Newton in Berkeley, California</b>
 <b>| KPFA - Pacifica Radio | January 26, 1968 </b>
@@ -17,7 +17,7 @@ In this KPFA (Berkeley, CA) audio recording, Bobby Seale, Chairman of the Black 
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

@@ -18,11 +18,11 @@ Brenna Wynn Greer, Wellesley College
 
 ## Introduction
 
-As early as the 1950s, government officials and academics in the United States began sounding the alarm about increased drug abuse, which they attributed to multiple factors, including Americans’ attempts to escape expectations of postwar conformity, the decay of inner cities, a growing drug trade, and increased criminal activity. In the 1960s, illicit drug use rose in tandem with a rise in political dissent, countercultural influences, poverty, and addiction among servicemen in the Vietnam War. In 1971, Richard Nixon identified drugs as “public enemy number one.” To fight that enemy, he launched a “War on Drugs,” greatly expanding government resources for combating illegal drug use and introducing highly punitive measures against those who possessed or sold drugs. Subsequent administrations continued the “war.” During the 1980s, the Reagan Administration established mandatory minimum sentencing laws, and in the 1990s, President Bill Clinton and Congress rejected the U.S. Sentencing Commission’s recommendation to eliminate disparities in sentencing laws that disadvantaged poor people and people of color. To date, the war on drugs has cost the government as much as a trillion dollars, failed to decrease drug use, and resulted in the mass incarceration of millions of Americans, who have been disproportionately people of color. 
+As early as the 1950s, government officials and academics in the United States began sounding the alarm about increased drug abuse, which they attributed to multiple factors, including Americans’ attempts to escape expectations of postwar conformity, the decay of inner cities, a growing drug trade, and increased criminal activity. In the 1960s, illicit drug use rose in tandem with a rise in political dissent, countercultural influences, poverty, and addiction among servicemen in the Vietnam War. In 1971, Richard Nixon identified drugs as “public enemy number one.” To fight that enemy, he launched a “War on Drugs,” greatly expanding government resources for combating illegal drug use and introducing highly punitive measures against those who possessed or sold drugs. Subsequent administrations continued the “war.” During the 1980s, the Reagan Administration established mandatory minimum sentencing laws, and in the 1990s, President Bill Clinton and Congress rejected the U.S. Sentencing Commission’s recommendation to eliminate disparities in sentencing laws that disadvantaged poor people and people of color. To date, the war on drugs has cost the government as much as a trillion dollars, failed to decrease drug use, and resulted in the mass incarceration of millions of Americans, who have been disproportionately people of color.
 
 ## Teachingtips
 
-As a collection, this set of sources provides a broad history of how federal and state authorities have tried to curtail drug use, abuse, and trafficking. These audio and video clips document the circumstances that led President Nixon to launch the war on drugs, which law enforcement took up at every level of government. These sources demonstrate a range of opinions about the measures used in the war on drugs, and they provide testimonies about how enforcement of anti-drug policies affected different populations, especially along lines of race and class.  
+As a collection, this set of sources provides a broad history of how federal and state authorities have tried to curtail drug use, abuse, and trafficking. These audio and video clips document the circumstances that led President Nixon to launch the war on drugs, which law enforcement took up at every level of government. These sources demonstrate a range of opinions about the measures used in the war on drugs, and they provide testimonies about how enforcement of anti-drug policies affected different populations, especially along lines of race and class.
 
 #### Background Information
 
@@ -34,9 +34,9 @@ Before engaging with this resource set, students should be familiar with the fol
 
 <hr>
 
-#### Essential Question 
+#### Essential Question
 
-How has the war on drugs shaped U.S. society? 
+How has the war on drugs shaped U.S. society?
 
 <hr>
 
@@ -53,17 +53,17 @@ How has the war on drugs shaped U.S. society?
 
 #### Classroom Activities
 
-1) Ask students to listen to and watch the following sources:   
+1) Ask students to listen to and watch the following sources:
 
 - [Clinton Administration Drug Czar Lee Brown Discusses Drug Problem and Policies](/primary_source_sets/war-on-drugs/6-529-th8bg2jq4s) (1996)
 - [Judge James Gray Criticizes Drug Laws](/primary_source_sets/war-on-drugs/8-16-3x83j39b24) (2001)
 - [A Major Shift in Drug Policy](/primary_source_sets/war-on-drugs/9-525-804xg9gf2) (2018)
 
-These sources reveal different views about drug use and its societal significance. How do these views relate to the war on drugs? What accounts for the difference between them? How and why did ideas about enforcing drug policies change over time?   
+These sources reveal different views about drug use and its societal significance. How do these views relate to the war on drugs? What accounts for the difference between them? How and why did ideas about enforcing drug policies change over time?
 
 
 
-2) Ask students to watch and listen to the following sources: 
+2) Ask students to watch and listen to the following sources:
 
 
 - [The War on Drugs at the State Level](/primary_source_sets/war-on-drugs/3-29-56zw3z50) (1989)
@@ -74,13 +74,13 @@ According to these sources, how did the  war on drugs operate in different commu
 
 
 3) Ask students to watch and listen to the following sources:
-      
+
 
 - [The War on Drugs in Chicago ](/primary_source_sets/war-on-drugs/4-526-x639z91v3n) (1993)
 - [A Report on Federal Prosecution of Black People for Possessing and Selling Crack Cocaine](/primary_source_sets/war-on-drugs/5-507-s17sn01w0f) (1996)
 - [A Report on Drug Policy](/primary_source_sets/war-on-drugs/7-259-m61bpj86) (2001)
 
-According to these sources, how has race figured into the war on drugs? What impact have anti-drug policies had on people of color and poor people? How have government officials and law authorities responded to bias in anti-drug policies and their enforcement? What’s the relationship between anti-drug policies and incarceration? 
+According to these sources, how has race figured into the war on drugs? What impact have anti-drug policies had on people of color and poor people? How have government officials and law authorities responded to bias in anti-drug policies and their enforcement? What’s the relationship between anti-drug policies and incarceration?
 
 
 <hr>
@@ -104,9 +104,6 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_War_on_Dru
 - special collection,firing-line
 - special collection,vietnam-a-television-history
 
-## Citation
-
-Greer, Brenna Wynn. "The War on Drugs" WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/war-on-drugs.
-
+## References
 ## Guid
 ## Cliptime

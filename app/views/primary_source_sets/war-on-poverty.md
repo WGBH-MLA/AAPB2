@@ -28,7 +28,7 @@ Efforts to fight the War on Poverty were ultimately hindered by various factors,
 
 ## Teachingtips
 
-The media sources in this collection introduce students to political conflicts related to the War on Poverty.  The first three clips introduce the rationale for fighting the War on Poverty and lay out the general political debates between left and right about the role of government in the economy.  The next three sources provide three case studies (Appalachia, Chicago, and Trinidad, CO) that illustrate the social conditions in different impoverished regions of 1960s America and provide some examples of War on Poverty programs that were enacted in this era. The final group of four clips focuses on Black Americans, illustrating the interactions between the War on Poverty and the Black Freedom Struggle.  Notably, Community Action Programs became a site of conflict between Black activists and local political leaders in a battle for control of anti-poverty programs. 
+The media sources in this collection introduce students to political conflicts related to the War on Poverty.  The first three clips introduce the rationale for fighting the War on Poverty and lay out the general political debates between left and right about the role of government in the economy.  The next three sources provide three case studies (Appalachia, Chicago, and Trinidad, CO) that illustrate the social conditions in different impoverished regions of 1960s America and provide some examples of War on Poverty programs that were enacted in this era. The final group of four clips focuses on Black Americans, illustrating the interactions between the War on Poverty and the Black Freedom Struggle.  Notably, Community Action Programs became a site of conflict between Black activists and local political leaders in a battle for control of anti-poverty programs.
 
 
 #### Background Information
@@ -43,9 +43,9 @@ Before engaging with this resource set, students should be familiar with the fol
 
 <hr>
 
-#### Essential Question 
+#### Essential Question
 
-Why are people poor and what is the role of the state in alleviating poverty?  
+Why are people poor and what is the role of the state in alleviating poverty?
 
 <hr>
 
@@ -54,7 +54,7 @@ Why are people poor and what is the role of the state in alleviating poverty?
 - What were the theories about the causes of poverty and social mobility that shaped War on Poverty programs?  Do you think the designers of these programs correctly identified these causes?
 - Why did the federal government want Community Action Programs to be federally funded but locally administered with “maximum feasible participation” of poor people? What were some of the challenges that emerged in American communities as the CAPs were implemented across the country?
 - What was the relationship between the War on Poverty and the Black Freedom Struggle?  Why might some historians argue that the battle for control of Community Action Programs shaped the growth of the Black Power movement?
-- Do you believe that any American can rise out of poverty through their own efforts, or does the government need to equalize opportunity and remove structural barriers to upward mobility?  
+- Do you believe that any American can rise out of poverty through their own efforts, or does the government need to equalize opportunity and remove structural barriers to upward mobility?
 - What steps do you think the government should (or shouldn’t) take to help Americans rise out of poverty?
 
 
@@ -73,7 +73,7 @@ Ask students the following discussion questions:
 
 - What are some arguments that Harrington and Johnson are making about why poverty is a serious social problem that the government needs to fix?
 - In these clips, you heard the views of various left-wing politicians and social commentators. What seem to be some theories about the causes of poverty and social mobility that shaped War on Poverty programs?
-- What seem to be some right-wing criticisms about using government policy as a means of addressing poverty?  
+- What seem to be some right-wing criticisms about using government policy as a means of addressing poverty?
 
 
 
@@ -94,10 +94,10 @@ Ask students the following discussion questions:
 
 
 **3) The War on Poverty and the Black Freedom Struggle**
-      
+
 Ask students to watch the following video:
 
-- [LBJ Argues That “Freedom Is Not Enough” for African Americans](/primary_source_sets/war-on-poverty/7-293-st7dr2ps62) (1965) 
+- [LBJ Argues That “Freedom Is Not Enough” for African Americans](/primary_source_sets/war-on-poverty/7-293-st7dr2ps62) (1965)
 
 Ask students the following discussion questions:
 
@@ -122,9 +122,9 @@ Ask students the following discussion questions:
 
 Extension Activity:  If you have time for an extension activity, have students write a “Letter to the Editor” channeling a particular perspective about Black community involvement in War on Poverty programs. Have students choose one of the following perspectives:
 
-- a supporter of Lyndon Johnson explaining why the War on Poverty is essential to granting opportunity and meaningful social equality to Black people 
+- a supporter of Lyndon Johnson explaining why the War on Poverty is essential to granting opportunity and meaningful social equality to Black people
 - a member of the CDGM in Mississippi arguing that the federal government must restore Head Start funding
-- a Los Angeles activist protesting the firing of Opal Jones   
+- a Los Angeles activist protesting the firing of Opal Jones
 - a local government official arguing that professionals, rather than community activists, should be shaping the direction of CAPs.
 - a supporter of Bayard Rustin making the case that Black activists should fight for the enactment of a “Freedom Budget” rather than local control of CAPs
 
@@ -142,7 +142,7 @@ Here are some questions you could have students discuss after they are done read
 - According to the CBPP, what has happened to poverty in America since the 1960s? Why might government programs associated with the War on Poverty be partially responsible for these changes?
 - What criticisms are leveled against government anti-poverty programs in the Heritage Foundation reports? What are some of the negative developments in American life that the authors believe are partially the result of the misguided government policy?
 - The CBPP source uses the federal government’s new “Supplemental Poverty Measure” in their report. Why might the authors argue that this measure is a better way of understanding the impact of government policy? Why might the authors of the Heritage Foundation disagree with the use of that metric?
-- Based on what you learned from the clips above and what you read in these two reports, what do you think? Did War on Poverty programs reduce poverty rates? What government programs do you think are most helpful to impoverished Americans? What programs are least helpful? 
+- Based on what you learned from the clips above and what you read in these two reports, what do you think? Did War on Poverty programs reduce poverty rates? What government programs do you think are most helpful to impoverished Americans? What programs are least helpful?
 
 
 <hr>
@@ -161,9 +161,6 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_War_on_Pov
 ## Youmayalsolike
 - exhibit,education
 
-## Citation
-
-Leff, Ben. "Fighting the War on Poverty" WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/war-on-poverty.
-
+## References
 ## Guid
 ## Cliptime
