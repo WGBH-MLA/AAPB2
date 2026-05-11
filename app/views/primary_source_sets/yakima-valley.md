@@ -144,7 +144,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB-Yakima-Val
 
 ## Additionalresources
 
-- [**Radio KDNA-voice of the farm worker: surpasses 40 years**](https://www.yakimaherald.com/news/local/radio-kdna----voice-of-the-farm-worker----surpasses-40/article_a048501e-f543-55b3-a8f5-c3c51c7fae9e.html/)
+- [**Radio KDNA - voice of the farm worker - surpasses 40 years**](https://www.yakimaherald.com/news/local/radio-kdna----voice-of-the-farm-worker----surpasses-40/article_a048501e-f543-55b3-a8f5-c3c51c7fae9e.html/)
 - [**Latino Heritage in the Yakima Valley**](https://revisitwa.org/local_theme/latino-heritage-in-the-yakima-valley/)
 - [**KREW Radio Station**](https://revisitwa.org/waypoint/krew-radio-station-pepes-bakery/)
 
