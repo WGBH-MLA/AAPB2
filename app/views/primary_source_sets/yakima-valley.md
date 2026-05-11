@@ -121,10 +121,9 @@ Task: Summarize one of the topics and the differences in how the topic is discus
 
 In this episode, Ricardo Garcia interviews Ninfa Bangumar Gutierrez, an activist and pioneer of the social change that took place in the 1960s in the Yakima Valley. 
 
-- [Malcolm X Radio Documentary](/primary_source_sets/black-power/9-207-60qrfqmn) (1991)
-- [Stokely Carmichael Discusses Black Power](/primary_source_sets/black-power/3-28-zp3vt1h700) (1966)
+Divide the students into four groups. Each group will need to listen to the entire program and answer their assigned question(s).
 
-Divide the students into four groups. Each group will need to listen to the entire program and answer their assigned question(s): 
+- [Temas de Interés](/primary_source_sets/yakima-valley/5-199-58bg7h3f) (1996)
 
 Group One: Who is Ninfa Bangumar? 
 Group Two: Why did she move to Washington? What did she do for work?
