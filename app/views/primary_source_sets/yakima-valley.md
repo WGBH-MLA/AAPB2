@@ -125,10 +125,10 @@ Divide the students into four groups. Each group will need to listen to the enti
 
 - [Temas de Interés](/primary_source_sets/yakima-valley/5-199-58bg7h3f) (1996)
 
-- Group One: Who is Ninfa Bangumar? 
-- Group Two: Why did she move to Washington? What did she do for work?
-- Group Three: What were the different obstacles Ninfa faced in the Yakima Valley?
-- Group Four: What did Ninfa do in the ’60s and ’70s to fight against the social injustices the Latino community faced in the Yakima Valley? 
+1. Who is Ninfa Bangumar? 
+2. Group Two: Why did she move to Washington? What did she do for work?
+3. Group Three: What were the different obstacles Ninfa faced in the Yakima Valley?
+4. Group Four: What did Ninfa do in the ’60s and ’70s to fight against the social injustices the Latino community faced in the Yakima Valley? 
 
 ##### Activity 5. In Summary
 
