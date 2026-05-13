@@ -79,7 +79,7 @@ Discuss the following questions:
 
 3) Ask students to watch the following sources: 
 
-- [Stopping the “Vicious Cycle” of Suburban Flight (1976)](/primary_source_sets/urban-crisis/09-259-gh9b8312)
+- [Stopping the “Vicious Cycle” of Suburban Flight (1978)](/primary_source_sets/urban-crisis/09-259-gh9b8312)
 - [The “Local Control” Argument Against Aid to Cities (1977)](/primary_source_sets/urban-crisis/10-507-x639z91909)
 - [Debating Aid to Struggling Cities (1978)](/primary_source_sets/urban-crisis/11-507-x639z91909)
 - [The Political Challenge of Reviving New Jersey’s Cities (1982)](/primary_source_sets/urban-crisis/12-507-x639z91909)
