@@ -152,7 +152,18 @@ Students will be provided a poster board sheet and markers of different colors. 
 
 Once students complete the mind map, all groups will participate in a gallery walk. Students will gather in front of each group’s mind map and rotate to others. Each group will share two takeaways from the answers to the six questions above and will also share one thing they want to learn more about. Every group must share something new. The audience (classmates who are not presenting) must ask at least one question about the information shared during the group’s presentation. 
 
-4) After watching and discussing some or all of the clips in this set, divide students into groups and give them the following task: “You work for the mayor of a major city in 1981. Hundreds of factories have shut down, and poverty and unemployment have risen significantly in the last decade. At the same time, crime has spiked and residents complain that the streets aren’t safe. A large number of (predominantly white) middle- and upper-class residents have moved to the suburbs. The city’s finances are in trouble, as the city has had to take out loans to fill budget gaps but is struggling to pay back those loans. It seems the city will need some combination of tax increases, spending cuts, or outside financial aid. Faced with these problems, come up with a list of five proposed municipal reforms (Note: these should be reforms that are *in the mayor’s control*, and can’t involve getting funding from other layers of government). For each reform, provide a brief explanation of why that reform could help address a problem your city faces.” After completing this task, groups can “share out” some of their proposed reforms, and as a class, you can discuss whether these reforms would be effective.
+##### Final Collage Reflection
+
+In this set, we have learned about the history of the farmworkers, the obstacles they have faced throughout the years, and their resiliency in fighting for their human rights with the creation of the NFWA. In this activity, you will reflect on what you have learned about these topics and create a collage that represents at least four takeaways from this set. You can take screenshots from the videos you watched in these activities and include the photos in your collage. Once you have visual representations of the four takeaways, include phrases that summarize each takeaway. For instance, if one takeaway is “The braceros fed the U.S. during WWII,” you can take a screenshot from one of the videos in this set showing farmworkers in the fields. Students will share their final collage reflections with a peer in class. 
+
+
+##### Final Discussion
+
+At the beginning of this set, you were asked to reflect on the crops harvested in your city and state, the percentage of farmworkers in your communities, and the history of farmworkers in your area. Discuss as a class whether you think farmworkers in your community still face the same injustices we learned about in Activity Two. Share what new injustices and obstacles that you think farmworkers might be facing now. (If you are unfamiliar with more recent injustices farmworkers face, you can listen to the Línea Abierta podcast episode: 
+
+“Farmworker Rights: A Forum:”https://americanarchive.org/catalog/cpb-aacip-395d1242d6b.) 
+
+Lastly, brainstorm actions you can take to inform others about the contributions farmworkers have made to the U.S. and the injustices they have faced throughout the years. 
 
 <hr>
 
@@ -162,6 +173,31 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Urban_Cris
 
 
 ## Additionalresources
+
+- Chicano! Episode 2: The Struggle in the Fields
+Facing History & Ourselves  
+
+- Dolores Huerta and Peter Bratt of Dolores Documentary
+MUSE TV Network
+
+- Dolores Huerta reflects on history of activism, next generation’s fight
+ABC News
+
+https://guides.loc.gov/latinx-civil-rights/bracero-program#s-lib-ctab-24941684-2
+Library of Congress
+
+https://history.house.gov/Exhibitions-and-Publications/HAIC/Historical-Essays/Separate-Interests/Depression-War-Civil-Rights/ 
+History, Art & Archives: United States House of Representatives
+
+https://densho.org/catalyst/japanese-mexican-americans-agricultural-allies-adversaries/
+Collection & Research
+
+https://www.splcenter.org/resources/reports/close-slavery-guestworker-programs-united-states/#history
+Learning for Justice: Civil Rights Memorial Center
+
+https://braceroarchive.org/
+Bracero History Archive
+
 
 - [**A City in Spiral: New York City in the 1960s and 1970s**](https://illinois.pbslearningmedia.org/resource/city-in-spiral-nyc-1960s-1970s-video/new-york-documentary-film/), PBS LearningMedia
 - [**Blackout: NYC in Chaos**](https://www.pbs.org/wgbh/americanexperience/features/blackout-gallery/), *American Experience*
@@ -175,6 +211,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Urban_Cris
 ## References
 
 Cover image: Vergara, Camilo J., photographer. South Bronx, 1973. Photograph (cropped). https://lccn.loc.gov/2020702547.
+Koreishi, S. & Donohoe, M. (2010). Historical and Contemporary Factors Contributing to the Plight of Migrants Farmworkers in the United States. Social Medicine, 5(1), 64-73. https://doi.org/10.71164/socialmedicine.v5i1.2010.343
 
 
 ## Guid
