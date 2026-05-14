@@ -1,30 +1,37 @@
-# Feminist Community Radio at KOPN
+# KOPN Community Radio
 
 ## Thumbnail
 
-![Feminist Community Radio at KOPN](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_mainimage.jpg)
+![Feminist Community Radio at KOPN](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN-LOGO-FINAL.png)
 
 ## Summary
 
-The <em>Feminist Community Radio at KOPN</em> Collection includes 93 audio recordings at KOPN from the 1970s to the 1990s, and functions as a window into feminist discourse and practice in mid-Missouri during an era of major changes in both radio and the feminist movement. Audio files in this collection have been transferred from original broadcasts primarily recorded on ¼ in. magnetic tape, conferring to the collection a secondary history specific to that medium. KOPN’s feminist inclusivity (intersecting race, class, gender, style, attitude, and musical preferences) finds expression through a wide range of programming in the collection, including shows from the Women’s Health Collective, Crystal Set Feminists, and Women’s Weekend as well as examples that typify the 1970s freeform radio movement such as <em>Consciousness Across the Void</em>, <em>Echoes – Folklore & Folklife in Missouri</em>, and live in-studio musical improvisations. The collection covers national issues such as the Equal Rights Amendment, Watergate, women’s health, the environment, and politics through a local lens, and provides a snapshot of Columbia and mid-Missouri music and culture during the era. The record remains incomplete, as many tape reels have been lost over the decades, but what has been preserved in the <em>Feminist Community Radio at KOPN</em> Collection provides an uncommon entrance point into feminist radio history and understanding life in the Midwest during this time.
+The KOPN Community Radio collection includes over 1,200 audio recordings, providing insight into local radio programming and practices in mid-Missouri from the 1970s through the 1990s. The station is noteworthy for the inclusivity of its programming, which features representations of a wide array of intersecting racial, class, and gender identities, and a diverse assortment of styles, attitudes, and musical genres. KOPN’s long tradition of feminist broadcasting is represented by series produced by the Women’s Health Collective and Crystal Set Feminists, such as [*Women’s Weekend*](https://americanarchive.org/catalog?f[program_titles][]=Women%27s+Weekend&f[access_types][]=all) and [*The Feminist News*](https://americanarchive.org/catalog?f[series_titles][]=The+Feminist+News&f[access_types][]=all). Other programs, such as [*Consciousness Across the Void*](https://americanarchive.org/catalog/cpb-aacip-5f3d0b84d48) and [*Echoes: Folklore & Folklife in Missouri*](https://americanarchive.org/catalog/cpb-aacip-518-4746q1tc7p), exemplify the 1970s freeform radio movement, as do the many live in-studio musical improvisations included in the collection. Another highlight of the collection is [*Film Comment*](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Film+Comment&f[access_types][]=digitized). More than your typical film review series, *Film Comment* episodes include information on local screenings, discussions of film history and theory, and analyses of the artistry and representational politics of films past and present. 
+
+Broadcasts in the KOPN Community Radio collection cover national politics through a local lens, addressing topics such as the Equal Rights Amendment and Watergate hearings while also providing a snapshot of Columbia and mid-Missouri music and culture of the era. The record remains incomplete, as many tape reels have been lost over the decades, but what has been preserved provides a unique entry point into community radio history and understanding life in the Midwest in the mid-to-late twentieth century. 
+
 
 ## Background
 
-KOPN was founded in Columbia, Missouri in 1973, as an alternative to the first local radio station in town, which the founders of KOPN felt was not responsive enough to the community. Its mission from the beginning was to amplify the voices of marginalized groups in the area, as signified by the call sign they chose: K-OPN, a station open to the community at large. A diverse array of programming has always been a feature of the station, with a particularly strong and continuous history in feminist broadcasting. The inaugural Women's Day radio program took place in 1977, and by the second, in March 1978, it was already becoming an institution. In addition to, and preceding, the annual Women's Day tradition, several weekly programs covered women's issues in politics, health, and society.
+KOPN was founded in Columbia, Missouri, in 1973 as an alternative to KFRU, the first local radio station in Columbia, which the founders of KOPN felt was not adequately responsive to the community. From the beginning, KOPN’s mission was to amplify the voices of marginalized groups in the area, as signified by the station’s call sign: K-OPN, a station “open” to the community at large. Diverse programming has always been a feature of the station, with a particularly strong and continuous history in feminist broadcasting.
+
+The KOPN Community Radio collection was first added to the AAPB in 2018. Initially, the collection focused on KOPN’s feminist programming. In May 2026, the collection was expanded and updated to include a broader array of KOPN broadcasts. 
+
 
 ## Featured
 
-[![Working Class Women](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip_518-8p5v69968t)
 [![Angela Davis](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip_518-901zc7sp10)
-[![Strength of Femininity](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip_518-3b5w66b115)
+[![Film Comment: German Directors](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip-e9dc78c003d)
+[![Working Class Women](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip_518-8p5v69968t)
 [![Lesbian Separatism](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip_518-z31ng4hz4q)
-[![Consciousness Across the Void](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip_518-9g5gb1zf3x)
-[![Paule Marshall](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip_518-m61bk17s29)
+[![Echoes: Folklore and Folklife](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip-518-4746q1tc7p)
+[![Consciousness Across the Void](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip-518-v97zk56q5t)
 
 ## Resources
 
 - [KOPN](http://www.kopn.org)
-- [Collection Description of KOPN donation to the State Historical Society of Missouri](https://collections.shsmo.org/manuscripts/columbia/ca5984)
+- [KOPN Radio Records, 1951-2006 (University of Missouri)](https://collections.shsmo.org/manuscripts/columbia/ca5984)
+- [KOPN: Women’s issues, Women’s Voices](https://www.kopn.org/programs/womens-issues-womens-voices/)
 
 ## Help
 
@@ -34,10 +41,9 @@ Records are described at an item level, and all processed tapes contain brief de
 
 ## Terms
 
-
 ## Timeline
 
 ## Sort
 
-title+asc
+asset_date+asc
 
