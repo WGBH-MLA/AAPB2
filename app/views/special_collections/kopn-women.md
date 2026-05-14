@@ -21,11 +21,11 @@ The KOPN Community Radio collection was first added to the AAPB in 2018. Initial
 ## Featured
 
 [![Angela Davis](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip_518-901zc7sp10)
-[![Film Comment: German Directors](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/cpb-aacip-e9dc78c003d)
+[![Film Comment: German Directors](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip-e9dc78c003d)
 [![Working Class Women](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip_518-8p5v69968t)
 [![Lesbian Separatism](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip_518-z31ng4hz4q)
-[![Echoes: Folklore and Folklife](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/cpb-aacip-518-4746q1tc7p)
-[![Consciousness Across the Void](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/cpb-aacip-518-v97zk56q5t)
+[![Echoes: Folklore and Folklife](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip-518-4746q1tc7p)
+[![Consciousness Across the Void](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip-518-v97zk56q5t)
 
 ## Resources
 
