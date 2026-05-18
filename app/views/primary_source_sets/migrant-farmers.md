@@ -5,7 +5,7 @@
 ![Attendants at a union protest meeting.](https://s3.us-east-1.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail-Migrant-Farmers.jpg "Attendants at a union protest meeting.")
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main-Migrant-Farmers.jpeg
+https://s3.us-east-1.amazonaws.com/americanarchive.org/primary_source_sets/Main-Migrant-Farmers.jpg
 
 ## Author
 
