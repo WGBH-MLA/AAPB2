@@ -58,7 +58,7 @@ What are the injustices that migrant farmworkers have and continue to face in th
 
 #### Classroom Activities
 
-##### Activity 1. The Bracero Program: History and Contributions
+#### Activity 1. The Bracero Program: History and Contributions
 
 Divide students into four groups and ask them to watch the source below. You can either assign the video for homework or watch it in the classroom. It is 27 minutes and 28 seconds long, but students might need to watch it multiple times. 
 
@@ -94,7 +94,7 @@ Group 4:
 - d) Why does the video say that the braceros fed the U.S. during World War II?
 - e) What does the video say about the campaign for recognition? 
 
-##### Activity 2. “Water for Plants, Not for People:” Injustices Migrant Farmworkers Face 
+#### Activity 2. “Water for Plants, Not for People:” Injustices Migrant Farmworkers Face 
 
 In the previous activity, we learned about the Bracero Program. At the end of the previous video, we saw that some farmworkers were starting to bring their families to the United States. In this activity, we will watch a recording that focuses on the struggles farmworkers’ families encountered, living in colonias (neighborhoods) in Texas.  
 
@@ -104,7 +104,7 @@ Ask students to watch the below video at home.
 
 Have students choose one of the following three topics. They must write detailed bullet points for the topic they choose. In class, tape three poster board sheets around the classroom. Students will be divided based on the topic they chose. They must complete the following three steps in their group. Step 1: Discuss the answers every member wrote for the topic. Step 2: Choose the best answers and write them on the poster. Step 3: Share your answers with the rest of the class. 
 
-###### Topic One: Do Not Have Clean Water
+##### Topic One: Do Not Have Clean Water
 - Who didn’t have clean water?
 - Where do they live?
 - Where do they get clean water from?
@@ -113,19 +113,19 @@ Have students choose one of the following three topics. They must write detailed
 - Why do these communities not have clean water?
 - Who did have clean water, and why?
 
-###### Topic Two: Write the Outcomes of Not Having Clean Water for Each Condition
+##### Topic Two: Write the Outcomes of Not Having Clean Water for Each Condition
 - Health conditions
 - Living conditions
 - What are other outcomes that result from not having clean water?
 - What daily routines would you need to change if you or your family did not have clean water?
 
-###### Topic Three: Fight to Get Clean Water
+##### Topic Three: Fight to Get Clean Water
 - What is the valle de lágrimas (Valley of Tears), and why was it called that? 
 - Why did the valley become the new Miami? Why is water essential for these communities living in the Rio Grande Valley? 
 - Why did the communities decide to live in the colonias, and what obstacles did they face?
 - What is the worst contaminant of water? Explain.
 
-###### Follow-up Discussion for all students
+##### Follow-up Discussion for all students
 Discuss what the communities in the colonias did to fight for clean water.
 - At the end of the video, Dr. Ramiro Cazo states, “Everybody should have the right to a clean glass of water…every person should have available to him clean drinking water.” What do you think about this quote? Do you agree? Why or why not?
 - What is the irony that the narrator of the video mentions about the situation of clean water? Why is it important to bring to light this human rights violation? (“Water for plants, not for people”)
