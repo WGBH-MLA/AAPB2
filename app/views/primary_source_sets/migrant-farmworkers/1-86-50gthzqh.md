@@ -9,7 +9,7 @@ cpb-aacip-86-50gthzqh
 
 ## Introduction
 
-Los Braceros: Strong Arms to Aid the USA is a documentary-style television program that explores the history and lived experiences of the Bracero Program, a U.S.–Mexico guest worker initiative that operated during and after World War II. Through archival footage, interviews, and personal testimonies from former braceros and others connected to the program, the documentary examines why the program was created, how workers were recruited in Mexico, and the conditions they faced working in U.S. agriculture.
+*Los Braceros: Strong Arms to Aid the USA* is a documentary that explores the history and lived experiences of the Bracero Program, a U.S.–Mexico guest worker initiative that operated during and after World War II. Through archival footage, interviews, and personal testimonies from former braceros and others connected to the program, the documentary examines why the program was created, how workers were recruited in Mexico, and the conditions they faced working in U.S. agriculture.
 
 The program highlights the physical demands of farm labor, regional differences in working conditions across states like California and Texas, and the economic motivations that led many Mexican men to participate. It also addresses the human impact of the program, including family separation, workplace hardships, and the long-term legacy of bracero labor in shaping U.S. agriculture.
 
