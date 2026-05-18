@@ -131,7 +131,7 @@ Discuss what the communities in the colonias did to fight for clean water.
 - What is the irony that the narrator of the video mentions about the situation of clean water? Why is it important to bring to light this human rights violation? (“Water for plants, not for people”)
 
 
-##### Activity 3. The Resistance of the Migrant Farmworkers: “¡Huelga!”  
+#### Activity 3. The Resistance of the Migrant Farmworkers: “¡Huelga!”  
 
 In the previous activities, we discussed the history of migrant farmworkers in the United States and the poor living conditions they faced in the Rio Grande Valley. In this activity, we will explore the birth of the farmworker movement in Delano, California, in 1965 with a huelga (strike) to demand better salaries, working conditions, job security, and justice. 
 
@@ -152,12 +152,12 @@ Students will be provided a poster board sheet and markers of different colors. 
 
 Once students complete the mind map, all groups will participate in a gallery walk. Students will gather in front of each group’s mind map and rotate to others. Each group will share two takeaways from the answers to the six questions above and will also share one thing they want to learn more about. Every group must share something new. The audience (classmates who are not presenting) must ask at least one question about the information shared during the group’s presentation. 
 
-##### Final Collage Reflection
+#### Final Collage Reflection
 
 In this set, we have learned about the history of the farmworkers, the obstacles they have faced throughout the years, and their resiliency in fighting for their human rights with the creation of the NFWA. In this activity, you will reflect on what you have learned about these topics and create a collage that represents at least four takeaways from this set. You can take screenshots from the videos you watched in these activities and include the photos in your collage. Once you have visual representations of the four takeaways, include phrases that summarize each takeaway. For instance, if one takeaway is “The braceros fed the U.S. during WWII,” you can take a screenshot from one of the videos in this set showing farmworkers in the fields. Students will share their final collage reflections with a peer in class. 
 
 
-##### Final Discussion
+#### Final Discussion
 
 At the beginning of this set, you were asked to reflect on the crops harvested in your city and state, the percentage of farmworkers in your communities, and the history of farmworkers in your area. Discuss as a class whether you think farmworkers in your community still face the same injustices we learned about in Activity Two. Share what new injustices and obstacles that you think farmworkers might be facing now. (If you are unfamiliar with more recent injustices farmworkers face, you can listen to the Línea Abierta podcast episode: 
 
