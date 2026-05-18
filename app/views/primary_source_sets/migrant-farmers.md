@@ -2,10 +2,10 @@
 
 ## Thumbnail
 
-![Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/south-bronx-thumbnail-2.jpeg "Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.")
+![Attendants at a union protest meeting.](https://s3.amazonaws.com/americanarchive.org/primary_source_setsThumbnail-Migrant-Farmers.jpeg "Attendants at a union protest meeting.")
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/south-bronx-16x9.jpeg
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main-Migrant-Farmers.jpeg
 
 ## Author
 
