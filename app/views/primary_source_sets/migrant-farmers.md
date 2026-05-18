@@ -67,32 +67,32 @@ History of the Bracero Program: Viewfinder; Los Braceros: Strong Arms to Aid the
 Each group should answer the set of questions assigned to them. After discussing their responses within their original groups, students will reorganize into new groups containing one representative from Groups 1, 2, 3, and 4. In these new groups, each student will share the answers and insights from their original group’s questions.
 
 Group 1:
-a) Why were the farmworkers called “braceros?” What was the purpose of creating the Bracero Program?
-b) Who participated in the Bracero Program? Why were the men selected (what were the required physical characteristics) to participate in the program? 
-c) What types of jobs did they do?
-d) How were Mexicans informed about the program and what was the process to apply?
-e) Why did Mexicans decide to apply to the program?
+- a) Why were the farmworkers called “braceros?” What was the purpose of creating the Bracero Program?
+- b) Who participated in the Bracero Program? Why were the men selected (what were the required physical characteristics) to participate in the program? 
+- c) What types of jobs did they do?
+- d) How were Mexicans informed about the program and what was the process to apply?
+- e) Why did Mexicans decide to apply to the program?
 
 Group 2:
-a) Who is Cris Luna? Why did he join the Bracero Program? 
-b) How did most of the contracted braceros enter the United States?
-c) Who is José Ramírez Delgado? What type of work did he do?
-d) What happened in the Rio Vista Center?
-e) Who is Minerva Cheatum? What was her job and how does she describe her job?
+- a) Who is Cris Luna? Why did he join the Bracero Program? 
+- b) How did most of the contracted braceros enter the United States?
+- c) Who is José Ramírez Delgado? What type of work did he do?
+- d) What happened in the Rio Vista Center?
+- e) Who is Minerva Cheatum? What was her job and how does she describe her job?
 
 Group 3:
-a) Who is Lucio Apodaca? 
-b) Why was eastern Texas the worst location to work as a bracero?
-c) Who is Isidro Peña?
-d) Why did most of the braceros spend more time in California? 
-e) What does Octavio Camarena say about the physical demands on farmworkers?
+- a) Who is Lucio Apodaca? 
+- b) Why was eastern Texas the worst location to work as a bracero?
+- c) Who is Isidro Peña?
+- d) Why did most of the braceros spend more time in California? 
+- e) What does Octavio Camarena say about the physical demands on farmworkers?
 
 Group 4:
-a) What differences did the braceros in Yakima encounter compared to the braceros in the Southwest?
-b) What sacrifices did the families of the braceros face?
-c) Who is Gloria Macía Rodríguez? What advice did her father give her?
-d) Why does the video say that the braceros fed the U.S. during World War II?
-e) What does the video say about the campaign for recognition? 
+- a) What differences did the braceros in Yakima encounter compared to the braceros in the Southwest?
+- b) What sacrifices did the families of the braceros face?
+- c) Who is Gloria Macía Rodríguez? What advice did her father give her?
+- d) Why does the video say that the braceros fed the U.S. during World War II?
+- e) What does the video say about the campaign for recognition? 
 
 ##### Activity 2. “Water for Plants, Not for People:” Injustices Migrant Farmworkers Face 
 
@@ -105,30 +105,30 @@ Ask students to watch the below video at home.
 Have students choose one of the following three topics. They must write detailed bullet points for the topic they choose. In class, tape three poster board sheets around the classroom. Students will be divided based on the topic they chose. They must complete the following three steps in their group. Step 1: Discuss the answers every member wrote for the topic. Step 2: Choose the best answers and write them on the poster. Step 3: Share your answers with the rest of the class. 
 
 ###### Topic One: Do Not Have Clean Water
-Who didn’t have clean water?
-Where do they live?
-Where do they get clean water from?
-What happened in these communities?
-When did this situation happen?
-Why do these communities not have clean water?
-Who did have clean water, and why?
+- Who didn’t have clean water?
+- Where do they live?
+- Where do they get clean water from?
+- What happened in these communities?
+- When did this situation happen?
+- Why do these communities not have clean water?
+- Who did have clean water, and why?
 
 ###### Topic Two: Write the Outcomes of Not Having Clean Water for Each Condition
-Health conditions
-Living conditions
-What are other outcomes that result from not having clean water?
-What daily routines would you need to change if you or your family did not have clean water?
+- Health conditions
+- Living conditions
+- What are other outcomes that result from not having clean water?
+- What daily routines would you need to change if you or your family did not have clean water?
 
 ###### Topic Three: Fight to Get Clean Water
-What is the valle de lágrimas (Valley of Tears), and why was it called that? 
-Why did the valley become the new Miami? Why is water essential for these communities living in the Rio Grande Valley? 
-Why did the communities decide to live in the colonias, and what obstacles did they face?
-What is the worst contaminant of water? Explain.
+- What is the valle de lágrimas (Valley of Tears), and why was it called that? 
+- Why did the valley become the new Miami? Why is water essential for these communities living in the Rio Grande Valley? 
+- Why did the communities decide to live in the colonias, and what obstacles did they face?
+- What is the worst contaminant of water? Explain.
 
 ###### Follow-up Discussion for all students
 Discuss what the communities in the colonias did to fight for clean water.
-At the end of the video, Dr. Ramiro Cazo states, “Everybody should have the right to a clean glass of water…every person should have available to him clean drinking water.” What do you think about this quote? Do you agree? Why or why not?
-What is the irony that the narrator of the video mentions about the situation of clean water? Why is it important to bring to light this human rights violation? (“Water for plants, not for people”)
+- At the end of the video, Dr. Ramiro Cazo states, “Everybody should have the right to a clean glass of water…every person should have available to him clean drinking water.” What do you think about this quote? Do you agree? Why or why not?
+- What is the irony that the narrator of the video mentions about the situation of clean water? Why is it important to bring to light this human rights violation? (“Water for plants, not for people”)
 
 
 ##### Activity 3. The Resistance of the Migrant Farmworkers: “¡Huelga!”  
