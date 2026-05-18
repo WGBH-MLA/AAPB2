@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Attendants at a union protest meeting.](https://s3.amazonaws.com/americanarchive.org/primary_source_setsThumbnail-Migrant-Farmers.jpeg "Attendants at a union protest meeting.")
+![Attendants at a union protest meeting.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail-Migrant-Farmers.jpeg "Attendants at a union protest meeting.")
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main-Migrant-Farmers.jpeg
