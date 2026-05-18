@@ -62,7 +62,7 @@ What are the injustices that migrant farmworkers have and continue to face in th
 
 Divide students into four groups and ask them to watch the source below. You can either assign the video for homework or watch it in the classroom. It is 27 minutes and 28 seconds long, but students might need to watch it multiple times. 
 
-History of the Bracero Program: Viewfinder; Los Braceros: Strong Arms to Aid the USA; Los Braceros: https://americanarchive.org/catalog/cpb-aacip-86-50gthzqh).
+- [Los Braceros: Strong Arms to Aid the USA (2006)](/primary_source_sests/migrant-farmers/1-86-50gthzqh)
 
 Each group should answer the set of questions assigned to them. After discussing their responses within their original groups, students will reorganize into new groups containing one representative from Groups 1, 2, 3, and 4. In these new groups, each student will share the answers and insights from their original group’s questions.
 
