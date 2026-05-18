@@ -1,21 +1,23 @@
-# Middle Class Exodus to the Suburbs (1966)
+# Viewfilder: Los Braceros: Strong Arms to Aid the USA (2006)
 
 ## Thumbnail
 
 ![Screenshot media asset](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/urban-crisis-1.png "Screenshot media asset")
 
 ## Guid
-cpb-aacip-516-hx15m6375q
+cpb-aacip-86-50gthzqh
 
 ## Introduction
 
-In the decades after World War II, the population of suburban areas more than doubled while the population of central cities shrank. Many of the new suburbanites were members of a growing white middle class who had grown up in cities but chose to buy their own home and raise their family in the suburbs. These affluent suburbanites may still have worked in cities, but their homes and much of their spending were in the suburbs (along with the associated property and sales tax revenue). Notably, formal and informal mechanisms–such as restrictive covenants that banned sale to people of color; zoning laws that effectively excluded poor people; and informal, discriminatory real estate broker practices–kept the suburbs nearly all white. Those who remained in the cities were disproportionately likely to be poorer people of color, often living in slums, and thus were the most in need of the social services that city governments were increasingly ill-equipped to provide.
+Los Braceros: Strong Arms to Aid the USA is a documentary-style television program that explores the history and lived experiences of the Bracero Program, a U.S.–Mexico guest worker initiative that operated during and after World War II. Through archival footage, interviews, and personal testimonies from former braceros and others connected to the program, the documentary examines why the program was created, how workers were recruited in Mexico, and the conditions they faced working in U.S. agriculture.
 
-The clip, from a 1966 episode of *Local Issues* called “To Save a City” produced by WMVS in Milwaukee, illuminates the crucial role of the automobile and the growth of the highway system in facilitating this suburbanization; the prototypical suburban father drove into work on government-constructed freeways connecting the city and suburbs. The video clip illuminates a trend about Milwaukee that was emblematic of the country as a whole: Even while the U.S. economy thrived in the 1950s and 1960s, slum conditions prevailed in significant portions of American cities.
+The program highlights the physical demands of farm labor, regional differences in working conditions across states like California and Texas, and the economic motivations that led many Mexican men to participate. It also addresses the human impact of the program, including family separation, workplace hardships, and the long-term legacy of bracero labor in shaping U.S. agriculture.
 
-<b>Local Issue; 19; To Save a City</b>
-<b>| WMVS (Television station : Milwaukee, Wis.) | August 7, 1966 </b>
-<i>This video clip and associated transcript appear from 9:30 - 12:00 in the full record.</i>
+Overall, the documentary presents both the historical significance of the Bracero Program and the personal stories of those who lived through it, offering a critical look at labor migration, wartime labor demands, and cross-border relations between the United States and Mexico.
+
+<b>Viewfilder: Los Braceros: Strong Arms to Aid the USA (2006)</b>
+<b>| KVIE (Television station : Sacremento, CA.) | July 26, 2006 </b>
+<i>This video clip and associated transcript appear from 0:01 - 27:28 in the full record.</i>
 
 ## Teachingtips
 
@@ -23,7 +25,7 @@ The clip, from a 1966 episode of *Local Issues* called “To Save a City” prod
 
 ## Cliptime
 
-0570,0720
+0001,1648
 
 ## Author
 ## Subjects
