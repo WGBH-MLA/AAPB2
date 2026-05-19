@@ -60,9 +60,9 @@ What are the injustices that migrant farmworkers have and continue to face in th
 
 #### Activity 1. The Bracero Program: History and Contributions
 
-Divide students into four groups and ask them to watch the source below. You can either assign the video for homework or watch it in the classroom. It is 27 minutes and 28 seconds long, but students might need to watch it multiple times. 
+Divide students into four groups and ask them to watch the source below. You can either assign the video for homework or watch it in the classroom. It is 28 minutes long, but students might need to watch it multiple times. 
 
-- [Los Braceros: Strong Arms to Aid the USA (2006)](/primary_source_sests/migrant-farmers/1-86-50gthzqh)
+- [Los Braceros: Strong Arms to Aid the USA (2006)](/primary_source_sets/migrant-farmers/1-86-50gthzqh)
 
 Each group should answer the set of questions assigned to them. After discussing their responses within their original groups, students will reorganize into new groups containing one representative from Groups 1, 2, 3, and 4. In these new groups, each student will share the answers and insights from their original group’s questions.
 
@@ -100,7 +100,7 @@ In the previous activity, we learned about the Bracero Program. At the end of th
 
 Ask students to watch the below video at home. 
 
-“A Thirst in the Garden” (https://americanarchive.org/catalog/cpb-aacip-526-p843r0r27w)
+- [A Thirst in the Garden (1976)](/primary_source_sets/migrant-farmers/2-526-p843r0r27w)
 
 Have students choose one of the following three topics. They must write detailed bullet points for the topic they choose. In class, tape three poster board sheets around the classroom. Students will be divided based on the topic they chose. They must complete the following three steps in their group. Step 1: Discuss the answers every member wrote for the topic. Step 2: Choose the best answers and write them on the poster. Step 3: Share your answers with the rest of the class. 
 
@@ -137,7 +137,7 @@ In the previous activities, we discussed the history of migrant farmworkers in t
 
 Students will watch the below documentary. 
 
-“¡Huelga!” (https://americanarchive.org/catalog/cpb-aacip_504-696zw19w66)
+- [Huelga! (1968)](/primary_source_sets/migrant-farmers/3-504-696zw19w66)
 
 Students will be divided into small groups and will create a mind map (a visual and collaborative note-taking technique: https://help.open.ac.uk/notetaking-techniques/mind-maps) about the main topics of the documentary. 
 
@@ -161,7 +161,7 @@ In this set, we have learned about the history of the farmworkers, the obstacles
 
 At the beginning of this set, you were asked to reflect on the crops harvested in your city and state, the percentage of farmworkers in your communities, and the history of farmworkers in your area. Discuss as a class whether you think farmworkers in your community still face the same injustices we learned about in Activity Two. Share what new injustices and obstacles that you think farmworkers might be facing now. (If you are unfamiliar with more recent injustices farmworkers face, you can listen to the Línea Abierta podcast episode: 
 
-“Farmworker Rights: A Forum:”https://americanarchive.org/catalog/cpb-aacip-395d1242d6b.) 
+-[Línea Abierta: Farmworker Rights: A Forum (2018)[/primary_source_sets/migrant-farmers/4-395d1242d6b.) 
 
 Lastly, brainstorm actions you can take to inform others about the contributions farmworkers have made to the U.S. and the injustices they have faced throughout the years. 
 
@@ -173,34 +173,15 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Urban_Cris
 
 
 ## Additionalresources
+- [Bracero History Archive](https://braceroarchive.org/)
+- Galán, H., Galán Incorporated, & Kanopy . (2017, October 3). *Chicano Episode 2 : The Struggle in the Fields.* [Video recording]. Galán Incorporated.  
+- MUSE TV Network. "Dolores Huerta and Peter Bratt of *Dolores* Documentary." (2017)
+- ABC News.“Dolores Huerta Reflects on History of Activism, Next Generation’s Fight: Part 1” (2021).
+- [Library of Congress: A Latinx Resource Guide: Civil Rights Cases and Events in the United States: Bracero Program 1942](https://guides.loc.gov/latinx-civil-rights/bracero-program#s-lib-ctab-24941684-2)
+- [Hispanics in the Southwest, found in History, Art, and Archives from the House of Representatives](https://history.house.gov/Exhibitions-and-Publications/HAIC/Historical-Essays/Separate-Interests/Depression-War-Civil-Rights/) 
+- [Densho: Over More than a Hundred Years of Farm Labor History, Japanese and Mexican Americans Have Been Both Allies and Adversaries](https://densho.org/catalyst/japanese-mexican-americans-agricultural-allies-adversaries/)
+- [Learning for Justice: Civil Rights Memorial Center](https://www.splcenter.org/resources/reports/close-slavery-guestworker-programs-united-states/#history)
 
-- Chicano! Episode 2: The Struggle in the Fields
-Facing History & Ourselves  
-
-- Dolores Huerta and Peter Bratt of Dolores Documentary
-MUSE TV Network
-
-- Dolores Huerta reflects on history of activism, next generation’s fight
-ABC News
-
-https://guides.loc.gov/latinx-civil-rights/bracero-program#s-lib-ctab-24941684-2
-Library of Congress
-
-https://history.house.gov/Exhibitions-and-Publications/HAIC/Historical-Essays/Separate-Interests/Depression-War-Civil-Rights/ 
-History, Art & Archives: United States House of Representatives
-
-https://densho.org/catalyst/japanese-mexican-americans-agricultural-allies-adversaries/
-Collection & Research
-
-https://www.splcenter.org/resources/reports/close-slavery-guestworker-programs-united-states/#history
-Learning for Justice: Civil Rights Memorial Center
-
-https://braceroarchive.org/
-Bracero History Archive
-
-
-- [**A City in Spiral: New York City in the 1960s and 1970s**](https://illinois.pbslearningmedia.org/resource/city-in-spiral-nyc-1960s-1970s-video/new-york-documentary-film/), PBS LearningMedia
-- [**Blackout: NYC in Chaos**](https://www.pbs.org/wgbh/americanexperience/features/blackout-gallery/), *American Experience*
 
 
 ## Youmayalsolike 
@@ -210,8 +191,8 @@ Bracero History Archive
 
 ## References
 
-Cover image: Vergara, Camilo J., photographer. South Bronx, 1973. Photograph (cropped). https://lccn.loc.gov/2020702547.
-Koreishi, S. & Donohoe, M. (2010). Historical and Contemporary Factors Contributing to the Plight of Migrants Farmworkers in the United States. Social Medicine, 5(1), 64-73. https://doi.org/10.71164/socialmedicine.v5i1.2010.343
+- Cover image: [Irwin Nash Photographs of Yakima Valley Migrant Labor](http://ntserver1.wsulibs.wsu.edu/masc/finders/pc89.htm) at Washington State University Libraries' Manuscripts, Archives, and Special Collections (MASC) http://libraries.wsu.edu/masc
+- [Koreishi, S. & Donohoe, M. (2010). Historical and Contemporary Factors Contributing to the Plight of Migrants Farmworkers in the United States. Social Medicine, 5(1), 64-73.](https://doi.org/10.71164/socialmedicine.v5i1.2010.343)
 
 
 ## Guid
