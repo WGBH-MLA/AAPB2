@@ -169,7 +169,7 @@ Lastly, brainstorm actions you can take to inform others about the contributions
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Urban_Crisis_Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Migrant_Farmers_Teaching-Tips.pdf
 
 
 ## Additionalresources
