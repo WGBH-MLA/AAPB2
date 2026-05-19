@@ -1,4 +1,4 @@
-# Migrant Farmworkers in the U.S.: history, living conditions, and resistance 
+# Migrant Farmworkers in the United States 
 
 ## Thumbnail
 
