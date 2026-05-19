@@ -139,7 +139,7 @@ Students will watch the below documentary.
 
 - [Huelga! (1968)](/primary_source_sets/migrant-farmers/3-504-696zw19w66)
 
-Students will be divided into small groups and will create a mind map (a visual and collaborative note-taking technique: https://help.open.ac.uk/notetaking-techniques/mind-maps) about the main topics of the documentary. 
+Students will be divided into small groups and will create a mind map ([a visual and collaborative note-taking technique](https://help.open.ac.uk/notetaking-techniques/mind-maps)) about the main topics of the documentary. 
 
 Students will be provided a poster board sheet and markers of different colors. Each group will draw a circle in the middle of the sheet and write the central topics of the video: the strike of the farmworkers and the creation of the National Farm Workers Association (NFWA, later known as the United Farm Workers of America). Then, students will branch out and write subtopics and details related to each topic (see examples on the link provided above about creating a mind map). Students should consider the following questions when creating the mind map:
 
@@ -161,7 +161,7 @@ In this set, we have learned about the history of the farmworkers, the obstacles
 
 At the beginning of this set, you were asked to reflect on the crops harvested in your city and state, the percentage of farmworkers in your communities, and the history of farmworkers in your area. Discuss as a class whether you think farmworkers in your community still face the same injustices we learned about in Activity Two. Share what new injustices and obstacles that you think farmworkers might be facing now. (If you are unfamiliar with more recent injustices farmworkers face, you can listen to the Línea Abierta podcast episode: 
 
--[Línea Abierta: Farmworker Rights: A Forum (2018)[/primary_source_sets/migrant-farmers/4-395d1242d6b.) 
+-[Línea Abierta: Farmworker Rights: A Forum (2018)[/primary_source_sets/migrant-farmers/4-395d1242d6b) 
 
 Lastly, brainstorm actions you can take to inform others about the contributions farmworkers have made to the U.S. and the injustices they have faced throughout the years. 
 
