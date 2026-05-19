@@ -177,10 +177,10 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Urban_Cris
 - Galán, H., Galán Incorporated, & Kanopy . (2017, October 3). *Chicano Episode 2 : The Struggle in the Fields.* [Video recording]. Galán Incorporated.  
 - MUSE TV Network. "Dolores Huerta and Peter Bratt of *Dolores* Documentary." (2017)
 - ABC News.“Dolores Huerta Reflects on History of Activism, Next Generation’s Fight: Part 1” (2021).
-- [Library of Congress: A Latinx Resource Guide: Civil Rights Cases and Events in the United States: Bracero Program 1942](https://guides.loc.gov/latinx-civil-rights/bracero-program#s-lib-ctab-24941684-2)
-- [Hispanics in the Southwest, found in History, Art, and Archives from the House of Representatives](https://history.house.gov/Exhibitions-and-Publications/HAIC/Historical-Essays/Separate-Interests/Depression-War-Civil-Rights/) 
-- [Densho: Over More than a Hundred Years of Farm Labor History, Japanese and Mexican Americans Have Been Both Allies and Adversaries](https://densho.org/catalyst/japanese-mexican-americans-agricultural-allies-adversaries/)
-- [Learning for Justice: Civil Rights Memorial Center](https://www.splcenter.org/resources/reports/close-slavery-guestworker-programs-united-states/#history)
+- ["Bracero Program 1942", A Latinx Resource Guide, Civil Rights Cases and Events in the United States, Library of Congress](https://guides.loc.gov/latinx-civil-rights/bracero-program#s-lib-ctab-24941684-2)
+- ["Hispanics in the Southwest" in History, Art, and Archives, House of Representatives](https://history.house.gov/Exhibitions-and-Publications/HAIC/Historical-Essays/Separate-Interests/Depression-War-Civil-Rights/) 
+- [Over More than a Hundred Years of Farm Labor History, Japanese and Mexican Americans Have Been Both Allies and Adversaries, Densho](https://densho.org/catalyst/japanese-mexican-americans-agricultural-allies-adversaries/)
+- [Learning for Justice, Civil Rights Memorial Center](https://www.splcenter.org/resources/reports/close-slavery-guestworker-programs-united-states/#history)
 
 
 
