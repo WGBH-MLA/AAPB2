@@ -62,7 +62,7 @@ What are the injustices that migrant farmworkers have and continue to face in th
 
 Divide students into four groups and ask them to watch the source below. You can either assign the video for homework or watch it in the classroom. It is 28 minutes long, but students might need to watch it multiple times. 
 
-- [Los Braceros: Strong Arms to Aid the USA (2006)](/primary_source_sets/migrant-farmers/1-86-50gthzqh)
+- [Los Braceros: Strong Arms to Aid the USA (2006)](/primary_source_sets/migrant-farmworkers/1-86-50gthzqh)
 
 Each group should answer the set of questions assigned to them. After discussing their responses within their original groups, students will reorganize into new groups containing one representative from Groups 1, 2, 3, and 4. In these new groups, each student will share the answers and insights from their original group’s questions.
 
@@ -100,7 +100,7 @@ In the previous activity, we learned about the Bracero Program. At the end of th
 
 Ask students to watch the below video at home. 
 
-- [A Thirst in the Garden (1976)](/primary_source_sets/migrant-farmers/2-526-p843r0r27w)
+- [A Thirst in the Garden (1976)](/primary_source_sets/migrant-farmworkers/2-526-p843r0r27w)
 
 Have students choose one of the following three topics. They must write detailed bullet points for the topic they choose. In class, tape three poster board sheets around the classroom. Students will be divided based on the topic they chose. They must complete the following three steps in their group. Step 1: Discuss the answers every member wrote for the topic. Step 2: Choose the best answers and write them on the poster. Step 3: Share your answers with the rest of the class. 
 
@@ -137,7 +137,7 @@ In the previous activities, we discussed the history of migrant farmworkers in t
 
 Students will watch the below documentary. 
 
-- [Huelga! (1968)](/primary_source_sets/migrant-farmers/3-504-696zw19w66)
+- [Huelga! (1968)](/primary_source_sets/migrant-farmworkers/3-504-696zw19w66)
 
 Students will be divided into small groups and will create a mind map ([a visual and collaborative note-taking technique](https://help.open.ac.uk/notetaking-techniques/mind-maps)) about the main topics of the documentary. 
 
@@ -161,7 +161,7 @@ In this set, we have learned about the history of the farmworkers, the obstacles
 
 At the beginning of this set, you were asked to reflect on the crops harvested in your city and state, the percentage of farmworkers in your communities, and the history of farmworkers in your area. Discuss as a class whether you think farmworkers in your community still face the same injustices we learned about in Activity Two. Share what new injustices and obstacles that you think farmworkers might be facing now. (If you are unfamiliar with more recent injustices farmworkers face, you can listen to the Línea Abierta podcast episode: 
 
--[Línea Abierta: Farmworker Rights: A Forum (2018)[/primary_source_sets/migrant-farmers/4-395d1242d6b) 
+-[Línea Abierta: Farmworker Rights: A Forum (2018)[/primary_source_sets/migrant-farmworkers/4-395d1242d6b) 
 
 Lastly, brainstorm actions you can take to inform others about the contributions farmworkers have made to the U.S. and the injustices they have faced throughout the years. 
 
