@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Screenshot media asset](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/urban-crisis-1.png "Screenshot media asset")
+![Screenshot media asset](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/bracero-program.png "Screenshot media asset")
 
 ## Guid
 cpb-aacip-86-50gthzqh
