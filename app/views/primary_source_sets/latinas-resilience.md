@@ -131,6 +131,18 @@ Anahi Rojas
 Sonia Ordoñez 
 Concha Saucedo-Martínez
 
+Part III.  Divide students into groups of three and ask them to listen from minute 1:00 to 57:50 of the episode Latina Equal Day Pay, where the host Chelis López interviews activists Claudia Tristan (immigrant campaign director of Moms Rising) and Mónica Ramírez (founder and president of Justice For Migrant Women), available at https://americanarchive.org/catalog/cpb-aacip-b6feb67dbdf. In this program, students will learn about the movement Latina Equal Pay Day. Each group must fill out the following details about Latina Equal Pay Day.
+
+Details of Latina Equal Pay Day
+
+1. What injustices have Latinas faced regarding their pay, and how has it affected them, their families, and communities?
+2. Why is Latina Equal Pay Day important?
+3. What have Latinas and organizations done to fight for equal pay for Latinas?
+4. What can Latinas do to find out if they are being paid less than their colleagues?
+5. What groups of Latinas are the most affected by not receiving equal pay? Explain your answer: why are they the most affected?
+
+After completing the table, discuss the answers as a class and write the main ideas for each question on the board. Then, as a class, discuss what you and  your local community can do to fight for and demand equal pay for Latinas. Are policies enough? Is this an issue that affects only women and should only be fought by women? Explain your answers.  
+
 <hr>
 
 ## Pdflink
