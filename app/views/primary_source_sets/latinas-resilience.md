@@ -2,10 +2,10 @@
 
 ## Thumbnail
 
-![Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/south-bronx-thumbnail-2.jpeg "Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.")
+![Frente Indígena de Organizaciones Binacionales courtesy of David Bacon and FIOB](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/latinas-thumbnail.jpg)
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/south-bronx-16x9.jpeg
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/latinas-main.jpg
 
 ## Author
 
