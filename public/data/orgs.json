@@ -2555,6 +2555,36 @@
     "Name": "Private Donor",
     "About": "",  
     "location": [42.3571, -71.1481]
+   },
+    "NCSG55207": {
+    "Short name": "WPSU",
+    "State": "Pennsylvania",
+    "City": "State College",
+    "Logo": "wpsu-logo.png",
+    "Url": "https://wpsu.org",
+    "Name": "WPSU",
+    "About": "",  
+    "location": [40.7983, -77.8597]
+   },
+    "NCSG55208": {
+    "Short name": "KEDT-TV & KEDT-FM",
+    "State": "Texas",
+    "City": "Corpus Christi",
+    "Logo": "kedt-logo.png",
+    "Url": "https://www.kedt.org/",
+    "Name": "KEDT-TV & KEDT-FM",
+    "About": "KEDT-TV has been dedicated to educating, enlightening and inspiring South Texans since we first went on the air in October 1972. KEDT-FM signed on in March 1984. As a dual-licensed public broadcasting station, KEDT is the vessel that helps deliver free PBS and NPR educational and cultural programming to our region, which covers South Texas from Victoria to the Rio Grande Valley — that's 27 counties and over 2 million Texans!",  
+    "location": [27.7520, -97.3969]
+    },
+    "NCSG55209": {
+    "Short name": "Center for New American Media",
+    "State": "New York",
+    "City": "Brooklyn",
+    "Logo": "cnam-logo.png",
+    "Url": "https://cnam.com/",
+    "Name": "Center for New American Media",
+    "About": "The Center for New American Media (CNAM) was founded in 1979 to produce documentaries for public television that center on American society and culture. Its films have received some of the field's highest honors, including two Peabody Awards and two Columbia-Dupont Awards. CNAM's work is characterized by a skillful mixing of serious topics with humor and rich storytelling, and several of its films continue to resonate with audiences around the world: the acclaimed [PEOPLE LIKE US](https://www.cnam.com/project/people-like-us), the first American documentary explicitly about the American class system; [VOTE FOR ME](https://www.cnam.com/project/vote-for-me), a four-hour examination of politics, politicians and voters; and [AMERICAN TONGUES](https://www.cnam.com/project/american-tongues), a celebratory and provocative look at America via the way Americans speak that was the premiere offering on PBS’ [POV](https://www.pbs.org/pov/) series.. Most recently CNAM created [CONFLUENCE](https://www.cnam.com/project/confluence/), a 3-hour examination of art, science, and creativity. CNAM's principal creative partners are Louis Alvarez and Andrew Kolker. More information at [cnam.com](https://cnam.com/). ",  
+    "location": [40.6798, -73.9757]
    }
 }
   
