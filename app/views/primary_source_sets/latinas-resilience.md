@@ -81,30 +81,31 @@ Divide students into five groups and assign each group a specific section of the
 
 - Group five: Listen from minute 43:50 to 58:40, where Laura Sobrino shares the history of women in mariachi. Who are the people and mariachi ensembles she mentions? In what years did they perform? What final message do Laura and Griselda share with young women interested in playing in a mariachi?
 
+#### Activity 2
 
-In this activity, for homework, students will choose one of the podcasts listed below that discusses female accomplishments, contributions, and social justice struggles over the years. They will then select five images that represent the podcast’s main takeaways. In class, students will present their images and explain why they chose them and how each one represents the content of the podcast. 
+In this activity, for homework, students will choose one of the radio programs listed below that discusses female accomplishments, contributions, and social justice struggles over the years. They will then select five images that represent the podcast’s main takeaways. In class, students will present their images and explain why they chose them and how each one represents the content of the podcast. 
 
-Línea Abierta: Chicana Leaders: (2006) 
-https://americanarchive.org/catalog/cpb-aacip-e6359445cad
+- [Línea Abierta: Chicana Leaders (2006](/primary_source_sets/latinas/2-e6359445cad)
 
-Listen from minute 7:00 to 58:10, where the host interviews Chicana leaders Olga Talamante and Elizabeth “Betita” Martínez.
+Listen to the host interview Chicana leaders Olga Talamante and Elizabeth “Betita” Martínez.
 
-Línea Abierta: From Victim to Leader: (2013)
-https://americanarchive.org/catalog/cpb-aacip-a654dc31a04
+- [Línea Abierta: From Victim to Leader (2013](/primary_source_sets/latinas/3-a654dc31a04)
 
-Listen from minute 6:48 to 57:52, where the host interviews domestic violence activist María Hernández and Andrea Cristina Mercado. María is the domestic violence program coordinator at Mujeres Unidas y Activistas. Cristina is the campaign director of the National Domestic Workers Alliance. [Disclaimer: This podcast includes discussions on sensitive topics, such as domestic violence. Listener discretion is advised.]
+Listen to the host interview domestic violence activist María Hernández and Andrea Cristina Mercado. María is the domestic violence program coordinator at Mujeres Unidas y Activistas. Cristina is the campaign director of the National Domestic Workers Alliance. [Disclaimer: This podcast includes discussions on sensitive topics, such as domestic violence. Listener discretion is advised.]
 
-Línea Abierta: Latinas on the Rise (2015)
-https://americanarchive.org/catalog/cpb-aacip-24586416334
+- [Línea Abierta: Latinas on the Rise (2015](/primary_source_sets/latinas/4-24586416334)
 
-Listen to minutes 8:25 to 12:52; 16:06 to 21:21; 21:57 to 26:00; and 33:50 to 36:19,  where the host interviews a young, newly elected Latina councilmember, Dulce Gutiérrez, who became one of the first Latinas to win in Yakima, Washington. She was elected with 85% of the votes.  
+Listen to the host interview a young, newly elected Latina councilmember, Dulce Gutiérrez, who became one of the first Latinas to win in Yakima, Washington. She was elected with 85% of the votes.  
 
-Línea Abierta: 8013: A Day Without a Woman (2017)
-https://americanarchive.org/catalog/cpb-aacip-c680e5e289b
+- [Línea Abierta: A Day Without a Woman (2017)](/primary_source_sets/latinas/5-c680e5e289b)
 
-Listen from minute 0:30 to 57:30, where the host, Samuel Orozco, interviews activists and leaders who organized a one-day strike for women, A Day Without a Woman, on International Women’s Day. These activists and leaders include Dolores Huerta, Marcela Romero Rivera, and Nestora Salgado. 
+Listen from minute to the host, Samuel Orozco, interview activists and leaders who organized a one-day strike for women, A Day Without a Woman, on International Women’s Day. These activists and leaders include Dolores Huerta, Marcela Romero Rivera, and Nestora Salgado. 
 
-In this activity, students will learn about the Frente Indígena de Organizaciones Binacionales (Indigenous Front of Binational Organizations), an organization that serves Latino-Indigenous migrant and non-migrant communities and individuals in California and various states in Mexico. Frente Indígena de Organizaciones Binacionales will be led by indigenous women. The host, Samuel Orozco, interviews the newly elected leaders Odilia Romero and Oralia Maceda. Students will listen to the podcast titled Indigenous Women Leaders (https://americanarchive.org/catalog/cpb-aacip-3c89f3c57db) recorded in 2018, from minute 1:30 to 39:20, and answer comprehension questions from A to G. Then, students will be divided into groups of four to discuss their answers.
+#### Activity 3
+
+In this activity, students will learn about the Frente Indígena de Organizaciones Binacionales (Indigenous Front of Binational Organizations), an organization that serves Latino-Indigenous migrant and non-migrant communities and individuals in California and various states in Mexico. Frente Indígena de Organizaciones Binacionales will be led by indigenous women. The host, Samuel Orozco, interviews the newly elected leaders Odilia Romero and Oralia Maceda. Students will listen to a clip from the below podcast and then answer comprehension questions from A to G. Then, students will be divided into groups of four to discuss their answers.
+
+- [Línea Abierta: Indigenous Women Leaders (2018)](/primary_source_sets/latinas/3c89f3c57db)
 
 What are the objectives and goals of the organization Frente Indígena de Organizaciones Binacionales? What makes this organization unique? 
 Odilia mentioned that she is in her elected position because her female colleagues have done “el trabajo de hormiga.” What is she referring to here?
@@ -116,9 +117,15 @@ As a group, discuss the advantages of having Indigenous women lead an organizati
 
 As stated in the introduction, between 2010 and 2021, Latinas’ economic contribution grew by 51%. This growth is due, in part, to financial literacy opportunities for Latinas, such as La Cumbre conference and advocacy efforts like Latina Equal Pay Day. These initiatives are crucial in reducing the pay gap for Latinas. According to a U.S. Senate report (2023), “Latinas are paid just 57 cents for every dollar paid to White, non-Hispanic men, and Latinas will not achieve equal pay at the current rate for another 432 years” (p.748). 
 
+#### Activity 4
+
 In this activity, students will complete three parts: 
 
-Part I. Students will be divided into pairs and listen to the episode titled Latina Entrepreneurs (https://americanarchive.org/catalog/cpb-aacip-e15cd8b87cb), recorded in 2019, from minute 1:22 to 16:10. They will then discuss the meaning of the following quotes from the interview in the context of the episode’s content: 
+##### Part I. 
+
+Students will be divided into pairs and listen to a clip from the episode titled Latina Entrepreneurs recorded in 2019. They will then discuss the meaning of the following quotes from the interview in the context of the episode’s content.
+
+- [Línea Abierta: Latina Entrepreneurs (2019]](/primary_source_sets/latinas/7-e15cd8b87cb)
 
 “En este lugar, me van a cuidar aquí y yo voy a cuidar a los otros.”
 “Hay tanto mensaje opresor que el mismo oprimido se la cree... En realidad el poder existe cuando el oprimido da ese poder, pero cuando nos damos cuenta que hay un poder colectivo y hay un poder interior, entonces nadie nos para… Juntas somos imparables.” 
@@ -127,13 +134,24 @@ Part I. Students will be divided into pairs and listen to the episode titled Lat
 “Hay un camino para las mujeres aquí en Prospera; no es así de: ‘vengo, tomo mi curso y me voy,’ sino de ‘tomo un curso y sigo, sigo, sigo y sigo avanzando, me quedo y me apropio de la organización.’”
 “Una vez que tú prosperas, impactas a toda la gente, a tu familia y a tu comunidad.” 
 
-Part II. Students will continue listening to the podcast Latina Entrepreneurs (https://americanarchive.org/catalog/cpb-aacip-e15cd8b87cb), from minute 16:35 to 48:49. In this section, students will hear testimonies from women about how Prospera has changed their lives, as well as an interview with one of the keynote speakers at the conference, La Cumbre. Each student will need to choose one of the women’s testimonies below and write a short summary.
+##### Part II. 
+Students will continue listening to the podcast Latina Entrepreneurs. 
+
+- [Línea Abierta: Latina Entrepreneurs (2019](/primary_source_sets/latinas/8-e15cd8b87cb)
+
+In this section, students will hear testimonies from women about how Prospera has changed their lives, as well as an interview with one of the keynote speakers at the conference, La Cumbre. Each student will need to choose one of the women’s testimonies below and write a short summary.
 
 Anahi Rojas 
 Sonia Ordoñez 
 Concha Saucedo-Martínez
 
-Part III.  Divide students into groups of three and ask them to listen from minute 1:00 to 57:50 of the episode Latina Equal Day Pay, where the host Chelis López interviews activists Claudia Tristan (immigrant campaign director of Moms Rising) and Mónica Ramírez (founder and president of Justice For Migrant Women), available at https://americanarchive.org/catalog/cpb-aacip-b6feb67dbdf. In this program, students will learn about the movement Latina Equal Pay Day. Each group must fill out the following details about Latina Equal Pay Day.
+##### Part III.  
+
+Divide students into groups of three and ask them to listen to the below broadcast, where the host Chelis López interviews activists Claudia Tristan (immigrant campaign director of Moms Rising) and Mónica Ramírez (founder and president of Justice For Migrant Women) about Latina Equal Pay Day. 
+
+- [Línea Abierta: Latina Equal Pay Day (2021)](/primary_source_sets/latinas/9-b6feb67dbdf)
+
+Each group must fill out the following details about Latina Equal Pay Day.
 
 Details of Latina Equal Pay Day
 
@@ -149,20 +167,17 @@ After completing the table, discuss the answers as a class and write the main id
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Urban_Crisis_Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/.pdf
 
 
 ## Additionalresources
 
 - Anta, J. (2023). Sí, Se Puede: The Latino Heroes Who Changed the United States. Penguin Random House. 
-
-Casillas, D. I (2018). US Spanish-Language Radio. Oxford Bibliographies. 
-De La Cruz, S. (2017). Latino Airwaves: Radio Bilingüe and Spanish-Language Public Radio. Journal of Radio & Audio Media, 24(2), 226-237. https://doi.org/10.1080/19376529.2017.1362855
-Radio Bilingüe. (n.d.) Línea Abierta. Radio Bilingüe: National Latino Public Radio Network. Retrieved August 6, 2025 from https://radiobilingue.org/en/news/program/linea-abierta-en
-
-U.S. Senate (2023, March 9). Senate Resolution 104—Recognizing the heritage, culture, and contributions of Latinas in the United States (169 Cong Rec). ProQuest Congressional. 169(45), 748.
-https://congressional.proquest.com/congressional/docview/t17.d18.cr09mr2023_dat
-147?accountid=14784
+- Casillas, D. I (2018). US Spanish-Language Radio. Oxford Bibliographies. 
+- [De La Cruz, S. (2017). Latino Airwaves: Radio Bilingüe and Spanish-Language Public Radio. Journal of Radio & Audio Media, 24(2), 226-237.]( https://doi.org/10.1080/19376529.2017.1362855)
+- [Radio Bilingüe. (n.d.) Línea Abierta. Radio Bilingüe: National Latino Public Radio Network. Retrieved August 6, 2025.](https://radiobilingue.org/en/news/program/linea-abierta-en)
+- [U.S. Senate (2023, March 9). Senate Resolution 104—Recognizing the heritage, culture, and contributions of Latinas in the United States (169 Cong Rec).ProQuest Congressional. 169(45), 748.](https://congressional.proquest.com/congressional/docview/t17.d18.cr09mr2023_dat
+147?accountid=14784)
 
 
 ## Youmayalsolike 
