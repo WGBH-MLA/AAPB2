@@ -194,9 +194,9 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/.pdf
 
 
 - [Correa, C. (2024, October 11). The Two Sides of a Major Economic Force. Pro Mujer. Retrieved August 6, 2025](https://promujer.org/portal/2024/10/11/latina-women-in-the-united-states-the-two-sides-of-a-major-economic-force/)
--[De La Cruz, S. (2017). Latino Airwaves: Radio Bilingüe and Spanish-Language Public Radio. Journal of Radio & Audio Media, 24(2), 226-237.]( https://doi.org/10.1080/19376529.2017.1362855)
--[Hernandez, D. & Pak, E. (2024), March 18). 14 Hispanic Women Who are Pioneers in Their Field. Biography. Retrieved August 6, 2025](https://www.biography.com/legal-figures/a16928910/famous-hispanic-women-historic-firsts)
--[Radio Bilingüe. (n.d.) Línea Abierta. Radio Bilingüe: National Latino Public Radio Network. Retrieved August 6, 2025](https://radiobilingue.org/en/news/program/linea-abierta-en)
+- [De La Cruz, S. (2017). Latino Airwaves: Radio Bilingüe and Spanish-Language Public Radio. Journal of Radio & Audio Media, 24(2), 226-237.]( https://doi.org/10.1080/19376529.2017.1362855)
+- [Hernandez, D. & Pak, E. (2024), March 18). 14 Hispanic Women Who are Pioneers in Their Field. Biography. Retrieved August 6, 2025](https://www.biography.com/legal-figures/a16928910/famous-hispanic-women-historic-firsts)
+- [Radio Bilingüe. (n.d.) Línea Abierta. Radio Bilingüe: National Latino Public Radio Network. Retrieved August 6, 2025](https://radiobilingue.org/en/news/program/linea-abierta-en)
 - U.S. Senate (2023, March 9). Senate Resolution 104—Recognizing the heritage, culture, and contributions of Latinas in the United States (169 Cong Rec). ProQuest Congressional. 169(45), 748.
 
 
