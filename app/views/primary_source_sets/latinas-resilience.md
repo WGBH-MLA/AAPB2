@@ -127,7 +127,7 @@ In this activity, students will complete three parts:
 
 Students will be divided into pairs and listen to a clip from the episode titled Latina Entrepreneurs recorded in 2019. They will then discuss the meaning of the following quotes from the interview in the context of the episode’s content.
 
-- [Línea Abierta: Latina Entrepreneurs (2019]](/primary_source_sets/latinas/7-e15cd8b87cb)
+- [Línea Abierta: Latina Entrepreneurs (2019)](/primary_source_sets/latinas/7-e15cd8b87cb)
 
 “En este lugar, me van a cuidar aquí y yo voy a cuidar a los otros.”
 “Hay tanto mensaje opresor que el mismo oprimido se la cree... En realidad el poder existe cuando el oprimido da ese poder, pero cuando nos damos cuenta que hay un poder colectivo y hay un poder interior, entonces nadie nos para… Juntas somos imparables.” 
@@ -139,7 +139,7 @@ Students will be divided into pairs and listen to a clip from the episode titled
 ##### Part II. 
 Students will continue listening to the podcast Latina Entrepreneurs. 
 
-- [Línea Abierta: Latina Entrepreneurs (2019](/primary_source_sets/latinas/8-e15cd8b87cb)
+- [Línea Abierta: Latina Entrepreneurs (2019)](/primary_source_sets/latinas/8-e15cd8b87cb)
 
 In this section, students will hear testimonies from women about how Prospera has changed their lives, as well as an interview with one of the keynote speakers at the conference, La Cumbre. Each student will need to choose one of the women’s testimonies below and write a short summary.
 
