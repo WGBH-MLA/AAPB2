@@ -67,7 +67,7 @@ What groundbreaking contributions have Latinas made in fields such as music, soc
 
 In the below radio program recorded in 2001, the host interviews Laura Sobrino and Griselda Pérez, who are part of an all-female mariachi ensemble. The group is also led and directed by women, with members from various cities across California. The interview focuses on highlighting the different challenges they have encountered. 
 
-- Línea Abierta: Mariachi Mujer 2000 (/primary_source_sets/latinas/1-0275186106a)
+- [Línea Abierta: Mariachi Mujer 2000](/primary_source_sets/latinas/1-0275186106a)
 
 Divide students into five groups and assign each group a specific section of the podcast to analyze and summarize the main takeaways. They must write their main takeaways.  Once all groups have completed their section, ask them to present their findings to their classmates. 
 
