@@ -178,14 +178,15 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/.pdf
 - Casillas, D. I (2018). US Spanish-Language Radio. Oxford Bibliographies. 
 - [De La Cruz, S. (2017). Latino Airwaves: Radio Bilingüe and Spanish-Language Public Radio. Journal of Radio & Audio Media, 24(2), 226-237.]( https://doi.org/10.1080/19376529.2017.1362855)
 - [Radio Bilingüe. (n.d.) Línea Abierta. Radio Bilingüe: National Latino Public Radio Network. Retrieved August 6, 2025.](https://radiobilingue.org/en/news/program/linea-abierta-en)
-- [U.S. Senate (2023, March 9). Senate Resolution 104—Recognizing the heritage, culture, and contributions of Latinas in the United States (169 Cong Rec).ProQuest Congressional. 169(45), 748.](https://congressional.proquest.com/congressional/docview/t17.d18.cr09mr2023_dat
-147?accountid=14784)
+- U.S. Senate (2023, March 9). Senate Resolution 104—Recognizing the heritage, culture, and contributions of Latinas in the United States (169 Cong Rec).ProQuest Congressional. 169(45), 748.
 
 
 ## Youmayalsolike 
-- special collection,njn-specialcollection
-- special collection,newshour
-
+- exhibit,latino-empowerment
+- special collection,hispanic-heritage-collection
+- special collection,radio-kdna
+- primary resource set,yakima-valley
+- primary resource set,migrant-farmers
 
 ## References
 
