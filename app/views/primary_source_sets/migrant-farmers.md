@@ -189,6 +189,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Migrant_Fa
 - special collection,hispanic-heritage-collection
 - special collection,radio-kdna
 - primary resource set,yakima-valley
+- primary resource set,latinas-resilience
 
 
 ## References
