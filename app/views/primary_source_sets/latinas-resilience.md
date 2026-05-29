@@ -107,17 +107,19 @@ In this activity, students will learn about the Frente Indígena de Organizacion
 
 - [Línea Abierta: Indigenous Women Leaders (2018)](/primary_source_sets/latinas/3c89f3c57db)
 
-What are the objectives and goals of the organization Frente Indígena de Organizaciones Binacionales? What makes this organization unique? 
-Odilia mentioned that she is in her elected position because her female colleagues have done “el trabajo de hormiga.” What is she referring to here?
-Who is Marichuy (María de Jesús Patricio Martínez), and what did she do?
-What challenges and social injustices do Indigenous women encounter? 
-What do Odilia Romero and Oralia Maceda plan to do as newly elected officers in the organization, and what roles do they plan to challenge?
-What challenges do they face during local, state, and national elections in the U.S. and in Mexico?
+- A. What are the objectives and goals of the organization Frente Indígena de Organizaciones Binacionales?
+- B. What makes this organization unique? 
+- C. Odilia mentioned that she is in her elected position because her female colleagues have done “el trabajo de hormiga.” What is she referring to here?
+- D. Who is Marichuy (María de Jesús Patricio Martínez), and what did she do?
+- E. What challenges and social injustices do Indigenous women encounter? 
+- F. What do Odilia Romero and Oralia Maceda plan to do as newly elected officers in the organization, and what roles do they plan to challenge?
+- G. What challenges do they face during local, state, and national elections in the U.S. and in Mexico?
+
 As a group, discuss the advantages of having Indigenous women lead an organization like Frente Indígena de Organizaciones Binacionales.
 
-As stated in the introduction, between 2010 and 2021, Latinas’ economic contribution grew by 51%. This growth is due, in part, to financial literacy opportunities for Latinas, such as La Cumbre conference and advocacy efforts like Latina Equal Pay Day. These initiatives are crucial in reducing the pay gap for Latinas. According to a U.S. Senate report (2023), “Latinas are paid just 57 cents for every dollar paid to White, non-Hispanic men, and Latinas will not achieve equal pay at the current rate for another 432 years” (p.748). 
-
 #### Activity 4
+
+As stated in the introduction, between 2010 and 2021, Latinas’ economic contribution grew by 51%. This growth is due, in part, to financial literacy opportunities for Latinas, such as La Cumbre conference and advocacy efforts like Latina Equal Pay Day. These initiatives are crucial in reducing the pay gap for Latinas. According to a U.S. Senate report (2023), “Latinas are paid just 57 cents for every dollar paid to White, non-Hispanic men, and Latinas will not achieve equal pay at the current rate for another 432 years” (p.748). 
 
 In this activity, students will complete three parts: 
 
