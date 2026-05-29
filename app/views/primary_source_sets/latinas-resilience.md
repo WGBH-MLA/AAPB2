@@ -65,9 +65,11 @@ What groundbreaking contributions have Latinas made in fields such as music, soc
 
 #### Activity 1. Mariachi Mujer 2000 
 
-In this podcast, the host interviews Laura Sobrino and Griselda Pérez, who are part of an all-female mariachi ensemble. The group is also led and directed by women, with members from various cities across California. The interview focuses on highlighting the different challenges they have encountered. 
+In the below radio program recorded in 2001, the host interviews Laura Sobrino and Griselda Pérez, who are part of an all-female mariachi ensemble. The group is also led and directed by women, with members from various cities across California. The interview focuses on highlighting the different challenges they have encountered. 
 
-Divide students into five groups and assign each group a specific section of the podcast to analyze and summarize the main takeaways. They must write their main takeaways. The episode, titled Línea Abierta: Mariachi Mujer 2000 (https://americanarchive.org/catalog/cpb-aacip-0275186106a), was recorded in 2001. Once all groups have completed their section, ask them to present their findings to their classmates. 
+- Línea Abierta: Mariachi Mujer 2000 (/primary_source_sets/latinas/1-0275186106a)
+
+Divide students into five groups and assign each group a specific section of the podcast to analyze and summarize the main takeaways. They must write their main takeaways.  Once all groups have completed their section, ask them to present their findings to their classmates. 
 
 - Group one: Listen from minute 8:47 to 15:53, where Laura and Griselda discuss which instruments women were allowed to play and how they formed the mariachi ensemble. What challenges did the group face, and how did they resolve them? What key differences set this mariachi ensemble apart from other mariachi groups? 
 
