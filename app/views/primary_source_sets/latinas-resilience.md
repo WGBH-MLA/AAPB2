@@ -99,7 +99,7 @@ Listen to the host interview a young, newly elected Latina councilmember, Dulce 
 
 - [Línea Abierta: A Day Without a Woman (2017)](/primary_source_sets/latinas/5-c680e5e289b)
 
-Listen from minute to the host, Samuel Orozco, interview activists and leaders who organized a one-day strike for women, A Day Without a Woman, on International Women’s Day. These activists and leaders include Dolores Huerta, Marcela Romero Rivera, and Nestora Salgado. 
+Listen to the host, Samuel Orozco, interview activists and leaders who organized a one-day strike for women, A Day Without a Woman, on International Women’s Day. These activists and leaders include Dolores Huerta, Marcela Romero Rivera, and Nestora Salgado. 
 
 #### Activity 3
 
