@@ -137,7 +137,7 @@ Students will be divided into pairs and listen to a clip from the episode titled
 “Una vez que tú prosperas, impactas a toda la gente, a tu familia y a tu comunidad.” 
 
 ##### Part II. 
-Students will continue listening to the podcast Latina Entrepreneurs. 
+Students will listen to the next part of the podcast Latina Entrepreneurs. 
 
 - [Línea Abierta: Latina Entrepreneurs (2019)](/primary_source_sets/latinas/8-e15cd8b87cb)
 
