@@ -85,15 +85,15 @@ Divide students into five groups and assign each group a specific section of the
 
 In this activity, for homework, students will choose one of the radio programs listed below that discusses female accomplishments, contributions, and social justice struggles over the years. They will then select five images that represent the podcast’s main takeaways. In class, students will present their images and explain why they chose them and how each one represents the content of the podcast. 
 
-- [Línea Abierta: Chicana Leaders (2006](/primary_source_sets/latinas/2-e6359445cad)
+- [Línea Abierta: Chicana Leaders (2006)](/primary_source_sets/latinas/2-e6359445cad)
 
 Listen to the host interview Chicana leaders Olga Talamante and Elizabeth “Betita” Martínez.
 
-- [Línea Abierta: From Victim to Leader (2013](/primary_source_sets/latinas/3-a654dc31a04)
+- [Línea Abierta: From Victim to Leader (2013)](/primary_source_sets/latinas/3-a654dc31a04)
 
 Listen to the host interview domestic violence activist María Hernández and Andrea Cristina Mercado. María is the domestic violence program coordinator at Mujeres Unidas y Activistas. Cristina is the campaign director of the National Domestic Workers Alliance. [Disclaimer: This podcast includes discussions on sensitive topics, such as domestic violence. Listener discretion is advised.]
 
-- [Línea Abierta: Latinas on the Rise (2015](/primary_source_sets/latinas/4-24586416334)
+- [Línea Abierta: Latinas on the Rise (2015)](/primary_source_sets/latinas/4-24586416334)
 
 Listen to the host interview a young, newly elected Latina councilmember, Dulce Gutiérrez, who became one of the first Latinas to win in Yakima, Washington. She was elected with 85% of the votes.  
 
