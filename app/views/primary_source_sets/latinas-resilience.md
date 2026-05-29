@@ -103,9 +103,11 @@ Listen to the host, Samuel Orozco, interview activists and leaders who organized
 
 #### Activity 3
 
-In this activity, students will learn about the Frente Indígena de Organizaciones Binacionales (Indigenous Front of Binational Organizations), an organization that serves Latino-Indigenous migrant and non-migrant communities and individuals in California and various states in Mexico. Frente Indígena de Organizaciones Binacionales will be led by indigenous women. The host, Samuel Orozco, interviews the newly elected leaders Odilia Romero and Oralia Maceda. Students will listen to a clip from the below podcast and then answer comprehension questions from A to G. Then, students will be divided into groups of four to discuss their answers.
+In this activity, students will learn about the Frente Indígena de Organizaciones Binacionales (Indigenous Front of Binational Organizations), an organization that serves Latino-Indigenous migrant and non-migrant communities and individuals in California and various states in Mexico. Frente Indígena de Organizaciones Binacionales will be led by indigenous women. In the below podcast clip, the host, Samuel Orozco, interviews the newly elected leaders Odilia Romero and Oralia Maceda. 
 
 - [Línea Abierta: Indigenous Women Leaders (2018)](/primary_source_sets/latinas/3c89f3c57db)
+
+Students will listen to the clip and then answer comprehension questions from A to G. Then, students will be divided into groups of four to discuss their answers.
 
 - A. What are the objectives and goals of the organization Frente Indígena de Organizaciones Binacionales?
 - B. What makes this organization unique? 
