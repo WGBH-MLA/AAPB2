@@ -67,7 +67,7 @@ What groundbreaking contributions have Latinas made in fields such as music, soc
 
 In the below radio program recorded in 2001, the host interviews Laura Sobrino and Griselda Pérez, who are part of an all-female mariachi ensemble. The group is also led and directed by women, with members from various cities across California. The interview focuses on highlighting the different challenges they have encountered.
 
-- [Línea Abierta: Mariachi Mujer 2000](/primary_source_sets/latinas-resilience/1-0275186106a)
+- [Línea Abierta: Mariachi Mujer 2000](https://americanarchive.org/primary_source_sets/latinas-resilience/1-0275186106a)
 
 Divide students into five groups and assign each group a specific section of the podcast to analyze and summarize the main takeaways. They must write their main takeaways.  Once all groups have completed their section, ask them to present their findings to their classmates.
 
@@ -85,19 +85,19 @@ Divide students into five groups and assign each group a specific section of the
 
 In this activity, for homework, students will choose one of the radio programs listed below that discusses female accomplishments, contributions, and social justice struggles over the years. They will then select five images that represent the podcast’s main takeaways. In class, students will present their images and explain why they chose them and how each one represents the content of the podcast.
 
-- [Línea Abierta: Chicana Leaders (2006)](/primary_source_sets/latinas-resilience/2-e6359445cad)
+- [Línea Abierta: Chicana Leaders (2006)](https://americanarchive.org/primary_source_sets/latinas-resilience/2-e6359445cad)
 
 Listen to the host interview Chicana leaders Olga Talamante and Elizabeth “Betita” Martínez.
 
-- [Línea Abierta: From Victim to Leader (2013)](/primary_source_sets/latinas-resilience/3-a654dc31a04)
+- [Línea Abierta: From Victim to Leader (2013)](https://americanarchive.org/primary_source_sets/latinas-resilience/3-a654dc31a04)
 
 Listen to the host interview domestic violence activist María Hernández and Andrea Cristina Mercado. María is the domestic violence program coordinator at Mujeres Unidas y Activistas. Cristina is the campaign director of the National Domestic Workers Alliance. [Disclaimer: This podcast includes discussions on sensitive topics, such as domestic violence. Listener discretion is advised.]
 
-- [Línea Abierta: Latinas on the Rise (2015)](/primary_source_sets/latinas-resilience/4-24586416334)
+- [Línea Abierta: Latinas on the Rise (2015)](https://americanarchive.org/primary_source_sets/latinas-resilience/4-24586416334)
 
 Listen to the host interview a young, newly elected Latina councilmember, Dulce Gutiérrez, who became one of the first Latinas to win in Yakima, Washington. She was elected with 85% of the votes.
 
-- [Línea Abierta: A Day Without a Woman (2017)](/primary_source_sets/latinas-resilience/5-c680e5e289b)
+- [Línea Abierta: A Day Without a Woman (2017)](https://americanarchive.org/primary_source_sets/latinas-resilience/5-c680e5e289b)
 
 Listen to the host, Samuel Orozco, interview activists and leaders who organized a one-day strike for women, A Day Without a Woman, on International Women’s Day. These activists and leaders include Dolores Huerta, Marcela Romero Rivera, and Nestora Salgado.
 
@@ -105,7 +105,7 @@ Listen to the host, Samuel Orozco, interview activists and leaders who organized
 
 In this activity, students will learn about the Frente Indígena de Organizaciones Binacionales (Indigenous Front of Binational Organizations), an organization that serves Latino-Indigenous migrant and non-migrant communities and individuals in California and various states in Mexico. Frente Indígena de Organizaciones Binacionales will be led by indigenous women. In the below podcast clip, the host, Samuel Orozco, interviews the newly elected leaders Odilia Romero and Oralia Maceda.
 
-- [Línea Abierta: Indigenous Women Leaders (2018)](/primary_source_sets/latinas-resilience/3c89f3c57db)
+- [Línea Abierta: Indigenous Women Leaders (2018)](https://americanarchive.org/primary_source_sets/latinas-resilience/3c89f3c57db)
 
 Students will listen to the clip and then answer comprehension questions from A to G. Then, students will be divided into groups of four to discuss their answers.
 
@@ -129,7 +129,7 @@ In this activity, students will complete three parts:
 
 Students will be divided into pairs and listen to a clip from the episode titled Latina Entrepreneurs recorded in 2019. They will then discuss the meaning of the following quotes from the interview in the context of the episode’s content.
 
-- [Línea Abierta: Latina Entrepreneurs (2019)](/primary_source_sets/latinas-resilience/7-e15cd8b87cb)
+- [Línea Abierta: Latina Entrepreneurs (2019)](https://americanarchive.org/primary_source_sets/latinas-resilience/7-e15cd8b87cb)
 
 “En este lugar, me van a cuidar aquí y yo voy a cuidar a los otros.”
 “Hay tanto mensaje opresor que el mismo oprimido se la cree... En realidad el poder existe cuando el oprimido da ese poder, pero cuando nos damos cuenta que hay un poder colectivo y hay un poder interior, entonces nadie nos para… Juntas somos imparables.”
@@ -141,7 +141,7 @@ Students will be divided into pairs and listen to a clip from the episode titled
 ##### Part II.
 Students will listen to the next part of the podcast Latina Entrepreneurs.
 
-- [Línea Abierta: Latina Entrepreneurs (2019)](/primary_source_sets/latinas-resilience/8-e15cd8b87cb)
+- [Línea Abierta: Latina Entrepreneurs (2019)](https://americanarchive.org/primary_source_sets/latinas-resilience/8-e15cd8b87cb)
 
 In this section, students will hear testimonies from women about how Prospera has changed their lives, as well as an interview with one of the keynote speakers at the conference, La Cumbre. Each student will need to choose one of the women’s testimonies below and write a short summary.
 
@@ -153,7 +153,7 @@ Concha Saucedo-Martínez
 
 Divide students into groups of three and ask them to listen to the below broadcast, where the host Chelis López interviews activists Claudia Tristan (immigrant campaign director of Moms Rising) and Mónica Ramírez (founder and president of Justice For Migrant Women) about Latina Equal Pay Day.
 
-- [Línea Abierta: Latina Equal Pay Day (2021)](/primary_source_sets/latinas-resilience/9-b6feb67dbdf)
+- [Línea Abierta: Latina Equal Pay Day (2021)](https://americanarchive.org/primary_source_sets/latinas-resilience/9-b6feb67dbdf)
 
 Each group must fill out the following details about Latina Equal Pay Day.
 
