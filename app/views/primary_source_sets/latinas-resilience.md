@@ -186,7 +186,6 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Student-Pr
 - exhibit,latino-empowerment
 - special collection,hispanic-heritage-collection
 - special collection,radio-kdna
-- primary resource set,yakima-valley
 
 ## References
 
