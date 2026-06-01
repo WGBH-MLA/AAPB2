@@ -188,7 +188,6 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/.pdf
 - special collection,hispanic-heritage-collection
 - special collection,radio-kdna
 - primary resource set,yakima-valley
-- primary resource set,migrant-farmers
 
 ## References
 
