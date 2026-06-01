@@ -171,6 +171,8 @@ After completing the table, discuss the answers as a class and write the main id
 
 ## Pdflink
 
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Student-Protests-1960s_Teaching-Tips.pdf
+
 ## Additionalresources
 
 - Anta, J. (2023). Sí, Se Puede: The Latino Heroes Who Changed the United States. Penguin Random House.

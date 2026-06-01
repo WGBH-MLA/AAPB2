@@ -159,9 +159,9 @@ In this set, we have learned about the history of the farmworkers, the obstacles
 
 #### Final Discussion
 
-At the beginning of this set, you were asked to reflect on the crops harvested in your city and state, the percentage of farmworkers in your communities, and the history of farmworkers in your area. Discuss as a class whether you think farmworkers in your community still face the same injustices we learned about in Activity Two. Share what new injustices and obstacles that you think farmworkers might be facing now. (If you are unfamiliar with more recent injustices farmworkers face, you can listen to the Línea Abierta podcast episode:
+At the beginning of this set, you were asked to reflect on the crops harvested in your city and state, the percentage of farmworkers in your communities, and the history of farmworkers in your area. Discuss as a class whether you think farmworkers in your community still face the same injustices we learned about in Activity Two. Share what new injustices and obstacles that you think farmworkers might be facing now. If you are unfamiliar with more recent injustices farmworkers face, you can listen to the Línea Abierta podcast episode:
 
--[Línea Abierta: Farmworker Rights: A Forum (2018)](/primary_source_sets/migrant-farmers/4-395d1242d6b)
+- [Línea Abierta: Farmworker Rights: A Forum (2018)](/primary_source_sets/migrant-farmers/4-395d1242d6b)
 
 Lastly, brainstorm actions you can take to inform others about the contributions farmworkers have made to the U.S. and the injustices they have faced throughout the years.
 
