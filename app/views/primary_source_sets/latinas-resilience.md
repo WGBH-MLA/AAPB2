@@ -145,9 +145,9 @@ Students will listen to the next part of the podcast Latina Entrepreneurs.
 
 In this section, students will hear testimonies from women about how Prospera has changed their lives, as well as an interview with one of the keynote speakers at the conference, La Cumbre. Each student will need to choose one of the women’s testimonies below and write a short summary.
 
-Anahi Rojas
-Sonia Ordoñez
-Concha Saucedo-Martínez
+- Anahi Rojas
+- Sonia Ordoñez
+- Concha Saucedo-Martínez
 
 ##### Part III.
 
@@ -173,13 +173,13 @@ After completing the table, discuss the answers as a class and write the main id
 
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Student-Protests-1960s_Teaching-Tips.pdf
 
-## Additionalresources
+## Additional Resources
 
-- Anta, J. (2023). Sí, Se Puede: The Latino Heroes Who Changed the United States. Penguin Random House.
-- Casillas, D. I (2018). US Spanish-Language Radio. Oxford Bibliographies.
-- [De La Cruz, S. (2017). Latino Airwaves: Radio Bilingüe and Spanish-Language Public Radio. Journal of Radio & Audio Media, 24(2), 226-237.]( https://doi.org/10.1080/19376529.2017.1362855)
-- [Radio Bilingüe. (n.d.) Línea Abierta. Radio Bilingüe: National Latino Public Radio Network. Retrieved August 6, 2025.](https://radiobilingue.org/en/news/program/linea-abierta-en)
-- U.S. Senate (2023, March 9). Senate Resolution 104—Recognizing the heritage, culture, and contributions of Latinas in the United States (169 Cong Rec).ProQuest Congressional. 169(45), 748.
+- Anta, J. (2023). *Sí, Se Puede: The Latino Heroes Who Changed the United States*. Penguin Random House.
+- Casillas, D. I. (2018). *US Spanish-Language Radio*. Oxford Bibliographies.
+- [De La Cruz, S. (2017). *Latino Airwaves: Radio Bilingüe and Spanish-Language Public Radio*. *Journal of Radio & Audio Media*, 24(2), 226–237.](https://doi.org/10.1080/19376529.2017.1362855)
+- [Radio Bilingüe. (n.d.). *Línea Abierta*. Radio Bilingüe: National Latino Public Radio Network. Retrieved August 6, 2025.](https://radiobilingue.org/en/news/program/linea-abierta-en)
+- U.S. Senate. (2023, March 9). *Senate Resolution 104—Recognizing the heritage, culture, and contributions of Latinas in the United States* (169 Cong. Rec.). ProQuest Congressional, 169(45), 748.
 
 
 ## Youmayalsolike
