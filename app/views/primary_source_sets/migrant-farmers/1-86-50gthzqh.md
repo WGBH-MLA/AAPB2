@@ -1,4 +1,4 @@
-# Viewfilder: Los Braceros: Strong Arms to Aid the USA (2006)
+# Viewfinder: Los Braceros: Strong Arms to Aid the USA (2006)
 
 ## Thumbnail
 
@@ -15,7 +15,7 @@ The program highlights the physical demands of farm labor, regional differences 
 
 Overall, the documentary presents both the historical significance of the Bracero Program and the personal stories of those who lived through it, offering a critical look at labor migration, wartime labor demands, and cross-border relations between the United States and Mexico.
 
-<b>*Viewfilder: Los Braceros: Strong Arms to Aid the USA* (2006)</b>
+<b>*Viewfinder: Los Braceros: Strong Arms to Aid the USA* (2006)</b>
 <b>| KVIE (Television station : Sacremento, CA.) | July 26, 2006 </b>
 <i>This video clip and associated transcript appear from 0:01 - 27:28 in the full record.</i>
 
