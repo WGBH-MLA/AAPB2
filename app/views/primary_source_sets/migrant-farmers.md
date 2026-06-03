@@ -30,7 +30,7 @@ In this source set, we will explore the injustices braceros faced over the years
 
 ## Teachingtips
 
-These sets of videos and recordings document the injustices migrant farmworkers have faced throughout the United States. These sets will expose students to injustices such as low wages, unsafe and poor living conditions, and hazardous working conditions. Students will also learn about the resiliency and the birth of the farmworker movement. 
+These sets of videos and recordings document the injustices migrant farmworkers have faced throughout the United States. These sets will expose students to injustices such as low wages, unsafe and poor living conditions, and hazardous working conditions. Students will also learn about the resiliency and the birth of the farmworker movement.
 
 #### Background Information
 
@@ -66,37 +66,37 @@ Divide students into four groups and ask them to watch the source below. You can
 
 Each group should answer the set of questions assigned to them. After discussing their responses within their original groups, students will reorganize into new groups containing one representative from Groups 1, 2, 3, and 4. In these new groups, each student will share the answers and insights from their original group’s questions.
 
-**Group 1**  
+**Group 1**
 
-a) Why were the farmworkers called “braceros?” What was the purpose of creating the Bracero Program?  
-b) Who participated in the Bracero Program? Why were the men selected (what were the required physical characteristics) to participate in the program?  
-c) What types of jobs did they do?  
-d) How were Mexicans informed about the program and what was the process to apply?  
-e) Why did Mexicans decide to apply to the program?  
+a) Why were the farmworkers called “braceros?” What was the purpose of creating the Bracero Program?
+b) Who participated in the Bracero Program? Why were the men selected (what were the required physical characteristics) to participate in the program?
+c) What types of jobs did they do?
+d) How were Mexicans informed about the program and what was the process to apply?
+e) Why did Mexicans decide to apply to the program?
 
-**Group 2**  
+**Group 2**
 
-a) Who is Cris Luna? Why did he join the Bracero Program?  
-b) How did most of the contracted braceros enter the United States?  
-c) Who is José Ramírez Delgado? What type of work did he do?  
-d) What happened in the Rio Vista Center?  
-e) Who is Minerva Cheatum? What was her job and how does she describe her job?  
+a) Who is Cris Luna? Why did he join the Bracero Program?
+b) How did most of the contracted braceros enter the United States?
+c) Who is José Ramírez Delgado? What type of work did he do?
+d) What happened in the Rio Vista Center?
+e) Who is Minerva Cheatum? What was her job and how does she describe her job?
 
-**Group 3**  
+**Group 3**
 
-a) Who is Lucio Apodaca?  
-b) Why was eastern Texas the worst location to work as a bracero?  
-c) Who is Isidro Peña?  
-d) Why did most of the braceros spend more time in California?  
-e) What does Octavio Camarena say about the physical demands on farmworkers?  
+a) Who is Lucio Apodaca?
+b) Why was eastern Texas the worst location to work as a bracero?
+c) Who is Isidro Peña?
+d) Why did most of the braceros spend more time in California?
+e) What does Octavio Camarena say about the physical demands on farmworkers?
 
-**Group 4**  
+**Group 4**
 
-a) What differences did the braceros in Yakima encounter compared to the braceros in the Southwest?  
-b) What sacrifices did the families of the braceros face?  
-c) Who is Gloria Macía Rodríguez? What advice did her father give her?  
-d) Why does the video say that the braceros fed the U.S. during World War II?  
-e) What does the video say about the campaign for recognition? 
+a) What differences did the braceros in Yakima encounter compared to the braceros in the Southwest?
+b) What sacrifices did the families of the braceros face?
+c) Who is Gloria Macía Rodríguez? What advice did her father give her?
+d) Why does the video say that the braceros fed the U.S. during World War II?
+e) What does the video say about the campaign for recognition?
 
 ##### Activity 2. “Water for Plants, Not for People:” Injustices Migrant Farmworkers Face
 
@@ -174,7 +174,7 @@ Lastly, brainstorm actions you can take to inform others about the contributions
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Migrant_Farmers_Teaching-Tips.pdf
 
 
-## Additional Resources
+## Additionalresources
 
 - [Bracero History Archive](https://braceroarchive.org/)
 - Galán, H., Galán Incorporated, & Kanopy (2017, October 3). *Chicano Episode 2: The Struggle in the Fields.* Video recording.
