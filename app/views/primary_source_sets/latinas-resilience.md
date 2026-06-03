@@ -13,10 +13,10 @@ Angélica Amezcua, Ph.D., University of Washington
 
 ## Subjects
 
-- Learn about the impact of Mariachi 2000 on the Mariachi music genre.
-- Analyze the diverse contributions of Latinas to national movements and organizations led by Latina activists.
-- Evaluate the outcomes of the binational organization Frente Indígena de Organizaciones Binacionales, led for the first time by Indigenous Latinas.
-- Examine Latinas’ economic contributions and their efforts to increase financial literacy and expand opportunities for other Latinas.
+- The impact of Mariachi 2000 on the Mariachi music genre.
+- The diverse contributions of Latinas to national movements and organizations led by Latina activists.
+- The outcomes of the binational organization Frente Indígena de Organizaciones Binacionales, led for the first time by Indigenous Latinas.
+- Latinas’ economic contributions and their efforts to increase financial literacy and expand opportunities for other Latinas.
 
 ## Introduction
 
