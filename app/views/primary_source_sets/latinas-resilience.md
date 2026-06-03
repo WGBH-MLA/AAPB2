@@ -63,7 +63,7 @@ What groundbreaking contributions have Latinas made in fields such as music, soc
 
 #### Classroom Activities
 
-#### Activity 1. Mariachi Mujer 2000
+##### Activity 1. Mariachi Mujer 2000
 
 In the below radio program recorded in 2001, the host interviews Laura Sobrino and Griselda Pérez, who are part of an all-female mariachi ensemble. The group is also led and directed by women, with members from various cities across California. The interview focuses on highlighting the different challenges they have encountered.
 
@@ -81,7 +81,7 @@ Divide students into five groups and assign each group a specific section of the
 
 - Group five: Listen from minute 43:50 to 58:40, where Laura Sobrino shares the history of women in mariachi. Who are the people and mariachi ensembles she mentions? In what years did they perform? What final message do Laura and Griselda share with young women interested in playing in a mariachi?
 
-#### Activity 2
+##### Activity 2. Latina Leadership, Activism, and Social Change
 
 In this activity, for homework, students will choose one of the radio programs listed below that discusses female accomplishments, contributions, and social justice struggles over the years. They will then select five images that represent the podcast’s main takeaways. In class, students will present their images and explain why they chose them and how each one represents the content of the podcast.
 
@@ -101,7 +101,7 @@ Listen to the host interview a young, newly elected Latina councilmember, Dulce 
 
 Listen to the host, Samuel Orozco, interview activists and leaders who organized a one-day strike for women, A Day Without a Woman, on International Women’s Day. These activists and leaders include Dolores Huerta, Marcela Romero Rivera, and Nestora Salgado.
 
-#### Activity 3
+##### Activity 3. Indigenous Women Leadership and Binational Organizing
 
 In this activity, students will learn about the Frente Indígena de Organizaciones Binacionales (Indigenous Front of Binational Organizations), an organization that serves Latino-Indigenous migrant and non-migrant communities and individuals in California and various states in Mexico. Frente Indígena de Organizaciones Binacionales will be led by indigenous women. In the below podcast clip, the host, Samuel Orozco, interviews the newly elected leaders Odilia Romero and Oralia Maceda.
 
@@ -119,7 +119,7 @@ Students will listen to the clip and then answer comprehension questions from A 
 
 As a group, discuss the advantages of having Indigenous women lead an organization like Frente Indígena de Organizaciones Binacionales.
 
-#### Activity 4
+##### Activity 4. Latina Labor, Leadership, and Economic Justice
 
 As stated in the introduction, between 2010 and 2021, Latinas’ economic contribution grew by 51%. This growth is due, in part, to financial literacy opportunities for Latinas, such as La Cumbre conference and advocacy efforts like Latina Equal Pay Day. These initiatives are crucial in reducing the pay gap for Latinas. According to a U.S. Senate report (2023), “Latinas are paid just 57 cents for every dollar paid to White, non-Hispanic men, and Latinas will not achieve equal pay at the current rate for another 432 years” (p.748).
 
