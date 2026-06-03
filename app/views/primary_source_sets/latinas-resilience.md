@@ -165,7 +165,7 @@ Details of Latina Equal Pay Day
 4. What can Latinas do to find out if they are being paid less than their colleagues?
 5. What groups of Latinas are the most affected by not receiving equal pay? Explain your answer: why are they the most affected?
 
-After completing the table, discuss the answers as a class and write the main ideas for each question on the board. Then, as a class, discuss what you and  your local community can do to fight for and demand equal pay for Latinas. Are policies enough? Is this an issue that affects only women and should only be fought by women? Explain your answers.
+Discuss the answers as a class and write the main ideas for each question on the board. Then, as a class, discuss what you and  your local community can do to fight for and demand equal pay for Latinas. Are policies enough? Is this an issue that affects only women and should only be fought by women? Explain your answers.
 
 <hr>
 
