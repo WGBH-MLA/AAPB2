@@ -20,19 +20,20 @@ Angélica Amezcua, Ph.D., University of Washington
 
 The history of Yakima Valley, Washington, is deeply intertwined with its successes in agriculture, particularly the harvests of apples, cherries, and hops. Even as Yakima Valley has evolved from its rural origins into a vibrant and diverse metropolis, the area is still one of the top ten most productive agricultural regions in the United States. Today, Yakima Valley produces 60% of Washington’s apples. The city of Yakima was established over 125 years ago along the Northern Pacific Railway line, and since the 1880s, it has developed into the cultural, business, educational, health services, and governmental hub of central Washington. The Old North Yakima Historic District, established in 1885, boasts late Victorian and early twentieth-century commercial buildings that reflect the city’s growth and prosperity.
 
-But none of this growth and prosperity would have been possible without the farmworkers who labored throughout Yakima Valley. In April 1942, Mexican laborers arrived by train to fulfill a labor shortage (Gamboa, 1990). They were the first of thousands to enter the U.S. under the Bracero Program (see Farmworkers in the U.S: history, living conditions and resistance). As these workers contributed to the economic expansion of Yakima Valley, they began a demographic transformation that has continued to this day. The area is culturally rich, with members of the Yakama Nation and the Latino, Japanese, and Filipino communities, all calling Yakima Valley home. In particular, the Latino community, most of whom are of Mexican descent, now make up 47.1% of the population (DATAUSA). That number is likely to increase as immigration to the area continues.
+But none of this growth and prosperity would have been possible without the farmworkers who labored throughout Yakima Valley. In April 1942, Mexican laborers arrived by train to fulfill a labor shortage (Gamboa, 1990). They were the first of thousands to enter the U.S. under the Bracero Program (see Primary Resource Set: Migrant Farmworkers in the U.S.). As these workers contributed to the economic expansion of Yakima Valley, they began a demographic transformation that has continued to this day. The area is culturally rich, with members of the Yakama Nation and the Latino, Japanese, and Filipino communities, all calling Yakima Valley home. In particular, the Latino community, most of whom are of Mexican descent, now make up 47.1% of the population (DATAUSA). That number is likely to increase as immigration to the area continues.
 
 In this set, we will explore the history of the Latino community in the Yakima Valley and the impact of radio (Radio KDNA) on different aspects of society, such as income, immigration, bilingual education, health, assimilation, and activism.
 
 ## Teachingtips
 
-In this set, students will listen to a talk show from KDNA radio titled _Buenas Noches_ that covers issues that directly impact the Latino community in the Yakima Valley. Students might need to listen to the show more than once. Another suggestion is to start listening to the assigned episode in class and then finish it for homework.
+In this set, students will listen to a talk show from KDNA radio titled _Buenas Noches_ that covers issues that directly impact the Latino community in the Yakima Valley. Students might need to listen to a show more than once. Another suggestion is to start listening to the assigned episode in class and then finish it for homework.
 
 #### Background Information
 
-Yakima Valley’s first broadcast Spanish-language radio station, KREW, aired in 1950. Herminia Mendez, a local pioneer in Latino radio and media entertainment, was the first broadcaster at the station. She started with a 15-minute show, which later increased to an hour. Unfortunately, the program went off the air, but KDNA (another Spanish-language station) began broadcasting in the Yakima Valley in 1979.This station, launched by the Northwest Communities Education Center and still in operation today, broadcasts educational and informational programs crucial for keeping the community up to date on topics that affect them and for providing resources on how to overcome obstacles related to literacy, language, poverty, health issues, and discrimination. KDNA was key to reviving the Chicana/o Movement in the 1970s, and it continues to play a critical role in keeping the community united and involved in social change.
+Yakima Valley’s first broadcast Spanish-language radio station, KREW, aired in 1950. Herminia Mendez, a local pioneer in Latino radio and media entertainment, was the first broadcaster at the station. She started with a 15-minute show, which later increased to an hour. Unfortunately, the program went off the air, but KDNA (another Spanish-language station) began broadcasting in the Yakima Valley in 1979. This station, launched by the Northwest Communities Education Center and still in operation today, broadcasts educational and informational programs crucial for keeping the community up to date on topics that affect them and for providing resources on how to overcome obstacles related to literacy, language, poverty, health issues, and discrimination. KDNA was key to reviving the Chicana/o Movement in the 1970s, and it continues to play a critical role in keeping the community united and involved in social change.
 
 Before engaging with this resource set, students are encouraged to explore the following:
+
 - The Spanish radio station(s) in your city and state
 - The percentage of Spanish speakers in your city and state who might listen to this(these) radio station(s)
 - The social issues that Latinos encounter in your city (e.g., low-wage jobs, housing)
@@ -42,7 +43,7 @@ Before engaging with this resource set, students are encouraged to explore the f
 
 #### Essential Question
 
-What are the different topics discussed in the radio program? What actions do these program episodes advise the Latino community to take in regard to the topics discussed or in fighting against the injustices they may encounter? Does the Latino community in the Yakima Valley continue to face these social injustices?
+How did these radio programs address issues affecting the Latino community in the Yakima Valley, what actions did they encourage listeners to take in response to injustice, and how do those issues continue to shape the community today?
 
 <hr>
 
@@ -55,11 +56,11 @@ What are the different topics discussed in the radio program? What actions do th
 
 #### Classroom Activities
 
-##### Activity 1. 1982: Immigration Protest and the Challenges of the Undocumented Community March
+##### Activity 1. 1982: Protesta de inmigración y los desafíos de la comunidad indocumentada marcha de Sunnyside a Yakima 
 
 Divide students into groups of three and ask them to listen to the below extract. In this episode, students will learn about the march from Toppenish to Yakima to protest the immigration raids.
 
-- [Immigration Protest and the Challenges of the Undocumented Community March](/primary_source_sets/yakima-valley/1-199-80ht7fxq) (1981)
+- [Protesta de inmigración y los desafíos de la comunidad indocumentada marcha de Sunnyside a Yakima ](/primary_source_sets/yakima-valley/1-199-80ht7fxq) (1981)
 
 Each group must fill out the following details about the march
 
@@ -93,13 +94,13 @@ c. Camilo further stated:_“Donde la comunidad latina tenga una fuerza polític
 
 d. Camilo said:_“Hay muchos chicanos, muchos que están progresando y económicamente son parte de la media clase y son oponentes de la educación bilingüe. Como el educador Richard Rodríguez, quien se cambió su nombre de Ricardo a Richard, incluso esto refleja su falta de consciencia y falta de respeto a sus propios orígenes. Él escribió un libro oponiéndose a la educación bilingüe y otro libro titulado Hunger of Memory que es como una autobiografía y él ha hecho todo lo que pueda en todo el país para oponerse a los derechos que tenemos en cuanto a la educación bilingüe, oponerse a la acción afirmativa. Es un títere útil del sistema en contra de nuestra propia comunidad, él dice que está mejor después de haber perdido su identidad, haber cambiado su nombre, haber desechado su español a comparación de la comunidad latina quien intenta conservar su idioma y su cultura. Él representa una fuerza bien negativa que lucha en contra de los derechos de la comunidad latina. El argumento de Richard Rodríguez en contra de la educación bilingüe es que este país es un país angloparlante, dirigido por anglos y que por eso el precio de educarnos en este país tiene que ser la asimilación. El único objetivo de la educación debería ser la asimilación de la comunidad latina. Los inmigrantes que llegaron antes de Europa en los años 1920 de Irlanda e Italia se han asimilado porque eran blancos porque eran de culturas similares a los anglos. Sin embargo, es importante reconocer que la cultura latina es diferente y ha sobrevivido muchos años de opresión, pero ha podido sobrevivir y seguirá sobreviviendo porque hay ese orgullo sobre la cultura latina.”_
 
-##### Question: Do you agree wiht Richard Rodriguez's view that the role of education is to assimilate Latino children into Anglo culture, and that Latinos must assimilate? Explain your answer.
+##### Question: Do you agree with Richard Rodriguez's view that the role of education is to assimilate Latino children into Anglo culture, and that Latinos must assimilate? Explain your answer.
 
 e. ¿Qué pueden hacer los padres para luchar por la educación bilingüe para sus hijos? Camilo answered: _“Primero, es importante reconocer que los niños indocumentados tienen los mismos derechos que los niños documentados. Tienen los mismos derechos a la educación. Los padres deben motivar a sus hijos a continuar usando el español en casa, en la comunidad y en la escuela. Los padres son los primeros maestros y les enseñan a sus hijos sobre su identidad y su idioma. Sin embargo, hay padres que no se informan y permiten que sus hijos pierdan el español porque en sus casas todo el tiempo hablan inglés, los programas que ven en la televisión son en inglés y no hacen un esfuerzo para que sus hijos vean programas en español. Esto lleva a que, cuando los latinos son jóvenes, ya no usen el español y no valoran este idioma. Los padres y la educación son responsables de que se pierda la cultura y el idioma en las nuevas generaciones de latinos.”_
 
-##### Question: Do you agree with the statement above that what parents do can either motivate their children ot maintain their Spanish and culture or lead them to assimilate to teh Anglo culture and language? Explain your answer.
+##### Question: Do you agree with the statement above that what parents do can either motivate their children to maintain their Spanish and culture or lead them to assimilate to the Anglo culture and language? Explain your answer.
 
-##### Activity 3. 1991: Los jóvenes hispanos entre dos culturas/ Hispanic youth living in two cultures
+##### Activity 3. 1991: Los jóvenes hispanos entre dos culturas
 
 Assign the below radio program as homework to students. In this talk, students will learn about the obstacles that the Latino youth in the Yakima valley faced in 1991.
 
@@ -109,13 +110,11 @@ The first topic: Alejandro Tomas from Sunnyside and the radio host discuss healt
 
 - [Los jóvenes hispanos entre dos culturas/ Hispanic youth living in two cultures (part one)](/primary_source_sets/yakima-valley/3-199-13zs7jvc) (1991)
 
-In the second topic: the host talks about the self-esteem of youth in the U.S. and the difficulties of living between two cultures, two languages, two sets of cultural values, which she describes as a new form of mestizaje (the mixing of two or more cultures).
+The second topic: the host talks about the self-esteem of youth in the U.S. and the difficulties of living between two cultures, two languages, two sets of cultural values, which she describes as a new form of mestizaje (the mixing of two or more cultures).
 
 - [Los jóvenes hispanos entre dos culturas/ Hispanic youth living in two cultures (part two)](/primary_source_sets/yakima-valley/4-199-13zs7jvc) (1991)
 
-After listening to the program, students must write a brief summary of ONE of the topics (health issues or the experience of living between two cultures) discussed in the show and reflect on how the chosen topic is discussed now compared to how it was addressed in the 1991. Also, include the different obstacles that the radio hosts encountered when discussing such topic:
-
-Task: Summarize one of the topics and the differences in how the topic is discussed now compared to 1991:
+After listening to the program, students must write a brief summary of ONE of the topics (health issues or the experience of living between two cultures) discussed in the show and reflect on how the chosen topic is discussed now compared to how it was addressed in the 1991. Also, include the different obstacles that the radio hosts encountered when discussing such topic.
 
 ##### Activity 4. 1996: Ninfa Bangumar Gutierrez, activista y pionera de los cambios sociales en el Valle de Yakima
 
@@ -125,7 +124,7 @@ Divide the students into four groups. Each group will need to listen to the enti
 
 - [Temas de Interés](/primary_source_sets/yakima-valley/5-199-58bg7h3f) (1996)
 
-1. Who is Ninfa Bangumar?
+1. Group One: Who is Ninfa Bangumar?
 2. Group Two: Why did she move to Washington? What did she do for work?
 3. Group Three: What were the different obstacles Ninfa faced in the Yakima Valley?
 4. Group Four: What did Ninfa do in the ’60s and ’70s to fight against the social injustices the Latino community faced in the Yakima Valley?
