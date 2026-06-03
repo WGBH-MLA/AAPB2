@@ -173,7 +173,7 @@ After completing the table, discuss the answers as a class and write the main id
 
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Student-Protests-1960s_Teaching-Tips.pdf
 
-## Additional Resources
+## Additionalresources
 
 - Anta, J. (2023). *Sí, Se Puede: The Latino Heroes Who Changed the United States*. Penguin Random House.
 - Casillas, D. I. (2018). *US Spanish-Language Radio*. Oxford Bibliographies.
