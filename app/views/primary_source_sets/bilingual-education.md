@@ -9,31 +9,34 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/south-bronx-16x
 
 ## Author
 
-Ben Leff, Teaching Associate, University Laboratory High School (Urbana, Illinois)
+Angélica Amezcua, Ph.D., University of Washington
 
 ## Subjects
 
-- Conservative Resurgence and Social Change, 1964-2000: Domestic Politics
+- Perspectives on bilingual education throughout the history of the United States. 
+- The impact of language orientations and language ideologies in bilingual education in the United States.
+- The diverse types of bilingual education programs in Texas, New Mexico, and Colorado.
+- Policies implemented in California, such as Proposition 227.
 
 ## Introduction
 
-In 1976, New Yorkers were “choked with rage” at the “sickness of the city.” *New York Times* journalist Pete Hamill described “rage at the knowledge that the South Bronx was burning to the ground, and we do not have enough firemen. Rage at the plague of crime and violence, knowing we have too few policemen. Rage because so many of our schools and hospitals have been permanently awarded to the rats… rage at the scabrous condition of our streets, the potholes and trenches that may never again be filled, the sewers clogged with a winter’s dismal refuse. Rage at the businessmen fleeing to their suburban arcadias.” 
+Bilingual education has existed throughout U.S. history. Ohio adopted the first state bilingual education law in 1839, allowing instruction in  German and English, followed by Louisiana with French and English, and later New Mexico with Spanish and English in 1850. However, despite this early recognition of multilingualism and the presence of bilingual education, political discourse increasingly promoted the vision of a monolingual nation and discouraged educational practices that promoted the maintenance of  non-English languages. This shift resulted from hegemonic ideologies that elevated English as the language of prestige and national identity while positioning other languages as less valuable (Crawford, 1992; Potowski, 2010).
 
-Americans across the country channeled similar feelings of anger about decaying conditions in their cities, but the issues of the 1970s and early 1980s started long before. The problems were partially rooted in the aftermath of World War II, when predominantly white middle- and upper-class Americans moved out of cities into the suburbs. By the 1970s, the decline of the manufacturing sector led to the elimination of millions of stable, unionized, factory jobs that had once sustained the urban working class. The people who remained in the cities—who were disproportionately poor people of color kept out of the suburbs by formal and informal housing practices—had increasingly gloomy economic prospects, consigned to dead-end jobs or stuck scraping by on welfare. In this environment, the physical infrastructure and social fabric of American cities began to crumble as problems of poverty, crime, violence, and drug addiction grew increasingly dire. And since economic decay and suburban flight undercut the urban tax base, municipal governments struggled to fund the social services to combat these social problems.
+These ideologies became institutionalized more widely through policies such as California’s Proposition 227, passed in 1997, which dismantled bilingual education programs, and the No Child Left Behind Act, which limited bilingual approaches in schools (Roca & Colombi, 2003; García, 2011). Supported by the broader English-Only Movement of the 1990s, these policies promoted English as the sole language of instruction and made the maintenance of home languages more difficult (Crawford, 1997).
 
-As these social dynamics took root in the late 1970s and early 1980s, Americans grappled with the proper political response to the urban crisis. The crime rate had risen significantly, and cities were increasingly viewed as dangerous places in which law-abiding citizens were unsafe. These prevailing attitudes helped fuel “tough on crime” politics in which legislators enacted tougher laws with stricter penalties, while governments shifted fiscal priorities away from social services towards policing. Local, state, and federal governments also wrestled with fiscal debates about taxation and spending. Municipal budgets were in crisis, and urban leaders called for financial support from surrounding suburbs, states, and federal governments. Resistance came from residents and politicians outside distressed cities who felt that they shouldn’t have to bail out cities that, in their view, had mismanaged their finances. Thus, the urban crisis had created political conflicts that divided Americans along lines of race, class, and geography.
-
+In this set, students will learn about different perspectives on bilingual education throughout the years and the policies that impacted it. 
 
 ## Teachingtips
 
-Collectively, the sources capture multiple layers of the urban crisis. The first three clips illuminate some of the structural causes of urban decay. The next three clips portray some of the symptoms by depicting bleak conditions in Newark, New York, and Boston. Several more clips speak to the rise in crime and the resulting anger and fear that fueled the War on Crime. The remaining clips lay out the contours of a political debate of the era: Should tax revenue collected by federal, state, and nearby local governments be redirected to cities to address the problems of urban decay?  
+In this set, students will engage with radio and television programs that examine the history and debates surrounding bilingual education in the United States. Through these activities, students will explore changing perspectives on bilingualism, language ideologies, and educational policies across different historical moments. Students will focus on how bilingual education programs developed in various states and how policies such as Proposition 227 shaped educational experiences. They may need to listen to the episodes more than once.  
 
 #### Background Information
 
-Before engaging with this resource set, students should be familiar with the following:
+Attacks on bilingual education are grounded in language ideologies, understood as systems of beliefs and values about language varieties and language use that are closely tied to political, economic, and social interests (Kroskrity, 2004). These ideologies shape how languages and their speakers are perceived within society, often reinforcing unequal power relations. In particular, hegemonic language ideology tends to mirror broader patterns of discrimination and exclusion by presenting one language as normative and superior while framing others as obstacles to national unity or social progress. 
 
-- The rise and maturation of an industrialized economy in the U.S. by the mid-20th century
-- Some understanding of the way power and responsibilities are divided between federal, state, and local governments in the United States
+For example, advocates of English-Only policies and initiatives such as California's Proposition 227 portrayed linguistic diversity as a social and political threat. These policies and initiatives promoted assimilation and demanded immigrants abandon their cultural and linguistic practices to become fully American, reflecting the belief that the use of languages other than English signaled a lack of loyalty or integration (Crawford, 1997). Such narratives eschewed any cognitive, cultural, social, and economic benefits of bilingualism and instead constructed multilingualism as a problem (Ruíz, 1984).  
+
+Furthermore, this hegemonic ideology positions English as the language of prestige, opportunity, and legitimacy while marginalizing non-English languages and their speakers. This ideological framework not only influences public opinion but also shapes educational policies and classroom practices, ultimately limiting opportunities to maintain non-English languages and reinforcing social and linguistic inequalities (Barker et al., 2001; Zentella, 1997).  
 
 <hr>
 
