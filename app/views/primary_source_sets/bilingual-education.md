@@ -42,17 +42,17 @@ Furthermore, this hegemonic ideology positions English as the language of presti
 
 #### Essential Question 
 
-What social problems plagued American cities in the late 1970s and early 1980s, and what political debates emerged about how to solve those problems?
+How have language ideologies shaped educational policies and attitudes toward bilingual education in the United States? How has the idea of a monolingual nation impacted multilingual communities? Why is bilingualism often framed as a problem rather than as a right? 
 
 <hr>
 
 #### General Discussion Questions
-- What were the social, economic, and political forces that contributed to urban decay in the 1970s?
-- What were some of the hardships faced by urban residents in the late 1970s and early 1980s?
-- How and why did the urban crisis particularly affect African Americans and Latinos?
-- What were some of the political reforms that were proposed or attempted to address the problems of the cities? What might have been the sources of resistance to these efforts?
 
-
+- What were some early examples of bilingual education in U.S. history?
+- What do they reveal about past and present attitudes toward bilingual and multilingual education?
+- What similarities and differences among bilingual education programs in Texas, New Mexico, and Colorado reveal about local needs and approaches to bilingualism?
+- In what ways did Proposition 227 impact bilingual education in California?
+  
 <hr>
 
 #### Classroom Activities
