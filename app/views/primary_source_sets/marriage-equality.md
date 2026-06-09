@@ -61,6 +61,7 @@ Why and how did marriage become legal for same-sex couples in the United States?
 
 Have students watch 3-5 of the sources in which people explain their support or opposition for marriage equality. You can pick whatever clips you feel are best suited for your class (virtually all of them include people making arguments either for or against), but a good collection might be:
 
+Clip 1
 Clip 2
 Clip 4
 Clip 6
