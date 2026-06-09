@@ -131,13 +131,13 @@ Then have students read some of the data from the Pew Research Center about Publ
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Urban_Crisis_Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Marriage_Equality_Teaching-Tips.pdf
 
 
 ## Additionalresources
 
-- [**Obergefell v. Hodges: Summary and Full Opinion**](https://constitutioncenter.org/the-constitution/supreme-court-case-library/obergefell-v-hodges), National Constitution Center
-- [**Public Attitudeds on Same-Sex Marriage**](https://www.pewresearch.org/religion/fact-sheet/changing-attitudes-on-gay-marriage/), Pew Research Center
+- [Obergefell v. Hodges: Summary and Full Opinion](https://constitutioncenter.org/the-constitution/supreme-court-case-library/obergefell-v-hodges), National Constitution Center
+- [Public Attitudeds on Same-Sex Marriage](https://www.pewresearch.org/religion/fact-sheet/changing-attitudes-on-gay-marriage/), Pew Research Center
 
 
 ## Youmayalsolike 
@@ -149,7 +149,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Urban_Cris
 
 ## References
 
-- Cover image: White House. 26 June 2015. Photograph (cropped). [https://lccn.loc.gov/2020702547](https://commons.wikimedia.org/wiki/File:White_House_rainbow_for_SCOTUS_ruling_on_same-sex_marriage.jpg).
+- [Cover image: White House. 26 June 2015. Photograph (cropped)](https://commons.wikimedia.org/wiki/File:White_House_rainbow_for_SCOTUS_ruling_on_same-sex_marriage.jpg).
 - [Brenan, Megan. “Same-Sex Relations, Marriage Still Supported by Most in U.S.” Gallup News, June 24, 2024.](https://news.gallup.com/poll/646202/sex-relations-marriage-supported.aspx)
 
 
