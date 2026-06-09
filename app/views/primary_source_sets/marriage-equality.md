@@ -5,7 +5,7 @@
 ![White House Lit Up in Rainbow Colors After Obergefell](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/marriage-equality-thumbnail.jpeg)
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/marriage-equality-main.jpeg
+[https://s3.amazonaws.com/americanarchive.org/primary_source_sets/marriage-equality-main.jpeg](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/marriage-equality-main.jpeg)
 
 ## Author
 
