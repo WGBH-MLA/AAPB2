@@ -1,13 +1,11 @@
 # The Battle Over Marriage Equality
 
+## Thumbnail
 
-## Thumbnail 
+![Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/marriage-equality-thumbnail.png "Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.")
 
-![White House Lit Up in Rainbow Colors After Obergefell](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/marriage-equality-thumbnail.jpeg) 
-
-## Cover 
-
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/marriage-equality-main.jpeg
+## Cover
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/marriage-equality-main.png
 
 ## Author
 
