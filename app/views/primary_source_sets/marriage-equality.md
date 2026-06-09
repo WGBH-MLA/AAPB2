@@ -24,76 +24,108 @@ The emergence of the Gay Rights Movement in the 1960s led to increasing visibili
 
 The marriage equality issue was often propelled into the political spotlight by legal challenges and court decisions, as several state courts ruled that laws limiting marriage to straight couples violated constitutional guarantees to equal protection under the law. Such decisions led to anxieties and confusion for some Americans. Must same-sex marriages performed in one state be recognized in another state? Would other state supreme courts draw similar conclusions and require same-sex marriage? Fearful of judicial decisions that would guarantee marriage equality, politicians across the country pushed to amend their state constitutions to explicitly define marriage as a union between a man and a woman. Between the 1990s and the 2010s, several dozen states passed laws or constitutional amendments banning marriage for same-sex couples.
 
-But by the 2010s, public opinion had shifted considerably. In 1996, just 27 percent of Americans polled by Gallup supported legalization of same-sex marriage. By May 2015, that number had risen to 60%. And in 2015, the Supreme Court forever changed the legal landscape with Obergefell v. Hodges, a landmark case that ruled that it was unconstitutional to deny marriage licenses to same-sex couples. In a decision penned by Anthony Kennedy, the Court held that the plaintiffs, 14 same-sex couples and two men whose partners had passed, had been “excluded from one of civilization’s oldest institutions. They ask for equal dignity in the eyes of the law. The Constitution grants them that right.” After decades of social, political, and legal debate—in which Americans grappled with weighty questions of state versus federal power, the role of the judiciary versus the legislature, and the rights of minorities in a democracy—same-sex marriage was legal across the United States
+But by the 2010s, public opinion had shifted considerably. In 1996, just 27 percent of Americans polled by Gallup supported legalization of same-sex marriage. By May 2015, that number had risen to 60%. And in 2015, the Supreme Court forever changed the legal landscape with Obergefell v. Hodges, a landmark case that ruled that it was unconstitutional to deny marriage licenses to same-sex couples (Brennan 2024). In a decision penned by Anthony Kennedy, the Court held that the plaintiffs, 14 same-sex couples and two men whose partners had passed, had been “excluded from one of civilization’s oldest institutions. They ask for equal dignity in the eyes of the law. The Constitution grants them that right.” After decades of social, political, and legal debate—in which Americans grappled with weighty questions of state versus federal power, the role of the judiciary versus the legislature, and the rights of minorities in a democracy—same-sex marriage was legal across the United States
 
 
 ## Teachingtips
 
-Collectively, the sources capture multiple layers of the urban crisis. The first three clips illuminate some of the structural causes of urban decay. The next three clips portray some of the symptoms by depicting bleak conditions in Newark, New York, and Boston. Several more clips speak to the rise in crime and the resulting anger and fear that fueled the War on Crime. The remaining clips lay out the contours of a political debate of the era: Should tax revenue collected by federal, state, and nearby local governments be redirected to cities to address the problems of urban decay?  
+This set can be understood as consisting of two layers: the historical and the ideological. For the historical layer, a number of the clips allow viewers to track the evolution of the marriage equality debate from the 1970s to the Obergefell v. Hodges decision in 2015 (with special focus on key historical moments, such as the aftermath of the Massachusetts Supreme Judicial Court decision in 2004). There is also an ideological layer, as a number of clips feature proponents and opponents of marriage equality articulating their views. Watching these clips allows the viewer to understand the range of arguments used to criticize or defend marriage equality. Some clips feature both historical and ideological layers. Collectively, the sources in the set introduce viewers to the contours of the marriage equality debate and how the terms of that debate changed over time. 
 
 #### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
 
-- The rise and maturation of an industrialized economy in the U.S. by the mid-20th century
-- Some understanding of the way power and responsibilities are divided between federal, state, and local governments in the United States
+- Defining features of the U.S. Constitution
+- Some history of the LGBTQ+ rights movement
+- The major social and political beliefs of Americans, specifically American Christians
 
 <hr>
 
 #### Essential Question 
 
-What social problems plagued American cities in the late 1970s and early 1980s, and what political debates emerged about how to solve those problems?
+Why and how did marriage become legal for same-sex couples in the United States?
 
 <hr>
 
 #### General Discussion Questions
-- What were the social, economic, and political forces that contributed to urban decay in the 1970s?
-- What were some of the hardships faced by urban residents in the late 1970s and early 1980s?
-- How and why did the urban crisis particularly affect African Americans and Latinos?
-- What were some of the political reforms that were proposed or attempted to address the problems of the cities? What might have been the sources of resistance to these efforts?
 
+- What arguments did some Americans make in favor of marriage equality? What arguments did other Americans make in opposition?
+- What features of the U.S. Constitution shaped political battles over marriage in the United States?
+- What factors might explain why public opinion shifted so dramatically in favor of marriage equality between the 1990s and 2010s?
 
 <hr>
 
 #### Classroom Activities
 
-1) Ask students to watch the following sources: 
+##### The Debate Over Marriage Equality
 
-- [Middle Class Exodus to the Suburbs (1966)](/primary_source_sets/urban-crisis/01-516-hx15m6375q)
-- [The Struggles of the Auto Industry (1980)](/primary_source_sets/urban-crisis/02-e702335a440)
-- [The Domino Effect of Plant Closures in the Rust Belt (1978)](/primary_source_sets/urban-crisis/03-507-gt5fb4xb92)
+Have students watch 3-5 of the sources in which people explain their support or opposition for marriage equality. You can pick whatever clips you feel are best suited for your class (virtually all of them include people making arguments either for or against), but a good collection might be:
 
-Then ask them to make a diagram or flowchart to depict the causal processes that created urban decay in the late 1970s and early 1980s. Ideally, this schematic should show some of the chain reactions that took place in the postwar decades and depict how different causes reinforced each other. Students can either write their maps on paper or use a free concept mapping tool on the internet.
+Clip 2
+Clip 4
+Clip 6
+Clip 9
+Clip 11
 
-2) Ask students to watch the following sources: 
+- After students watch those clips, discuss the following questions:
+- What are some arguments that people made in favor of marriage equality? How are these arguments typical of those often made by political liberals about the rights of minority groups?
+- What are some arguments that people made in opposition to marriage equality? How are these arguments typical of those often made by political conservatives?
+- What do you think of these arguments: should same-sex marriage be legal?  Why or why not?
 
-- [Joblessness and Lack of Opportunity for Black Urban Youth (1983)](/primary_source_sets/urban-crisis/04-526-ns0ks6k995)
-- [Urban Decay in the South Bronx (1980)](/primary_source_sets/urban-crisis/05-526-ns0ks6k995)
-- [Crisis in Urban Housing Projects (1978)](/primary_source_sets/urban-crisis/06-526-ns0ks6k995)
-- [Fear of Crime in American Cities (1979)](/primary_source_sets/urban-crisis/07-507-jq0sq8r907)
-- [Political Backlash Against Crime in Newark (1979)](/primary_source_sets/urban-crisis/08-259-sq8qgg2r)
+##### The 2004 Moment
 
-Discuss the following questions: 
+Have students watch the following clips from 2003 and 2004.
+Clip 4
+Clip 5
+Clip 6
+Clip 7
+Clip 8
 
-- Imagine you lived in a poor neighborhood in one of the cities in this era. What would be hard about growing up in this environment? What are some opportunities that you might not have that middle-class residents would have?
-- What kinds of explanations for urban problems might have been offered by political liberals? What reforms do you think they might have proposed?
-- What kinds of explanations for urban problems might have been offered by political conservatives? What reforms do you think they might have proposed?
-- Extension Activity: Ask students to read [this *New York Times*](https://www.nytimes.com/1978/03/28/archives/president-proposes-a-broad-new-policy-for-urban-recovery-fate-in.html) summary of then-President Jimmy Carter’s proposal of a broad federal policy to address problems in American cities. Ask: Which of these proposals do you think would be effective in addressing those problems? Which would not be effective? What criticism might this proposal have faced?
+Discuss the following questions:
 
-3) Ask students to watch the following sources: 
+- Why did the court decision legalizing same-sex marriage within Massachusetts provoke such a strong response outside the state?
+- What might have motivated Republicans at this time to propose amending state constitutions to codify marriage as between a man and a woman?
+- Why might Republicans like President Bush have felt it was important to pass a national constitutional amendment banning same-sex marriage?
+- Given that these efforts were being pursued in the midst of the 2004 campaign, what role might political motivations be playing here? 
+- For many gay marriage advocates, the 2004 election seemed like a major step backward. Why might they have felt that way?
+- Some commentators argued that the gay marriage issue was important for Republican victories in the 2004 election. Why might they have believed that?
 
-- [Stopping the “Vicious Cycle” of Suburban Flight (1978)](/primary_source_sets/urban-crisis/09-259-gh9b8312)
-- [The “Local Control” Argument Against Aid to Cities (1977)](/primary_source_sets/urban-crisis/10-507-x639z91909)
-- [Debating Aid to Struggling Cities (1978)](/primary_source_sets/urban-crisis/11-507-x639z91909)
-- [The Political Challenge of Reviving New Jersey’s Cities (1982)](/primary_source_sets/urban-crisis/12-507-x639z91909)
+##### The Marriage Debate and American Governance
+In a civics or government class, teachers might want to use sources from this set to discuss marriage equality in light of specific features of the American political system, such as federalism and the Constitutional protections of the 14th amendment. Have students watch some or all of the following clips:
 
-Present them with the following situation: It is 1983 and there is an economically depressed major city in a county that includes many affluent suburbs. A reform organization called the Society for Urban Renewal is proposing that 10% of property tax revenue collected in the suburbs should be redirected to the major city to fund municipal operations. Then divide students into three groups, and tell each group to consider what they would argue about the proposed reform:
+Source 3
+Source 4
+Source 5
+Source 7
+Source 9
+Source 11
+Source 12
 
-- Group 1: Mayor of the Major City (Have this group consider: Why does the major city deserve to have a percentage of the tax revenue collected in the suburbs? Why will this reform benefit the whole county?)
-- Group 2: Mayor of an Affluent Suburb (Have this group consider: Why is it unfair for your tax revenue to be funneled to the city? Why would this proposed reform be a mistake?)
-- Group 3: Governor of the State (Have this group consider: What do you see as the positives of the proposed reform? The negatives? Would you support it, or not?)
+Discuss the following questions:
+- Why did many courts find that bans on same-sex marriage were unconstitutional?
+- Why did the supreme court decisions in Hawaii and Massachusetts provoke responses in other states and on the federal level? Why did some elected officials feel it was important to change state constitutions to protect “traditional marriage”?
+- On several occasions, state and federal courts overturned laws that were approved by voters and legislators.
+- Why did critics of marriage equality argue that this was unfair? How did defenders of marriage equality argue that such judicial action was necessary?
+- What do you think?
+- When is it appropriate for the Supreme Court to override laws created through democratic processes?
 
-4) After watching and discussing some or all of the clips in this set, divide students into groups and give them the following task: “You work for the mayor of a major city in 1981. Hundreds of factories have shut down, and poverty and unemployment have risen significantly in the last decade. At the same time, crime has spiked and residents complain that the streets aren’t safe. A large number of (predominantly white) middle- and upper-class residents have moved to the suburbs. The city’s finances are in trouble, as the city has had to take out loans to fill budget gaps but is struggling to pay back those loans. It seems the city will need some combination of tax increases, spending cuts, or outside financial aid. Faced with these problems, come up with a list of five proposed municipal reforms (Note: these should be reforms that are *in the mayor’s control*, and can’t involve getting funding from other layers of government). For each reform, provide a brief explanation of why that reform could help address a problem your city faces.” After completing this task, groups can “share out” some of their proposed reforms, and as a class, you can discuss whether these reforms would be effective.
+##### Why Did Things Change?
+
+Pick some sources from different time periods in the set for students to watch. For example, consider this collection:
+Source 3
+Source 5
+Source 8
+Source 10
+Source 11
+
+Then have students read some of the data from the Pew Research Center about Public Attitudes on Same-Sex Marriage. Ask them to combine this data with what they’ve learned from sources in the set, then discuss the following questions:
+
+- What trends in the data do you notice in public opinion about same-sex marriage?
+- What do the sources indicate about how the political popularity of same-sex marriage changed over time?
+- What possible social explanations can you offer for why popular support for same-sex marriage grew over time?
+- Do you think changes in public opinion could have shaped Barack Obama’s decision to only support civil unions in 2008 and then support full marriage equality in 2012? Why or why not?  y
+- To what extent do you believe that the changing social and political environment was responsible for the Supreme Court’s decision in Obergefell?
+- If the Supreme Court were to overturn Obergefell, returning legal decisions about same-sex marriage to the states, what might happen? Where might same-sex marriage remain legal? What might the federal government do?
 
 <hr>
 
@@ -104,18 +136,21 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Urban_Cris
 
 ## Additionalresources
 
-- [**A City in Spiral: New York City in the 1960s and 1970s**](https://illinois.pbslearningmedia.org/resource/city-in-spiral-nyc-1960s-1970s-video/new-york-documentary-film/), PBS LearningMedia
-- [**Blackout: NYC in Chaos**](https://www.pbs.org/wgbh/americanexperience/features/blackout-gallery/), *American Experience*
+- [**Obergefell v. Hodges: Summary and Full Opinion**](https://constitutioncenter.org/the-constitution/supreme-court-case-library/obergefell-v-hodges), National Constitution Center
+- [**Public Attitudeds on Same-Sex Marriage**](https://www.pewresearch.org/religion/fact-sheet/changing-attitudes-on-gay-marriage/), Pew Research Center
 
 
 ## Youmayalsolike 
-- special collection,njn-specialcollection
-- special collection,newshour
-
+- special collection,outcasting
+- special collection,stonewall-uprising-interviews
+- special collection,ucla-inthelife
+- special collection,this-way-out
+- exhibits, hiv-aids-and-public-broadcasting
 
 ## References
 
-Cover image: Vergara, Camilo J., photographer. South Bronx, 1973. Photograph (cropped). https://lccn.loc.gov/2020702547.
+- Cover image: White House. 26 June 2015. Photograph (cropped). [https://lccn.loc.gov/2020702547](https://commons.wikimedia.org/wiki/File:White_House_rainbow_for_SCOTUS_ruling_on_same-sex_marriage.jpg).
+- [Brenan, Megan. “Same-Sex Relations, Marriage Still Supported by Most in U.S.” Gallup News, June 24, 2024.](https://news.gallup.com/poll/646202/sex-relations-marriage-supported.aspx)
 
 
 ## Guid
