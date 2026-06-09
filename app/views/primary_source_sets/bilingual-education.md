@@ -13,10 +13,10 @@ Angélica Amezcua, Ph.D., University of Washington
 
 ## Subjects
 
-- Perspectives on bilingual education throughout the history of the United States. 
-- The impact of language orientations and language ideologies in bilingual education in the United States.
-- The diverse types of bilingual education programs in Texas, New Mexico, and Colorado.
-- Policies implemented in California, such as Proposition 227.
+- Historical perspectives on bilingual education in the United States. 
+- Language orientations and ideologies in bilingual education.
+- Types of bilingual education programs in Texas, New Mexico, and Colorado.
+- California bilingual education policies, including Proposition 227.
 
 ## Introduction
 
@@ -42,7 +42,7 @@ Furthermore, this hegemonic ideology positions English as the language of presti
 
 #### Essential Question 
 
-How have language ideologies shaped educational policies and attitudes toward bilingual education in the United States? How has the idea of a monolingual nation impacted multilingual communities? Why is bilingualism often framed as a problem rather than as a right? 
+How have language ideologies and beliefs about a monolingual nation shaped bilingual education policies, attitudes toward bilingualism, and the experiences of multilingual communities in the United States?
 
 <hr>
 
@@ -57,43 +57,100 @@ How have language ideologies shaped educational policies and attitudes toward bi
 
 #### Classroom Activities
 
-1) Ask students to watch the following sources: 
+##### Activity 1. Bilingual Education in 1978
 
-- [Middle Class Exodus to the Suburbs (1966)](/primary_source_sets/urban-crisis/01-516-hx15m6375q)
-- [The Struggles of the Auto Industry (1980)](/primary_source_sets/urban-crisis/02-e702335a440)
-- [The Domino Effect of Plant Closures in the Rust Belt (1978)](/primary_source_sets/urban-crisis/03-507-gt5fb4xb92)
+In this television program, host Melvin Moore interviews Raffael De Gruttola (director of bilingual education in Boston), Stephanie Fan (teacher in charge at the Bilingual Education Department), David Cortiella (of El Comité de Padres), and Ray Almeida (community advocate for bilingual and multicultural education and proponent of Cape Verdean education in Massachusetts). In this interview, they discuss what transitional bilingual education is, what it consists of, who benefits from this type of program, and what needs to be done to make these programs successful. 
 
-Then ask them to make a diagram or flowchart to depict the causal processes that created urban decay in the late 1970s and early 1980s. Ideally, this schematic should show some of the chain reactions that took place in the postwar decades and depict how different causes reinforced each other. Students can either write their maps on paper or use a free concept mapping tool on the internet.
+Divide students into two groups to listen to the television program below. The first group will listen from 0:00 to 20:40, and the second group will listen from 21:45 to 56:43.
 
-2) Ask students to watch the following sources: 
+titled Say Brother; Bilingual Education; 828 (https://americanarchive.org/catalog/cpb-aacip_15-2r3nv9976n), recorded in 1978. 
 
-- [Joblessness and Lack of Opportunity for Black Urban Youth (1983)](/primary_source_sets/urban-crisis/04-526-ns0ks6k995)
-- [Urban Decay in the South Bronx (1980)](/primary_source_sets/urban-crisis/05-526-ns0ks6k995)
-- [Crisis in Urban Housing Projects (1978)](/primary_source_sets/urban-crisis/06-526-ns0ks6k995)
-- [Fear of Crime in American Cities (1979)](/primary_source_sets/urban-crisis/07-507-jq0sq8r907)
-- [Political Backlash Against Crime in Newark (1979)](/primary_source_sets/urban-crisis/08-259-sq8qgg2r)
+After listening, students should discuss the questions below and fill in their answers. Each student must have a copy of the answers as the students will then pair up with up with a member of the other group to share answers for each section of the video. To conclude, the instructor can lead a class discussion to review the main takeaways from both groups.
 
-Discuss the following questions: 
+Complete the following sentences:
 
-- Imagine you lived in a poor neighborhood in one of the cities in this era. What would be hard about growing up in this environment? What are some opportunities that you might not have that middle-class residents would have?
-- What kinds of explanations for urban problems might have been offered by political liberals? What reforms do you think they might have proposed?
-- What kinds of explanations for urban problems might have been offered by political conservatives? What reforms do you think they might have proposed?
-- Extension Activity: Ask students to read [this *New York Times*](https://www.nytimes.com/1978/03/28/archives/president-proposes-a-broad-new-policy-for-urban-recovery-fate-in.html) summary of then-President Jimmy Carter’s proposal of a broad federal policy to address problems in American cities. Ask: Which of these proposals do you think would be effective in addressing those problems? Which would not be effective? What criticism might this proposal have faced?
+1) I leanded that...
+2) I was surprised that...
+3) I didn't know that...
+4) I realized that bilingual education is...
+5) I want to learn more about...
+   
+##### Activity 2. Differences and similarities of bilingual education programs in Colorado, Texas, and New Mexico in the years 1982 and 1985. 
 
-3) Ask students to watch the following sources: 
+In these recordings, students will watch and listen to three different programs. 
+The first television episode, titled Schools n Kids; Foreign Language Education; The Education Report-Lab (https://americanarchive.org/catalog/cpb-aacip-c71d94dcc63), was recorded in 1982. In this program, students will learn how some Denver, Colorado, public schools encourage enrollment in language learning courses. Host Ed Sardella interviews a panel of educators—Betsy Royce (George Washington High School), Marsha McNally (Place Middle School), and Angela D’Antoni (John F. Kennedy High School)—and shares interviews with educators Patricia DeLeon Hikida (Kunsmiller Middle School) and Claude Marie Bonnoit (Thomas Jefferson High School).
 
-- [Stopping the “Vicious Cycle” of Suburban Flight (1978)](/primary_source_sets/urban-crisis/09-259-gh9b8312)
-- [The “Local Control” Argument Against Aid to Cities (1977)](/primary_source_sets/urban-crisis/10-507-x639z91909)
-- [Debating Aid to Struggling Cities (1978)](/primary_source_sets/urban-crisis/11-507-x639z91909)
-- [The Political Challenge of Reviving New Jersey’s Cities (1982)](/primary_source_sets/urban-crisis/12-507-x639z91909)
+The second television program, titled The Bilingual Education Controversy: A Houston Perspective (https://americanarchive.org/catalog/cpb-aacip_513-4t6f18tf3b), was recorded in 1982. In this program, students will learn about bilingual education in Houston public schools. 
 
-Present them with the following situation: It is 1983 and there is an economically depressed major city in a county that includes many affluent suburbs. A reform organization called the Society for Urban Renewal is proposing that 10% of property tax revenue collected in the suburbs should be redirected to the major city to fund municipal operations. Then divide students into three groups, and tell each group to consider what they would argue about the proposed reform:
+The third television program, titled Illustrated Daily; 6018; Bilingual Education (https://americanarchive.org/catalog/cpb-aacip-96b707c912b) and recorded in 1985, discusses bilingual education in New Mexico. This episode includes interviews with Maria Montalvo (coordinator, Modern and Classical Language, Albuquerque Public Schools), Delia Alvarez (bilingual teacher, Kit Carson Elementary School), Hoa Sing Choaa (bilingual student, Albuquerque Public Schools, Cambodia), Tick Saetang (bilingual student, Albuquerque Public Schools, Laos), Wil Sandoval (cross-cultural education coordinator, Albuquerque Public Schools), Senator Joseph Carraro (vice chairman, Public School Reform Committee), and Professor Raphael Diaz (Developmental and Child Psychology, University of New Mexico). 
 
-- Group 1: Mayor of the Major City (Have this group consider: Why does the major city deserve to have a percentage of the tax revenue collected in the suburbs? Why will this reform benefit the whole county?)
-- Group 2: Mayor of an Affluent Suburb (Have this group consider: Why is it unfair for your tax revenue to be funneled to the city? Why would this proposed reform be a mistake?)
-- Group 3: Governor of the State (Have this group consider: What do you see as the positives of the proposed reform? The negatives? Would you support it, or not?)
+For homework, students will need to listen to the three television programs and answer the questions for each state: 
 
-4) After watching and discussing some or all of the clips in this set, divide students into groups and give them the following task: “You work for the mayor of a major city in 1981. Hundreds of factories have shut down, and poverty and unemployment have risen significantly in the last decade. At the same time, crime has spiked and residents complain that the streets aren’t safe. A large number of (predominantly white) middle- and upper-class residents have moved to the suburbs. The city’s finances are in trouble, as the city has had to take out loans to fill budget gaps but is struggling to pay back those loans. It seems the city will need some combination of tax increases, spending cuts, or outside financial aid. Faced with these problems, come up with a list of five proposed municipal reforms (Note: these should be reforms that are *in the mayor’s control*, and can’t involve getting funding from other layers of government). For each reform, provide a brief explanation of why that reform could help address a problem your city faces.” After completing this task, groups can “share out” some of their proposed reforms, and as a class, you can discuss whether these reforms would be effective.
+1. At what grade level do they start offering language learning courses?
+- Devner, Colorado:
+- Houston, Texas:
+- Albuquerque, New Mexico:
+
+2. How are non-English languages taught, and what methods are used to teach them?
+- Devner, Colorado:
+- Houston, Texas:
+- Albuquerque, New Mexico:
+
+3. What are some of the student outcomes from participating in bilingual education programs?
+- Devner, Colorado:
+- Houston, Texas:
+- Albuquerque, New Mexico:
+
+4. How are students motivated to learn non-English languages?
+- Devner, Colorado:
+- Houston, Texas:
+- Albuquerque, New Mexico:
+
+5. How does each state support schools in implementing and teaching language courses?
+- Devner, Colorado:
+- Houston, Texas:
+- Albuquerque, New Mexico:
+
+6. What are the controversies surrounding bilingual education in each state? 
+- Devner, Colorado:
+- Houston, Texas:
+- Albuquerque, New Mexico:
+
+##### Activity 3. Before and After Proposition 227 in California
+
+In this activity, students will listen to four recordings to learn about the different perspectives and outcomes of Proposition 227. This proposition passed in California in 1998 and significantly impacted bilingual education in the state. Proposition 227 was later repealed by Proposition 58 in 2016. Instructors can assign each recording as homework throughout the week. 
+
+In the first radio episode, titled Línea Abierta; Bilingual Education Edition (https://americanarchive.org/catalog/cpb-aacip-1b901e7debe) and recorded in 1998, students will listen from minutes 18:21 to 57:37 to learn about the different perspectives on Proposition 227 before it passed in June 1998. 
+
+In the second radio episode, titled Línea Abierta; Bilingual Education Under Proposition 227 (https://americanarchive.org/catalog/cpb-aacip-3926635b52a), recorded in 2000, students will listen from minutes 14:50 to 57:04 to learn about the impact of Proposition 227 and the perspectives on bilingual education in California. 
+
+In the third episode, titled Línea Abierta; 5384; Bilingual Education; Ten Years Since 227 (https://americanarchive.org/catalog/cpb-aacip-ff82ee964ae), recorded in 2008, students will listen from minutes 6:45 to 57:30 to learn about the challenges faced by educators who teach English learners 10 years after the passage of Proposition 227. The host, Samuel Orozco, interviews educators and administrators at the annual meeting of the California Association of Bilingual Education in San José, California. 
+
+In the fourth episode, titled Línea Abierta; 7971; Bilingual Education Back in California (https://americanarchive.org/catalog/cpb-aacip-36edf037a89), recorded in 2017, students will listen from minutes 3:50 to 32:25 to hear host, Samuel Orozco interview Dr. Patricia Gándara about the new reform that repealed Proposition 227 and brought bilingual and multilingual programs back to schools in California. 
+
+For homework, students will listen to the four episodes and create a timeline showing the different perspectives and outcomes before the passage of Proposition 227, during its implementation, 10 years after its passage, and after it was repealed in 2016. 
+
+In the timeline, you will include the following:
+1998: Perspectives before Proposition 227
+2000: Perspectives and outcomes of Proposition 227
+2008: Perspectives and outcomes ten years after the passage of Proposition 227
+2017: Perspectives and outcomes after the repeal of Proposition 227
+
+##### Activity 4. Bilingual Education Throughout History: 1976-2022
+
+In this activity, students will listen to two recordings to learn about the different perspectives on bilingual education from 1976 to 2022. 
+
+In the first episode, recorded in 1976 and titled The Next 200 Years; Bilingualism in America (https://americanarchive.org/catalog/cpb-aacip-529-c53dz04829), students will listen from minutes 0:43 to 24:22 to learn how educators projected bilingualism in the United States over the next 200 years. 
+
+In the second episode, recorded in 2022 and titled The 217 Today; Bilingual education helps students learn English while increasing their confidence and academic performance (https://americanarchive.org/catalog/cpb-aacip-b43e0088693), students will listen from minute 4:06 to 9:05 to learn about the benefits of bilingual education.
+
+Once students have listened to the episodes, they should discuss the different perspectives on bilingual education over the years. Then, using the information obtained from all the activities, the instructor can prepare students to debate the benefits of bilingual education. Students should be divided into five groups, with each group representing a different stakeholder in bilingual education. Each group should be given time to prepare their arguments. 
+
+Group one: Educators
+Group two: Policy makers
+Group three: Parents
+Group four: Students
+Group five: Community members 
 
 <hr>
 
