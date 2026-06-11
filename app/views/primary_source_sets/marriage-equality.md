@@ -61,12 +61,12 @@ Why and how did marriage become legal for same-sex couples in the United States?
 
 Have students watch 3-5 of the sources in which people explain their support or opposition for marriage equality. You can pick whatever clips you feel are best suited for your class (virtually all of them include people making arguments either for or against), but a good collection might be:
 
-Clip 1
-Clip 2
-Clip 4
-Clip 6
-Clip 9
-Clip 11
+- [1970s LGBTQ Rights Advocates Make the Case for Marriage Equality (1974)](/primary_source_sets/marriage-equality/01-15-8k74t6f88x)
+- [Two Reverends Give Competing Views of Christianity and Marriage (1994)](/primary_source_sets/marriage-equality/02-225-881jx2vq)
+- [Same-Sex Couples Sue for Marriage Equality in Massachusetts (2003)](/primary_source_sets/marriage-equality/04-507-rr1pg1jf1h)
+- [Dueling Advocates Make Mainstream Appeals on Marriage Equality (2004)](/primary_source_sets/marriage-equality/06-507-hh6c24rc1h)
+- [Two Lawyers Make the Legal Case for Marriage Equality (2010)](/primary_source_sets/marriage-equality/09-4da0bd590b6)
+- [The Obergefell v. Hodges Decision Legalizes Same-Sex Marriage (2015)](/primary_source_sets/marriage-equality/11-a33e6c7bcc6)
 
 - After students watch those clips, discuss the following questions:
 - What are some arguments that people made in favor of marriage equality? How are these arguments typical of those often made by political liberals about the rights of minority groups?
@@ -76,11 +76,12 @@ Clip 11
 ##### The 2004 Moment
 
 Have students watch the following clips from 2003 and 2004.
-Clip 4
-Clip 5
-Clip 6
-Clip 7
-Clip 8
+
+- [Same-Sex Couples Sue for Marriage Equality in Massachusetts (2003)](/primary_source_sets/marriage-equality/04-507-rr1pg1jf1h)
+- [Massachusetts Ruling Shakes Up Marriage Equality Debate (2004)](/primary_source_sets/marriage-equality/05-507-hh6c24rc1h)
+- [Dueling Advocates Make Mainstream Appeals on Marriage Equality (2004)](/primary_source_sets/marriage-equality/06-507-hh6c24rc1h)
+- [Same-Sex Couples Sue for Marriage Rights in New Jersey (2004)](/primary_source_sets/marriage-equality/07-259-bg2h9j6w)
+- [Political Mobilization Against Marriage Equality in the 2004 Election (2004)](/primary_source_sets/marriage-equality/08-7d00c0a7da3)
 
 Discuss the following questions:
 
@@ -95,12 +96,13 @@ Discuss the following questions:
 In a civics or government class, teachers might want to use sources from this set to discuss marriage equality in light of specific features of the American political system, such as federalism and the Constitutional protections of the 14th amendment. Have students watch some or all of the following clips:
 
 Source 3
-Source 4
-Source 5
-Source 7
-Source 9
-Source 11
-Source 12
+- [Hawaii Court Decision Puts Marriage Equality in the National Spotlight (1996)](/primary_source_sets/marriage-equality/03-507-125q815765)
+- [Same-Sex Couples Sue for Marriage Equality in Massachusetts (2003)](/primary_source_sets/marriage-equality/04-507-rr1pg1jf1h)
+- [Massachusetts Ruling Shakes Up Marriage Equality Debate (2004)](/primary_source_sets/marriage-equality/05-507-hh6c24rc1h)
+- [Same-Sex Couples Sue for Marriage Rights in New Jersey (2004)](/primary_source_sets/marriage-equality/07-259-bg2h9j6w)
+- [Two Lawyers Make the Legal Case for Marriage Equality (2010)](/primary_source_sets/marriage-equality/09-4da0bd590b6)
+- [The Obergefell v. Hodges Decision Legalizes Same-Sex Marriage (2015)](/primary_source_sets/marriage-equality/11-a33e6c7bcc6)
+- [Kim Davis and Conservative Claims to “Religious Liberty” (2015)](/primary_source_sets/marriage-equality/12-39125a5e407)
 
 Discuss the following questions:
 - Why did many courts find that bans on same-sex marriage were unconstitutional?
