@@ -95,7 +95,6 @@ Discuss the following questions:
 ##### The Marriage Debate and American Governance
 In a civics or government class, teachers might want to use sources from this set to discuss marriage equality in light of specific features of the American political system, such as federalism and the Constitutional protections of the 14th amendment. Have students watch some or all of the following clips:
 
-Source 3
 - [Hawaii Court Decision Puts Marriage Equality in the National Spotlight (1996)](/primary_source_sets/marriage-equality/03-507-125q815765)
 - [Same-Sex Couples Sue for Marriage Equality in Massachusetts (2003)](/primary_source_sets/marriage-equality/04-507-rr1pg1jf1h)
 - [Massachusetts Ruling Shakes Up Marriage Equality Debate (2004)](/primary_source_sets/marriage-equality/05-507-hh6c24rc1h)
@@ -105,6 +104,7 @@ Source 3
 - [Kim Davis and Conservative Claims to “Religious Liberty” (2015)](/primary_source_sets/marriage-equality/12-39125a5e407)
 
 Discuss the following questions:
+
 - Why did many courts find that bans on same-sex marriage were unconstitutional?
 - Why did the supreme court decisions in Hawaii and Massachusetts provoke responses in other states and on the federal level? Why did some elected officials feel it was important to change state constitutions to protect “traditional marriage”?
 - On several occasions, state and federal courts overturned laws that were approved by voters and legislators.
@@ -115,11 +115,11 @@ Discuss the following questions:
 ##### Why Did Things Change?
 
 Pick some sources from different time periods in the set for students to watch. For example, consider this collection:
-Source 3
-Source 5
-Source 8
-Source 10
-Source 11
+- [Hawaii Court Decision Puts Marriage Equality in the National Spotlight (1996)](/primary_source_sets/marriage-equality/03-507-125q815765)
+- [Massachusetts Ruling Shakes Up Marriage Equality Debate (2004)](/primary_source_sets/marriage-equality/05-507-hh6c24rc1h)
+- [Political Mobilization Against Marriage Equality in the 2004 Election (2004)](/primary_source_sets/marriage-equality/08-7d00c0a7da3)
+- [President Obama Comes Out in Favor of Marriage Equality (2012)](/primary_source_sets/marriage-equality/10-525-2r3nv9b58z)
+- [The Obergefell v. Hodges Decision Legalizes Same-Sex Marriage (2015)](/primary_source_sets/marriage-equality/11-a33e6c7bcc6)
 
 Then have students read some of the data from the Pew Research Center about Public Attitudes on Same-Sex Marriage. Ask them to combine this data with what they’ve learned from sources in the set, then discuss the following questions:
 
