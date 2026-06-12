@@ -148,7 +148,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Marriage_E
 - special collection,stonewall-uprising-interviews
 - special collection,ucla-inthelife
 - special collection,this-way-out
-- exhibits, hiv-aids-and-public-broadcasting
+- exhibits,hiv-aids-and-public-broadcasting
 
 ## References
 
