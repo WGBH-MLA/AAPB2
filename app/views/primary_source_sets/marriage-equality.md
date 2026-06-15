@@ -69,6 +69,7 @@ Have students watch 3-5 of the sources in which people explain their support or 
 - [The Obergefell v. Hodges Decision Legalizes Same-Sex Marriage (2015)](/primary_source_sets/marriage-equality/11-a33e6c7bcc6)
 
 After students watch those clips, discuss the following questions:
+
 - What are some arguments that people made in favor of marriage equality? How are these arguments typical of those often made by political liberals about the rights of minority groups?
 - What are some arguments that people made in opposition to marriage equality? How are these arguments typical of those often made by political conservatives?
 - What do you think of these arguments: should same-sex marriage be legal?  Why or why not?
@@ -113,8 +114,8 @@ Discuss the following questions:
 - When is it appropriate for the Supreme Court to override laws created through democratic processes?
 
 ##### Why Did Things Change?
-
 Pick some sources from different time periods in the set for students to watch. For example, consider this collection:
+
 - [Hawaii Court Decision Puts Marriage Equality in the National Spotlight (1996)](/primary_source_sets/marriage-equality/3-507-125q815765)
 - [Massachusetts Ruling Shakes Up Marriage Equality Debate (2004)](/primary_source_sets/marriage-equality/5-507-hh6c24rc1h)
 - [Political Mobilization Against Marriage Equality in the 2004 Election (2004)](/primary_source_sets/marriage-equality/8-7d00c0a7da3)
