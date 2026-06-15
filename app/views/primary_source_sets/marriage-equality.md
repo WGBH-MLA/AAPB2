@@ -68,7 +68,7 @@ Have students watch 3-5 of the sources in which people explain their support or 
 - [Two Lawyers Make the Legal Case for Marriage Equality (2010)](/primary_source_sets/marriage-equality/9-4da0bd590b6)
 - [The Obergefell v. Hodges Decision Legalizes Same-Sex Marriage (2015)](/primary_source_sets/marriage-equality/11-a33e6c7bcc6)
 
-- After students watch those clips, discuss the following questions:
+After students watch those clips, discuss the following questions:
 - What are some arguments that people made in favor of marriage equality? How are these arguments typical of those often made by political liberals about the rights of minority groups?
 - What are some arguments that people made in opposition to marriage equality? How are these arguments typical of those often made by political conservatives?
 - What do you think of these arguments: should same-sex marriage be legal?  Why or why not?
