@@ -94,6 +94,7 @@ Discuss the following questions:
 - Some commentators argued that the gay marriage issue was important for Republican victories in the 2004 election. Why might they have believed that?
 
 ##### The Marriage Debate and American Governance
+
 In a civics or government class, teachers might want to use sources from this set to discuss marriage equality in light of specific features of the American political system, such as federalism and the Constitutional protections of the 14th amendment. Have students watch some or all of the following clips:
 
 - [Hawaii Court Decision Puts Marriage Equality in the National Spotlight (1996)](/primary_source_sets/marriage-equality/3-507-125q815765)
@@ -114,6 +115,7 @@ Discuss the following questions:
 - When is it appropriate for the Supreme Court to override laws created through democratic processes?
 
 ##### Why Did Things Change?
+
 Pick some sources from different time periods in the set for students to watch. For example, consider this collection:
 
 - [Hawaii Court Decision Puts Marriage Equality in the National Spotlight (1996)](/primary_source_sets/marriage-equality/3-507-125q815765)
