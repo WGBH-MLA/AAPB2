@@ -171,7 +171,7 @@ Discuss the answers as a class and write the main ideas for each question on the
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Student-Protests-1960s_Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Latinas_Resilience_Teaching-Tips.pdf
 
 ## Additionalresources
 
