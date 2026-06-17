@@ -30,11 +30,11 @@ In the next activities, we will explore key moments where Latinas led movements,
 
 ## Teachingtips
 
-In this set, students will listen to the radio station Radio Bilingüe, one of three pioneering Spanish-language radio stations, and focus on the diverse issues related to Latinas. Specifically, they will explore a program series titled Línea Abierta, which covers topics such as health, politics, education, immigrant rights, and more. They may need to listen to the episodes more than once.
+In this set, students will listen to the radio station Radio Bilingüe, one of three pioneering Spanish-language radio stations, and focus on the diverse issues related to Latinas. Specifically, they will explore a program series titled *Línea Abierta*, which covers topics such as health, politics, education, immigrant rights, and more. They may need to listen to the episodes more than once.
 
 #### Background Information
 
-Línea Abierta is a groundbreaking daily talk show that connects Spanish-speaking audiences across the United States and Mexico. Created by Radio Bilingüe in February 1995, the program provides thoughtful, in-depth coverage of issues affecting Latino communities—something rarely found in mainstream public or commercial broadcasts. The hosts of Línea Abierta, Chelis López, Gerardo Guzmán and Samuel Orozco, first started delivering a full hour of news, analysis, interviews, special series, and roundtable discussions in Spanish. In August 1996, the program was expanded to a two-hour format. The show regularly brings together Latino and Latina experts for dynamic, moderated conversations. Línea Abierta is now broadcast on 75 stations nationwide and is offered free of charge via satellite and online at radiobilingue.org (De La Cruz, 2017).
+*Línea Abierta* is a groundbreaking daily talk show that connects Spanish-speaking audiences across the United States and Mexico. Created by Radio Bilingüe in February 1995, the program provides thoughtful, in-depth coverage of issues affecting Latino communities—something rarely found in mainstream public or commercial broadcasts. The hosts of Línea Abierta, Chelis López, Gerardo Guzmán and Samuel Orozco, first started delivering a full hour of news, analysis, interviews, special series, and roundtable discussions in Spanish. In August 1996, the program was expanded to a two-hour format. The show regularly brings together Latino and Latina experts for dynamic, moderated conversations. Línea Abierta is now broadcast on 75 stations nationwide and is offered free of charge via satellite and online at radiobilingue.org (De La Cruz, 2017).
 
 In 2025, Línea Abierta celebrates 30 years on the air with a special edition show titled Thirty Years, Thirty Voices, featuring 30 civil rights leaders, activists, and influential figures such as Dolores Huerta and José Ángel Gutiérrez (De La Cruz, 2017; Radio Bilingüe).
 
@@ -129,7 +129,7 @@ In this activity, students will complete three parts:
 
 Students will be divided into pairs and listen to a clip from the episode titled Latina Entrepreneurs recorded in 2019. They will then discuss the meaning of the following quotes from the interview in the context of the episode’s content.
 
-- [Línea Abierta: Latina Entrepreneurs (2019)](https://americanarchive.org/primary_source_sets/latinas-resilience/7-e15cd8b87cb)
+- [Línea Abierta: Latina Entrepreneurs (2019) Clip 1](https://americanarchive.org/primary_source_sets/latinas-resilience/7-e15cd8b87cb)
 
 “En este lugar, me van a cuidar aquí y yo voy a cuidar a los otros.”
 “Hay tanto mensaje opresor que el mismo oprimido se la cree... En realidad el poder existe cuando el oprimido da ese poder, pero cuando nos damos cuenta que hay un poder colectivo y hay un poder interior, entonces nadie nos para… Juntas somos imparables.”
@@ -141,7 +141,7 @@ Students will be divided into pairs and listen to a clip from the episode titled
 ##### Part II.
 Students will listen to the next part of the podcast Latina Entrepreneurs.
 
-- [Línea Abierta: Latina Entrepreneurs (2019)](https://americanarchive.org/primary_source_sets/latinas-resilience/8-e15cd8b87cb)
+- [Línea Abierta: Latina Entrepreneurs (2019) Clip 2](https://americanarchive.org/primary_source_sets/latinas-resilience/8-e15cd8b87cb)
 
 In this section, students will hear testimonies from women about how Prospera has changed their lives, as well as an interview with one of the keynote speakers at the conference, La Cumbre. Each student will need to choose one of the women’s testimonies below and write a short summary.
 
