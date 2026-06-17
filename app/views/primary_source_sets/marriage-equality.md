@@ -129,7 +129,7 @@ Then have students read some of the data from the Pew Research Center about Publ
 - What trends in the data do you notice in public opinion about same-sex marriage?
 - What do the sources indicate about how the political popularity of same-sex marriage changed over time?
 - What possible social explanations can you offer for why popular support for same-sex marriage grew over time?
-- Do you think changes in public opinion could have shaped Barack Obama’s decision to only support civil unions in 2008 and then support full marriage equality in 2012? Why or why not?  y
+- Do you think changes in public opinion could have shaped Barack Obama’s decision to only support civil unions in 2008 and then support full marriage equality in 2012? Why or why not?
 - To what extent do you believe that the changing social and political environment was responsible for the Supreme Court’s decision in Obergefell?
 - If the Supreme Court were to overturn Obergefell, returning legal decisions about same-sex marriage to the states, what might happen? Where might same-sex marriage remain legal? What might the federal government do?
 
