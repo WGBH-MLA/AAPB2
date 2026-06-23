@@ -2,11 +2,11 @@
 
 ## Thumbnail
 
-![WHIV logo with Pride flag](https://s3.amazonaws.com/americanarchive.org/special-collections/whiv-rainbow.png "WHIV logo with Pride flag") 
+![WHIV logo with Pride flag](https://s3.amazonaws.com/americanarchive.org/special-collections/whiv-updated-logo.jpg "WHIV logo with Pride flag") 
 
 ## Summary 
 
-The WHIV: Human Rights and Social Justice Radio special collection features two series produced by WHIV-FM in New Orleans: “NOLA Matters: Civil Rights Radio,” and “PFLAG New Orleans – Expanding the Rainbow.” The collection currently includes thirty-six episodes from both series produced between 2015 and 2024, with plans to expand the collection in late 2026 and beyond. 
+The WHIV: Human Rights and Social Justice Radio special collection features two series produced by WHIV-FM in New Orleans: “PFLAG New Orleans – Expanding the Rainbow” and “NOLA Matters: Civil Rights Radio." The collection currently includes thirty-six episodes from both series produced between 2015 and 2024, with plans to expand the collection in late 2026 and beyond. 
 
 Hosted by Sally Michelle Jackson, Joshua “Adonis” Carcabasi, and Tyra Ellis, “PFLAG New Orleans – Expanding the Rainbow” covers topics of interest to members of the LGBTQ+ community and their allies. Several episodes feature interviews with queer writers, artists, and activists discussing their sexuality and gender identity, such as a 2017 episode with [Maxx Sizeler](https://americanarchive.org/catalog/cpb-aacip-04ce606ab7c), in which he reflects on his life and work as a gender-variant artist, and a 2018 interview with [August Steinkamp](https://americanarchive.org/catalog/cpb-aacip-a9797c44c14), who describes his experiences as a trans high school student and activist. Other episodes report on local activism, community organizing, the [impact of the COVID-19 pandemic](https://americanarchive.org/catalog/cpb-aacip-e5ccff9a5b1), and New Orleans cultural events, such as [Mardi Gras](https://americanarchive.org/catalog/cpb-aacip-07e1661f0d5). LGBTQ+ history is also a frequent topic, with episodes addressing the history of [International Transgender Day of Remembrance](https://americanarchive.org/catalog/cpb-aacip-fd2373b9641), the [1973 UpStairs Lounge arson attack](https://americanarchive.org/catalog/cpb-aacip-c39ec8b8493), and [LGBTQ+ activism in New York City](https://americanarchive.org/catalog/cpb-aacip-1b6b4a38a5f) before and during the AIDS crisis.
 
@@ -14,18 +14,18 @@ Hosted by retired Judge Calvin Johnson, “NOLA Matters: Civil Rights Radio” t
 
 ## Background
 
-WHIV-FM 102.3 isn’t a radio station with a mission; it’s a mission with a radio station. A program of the New Orleans Society for Infectious Disease Awareness (NOSIDA), WHIV is a low-powered, volunteer-driven community radio station dedicated to fighting for social justice and protecting human rights. WHIV’s founder, infectious disease specialist Dr. MarkAlain Déry, chose the station’s call letters to reduce the stigma around HIV. The call letters “HIV” simultaneously stand for “Honoring Independent Voices” to reflect the station’s ongoing commitment to amplifying the voices of local community members. Created to raise awareness of HIV and other infectious diseases through music, WHIV first went on the air on World AIDS Day, December 1, 2014.
+WHIV-FM 102.3 isn’t a radio station with a mission; it’s a mission with a radio station. A program of the New Orleans Society for Infectious Disease Awareness (NOSIDA), WHIV is a low-powered, volunteer-driven community radio station dedicated to fighting for social justice and protecting human rights. WHIV’s founder, infectious disease specialist Dr. MarkAlain Déry, chose the station’s call letters to reduce the stigma around HIV and AIDS. The call letters “HIV” simultaneously stand for “Honoring Independent Voices” to reflect the station’s ongoing commitment to amplifying the voices of local community members. Created to raise awareness of HIV and other infectious diseases through music, WHIV first went on the air on World AIDS Day, December 1, 2014.
 
 WHIV features local music and talk radio, as well as programming from the Pacifica Radio Network. As of 2026, WHIV features more than seventy hosts and DJs and broadcasts over twelve hours of original content daily. On the air throughout the greater New Orleans metropolitan area, WHIV is also available streaming online in all fifty states and eighty-five countries. The WHIV: Human Rights and Social Justice Radio special collection was added to the American Archive of Public Broadcasting in June 2026. 
 
 ## Featured
 
-[![PFLAG New Orleans: Maxx Sizeler](https://s3.amazonaws.com/americanarchive.org/special-collections/whiv-featured-2.png)](/catalog/cpb-aacip-04ce606ab7c)
-[![PFLAG New Orleans: Vanessa Carr Kennedy](https://s3.amazonaws.com/americanarchive.org/special-collections/whiv-featured-2.png)](/catalog/cpb-aacip-a7e6ad1410d)
-[![PFLAG New Orleans: United Against Hate](https://s3.amazonaws.com/americanarchive.org/special-collections/whiv-featured-2.png)](/catalog/cpb-aacip-0116c13f578)
-[![NOLA Matters: Sister Hearts](https://s3.amazonaws.com/americanarchive.org/special-collections/whiv-featured-2.png)](/catalog/cpb-aacip-4feff487f1c)
-[![NOLA Matters: Judge Johnson and Kendall Jones](https://s3.amazonaws.com/americanarchive.org/special-collections/whiv-featured-2.png)](/catalog/cpb-aacip-ef5c4f60aa6)
-[![NOLA Matters: Dred Scott’s Art](https://s3.amazonaws.com/americanarchive.org/special-collections/whiv-featured-2.png)](/catalog/cpb-aacip-213f3f53af7) 
+[![PFLAG New Orleans: Maxx Sizeler](https://s3.amazonaws.com/americanarchive.org/special-collections/whiv-rainbow-thumbnail.png)](/catalog/cpb-aacip-04ce606ab7c)
+[![PFLAG New Orleans: Vanessa Kennedy](https://s3.amazonaws.com/americanarchive.org/special-collections/whiv-rainbow-thumbnail.png)](/catalog/cpb-aacip-a7e6ad1410d)
+[![PFLAG New Orleans: United Against Hate](https://s3.amazonaws.com/americanarchive.org/special-collections/whiv-rainbow-thumbnail.png)](/catalog/cpb-aacip-0116c13f578)
+[![NOLA Matters: Sister Hearts](https://s3.amazonaws.com/americanarchive.org/special-collections/whiv-rainbow-thumbnail.png)](/catalog/cpb-aacip-4feff487f1c)
+[![NOLA Matters: Judge Johnson & K.Jones](https://s3.amazonaws.com/americanarchive.org/special-collections/whiv-rainbow-thumbnail.png)](/catalog/cpb-aacip-ef5c4f60aa6)
+[![NOLA Matters: Dred Scott’s Art](https://s3.amazonaws.com/americanarchive.org/special-collections/whiv-rainbow-thumbnail.png)](/catalog/cpb-aacip-213f3f53af7) 
 
 ## Resources
 
