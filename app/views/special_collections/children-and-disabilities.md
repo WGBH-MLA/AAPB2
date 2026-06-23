@@ -11,7 +11,7 @@ This special collection includes notable examples of public television for and a
 
 Among the programs showcased in the collection is the Emmy Award-winning PBS series [*Rainbow’s End*](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Rainbow%27s+End&f%5baccess_types%5d%5b%5d=online) (1978–1979), the first national series created specifically for Deaf children and one of the first to use open captions. Each episode of *Rainbow’s End* includes lessons in American Sign Language and explores different aspects of Deaf culture and technology. Episodes also introduce children to Deaf role models in sports, entertainment, and the arts. Guests include Joyce Lynch of *Newsign 4*—the first television news program for the Deaf and Hard of Hearing community in the San Francisco area—and record-breaking racecar driver and stuntwoman Kitty O’Neil.
 
-The collection also highlights pioneering programming from WGBH, including [*Zoom*](https://americanarchive.org/special_collections/zoom) (1972–1978), [*Rebop*](https://americanarchive.org/catalog/cpb-aacip-15-26m0dfn5) (1976–1979), and [*Making Friends*](https://americanarchive.org/catalog/cpb-aacip-15-612nj7p2) (1980). *Zoom* episodes in the collection feature short films profiling children with disabilities, including Timmy Cummings, who is blind, and Ginny Brown, a little person. Timmy and Ginny also appear on set and engage in candid conversations with the *Zoom* cast. The episode of *Rebop* in the collection explores the nuances of communication through the stories of Todd, who is Deaf, and Kai Kee, who was born with a cleft palate. Todd’s family debates whether he should attend Detroit Day School for the Deaf, while Kai Kee builds confidence through speech therapy, everyday conversations, and teaching his principal Chinese. *Making Friends*, a series of three short films produced by WGBH for the Bureau of Education for the Handicapped, presents children with disabilities navigating the ups and downs of friendship.
+The collection also highlights pioneering programming from WGBH, including [*ZOOM*](https://americanarchive.org/special_collections/zoom) (1972–1978), [*Rebop*](https://americanarchive.org/catalog/cpb-aacip-15-26m0dfn5) (1976–1979), and [*Making Friends*](https://americanarchive.org/catalog/cpb-aacip-15-612nj7p2) (1980). *ZOOM* episodes in the collection feature short films profiling children with disabilities, including Timmy Cumings, who is blind, and Ginny Brown, a little person. Timmy and Ginny also appear on set and engage in candid conversations with the *ZOOM* cast. The episode of *Rebop* in the collection explores the nuances of communication through the stories of Todd, who is Deaf, and Kai Kee, who was born with a cleft palate. Todd’s family debates whether he should continue attending Detroit Day School for the Deaf or enroll in a school in Flint, while Kai Kee builds confidence through speech therapy, everyday conversations, and teaching his principal Chinese. *Making Friends*, a series of three short films produced by WGBH for the Bureau of Education for the Handicapped, presents children with disabilities navigating the ups and downs of friendship.
 
 Rounding out the collection’s featured items are WQED’s [*The Puzzle Children*](https://americanarchive.org/catalog/cpb-aacip-1fa6c4ee1b2) (1976) and [*Bob the Vid Tech*, “Meeting the Challenge”](https://americanarchive.org/catalog/cpb-aacip-394-08v9s9w2) (2000) from Maryland Public Television. Hosted by Julie Andrews, *The Puzzle Children* uses songs and skits to educate viewers of all ages about learning disabilities in children. In “Meeting the Challenge,” children with disabilities participate in outdoor activities, including horseback riding, camping, and sailing.
 
@@ -32,8 +32,8 @@ Currently, the AAPB is raising funds to add closed captions and audio descriptio
 
 ## Featured
 
-[![Zoom, episode 325](https://s3.amazonaws.com/americanarchive.org/special-collections/timmy-in-class-325.png)](/catalog/cpb-aacip-15-79v15vmd)
-[![Zoom, episode 506](https://s3.amazonaws.com/americanarchive.org/special-collections/ginny-3.png)](/catalog/cpb-aacip-15-687h4k13)
+[![ZOOM, episode 325](https://s3.amazonaws.com/americanarchive.org/special-collections/timmy-in-class-325.png)](/catalog/cpb-aacip-15-79v15vmd)
+[![ZOOM, episode 506](https://s3.amazonaws.com/americanarchive.org/special-collections/ginny-3.png)](/catalog/cpb-aacip-15-687h4k13)
 [![The Puzzle Children](https://s3.amazonaws.com/americanarchive.org/special-collections/puzzle-children-sq.jpeg)](/catalog/cpb-aacip-1fa6c4ee1b2)
 [![Rebop, episode 107](https://s3.amazonaws.com/americanarchive.org/special-collections/todd-magic.png)](/catalog/cpb-aacip-15-26m0dfn5)
 [![Rainbow's End, episode 103](https://s3.amazonaws.com/americanarchive.org/special-collections/re-103.png)](/catalog/cpb-aacip-d1fb0fce265)
@@ -46,8 +46,8 @@ Currently, the AAPB is raising funds to add closed captions and audio descriptio
 - [National Center for Accessible Media](https://www.wgbh.org/foundation/services/ncam)
 - [Media Access Group](https://www.wgbh.org/foundation/services/media-access-group)
 - [DEAF Media](http://www.deafmedia.org/)
-- [Zoom (AAPB Special Collection)](https://americanarchive.org/special_collections/zoom)
-- [Zoom (1972–1978): Children's Community and Public Television in the 1970s (AAPB Exhibit)](https://americanarchive.org/exhibits/zoom)
+- [ZOOM (AAPB Special Collection)](https://americanarchive.org/special_collections/zoom)
+- [ZOOM (1972–1978): Children's Community and Public Television in the 1970s (AAPB Exhibit)](https://americanarchive.org/exhibits/zoom)
 - [Learning Together About Abilities](https://www.pbswesternreserve.org/movetoinclude/learningtogetheraboutabilities/)
 - [Access for All: Major Milestones in Media Accessibility](https://www.wgbh.org/foundation/services/ncam/about-ncam/access-for-all-major-milestones-in-media-accessibility)
 
