@@ -119,9 +119,8 @@
     not yet been reviewed for copyright or privacy issues. For information about
     on location research, <a href="/on-location">click here</a>.
   <% elsif @pbcore.private? %>
-    Please note: This content is only available at the Library of Congress due
-    to copyright restrictions or privacy concerns. For information about on
-    location research, <a href="/on-location">click here</a>.
+    Please note: This content is not available due
+    to copyright restrictions or privacy concerns.
   <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
     This content is not available. Please contact the contributing organization(s) listed below.
   <% elsif !@pbcore.digitized? && @pbcore.contributing_organization_objects.empty? %>
