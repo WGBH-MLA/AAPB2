@@ -126,9 +126,8 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_LA_Riots_T
 
 ## Additionalresources
 
-- [The Los Angeles Riots: Independent and Webster Commissions Collections (University of Southern California Libraries)
-- Policing a Global City: Multiculturalism, Immigration, and the 1992 Uprising (PBS SoCal)
-Example: Busing & Beyond: School Desegregation in Boston (Digital Public Library of America)
+- [The Los Angeles Riots: Independent and Webster Commissions Collections (University of Southern California Libraries)](https://scalar.usc.edu/works/the-los-angeles-riots-christopher-and-webster-commissions-collections/index)
+- [Policing a Global City: Multiculturalism, Immigration, and the 1992 Uprising (PBS SoCal)](https://www.pbssocal.org/shows/lost-la/policing-a-global-city-multiculturalism-immigration-and-the-1992-uprising)
 - ["Los Angeles Riots: 25 Years Later" (LA Times)](https://www.latimes.com/projects/la-me-riots-25-years/)
 - ["Timeline: The LA Riots" (LA Times)]( https://timelines.latimes.com/los-angeles-riots/)
 - ["Deaths in the LA Riots" (LA Times)](https://spreadsheets.latimes.com/la-riots-deaths/)
