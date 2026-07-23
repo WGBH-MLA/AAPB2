@@ -51,16 +51,19 @@ How and why was the 2000 presidential election such a milestone in American hist
 
 #### Classroom Activities
 
-1) You might only have time for a brief treatment of the 2000 presidential election and the Supreme Court’s ruling in Bush v. Gore in a survey course. If so, you could identify one or two clips from this set to show in class followed by some discussion questions. For example: 
-
-  a. Show “Assuring Faith in the Electoral Process and the Rule of Law”  
-Ask students to analyze the rhetorical strategies in both Gore and Bush’s addresses to the nation. How did each candidate attempt to toe the line between adversarial tones toward their opponent (and their respective political parties) alongside tones of unity toward the entire nation, its citizenry, and its institutions? 
+1) You might only have time for a brief treatment of the 2000 presidential election and the Supreme Court’s ruling in Bush v. Gore in a survey course. If so, you could identify one or two clips from this set to show in class followed by some discussion questions. For example: Show the below clip. 
+  
+   -  “Assuring Faith in the Electoral Process and the Rule of Law”
+   
+  a. Ask students to analyze the rhetorical strategies in both Gore and Bush’s addresses to the nation. How did each candidate attempt to toe the line between adversarial tones toward their opponent (and their respective political parties) alongside tones of unity toward the entire nation, its citizenry, and its institutions? 
 
   b. You could also ask students to reflect on what it must have been like to live through the uncertainty of those 36 days between the election and its resolution with George W. Bush as the victor. While five weeks may seem like a short blip of time from a broad historical perspective, actually living day to day for weeks on end with uncertainty about the next leader of the country and uncertainty about when or how that would be resolved was a complicated experience.
 
   c. What are/were the norms and assumptions surrounding the transfer of power after an American presidential election? What considerations and/or preparations were upended for the candidates themselves in 2000? The outgoing incumbents? The political party operatives/strategists? World leaders and foreign governing bodies? Students could analyze the ways various individual and institutional interests overlapped and intersected at this critical juncture.
 
-2)  Show “Debating the Role of the Electoral College” and engage students in thinking critically about the function and utility of the Electoral College system. 
+2)  Show the below clip and engage students in thinking critically about the function and utility of the Electoral College system.
+
+   - “Debating the Role of the Electoral College” 
 
   a. What was the purpose of the system when it was first codified in Article II of the Constitution? How has the country, its electorate, and the nature of political   campaigns changed since then? In what ways might these changes render the Electoral College obsolete? In what ways might the Electoral College still be useful? 
 
