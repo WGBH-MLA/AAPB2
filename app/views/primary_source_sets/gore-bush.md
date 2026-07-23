@@ -84,7 +84,7 @@ b. The ways that news outlets covered election night results remains one endurin
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Urban_Crisis_Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Bush_Gore_Teaching-Tips.pdf
 
 
 ## Additionalresources
