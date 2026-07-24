@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/gore-bush-1.png "Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.")
+![Election 2000 Disenfranchised Voters Protest at the US Supreme Court on Maryland Avenue between Maryland Avenue and East Capitol Street, NE, Washington DC on Monday, 11 December 2000](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/gore-bush.png "Photograph of Presidential Election 2000 Disenfranchised Voters Protest at the US Supreme Court on Maryland Avenue between Maryland Avenue and East Capitol Street, NE, Washington DC on Monday, 11 December 2000")
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/gore-bush-16x9.png
