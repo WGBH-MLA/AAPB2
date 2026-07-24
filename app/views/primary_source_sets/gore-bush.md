@@ -51,7 +51,7 @@ How and why was the 2000 presidential election such a milestone in American hist
 
 #### Classroom Activities
 
-1) You might only have time for a brief treatment of the 2000 presidential election and the Supreme Court’s ruling in Bush v. Gore in a survey course. If so, you could identify one or two clips from this set to show in class followed by some discussion questions. For example: Show the below clip. 
+1. You might only have time for a brief treatment of the 2000 presidential election and the Supreme Court’s ruling in Bush v. Gore in a survey course. If so, you could identify one or two clips from this set to show in class followed by some discussion questions. For example: Show the below clip. 
   
    -  “Assuring Faith in the Electoral Process and the Rule of Law”
    
@@ -61,7 +61,7 @@ How and why was the 2000 presidential election such a milestone in American hist
 
   c. What are/were the norms and assumptions surrounding the transfer of power after an American presidential election? What considerations and/or preparations were upended for the candidates themselves in 2000? The outgoing incumbents? The political party operatives/strategists? World leaders and foreign governing bodies? Students could analyze the ways various individual and institutional interests overlapped and intersected at this critical juncture.
 
-2)  Show the below clip and engage students in thinking critically about the function and utility of the Electoral College system.
+2.  Show the below clip and engage students in thinking critically about the function and utility of the Electoral College system.
 
    - “Debating the Role of the Electoral College” 
 
@@ -71,7 +71,9 @@ How and why was the 2000 presidential election such a milestone in American hist
 
   c. Additionally, you could ask students to reflect on what it means for a candidate to become the president without a greater number of actual votes by Americans nationwide (i.e. winning the electoral votes but not the popular vote), especially in terms of enfranchisement and legitimacy. 
 
-3) Show “Margins of Error v. Margins of Victory: Voting Technologies and Election Math” and ask students to consider the results from a mathematical perspective. 
+3) Show the below clip and ask students to consider the results from a mathematical perspective.
+
+   - “Margins of Error v. Margins of Victory: Voting Technologies and Election Math” 
 
   a. In such a close race, how do we account for margins of error? Mathematically speaking, are these results of such narrow margins indistinguishable from chance? 
 
@@ -79,9 +81,14 @@ How and why was the 2000 presidential election such a milestone in American hist
 
 4) Should you have more time to dive deeper, the sources in this set could serve as starting points for more in-depth class activities. For example:
 
-   a. To build on discussions relating to the “Debating the Role of the Electoral College” source, you could put together a role-playing group  activity debating the function and utility of the Electoral College. Divide the students into three groups: Group One researches and prepares arguments for the importance and necessary relevance of the Electoral College and why it should remain; Group Two researches and prepares arguments against the Electoral College in America today and why we should abolish it; Group Three acts as jurors and/or respondents tasked with weighing arguments for each side and deciding the future of the Electoral College. To further critical thinking on the issue, include a post-activity assignment allowing students to reflect on their experience, articulating key takeaways not only from research and deliberation but also from the dynamics of group work in general. 
+   a. To build on discussions relating to the “Debating the Role of the Electoral College” source, you could put together a role-playing group activity debating the function and utility of the Electoral College. Divide the students into three groups: Group One researches and prepares arguments for the importance and necessary relevance of the Electoral College and why it should remain; Group Two researches and prepares arguments against the Electoral College in America today and why we should abolish it; Group Three acts as jurors and/or respondents tasked with weighing arguments for each side and deciding the future of the Electoral College. To further critical thinking on the issue, include a post-activity assignment allowing students to reflect on their experience, articulating key takeaways not only from research and deliberation but also from the dynamics of group work in general. 
 
-  b. The ways that news outlets covered election night results remains one enduring issue highlighted by the 2000 election, raising questions about the efficacy of “horse-race” election and campaign reporting. The sources “Election Night 2000: One of Political History’s Longest Nights” and “‘A Journalistic Crime Against Accuracy’? Broadcast Reporter Regrets Election Night 2000 Coverage,” offer opportunity to engage students in the role of journalism in informing the public in a timely yet responsible manner. One way to do this could be a role-playing activity where students take on the role of reporters, editors, and fact-checkers in a live newsroom setting. Putting students into teams of competing news organizations, you could provide various poll data, statements from campaign officials, and even incomplete vote count totals to each team at different intervals and let them collaborate to make decisions about what, how, and when to report that information and make projections/conclusions about election outcomes. This activity allows students to consider first-hand the short-term pressures of using incomplete poll data/vote count returns to be first with a scoop versus the ethical implications of tempering coverage with patience and steady fact-checking and corroboration, and managing expectations of viewers/stakeholders. 
+  b. The ways that news outlets covered election night results remains one enduring issue highlighted by the 2000 election, raising questions about the efficacy of “horse-race” election and campaign reporting. The above sources offer opportunity to engage students in the role of journalism in informing the public in a timely yet responsible manner. 
+
+  - “Election Night 2000: One of Political History’s Longest Nights”
+  - “‘A Journalistic Crime Against Accuracy’? Broadcast Reporter Regrets Election Night 2000 Coverage,”
+  
+One way to do this could be a role-playing activity where students take on the role of reporters, editors, and fact-checkers in a live newsroom setting. Putting students into teams of competing news organizations, you could provide various poll data, statements from campaign officials, and even incomplete vote count totals to each team at different intervals and let them collaborate to make decisions about what, how, and when to report that information and make projections/conclusions about election outcomes. This activity allows students to consider first-hand the short-term pressures of using incomplete poll data/vote count returns to be first with a scoop versus the ethical implications of tempering coverage with patience and steady fact-checking and corroboration, and managing expectations of viewers/stakeholders. 
 
 <hr>
 
