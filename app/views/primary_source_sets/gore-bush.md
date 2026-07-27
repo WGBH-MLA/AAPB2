@@ -99,11 +99,10 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Bush_Gore_
 
 ## Additionalresources
 
-- Election 2000 Legal Dispute Timeline https://guides.law.stanford.edu/c.php?g=991108&p=7170216
-- Bush v. Gore decision in full
+- [Election 2000 Legal Dispute Timeline](https://guides.law.stanford.edu/c.php?g=991108&p=7170216)
+- [Bush v. Gore decision in full](https://tile.loc.gov/storage-services/service/ll/usrep/usrep531/usrep531098/usrep531098.pdf)
 
 ## Youmayalsolike 
-- special collection,njn-specialcollection
 - special collection,newshour
 
 
