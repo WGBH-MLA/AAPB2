@@ -1,119 +1,109 @@
-# The Urban Crisis
+# The Rise of Obama: America Elects Its First Black President
 
 ## Thumbnail
 
-![Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/south-bronx-thumbnail-2.jpeg "Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.")
+![Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/obama-rise.jpeg "Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.")
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/south-bronx-16x9.jpeg
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/obama-rise-16x9.jpeg
 
 ## Author
 
-Ben Leff, Teaching Associate, University Laboratory High School (Urbana, Illinois)
+Dr. Lindsay Hogan, Associate Professor of Communication, Boston College 
 
 ## Subjects
 
-- Conservative Resurgence and Social Change, 1964-2000: Domestic Politics
+- Americans into the 21st Century: Politics
 
 ## Introduction
 
-In 1976, New Yorkers were “choked with rage” at the “sickness of the city.” *New York Times* journalist Pete Hamill described “rage at the knowledge that the South Bronx was burning to the ground, and we do not have enough firemen. Rage at the plague of crime and violence, knowing we have too few policemen. Rage because so many of our schools and hospitals have been permanently awarded to the rats… rage at the scabrous condition of our streets, the potholes and trenches that may never again be filled, the sewers clogged with a winter’s dismal refuse. Rage at the businessmen fleeing to their suburban arcadias.” 
-
-Americans across the country channeled similar feelings of anger about decaying conditions in their cities, but the issues of the 1970s and early 1980s started long before. The problems were partially rooted in the aftermath of World War II, when predominantly white middle- and upper-class Americans moved out of cities into the suburbs. By the 1970s, the decline of the manufacturing sector led to the elimination of millions of stable, unionized, factory jobs that had once sustained the urban working class. The people who remained in the cities—who were disproportionately poor people of color kept out of the suburbs by formal and informal housing practices—had increasingly gloomy economic prospects, consigned to dead-end jobs or stuck scraping by on welfare. In this environment, the physical infrastructure and social fabric of American cities began to crumble as problems of poverty, crime, violence, and drug addiction grew increasingly dire. And since economic decay and suburban flight undercut the urban tax base, municipal governments struggled to fund the social services to combat these social problems.
-
-As these social dynamics took root in the late 1970s and early 1980s, Americans grappled with the proper political response to the urban crisis. The crime rate had risen significantly, and cities were increasingly viewed as dangerous places in which law-abiding citizens were unsafe. These prevailing attitudes helped fuel “tough on crime” politics in which legislators enacted tougher laws with stricter penalties, while governments shifted fiscal priorities away from social services towards policing. Local, state, and federal governments also wrestled with fiscal debates about taxation and spending. Municipal budgets were in crisis, and urban leaders called for financial support from surrounding suburbs, states, and federal governments. Resistance came from residents and politicians outside distressed cities who felt that they shouldn’t have to bail out cities that, in their view, had mismanaged their finances. Thus, the urban crisis had created political conflicts that divided Americans along lines of race, class, and geography.
-
+In November 2008, Americans elected Barack Obama as the 44th president of the United States. For the first time in the country’s history, a Black man would serve as the commander in chief. He would go on to win re-election in  2012 and serve a total of eight years in the Oval Office. However, this set is not about his time as president, but rather the years leading up to his inauguration: What were the key moments in his journey from a community organizer in Chicago to the highest office in the land? How did public media cover him as a candidate in each of these moments? What did he and his campaign signal to the American people? The archival material gathered here offers insights in the historical contexts, political discourses, and rhetorical aspects of these moments, ranging from race relations, economic policy, international diplomacy, and the role of public media in shaping the image of America’s 44th president. 
 
 ## Teachingtips
 
-Collectively, the sources capture multiple layers of the urban crisis. The first three clips illuminate some of the structural causes of urban decay. The next three clips portray some of the symptoms by depicting bleak conditions in Newark, New York, and Boston. Several more clips speak to the rise in crime and the resulting anger and fear that fueled the War on Crime. The remaining clips lay out the contours of a political debate of the era: Should tax revenue collected by federal, state, and nearby local governments be redirected to cities to address the problems of urban decay?  
+These sources — drawn from news coverage and panel shows — highlight several moments and themes that can foster productive engagement in the classroom. First, they illuminate Obama’s political acumen and skills as an orator as well as the ways in which news framed his public image as symbolic of change, hope, unity, and American progress. Second, they trace the larger contours and contexts shaping that public image and its appeal to voters at the time, including the waning support of the Bush administration’s hawkish national security and foreign policy in the years after 9/11, immense anxiety about the economy amid the most significant recession since the Great Depression, the increasingly divisive political rhetoric in the emergent era of AM talk radio and cable news, and the question of whether or not America, a country built on slavery, could progress far enough to extend those founding principles of equality, liberty, and justice for all to elect the first Black man as its 44th president. The sources in this set allow students to explore these issues and gain a nuanced understanding of such a significant moment in American history. 
 
 #### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
 
-- The rise and maturation of an industrialized economy in the U.S. by the mid-20th century
-- Some understanding of the way power and responsibilities are divided between federal, state, and local governments in the United States
-
+- The broad history of America’s two main political parties (Republican and Democratic).
+- The rise of conservatism since the political success of Ronald Reagan.
+- Historical background of September 11th and George W. Bush’s war on terror.
+- The history of race relations and the Civil Rights movement of the 20th century. 
+- American political elections, the role of primaries, and the processes of party nominations.
+- 
 <hr>
 
 #### Essential Question 
 
-What social problems plagued American cities in the late 1970s and early 1980s, and what political debates emerged about how to solve those problems?
+What were the key historical, social, and political factors that led to Obama’s election as president?
 
 <hr>
 
 #### General Discussion Questions
-- What were the social, economic, and political forces that contributed to urban decay in the 1970s?
-- What were some of the hardships faced by urban residents in the late 1970s and early 1980s?
-- How and why did the urban crisis particularly affect African Americans and Latinos?
-- What were some of the political reforms that were proposed or attempted to address the problems of the cities? What might have been the sources of resistance to these efforts?
+- What were the key moments in Barack Obama’s journey from a community organizer in Chicago to becoming the president of the United States?
+- What did Obama's campaign messaging mean to the American people? Analyze the symbolism of campaign slogans “Hope” and “Yes We Can.” Hope…for what? Yes we can…do what? How and why might these slogans have resonated with voters at the time?
+- How important were Obama’s oratory skills to his political career? Can you identify consistent themes and rhetorical devices he uses in interviews and speeches?
 
 
 <hr>
 
 #### Classroom Activities
 
-1) Ask students to watch the following sources: 
+1)You might only have time for a brief treatment of Obama’s historic path to the presidency. If so, you could identify one or two clips from this set to show your class and follow with some discussion questions. For example:
 
-- [Middle Class Exodus to the Suburbs (1966)](/primary_source_sets/urban-crisis/01-516-hx15m6375q)
-- [The Struggles of the Auto Industry (1980)](/primary_source_sets/urban-crisis/02-e702335a440)
-- [The Domino Effect of Plant Closures in the Rust Belt (1978)](/primary_source_sets/urban-crisis/03-507-gt5fb4xb92)
+Show “‘A Skinny Guy with a Funny Name’: Obama Launches His First U.S. Senate Campaign (2004)” and ask students to identify aspects of personal narrative that Obama presents in the discussion. How does he use anecdotes to contextualize his relevant experience and frame his political position(s)? In what ways does the interviewer prompt such responses? How might this interview about local Chicago and Illinois state politics foreshadow Obama’s future campaign messaging at the national level?
 
-Then ask them to make a diagram or flowchart to depict the causal processes that created urban decay in the late 1970s and early 1980s. Ideally, this schematic should show some of the chain reactions that took place in the postwar decades and depict how different causes reinforced each other. Students can either write their maps on paper or use a free concept mapping tool on the internet.
+Show “Pre-Primary Preparation: National Media Cements Obama’s Role as a ‘Star’ in 2006” and ask students to analyze Obama’s general messaging and identify how it was already resonating with voters two years before he was elected. Students could also interrogate the ways in which he was talked about, specifically, the symbolic rhetoric of light, hope, and stardom. What characteristics did voters, fellow politicians, and political strategists highlight to differentiate Obama from other political figures, both contemporary and historical?
 
-2) Ask students to watch the following sources: 
+Show “Election Night 2008: What Voters Have to Say” and prompt students to analyze the ways in which Americans perceived the significance of the election at the time. What key issues were voters considering? Which campaign messages from both the Democrat and Republican candidates seemed to resonate with voters in their decision-making? This is also a good opportunity for students to contextualize the contemporaneous elements of the moment, especially in regards to ramifications of post-9/11 policies of the war on terror, both domestically and globally, in addition to the economic factors at play in the Great Recession. 
 
-- [Joblessness and Lack of Opportunity for Black Urban Youth (1983)](/primary_source_sets/urban-crisis/04-526-ns0ks6k995)
-- [Urban Decay in the South Bronx (1980)](/primary_source_sets/urban-crisis/05-526-ns0ks6k995)
-- [Crisis in Urban Housing Projects (1978)](/primary_source_sets/urban-crisis/06-526-ns0ks6k995)
-- [Fear of Crime in American Cities (1979)](/primary_source_sets/urban-crisis/07-507-jq0sq8r907)
-- [Political Backlash Against Crime in Newark (1979)](/primary_source_sets/urban-crisis/08-259-sq8qgg2r)
 
-Discuss the following questions: 
 
-- Imagine you lived in a poor neighborhood in one of the cities in this era. What would be hard about growing up in this environment? What are some opportunities that you might not have that middle-class residents would have?
-- What kinds of explanations for urban problems might have been offered by political liberals? What reforms do you think they might have proposed?
-- What kinds of explanations for urban problems might have been offered by political conservatives? What reforms do you think they might have proposed?
-- Extension Activity: Ask students to read [this *New York Times*](https://www.nytimes.com/1978/03/28/archives/president-proposes-a-broad-new-policy-for-urban-recovery-fate-in.html) summary of then-President Jimmy Carter’s proposal of a broad federal policy to address problems in American cities. Ask: Which of these proposals do you think would be effective in addressing those problems? Which would not be effective? What criticism might this proposal have faced?
+The keynote address at the 2004 Democratic National Convention was undoubtedly one of the most significant moments in Obama’s early political career. He stood squarely in the national spotlight as he delivered a speech bringing the arena crowd to its feet in a standing ovation and left live broadcast commentators nearly speechless. 
 
-3) Ask students to watch the following sources: 
+The live coverage of his address featured in this set, “Obama’s Historic Keynote Speech at the 2004 Democratic National Convention,” offers a unique teaching tool to not only identify and analyze creative and effective uses of rhetorical devices in the speech itself, but also the ways in which live television mediates public address, framing both the delivery and reception of Obama’s speech with strategic decisions of camera angles, cutaways, and reaction shots. Below are some suggestions for in-class activities and/or assignments outside of class using the video as a learning resource.
 
-- [Stopping the “Vicious Cycle” of Suburban Flight (1978)](/primary_source_sets/urban-crisis/09-259-gh9b8312)
-- [The “Local Control” Argument Against Aid to Cities (1977)](/primary_source_sets/urban-crisis/10-507-x639z91909)
-- [Debating Aid to Struggling Cities (1978)](/primary_source_sets/urban-crisis/11-507-x639z91909)
-- [The Political Challenge of Reviving New Jersey’s Cities (1982)](/primary_source_sets/urban-crisis/12-507-x639z91909)
 
-Present them with the following situation: It is 1983 and there is an economically depressed major city in a county that includes many affluent suburbs. A reform organization called the Society for Urban Renewal is proposing that 10% of property tax revenue collected in the suburbs should be redirected to the major city to fund municipal operations. Then divide students into three groups, and tell each group to consider what they would argue about the proposed reform:
+Rhetorical Analysis: 
+First, have students establish the rhetorical situation and context of the speech, including:
+Audience/audiences (the specific or intended people with whom the speech is designed to communicate).
+Speaker/author (the person delivering the speech and parties who may have helped write it).
+Purposes (the various reasons why the speech was written and delivered, i.e. to inform, to persuade, to commemorate, to entertain, or what the speaker wants the audience to know, feel, believe, or do).
+Setting (the place, time, and the environment in which the speech was written and delivered, both literally and figuratively, i.e. both the physical location and environment as well as the larger historical, political, and rhetorical environment with which the speech is engaging).
 
-- Group 1: Mayor of the Major City (Have this group consider: Why does the major city deserve to have a percentage of the tax revenue collected in the suburbs? Why will this reform benefit the whole county?)
-- Group 2: Mayor of an Affluent Suburb (Have this group consider: Why is it unfair for your tax revenue to be funneled to the city? Why would this proposed reform be a mistake?)
-- Group 3: Governor of the State (Have this group consider: What do you see as the positives of the proposed reform? The negatives? Would you support it, or not?)
 
-4) After watching and discussing some or all of the clips in this set, divide students into groups and give them the following task: “You work for the mayor of a major city in 1981. Hundreds of factories have shut down, and poverty and unemployment have risen significantly in the last decade. At the same time, crime has spiked and residents complain that the streets aren’t safe. A large number of (predominantly white) middle- and upper-class residents have moved to the suburbs. The city’s finances are in trouble, as the city has had to take out loans to fill budget gaps but is struggling to pay back those loans. It seems the city will need some combination of tax increases, spending cuts, or outside financial aid. Faced with these problems, come up with a list of five proposed municipal reforms (Note: these should be reforms that are *in the mayor’s control*, and can’t involve getting funding from other layers of government). For each reform, provide a brief explanation of why that reform could help address a problem your city faces.” After completing this task, groups can “share out” some of their proposed reforms, and as a class, you can discuss whether these reforms would be effective.
+Second, either in class or at home, have students watch the speech and identify each of the following rhetorical devices. Once students have identified and labeled each one, ask students to analyze how and why the rhetorical device operates in the larger context of delivery and reception. Ask students to consider how one or more of the devices below are used in the speech to convince the audience of the speaker’s credibility, authority, and trustworthiness; evoke certain emotions in the audience; appeal to logic and reasoning: 
+Personal narrative/anecdote.
+Repetition.
+Metaphors.
+Cliches.
+Questions.
+Opposites.
+Semantic parallelism.
+Use of the third-person plural “we.” 
+If time constraints limit how much of the full speech each student can watch, you can coordinate a cooperative learning activity: split the class into small groups and assign each group a portion of the speech to watch and analyze. Students from different groups can then present their analysis to class to create a whole analysis of the speech. 
 
 <hr>
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Urban_Crisis_Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Obama_Rise_Teaching-Tips.pdf
 
 
 ## Additionalresources
 
-- [**A City in Spiral: New York City in the 1960s and 1970s**](https://illinois.pbslearningmedia.org/resource/city-in-spiral-nyc-1960s-1970s-video/new-york-documentary-film/), PBS LearningMedia
-- [**Blackout: NYC in Chaos**](https://www.pbs.org/wgbh/americanexperience/features/blackout-gallery/), *American Experience*
-
+Transcript of Keynote Address at the 2004 Democratic National Convention [https://www.presidency.ucsb.edu/documents/keynote-address-the-2004-democratic-national-convention] The American Presidency Project, University of California-Santa Barbara
+Frontline, “The Choice 2008,” aired October 14, 2008 [https://www.pbs.org/video/frontline-the-choice-2008/]
 
 ## Youmayalsolike 
-- special collection,njn-specialcollection
 - special collection,newshour
 
 
 ## References
 
-Cover image: Vergara, Camilo J., photographer. South Bronx, 1973. Photograph (cropped). https://lccn.loc.gov/2020702547.
-
+Cover image: 
 
 ## Guid
 ## Cliptime
