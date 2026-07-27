@@ -100,7 +100,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Bush_Gore_
 ## Additionalresources
 
 - [Election 2000 Legal Dispute Timeline](https://guides.law.stanford.edu/c.php?g=991108&p=7170216)
-- [Bush v. Gore decision in full](https://tile.loc.gov/storage-services/service/ll/usrep/usrep531/usrep531098/usrep531098.pdf)
+- [Bush v. Gore. 531 U.S. 98 (2000). United States Reports. Washington, DC: U.S. Government Printing Office](https://tile.loc.gov/storage-services/service/ll/usrep/usrep531/usrep531098/usrep531098.pdf)
 
 ## Youmayalsolike 
 - special collection,newshour
