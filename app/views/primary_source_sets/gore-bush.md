@@ -53,7 +53,7 @@ How and why was the 2000 presidential election such a milestone in American hist
 
 1. You might only have time for a brief treatment of the 2000 presidential election and the Supreme Court’s ruling in Bush v. Gore in a survey course. If so, you could identify one or two clips from this set to show in class followed by some discussion questions. For example: Show the below clip. 
   
-   - [Assuring Faith in the Electoral Process and the Rule of Law (2000)](/primary_source_sets/gore-bush/03-507-0z70v8b23h)
+- [Assuring Faith in the Electoral Process and the Rule of Law (2000)](/primary_source_sets/gore-bush/03-507-0z70v8b23h)
    
   a. Ask students to analyze the rhetorical strategies in both Gore and Bush’s addresses to the nation. How did each candidate attempt to toe the line between adversarial tones toward their opponent (and their respective political parties) alongside tones of unity toward the entire nation, its citizenry, and its institutions? 
 
@@ -63,7 +63,7 @@ How and why was the 2000 presidential election such a milestone in American hist
 
 2.  Show the below clip and engage students in thinking critically about the function and utility of the Electoral College system.
 
-   - [Debating the Role of the Electoral College (2000)](/primary_source_sets/gore-bush/7-507-br8mc8s25c) 
+- [Debating the Role of the Electoral College (2000)](/primary_source_sets/gore-bush/7-507-br8mc8s25c) 
 
   a. What was the purpose of the system when it was first codified in Article II of the Constitution? How has the country, its electorate, and the nature of political   campaigns changed since then? In what ways might these changes render the Electoral College obsolete? In what ways might the Electoral College still be useful? 
 
