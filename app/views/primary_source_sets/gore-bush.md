@@ -86,7 +86,7 @@ To further critical thinking on the issue, include a post-activity assignment al
 
 b. The ways that news outlets covered election night results remains one enduring issue highlighted by the 2000 election, raising questions about the efficacy of “horse-race” election and campaign reporting. The above sources offer opportunity to engage students in the role of journalism in informing the public in a timely yet responsible manner. Watch:
   - [Election Night 2000: One of Political History’s Longest Nights (2000)](/primary_source_sets/gore-bush/2-507-0z70v8b23h)
-  - ['A Journalistic Crime Against Accuracy’? Broadcast Reporter Regrets Election Night 2000 Coverage(2001)](/primary_source_sets/gore-bush/9-296-94vhhx2j)
+  - ['A Journalistic Crime Against Accuracy’? Broadcast Reporter Regrets Election Night 2000 Coverage (2001)](/primary_source_sets/gore-bush/9-296-94vhhx2j)
   
 Role-play where students take on the role of reporters, editors, and fact-checkers in a live newsroom setting. Putting students into teams of competing news organizations, you could provide various poll data, statements from campaign officials, and even incomplete vote count totals to each team at different intervals and let them collaborate to make decisions about what, how, and when to report that information and make projections/conclusions about election outcomes. This activity allows students to consider first-hand the short-term pressures of using incomplete poll data/vote count returns to be first with a scoop versus the ethical implications of tempering coverage with patience and steady fact-checking and corroboration, and managing expectations of viewers/stakeholders. 
 
