@@ -63,7 +63,7 @@ How and why was the 2000 presidential election such a milestone in American hist
 
 2.  Show the below clip and engage students in thinking critically about the function and utility of the Electoral College system.
 
-   - “Debating the Role of the Electoral College” 
+   - [Debating the Role of the Electoral College (2000)](/primary_source_sets/gore-bush/7-507-br8mc8s25c) 
 
   a. What was the purpose of the system when it was first codified in Article II of the Constitution? How has the country, its electorate, and the nature of political   campaigns changed since then? In what ways might these changes render the Electoral College obsolete? In what ways might the Electoral College still be useful? 
 
