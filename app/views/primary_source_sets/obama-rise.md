@@ -2,10 +2,10 @@
 
 ## Thumbnail
 
-![Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/obama-rise.jpeg "Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.")
+![Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/obama-rise.png "Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.")
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/obama-rise-16x9.jpeg
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/obama-rise-16x9.png
 
 ## Author
 
