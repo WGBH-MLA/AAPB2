@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/obama-rise.png "Photograph of rubble in the foreground and buildings in the background in the South Bronx in the 1970s.")
+![Barack Obama addresses a crowd in downtown Des Moines, Iowa, October 31, 2008.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/obama-rise.png "Photograph of Barack Obama addresses a crowd in downtown Des Moines, Iowa, October 31, 2008.")
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/obama-rise-16x9.png
@@ -103,7 +103,7 @@ Frontline, “The Choice 2008,” aired October 14, 2008 [https://www.pbs.org/vi
 
 ## References
 
-Cover image: 
+Cover image: Taylor, Warren. Barack Obama addresses a crowd in downtown Des Moines, Iowa, October 31, 2008. October 31, 2008. Photograph. [Wikimedia Commons.]([https://commons.wikimedia.org/…](https://commons.wikimedia.org/wiki/File:Final_pre-election_visit_by_Barack_Obama_to_Iowa._(2989469431).jpg) Licensed under CC BY 2.0.
 
 ## Guid
 ## Cliptime
