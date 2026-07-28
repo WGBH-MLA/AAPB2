@@ -51,7 +51,7 @@ What were the key historical, social, and political factors that led to Obama’
 
 #### Classroom Activities
 
-1. You might only have time for a brief treatment of Obama’s historic path to the presidency. If so, you could identify one or two clips from this set to show your class and follow with some discussion questions. 
+1) You might only have time for a brief treatment of Obama’s historic path to the presidency. If so, you could identify one or two clips from this set to show your class and follow with some discussion questions. 
 
 a. As a class listen to the below radio program:
 
