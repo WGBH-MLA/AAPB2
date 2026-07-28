@@ -1,21 +1,19 @@
-# Middle Class Exodus to the Suburbs (1966)
+# “A Skinny Guy with a Funny Name” – Obama Launches His First U.S. Senate Campaign (2004))
 
 ## Thumbnail
 
-![Screenshot media asset](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/urban-crisis-1.png "Screenshot media asset")
+![Screenshot media asset](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/obama-rise-1.png "Screenshot media asset")
 
 ## Guid
-cpb-aacip-516-hx15m6375q
+cpb-aacip-16-st7dr2pt8z
 
 ## Introduction
 
-In the decades after World War II, the population of suburban areas more than doubled while the population of central cities shrank. Many of the new suburbanites were members of a growing white middle class who had grown up in cities but chose to buy their own home and raise their family in the suburbs. These affluent suburbanites may still have worked in cities, but their homes and much of their spending were in the suburbs (along with the associated property and sales tax revenue). Notably, formal and informal mechanisms–such as restrictive covenants that banned sale to people of color; zoning laws that effectively excluded poor people; and informal, discriminatory real estate broker practices–kept the suburbs nearly all white. Those who remained in the cities were disproportionately likely to be poorer people of color, often living in slums, and thus were the most in need of the social services that city governments were increasingly ill-equipped to provide.
+In 2004, four years before he became the president of the United States, Barack Obama ran for the U.S. Senate. This excerpt from Focus580, a local call-in talk show from WILL Illinois Public Media, features Barack Obama introducing himself and his candidacy. Then an Illinois state senator, this campaign marks Obama’s first foray into national politics. When this interview was recorded, Obama was one in a field of fifteen candidates running in the primary for this seat; to distinguish himself, he discusses his background in community building on the South Side of Chicago, his work as a civil rights attorney, and his focus on helping the “everyday people whose voices are being drowned out by special interest groups in Washington.”
 
-The clip, from a 1966 episode of *Local Issues* called “To Save a City” produced by WMVS in Milwaukee, illuminates the crucial role of the automobile and the growth of the highway system in facilitating this suburbanization; the prototypical suburban father drove into work on government-constructed freeways connecting the city and suburbs. The video clip illuminates a trend about Milwaukee that was emblematic of the country as a whole: Even while the U.S. economy thrived in the 1950s and 1960s, slum conditions prevailed in significant portions of American cities.
-
-<b>Local Issue; 19; To Save a City</b>
-<b>| WMVS (Television station : Milwaukee, Wis.) | August 7, 1966 </b>
-<i>This video clip and associated transcript appear from 9:30 - 12:00 in the full record.</i>
+<b>Focus 580; Talk to the Candidates with Barack Obama</b>
+<b>| WILL Illinois Public Media (Television station : Urbana, IL.) | February 16, 2004 </b>
+<i>This video clip and associated transcript appear from 2:28 - 6:40 in the full record.</i>
 
 ## Teachingtips
 
@@ -23,7 +21,7 @@ The clip, from a 1966 episode of *Local Issues* called “To Save a City” prod
 
 ## Cliptime
 
-0570,0720
+0148,0400
 
 ## Author
 ## Subjects
