@@ -54,11 +54,11 @@ What social problems and debates were illuminated by the Los Angeles Riots of 19
 
 Ask students to watch some or all of:
 
-- The Rodney King Beating
-- A Pattern of Racism and Police Brutality?
-- The Plight of the Los Angeles Underclass
-- Los Angeles Erupts after the Rodney King Trial Verdict
-- Unrest Spreads Throughout Los Angeles
+- [The Rodney King Beating](/primary_source_sets/la-riots/1-507-cz3222rw5p)
+- [A Pattern of Racism and Police Brutality?](/primary_source_sets/la-riots/2-507-bg2h708n74)
+- [The Plight of the Los Angeles Underclass](/primary_source_sets/la-riots/3-526-057cr5p87m)
+- [Los Angeles Erupts after the Rodney King Trial Verdict](/primary_source_sets/la-riots/4-507-jm23b5x502)
+- [Unrest Spreads Throughout Los Angeles](/primary_source_sets/la-riots/5-507-9g5gb1z71n)
 
 Then discuss the following questions:
 
@@ -70,10 +70,10 @@ Then discuss the following questions:
 
 Ask students to watch some or all of:
 
-- Latino Communities during the LA Riots
-- The Impact of the Riots on Korean Americans
-- Young LA Residents Debate Race in America
-- Debates Within the Black Community
+- [Latino Communities during the LA Riots](/primary_source_sets/la-riots/6-507-251fj2b044)
+- [The Impact of the Riots on Korean Americans](/primary_source_sets/la-riots/7-04eec3207c2)
+- [Young LA Residents Debate Race in America](/primary_source_sets/la-riots/9-526-z60bv7c69m)
+- [Debates Within the Black Community](/primary_source_sets/la-riots/10-8f5044ba846)
 
 Then discuss the following questions:
 
@@ -84,11 +84,11 @@ Then discuss the following questions:
 
 Ask students to watch some or all of:
 
-- Latino Communities during the LA Riots
-- The Impact of the Riots on Korean Americans
-- Young LA Residents Debate Race in America
-- Economic Deprivation and Hopes for Revitalization in South Central LA
-- A Conservative Response to the LA Riots
+- [Latino Communities during the LA Riots](/primary_source_sets/la-riots/6-507-251fj2b044)
+- [The Impact of the Riots on Korean Americans](/primary_source_sets/la-riots/7-04eec3207c2)
+- [Young LA Residents Debate Race in America](/primary_source_sets/la-riots/9-526-z60bv7c69m)
+- [Economic Deprivation and Hopes for Revitalization in South Central LA](/primary_source_sets/la-riots/11-507-542j679j2j)
+- [A Conservative Response to the LA Riots](/primary_source_sets/la-riots/12-507-8w3804z94s)
 
 While the acquittal of the police officers in the Rodney King trial was clearly the catalyst to the LA Riots, different community members, commentators, activists and politicians identified different deeper causes underlying the unrest. Ask students to discuss the following questions:
 
@@ -105,10 +105,10 @@ Think about the identities of different speakers who are offering their interpre
 
 Ask students to watch some or all of
 
-- The Rodney King Beating
-- Unrest Spreads Throughout Los Angeles
-- The Impact of the Riots on Korean Americans
-- Analyzing Media Coverage of the Riots
+- [The Rodney King Beating](/primary_source_sets/la-riots/1-507-cz3222rw5p)
+- [Unrest Spreads Throughout Los Angeles](/primary_source_sets/la-riots/5-507-9g5gb1z71n)
+- [The Impact of the Riots on Korean Americans](/primary_source_sets/la-riots/7-04eec3207c2)
+- [Analyzing Media Coverage of the Riots](/primary_source_sets/la-riots/8-507-rn3028qc98)
 
 Then discuss the following questions:
 
