@@ -53,29 +53,27 @@ What were the key historical, social, and political factors that led to Obama’
 
 1) You might only have time for a brief treatment of Obama’s historic path to the presidency. If so, you could identify one or two clips from this set to show your class and follow with some discussion questions. 
 
-a. As a class listen to the below radio program:
+  a. As a class listen to the below radio program:
 
 - A Skinny Guy with a Funny Name’: Obama Launches His First U.S. Senate Campaign (2004)
 
 Ask students to identify aspects of personal narrative that Obama presents in the discussion. How does he use anecdotes to contextualize his relevant experience and frame his political position(s)? In what ways does the interviewer prompt such responses? How might this interview about local Chicago and Illinois state politics foreshadow Obama’s future campaign messaging at the national level?
 
-b. As a class watch the below clip:
+  b. As a class watch the below clip:
 
 - “Pre-Primary Preparation: National Media Cements Obama’s Role as a ‘Star’ in 2006”
 
 Ask students to analyze Obama’s general messaging and identify how it was already resonating with voters two years before he was elected. Students could also interrogate the ways in which he was talked about, specifically, the symbolic rhetoric of light, hope, and stardom. What characteristics did voters, fellow politicians, and political strategists highlight to differentiate Obama from other political figures, both contemporary and historical?
 
-c. As a class watch the below clip:
+  c. As a class watch the below clip:
 
 - “Election Night 2008: What Voters Have to Say”
 
 Prompt students to analyze the ways in which Americans perceived the significance of the election at the time. What key issues were voters considering? Which campaign messages from both the Democrat and Republican candidates seemed to resonate with voters in their decision-making? This is also a good opportunity for students to contextualize the contemporaneous elements of the moment, especially in regards to ramifications of post-9/11 policies of the war on terror, both domestically and globally, in addition to the economic factors at play in the Great Recession. 
 
-2. The keynote address at the 2004 Democratic National Convention was undoubtedly one of the most significant moments in Obama’s early political career. He stood squarely in the national spotlight as he delivered a speech bringing the arena crowd to its feet in a standing ovation and left live broadcast commentators nearly speechless. 
+2) The keynote address at the 2004 Democratic National Convention was undoubtedly one of the most significant moments in Obama’s early political career. He stood squarely in the national spotlight as he delivered a speech bringing the arena crowd to its feet in a standing ovation and left live broadcast commentators nearly speechless. The live coverage of his address featured in the below clip offers a unique teaching tool to not only identify and analyze creative and effective uses of rhetorical devices in the speech itself, but also the ways in which live television mediates public address, framing both the delivery and reception of Obama’s speech with strategic decisions of camera angles, cutaways, and reaction shots. Below are some suggestions for in-class activities and/or assignments outside of class using the video as a learning resource.
 
-The live coverage of his address featured in the below clip offers a unique teaching tool to not only identify and analyze creative and effective uses of rhetorical devices in the speech itself, but also the ways in which live television mediates public address, framing both the delivery and reception of Obama’s speech with strategic decisions of camera angles, cutaways, and reaction shots. Below are some suggestions for in-class activities and/or assignments outside of class using the video as a learning resource.
-
-As a class watch: 
+a. As a class watch: 
 
 “Obama’s Historic Keynote Speech at the 2004 Democratic National Convention,”
 
