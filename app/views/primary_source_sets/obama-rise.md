@@ -94,8 +94,8 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Obama_Rise
 
 ## Additionalresources
 
-[Transcript of Keynote Address at the 2004 Democratic National Convention](https://www.presidency.ucsb.edu/documents/keynote-address-the-2004-democratic-national-convention) The American Presidency Project, University of California-Santa Barbara
-[Frontline, “The Choice 2008,” aired October 14, 2008](https://www.pbs.org/video/frontline-the-choice-2008/)
+-[Transcript of Keynote Address at the 2004 Democratic National Convention](https://www.presidency.ucsb.edu/documents/keynote-address-the-2004-democratic-national-convention) The American Presidency Project, University of California-Santa Barbara
+-[Frontline, “The Choice 2008,” aired October 14, 2008](https://www.pbs.org/video/frontline-the-choice-2008/)
 
 ## Youmayalsolike 
 - special collection,newshour
