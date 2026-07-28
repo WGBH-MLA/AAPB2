@@ -32,7 +32,7 @@ Before engaging with this resource set, students should be familiar with the fol
 - Historical background of September 11th and George W. Bush’s war on terror.
 - The history of race relations and the Civil Rights movement of the 20th century. 
 - American political elections, the role of primaries, and the processes of party nominations.
-- 
+  
 <hr>
 
 #### Essential Question 
@@ -51,38 +51,52 @@ What were the key historical, social, and political factors that led to Obama’
 
 #### Classroom Activities
 
-1)You might only have time for a brief treatment of Obama’s historic path to the presidency. If so, you could identify one or two clips from this set to show your class and follow with some discussion questions. For example:
+1. You might only have time for a brief treatment of Obama’s historic path to the presidency. If so, you could identify one or two clips from this set to show your class and follow with some discussion questions. 
 
-Show “‘A Skinny Guy with a Funny Name’: Obama Launches His First U.S. Senate Campaign (2004)” and ask students to identify aspects of personal narrative that Obama presents in the discussion. How does he use anecdotes to contextualize his relevant experience and frame his political position(s)? In what ways does the interviewer prompt such responses? How might this interview about local Chicago and Illinois state politics foreshadow Obama’s future campaign messaging at the national level?
+a. As a class listen to the below radio program:
 
-Show “Pre-Primary Preparation: National Media Cements Obama’s Role as a ‘Star’ in 2006” and ask students to analyze Obama’s general messaging and identify how it was already resonating with voters two years before he was elected. Students could also interrogate the ways in which he was talked about, specifically, the symbolic rhetoric of light, hope, and stardom. What characteristics did voters, fellow politicians, and political strategists highlight to differentiate Obama from other political figures, both contemporary and historical?
+- A Skinny Guy with a Funny Name’: Obama Launches His First U.S. Senate Campaign (2004)
 
-Show “Election Night 2008: What Voters Have to Say” and prompt students to analyze the ways in which Americans perceived the significance of the election at the time. What key issues were voters considering? Which campaign messages from both the Democrat and Republican candidates seemed to resonate with voters in their decision-making? This is also a good opportunity for students to contextualize the contemporaneous elements of the moment, especially in regards to ramifications of post-9/11 policies of the war on terror, both domestically and globally, in addition to the economic factors at play in the Great Recession. 
+Ask students to identify aspects of personal narrative that Obama presents in the discussion. How does he use anecdotes to contextualize his relevant experience and frame his political position(s)? In what ways does the interviewer prompt such responses? How might this interview about local Chicago and Illinois state politics foreshadow Obama’s future campaign messaging at the national level?
 
+b. As a class watch the below clip:
 
+- “Pre-Primary Preparation: National Media Cements Obama’s Role as a ‘Star’ in 2006”
 
-The keynote address at the 2004 Democratic National Convention was undoubtedly one of the most significant moments in Obama’s early political career. He stood squarely in the national spotlight as he delivered a speech bringing the arena crowd to its feet in a standing ovation and left live broadcast commentators nearly speechless. 
+Ask students to analyze Obama’s general messaging and identify how it was already resonating with voters two years before he was elected. Students could also interrogate the ways in which he was talked about, specifically, the symbolic rhetoric of light, hope, and stardom. What characteristics did voters, fellow politicians, and political strategists highlight to differentiate Obama from other political figures, both contemporary and historical?
 
-The live coverage of his address featured in this set, “Obama’s Historic Keynote Speech at the 2004 Democratic National Convention,” offers a unique teaching tool to not only identify and analyze creative and effective uses of rhetorical devices in the speech itself, but also the ways in which live television mediates public address, framing both the delivery and reception of Obama’s speech with strategic decisions of camera angles, cutaways, and reaction shots. Below are some suggestions for in-class activities and/or assignments outside of class using the video as a learning resource.
+c. As a class watch the below clip:
 
+- “Election Night 2008: What Voters Have to Say”
+
+Prompt students to analyze the ways in which Americans perceived the significance of the election at the time. What key issues were voters considering? Which campaign messages from both the Democrat and Republican candidates seemed to resonate with voters in their decision-making? This is also a good opportunity for students to contextualize the contemporaneous elements of the moment, especially in regards to ramifications of post-9/11 policies of the war on terror, both domestically and globally, in addition to the economic factors at play in the Great Recession. 
+
+2. The keynote address at the 2004 Democratic National Convention was undoubtedly one of the most significant moments in Obama’s early political career. He stood squarely in the national spotlight as he delivered a speech bringing the arena crowd to its feet in a standing ovation and left live broadcast commentators nearly speechless. 
+
+The live coverage of his address featured in the below clip offers a unique teaching tool to not only identify and analyze creative and effective uses of rhetorical devices in the speech itself, but also the ways in which live television mediates public address, framing both the delivery and reception of Obama’s speech with strategic decisions of camera angles, cutaways, and reaction shots. Below are some suggestions for in-class activities and/or assignments outside of class using the video as a learning resource.
+
+As a class watch: 
+
+“Obama’s Historic Keynote Speech at the 2004 Democratic National Convention,”
 
 Rhetorical Analysis: 
-First, have students establish the rhetorical situation and context of the speech, including:
-Audience/audiences (the specific or intended people with whom the speech is designed to communicate).
-Speaker/author (the person delivering the speech and parties who may have helped write it).
-Purposes (the various reasons why the speech was written and delivered, i.e. to inform, to persuade, to commemorate, to entertain, or what the speaker wants the audience to know, feel, believe, or do).
-Setting (the place, time, and the environment in which the speech was written and delivered, both literally and figuratively, i.e. both the physical location and environment as well as the larger historical, political, and rhetorical environment with which the speech is engaging).
+a. Have students establish the rhetorical situation and context of the speech, including:
+- Audience/audiences (the specific or intended people with whom the speech is designed to communicate).
+- Speaker/author (the person delivering the speech and parties who may have helped write it).
+- Purposes (the various reasons why the speech was written and delivered, i.e. to inform, to persuade, to commemorate, to entertain, or what the speaker wants the audience to know, feel, believe, or do).
+- Setting (the place, time, and the environment in which the speech was written and delivered, both literally and figuratively, i.e. both the physical location and environment as well as the larger historical, political, and rhetorical environment with which the speech is engaging).
 
+b. Either in class or at home, have students watch the speech and identify each of the following rhetorical devices. Once students have identified and labeled each one, ask students to analyze how and why the rhetorical device operates in the larger context of delivery and reception. Ask students to consider how one or more of the devices below are used in the speech to convince the audience of the speaker’s credibility, authority, and trustworthiness; evoke certain emotions in the audience; appeal to logic and reasoning: 
 
-Second, either in class or at home, have students watch the speech and identify each of the following rhetorical devices. Once students have identified and labeled each one, ask students to analyze how and why the rhetorical device operates in the larger context of delivery and reception. Ask students to consider how one or more of the devices below are used in the speech to convince the audience of the speaker’s credibility, authority, and trustworthiness; evoke certain emotions in the audience; appeal to logic and reasoning: 
-Personal narrative/anecdote.
-Repetition.
-Metaphors.
-Cliches.
-Questions.
-Opposites.
-Semantic parallelism.
-Use of the third-person plural “we.” 
+- Personal narrative/anecdote.
+- Repetition.
+- Metaphors.
+- Cliches.
+- Questions.
+- Opposites.
+- Semantic parallelism.
+- Use of the third-person plural “we.” 
+
 If time constraints limit how much of the full speech each student can watch, you can coordinate a cooperative learning activity: split the class into small groups and assign each group a portion of the speech to watch and analyze. Students from different groups can then present their analysis to class to create a whole analysis of the speech. 
 
 <hr>
