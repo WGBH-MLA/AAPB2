@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Screenshot media asset](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/obama-rise-1.png "Screenshot media asset")
+![Audio icon](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/audio-digitized.jpg "Audio icon")
 
 ## Guid
 cpb-aacip-16-st7dr2pt8z
