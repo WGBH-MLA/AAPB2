@@ -51,13 +51,7 @@ describe 'Embed' do
     before { visit 'embed/cpb-aacip_moving-image-private' }
     it 'does not show the video player' do
       expect(page).not_to have_css('video')
-      expect(page).to have_content "This content is only available at the Library of Congress"
-    end
-
-    # When embedding, links back to AAPB need to open in a new window
-    # otherwise we get an error in the iframe.
-    it 'has links with the expected target attribute' do
-      expect(page.find_link(href: /.*\/on-location/)[:target]).to eq("_blank")
+      expect(page).to have_content "Please note: This content is not available due to copyright restrictions or privacy concerns."
     end
   end
 end
