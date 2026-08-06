@@ -2594,6 +2594,15 @@
     "Name": "Indiana University Libraries",
     "About": "",  
     "location": [39.1687, -86.5229]
-   }
+   },
+    "NCSG55211": {
+    "Short name": "KPBS",
+    "State": "California",
+    "City": "San Diego",
+    "Url": "https://www.kpbs.org/",
+    "Name": "KPBS",
+    "About": "For more than 65 years KPBS has been San Diego’s storyteller, providing locally and nationally-produced news, entertainment, educational, and lifestyle programming on television, radio, and digital media, as well as events and resources that help San Diegans build strong and vibrant communities. As San Diego’s NPR and PBS station, KPBS provides stories that make us think, help us dream, and keep us connected. News: With a team of more than 65 journalists, videographers, reporters, editors, and anchors, KPBS provides in-depth, trustworthy coverage on issues of high importance to San Diegans with local voices and perspective. Podcasts: Locally, KPBS produces and presents 17 podcasts that offer unique insight and perspective from diverse voices in the arts, science, film, and more. Twelve podcasts are produced by KPBS, and another five come from local producers in collaboration with the station under the KPBS Explore project. Explore Local Content Project: Every two years the KPBS Explore Local Content Project sends out a community-wide call for the next big content idea and will pledge seed funding to the most promising proposals. In the last 13 years we’ve collaborated with local producers to bring more than 40 programs in the form of podcasts, ongoing TV series, documentaries, and limited specials.",  
+    "location": [32.7722, -117.0726]
+   },
 }
   
