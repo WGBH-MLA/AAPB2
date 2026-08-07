@@ -2,10 +2,10 @@
 
 ## Thumbnail
 
-![Barack Obama addresses a crowd in downtown Des Moines, Iowa, October 31, 2008.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/obama-rise.png "Photograph of Barack Obama addresses a crowd in downtown Des Moines, Iowa, October 31, 2008.")
+![Barack Obama addresses a crowd in downtown Des Moines, Iowa, October 31, 2008.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/obama-rise.png "Photograph of Barack Obama addressing a crowd in downtown Des Moines, Iowa, October 31, 2008.")
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/obama-rise-16x9.png
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/obama-rise-16x9-2.jpeg
 
 ## Author
 
@@ -73,13 +73,13 @@ What were the key historical, social, and political factors that led to Obama’
 
 2) The keynote address at the 2004 Democratic National Convention was undoubtedly one of the most significant moments in Obama’s early political career. He stood squarely in the national spotlight as he delivered a speech bringing the arena crowd to its feet in a standing ovation and left live broadcast commentators nearly speechless. The live coverage of his address featured in the below clip offers a unique teaching tool to not only identify and analyze creative and effective uses of rhetorical devices in the speech itself, but also the ways in which live television mediates public address, framing both the delivery and reception of Obama’s speech with strategic decisions of camera angles, cutaways, and reaction shots. Below are some suggestions for in-class activities and/or assignments outside of class using the video as a learning resource.
 
-    a. As a class watch: 
+  a. As a class watch: 
 
 - [Obama’s Historic Keynote Speech at the 2004 Democratic National Convention](/primary_source_sets/obama-rise/3-507-j96057dm3w) (2004)
 
-  **Rhetorical Analysis:** 
+Rhetorical Analysis
 
-    i. Have students establish the rhetorical situation and context of the speech, including:
+  i. Have students establish the rhetorical situation and context of the speech, including:
   
   - Audience/audiences (the specific or intended people with whom the speech is designed to communicate).
   - Speaker/author (the person delivering the speech and parties who may have helped write it).
@@ -97,7 +97,7 @@ What were the key historical, social, and political factors that led to Obama’
   - Semantic parallelism
   - Use of the third-person plural “we” 
 
-  If time constraints limit how much of the full speech each student can watch, you can coordinate a cooperative learning activity: split the class into small groups and assign each group a portion of the speech to watch and analyze. Students from different groups can then present their analysis to class to create a whole analysis of the speech. 
+If time constraints limit how much of the full speech each student can watch, you can coordinate a cooperative learning activity: split the class into small groups and assign each group a portion of the speech to watch and analyze. Students from different groups can then present their analysis to class to create a whole analysis of the speech. 
 
 <hr>
 
