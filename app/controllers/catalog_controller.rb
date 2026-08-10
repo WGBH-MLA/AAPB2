@@ -304,11 +304,11 @@ class CatalogController < ApplicationController
   end
 
   def reject_abusive_queries
-  query_string = request.query_string
+    query_string = request.query_string
     
     if query_string.length > 1000 || query_string.scan(/\bOR\b/).count > 10
       Rails.logger.warn("Rejected abusive catalog query from #{request.remote_ip}: #{query_string.truncate(200)}")
-      render plain: "Bad Request", status: :bad_request
+      render plain: "Bad Request: please submit a valid query", status: :bad_request
     end
   end
   
