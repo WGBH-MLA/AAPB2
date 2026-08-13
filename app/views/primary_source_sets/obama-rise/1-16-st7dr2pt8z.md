@@ -13,7 +13,7 @@ In 2004, four years before he became the president of the United States, Barack 
 
 <b>Focus 580; Talk to the Candidates with Barack Obama</b>
 <b>| WILL Illinois Public Media (Television station : Urbana, IL.) | February 16, 2004 </b>
-<i>This audio clip and associated transcript appear from 2:28 - 6:40 in the full record.</i>
+<i>This audio clip and associated transcript appear from 2:28 - 6:41 in the full record.</i>
 
 ## Teachingtips
 
@@ -21,7 +21,7 @@ In 2004, four years before he became the president of the United States, Barack 
 
 ## Cliptime
 
-0148,0400
+0148,0401
 
 ## Author
 ## Subjects
