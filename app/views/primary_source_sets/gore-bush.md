@@ -61,7 +61,7 @@ b. You could also ask students to reflect on what it must have been like to live
 
 c. What are/were the norms and assumptions surrounding the transfer of power after an American presidential election? What considerations and/or preparations were upended for the candidates themselves in 2000? The outgoing incumbents? The political party operatives/strategists? World leaders and foreign governing bodies? Students could analyze the ways various individual and institutional interests overlapped and intersected at this critical juncture.
 
-2.  Show the below clip and engage students in thinking critically about the function and utility of the Electoral College system.
+2. Show the below clip and engage students in thinking critically about the function and utility of the Electoral College system.
    
   - [Debating the Role of the Electoral College (2000)](/primary_source_sets/gore-bush/7-507-br8mc8s25c) 
 
@@ -71,7 +71,7 @@ b. Imagine ways that the system’s design may be manipulated and/or subverted a
 
 c. Additionally, you could ask students to reflect on what it means for a candidate to become the president without a greater number of actual votes by Americans nationwide (i.e., winning the electoral votes but not the popular vote), especially in terms of enfranchisement and legitimacy. 
 
-3) Show the below clip and ask students to consider the results from a mathematical perspective.
+3. Show the below clip and ask students to consider the results from a mathematical perspective.
    
   - [Margins of Error v. Margins of Victory: Voting Technologies and Election Math (2000)](/primary_source_sets/gore-bush/5-507-br8mc8s25c)
 
@@ -79,7 +79,7 @@ a. In such a close race, how do we account for margins of error? Mathematically 
 
 b. Discussion could then address the various technological interventions in the voting process, including the pros/cons of different ballot forms (punch ballots, hanging chads, etc.) and ways of counting them (by hand, by machine). This presents an opportunity to introduce students to one of the most significant ramifications of the 2000 election, the Help America Vote Act. Passed in 2002, the Act created new mandatory minimum standards in election administration and established the Election Assistance Commission to create voting system guidelines and implement the federal government’s first voting system certification program, among other mandates. This prompted heavy investment in updating voting equipment and voter identification procedures, and the development of new voting machines and tabulation software that increasingly relied on private, commercial companies like Dominion Voting Systems Corporation, Smartmatic USA Corporation, and VotRite. While these for-profit companies are registered with the U.S. Election Assistance Commission, the role of commercial entities in the democratic process of voting may present potential conflicts of interest. You could prompt students to not only consider potential benefits and limitations of such a system, but also do research on who owns the companies that make the ballots, own the voting machines, and/or calculate the data. 
 
-4) Should you have more time to dive deeper, the sources in this set could serve as starting points for more in-depth class activities. For example:
+4. Should you have more time to dive deeper, the sources in this set could serve as starting points for more in-depth class activities. For example:
 
 a. To build on discussions relating to the [“Debating the Role of the Electoral College”](/primary_source_sets/gore-bush/7-507-br8mc8s25c) source, you could put together a role-playing group activity debating the function and utility of the electoral college. Divide the students into three groups: 
 
