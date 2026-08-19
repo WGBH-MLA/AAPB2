@@ -160,6 +160,7 @@
   </div>
 
   <div><b>Can I use programs that aren’t available online?</b></div>
+  
   <div>
     In some cases, AAPB can provide <b>password‑protected</b>, two‑week access to certain materials through our Limited Research Access (LRA) Policy. Email <b>aapb_notifications@wgbh.org</b> with your request and a brief description of your project.
   </div>
