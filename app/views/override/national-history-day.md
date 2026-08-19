@@ -13,7 +13,6 @@
     </a>
   </span>
 
-  <h2 class="override">National History Day</h2>
   <h3 class="override">Innovation in History: Impact, Influence, Change</h3>
   <div>
     The American Archive of Public Broadcasting (AAPB) is proud to support <a href="https://www.nhd.org/">National History Day</a> (NHD) students and teachers as they explore the 2027 theme: <b>Innovation in History: Impact, Influence, Change</b>. This year’s theme invites students to investigate how people have imagined, developed, and implemented new ideas, technologies, and methods, and how those innovations influenced societies over time.
@@ -46,7 +45,7 @@
     AAPB’s collections allow students to see <b>how innovations were understood in their own time</b> and how public media shaped conversations around change.
   </div>
 
-  <div>For more information on the 2027 theme, visit <a href="https://www.nhd.org/">National History Day</a>. For help from AAPB staff, email <a href="mailto:aapb_notifications@wgbh.org">aapb_notifications@wgbh.org</a>
+  <div>For more information on the 2027 theme, visit <a href="https://www.nhd.org/">National History Day</a>. For help from AAPB staff, email <a href="mailto:aapb_notifications@wgbh.org">aapb_notifications@wgbh.org</a>.
   </div>
 
   <h3 class="override">
