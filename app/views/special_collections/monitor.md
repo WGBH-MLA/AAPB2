@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Monitor Radio logo featuring a globe against a white background and the words "Monitor Radio: A Service of the Christian Science Monitor"](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-thumbnail-upscaled.png "Monitor Radio logo") 
+![Monitor Radio logo featuring a globe against a white background and the words "Monitor Radio: A Service of the Christian Science Monitor"](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-thumbnail-upscaled.jpeg "Monitor Radio logo") 
 
 ## Summary 
 
@@ -28,11 +28,11 @@ Monitor Radio won multiple awards for journalistic excellence, such as first pla
 
 ## Featured
 
-[![AIDS](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail.png)](/catalog/cpb-aacip-08bb9719d4c)
-[![Chernobyl](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail.png)](/catalog/cpb-aacip-fbc75b3c14f)
+[![AIDS, Part I](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail.png)](/catalog/cpb-aacip-08bb9719d4c)
+[![Chernobyl Disaster](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail.png)](/catalog/cpb-aacip-fbc75b3c14f)
 [![End of the USSR](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail.png)](/catalog/cpb-aacip-9cf8e5bfd21)
 [![Black Americans](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail.png)](/catalog/cpb-aacip-882295338b6)
-[![Bosnia](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail.png)](/catalog/cpb-aacip-35d0786be67)
+[![Bosnian War](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail.png)](/catalog/cpb-aacip-35d0786be67)
 [![Hong Kong Handover](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail.png)](/catalog/cpb-aacip-d199684e32a ) 
 
 ## Resources
