@@ -104,19 +104,92 @@
     These collections and exhibits highlight how public broadcasting has documented scientific, technological, cultural, and social innovations over time.
   </div>
 
-  <div>
-    <ul class="override">
-      <li><a href="https://americanarchive.org/special_collections/wapina">War and Peace in the Nuclear Age Collection</a></li>
-      <li><a href="https://americanarchive.org/special_collections/kgou-weather-whys">Weather Whys Collection</a></li>
-    <li><a href="https://americanarchive.org/special_collections/kexp-mind-over-matters">Mind Over Matters Sustainability Segment Collection</a></li>
-    <li><a href="https://americanarchive.org/special_collections/about-science">About Science Series Collection</a></li>
-    <li><a href="https://americanarchive.org/special_collections/higher-education-today">Higher Education Today Collection</a></li>
-    <li><a href="https://americanarchive.org/special_collections/ttbook">To The Best Of Our Knowledge Collection</a></li>
-    <li><a href="https://americanarchive.org/special_collections/children-and-disabilities">Representing Children with Disabilities on Public Television Collection</a></li>
-    <li><a href="https://americanarchive.org/exhibits/hiv-aids-and-public-broadcasting">The HIV/AIDS Epidemic and Public Broadcasting Exhibit</a></li>
-    <li><a href="https://americanarchive.org/exhibits/climate-change">Climate Change Conversations: Causes, Impacts, Solutions Exhibit</a></li>
-  </ul>
+<div id="tv-0" class="tv-scroller-container">
+  <button class="tv-scroller left">&lt;</button>
+  <div class="tv-scroller-items">
+
+     <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/wapina">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WAPINA_Poster.jpg" />
+        <div class="tv-scroller-title"><i>War and Peace in the Nuclear Age</i></div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item  shown">
+      <span></span>
+      <a href="/special_collections/kgou-weather-whys">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/EyesOnThePrize_Logo.jpg" />
+        <div class="tv-scroller-title"><i>Eyes on the Prize Interviews</i></div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item  shown">
+      <span></span>
+      <a href="/special_collections/kexp-mind-over-matters">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/AX0004_Freedom_Riders.jpg" />
+        <div class="tv-scroller-title"><i>Freedom Riders Interviews</i></div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item  shown">
+      <span></span>
+      <a href="/special_collections/about-science">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/CivilWarKenBurns.jpg" />
+        <div class="tv-scroller-title"><i>Ken Burns’ The Civil War Interviews</i></div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item ">
+      <span></span>
+      <a href="/special_collections/higher-education-today">
+        <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/latereturns.jpg" />
+        <div class="tv-scroller-title"><i>“Gavel-to-Gavel”: The Watergate Scandal and Public Television</i></div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item ">
+      <span></span>
+      <a href="/special_collections/ttbook">
+        <img src="https://s3.amazonaws.com/americanarchive.org/primary_source_sets/thumbnail_war_on_terror.jpg" />
+        <div class="tv-scroller-title">9/11 and the War on Terror</div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item ">
+      <span></span>
+      <a href="/special_collections/children-and-disabilities">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/StonewallUprisingMainImage.jpg" />
+        <div class="tv-scroller-title"><i>Stonewall Uprising Interviews</i></div>
+      </a>
+    </div>
+
+
+    <div class="tv-scroller-item ">
+      <span></span>
+      <a href="/exhibits/hiv-aids-and-public-broadcasting">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/GreatDepressionblackborder_final.png" />
+        <div class="tv-scroller-title"><i>The Great Depression Interviews</i></div>
+      </a>
+    
+    </div>
+      <div class="tv-scroller-item ">
+      <span></span>
+      <a href="/exhibits/climate-change">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/GreatDepressionblackborder_final.png" />
+        <div class="tv-scroller-title"><i>The Great Depression Interviews</i></div>
+      </a>
+    </div>
+
   </div>
+  <button class="tv-scroller right">&gt;</button>
+</div>
 
   <h3 class="override">Example Topics and Suggested Content</h3>
 
