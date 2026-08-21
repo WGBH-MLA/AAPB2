@@ -104,7 +104,28 @@
     These collections and exhibits highlight how public broadcasting has documented scientific, technological, cultural, and social innovations over time.
   </div>
 
+<div id="tv-0" class="tv-scroller-container">
+  <button class="tv-scroller left">&lt;</button>
+  <div class="tv-scroller-items">
+
+     <div class="tv-scroller-item focus shown">
+      <span></span>
+      <a href="/special_collections/kgou-weather-whys">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/WeatherWhys_feature-image.png" />
+        <div class="tv-scroller-title">Weather Whys Collection</div>
+      </a>
+    </div>
+    
+    <div class="tv-scroller-item  shown">
+      <span></span>
+      <a href="/special_collections/eotp-interviews">
+        <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/EyesOnThePrize_Logo.jpg" />
+        <div class="tv-scroller-title"><i>Eyes on the Prize Interviews</i></div>
+      </a>
+    </div>
   <div>
+
+  
     <ul class="override">
       <li><a href="https://americanarchive.org/special_collections/wapina">War and Peace in the Nuclear Age Collection</a></li>
       <li><a href="https://americanarchive.org/special_collections/kgou-weather-whys">Weather Whys Collection</a></li>
