@@ -12,7 +12,7 @@ In keeping with *The Christian Science Monitor*’s editorial principles, *Monit
 
 Several episodes reflect on recent history. For example, in 1989, *Monitor Radio* aired a report on the partial meltdown of the [Three Mile Island nuclear plant](https://americanarchive.org/catalog/cpb-aacip-0fd550a4575) in Londonderry Township, Pennsylvania, a decade earlier. Similarly, on the ten-year anniversary of the [Chernobyl nuclear disaster](https://americanarchive.org/catalog/cpb-aacip-292e394e53e) in northern Ukraine, *Monitor Radio* featured a story on the incident and its lasting effects on survivors and the environment. On the fortieth anniversary of the founding of Israel, *Monitor Radio* offered an [objective account](https://americanarchive.org/catalog/cpb-aacip-306da3ceeec) of the history of the country and present-day challenges, and on December 26, 1991, the [program looked back](https://americanarchive.org/catalog/cpb-aacip-9cf8e5bfd21) on the Soviet Union’s final year on the day it was formally dissolved.
 
-*Monitor Radio* not only reported on major news stories; it also explored their complexities. For instance, when [Nelson Mandela was released from prison](https://americanarchive.org/catalog/cpb-aacip-9f46aa1937b) on February 11, 1990, *Monitor Radio* reported on his first public comments following his 27-year imprisonment. It then delved deeper into the topic of the anti-apartheid movement, featuring a story on the impact of US-imposed economic sanctions on South Africa and a profile of Mandela titled “Nelson Mandela: The Man Behind the Myth.”
+*Monitor Radio* went beyond covering major news stories; it also put these stories in context. For instance, when [Nelson Mandela was released from prison](https://americanarchive.org/catalog/cpb-aacip-9f46aa1937b) on February 11, 1990, *Monitor Radio* reported on his first public comments following his 27-year imprisonment. It then delved deeper into the topic of the anti-apartheid movement, featuring a story on the impact of US-imposed economic sanctions on South Africa and a profile of Mandela titled “Nelson Mandela: The Man Behind the Myth.”
 
 In addition to reporting on international issues, *Monitor Radio* also covered US news and politics, such as efforts to pass the [North American Free Trade Agreement](https://americanarchive.org/catalog/cpb-aacip-dd58db9823f), the [Oklahoma City bombing](https://americanarchive.org/catalog/cpb-aacip-1f2d43a501a), and the [O.J. Simpson trial](https://americanarchive.org/catalog/cpb-aacip-2cc808c7c83). The series documented the United States’ [entry into the Gulf War](https://americanarchive.org/catalog/cpb-aacip-6e58c05ba9e), as well as major scientific breakthroughs, including the [launch of the Hubble Space Telescope](https://americanarchive.org/catalog/cpb-aacip-050b385deea) and the [cloning of Dolly the sheep](https://americanarchive.org/catalog/cpb-aacip-9254dee26bc). 
 
@@ -28,12 +28,12 @@ Monitor Radio won multiple awards for journalistic excellence, such as first pla
 
 ## Featured
 
-[![AIDS, Part I](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail.png)](/catalog/cpb-aacip-08bb9719d4c)
-[![Chernobyl Disaster](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail.png)](/catalog/cpb-aacip-fbc75b3c14f)
-[![End of the USSR](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail.png)](/catalog/cpb-aacip-9cf8e5bfd21)
-[![Black Americans](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail.png)](/catalog/cpb-aacip-882295338b6)
-[![Bosnian War](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail.png)](/catalog/cpb-aacip-35d0786be67)
-[![Hong Kong Handover](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail.png)](/catalog/cpb-aacip-d199684e32a ) 
+[![AIDS, Part I](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail-2.png)](/catalog/cpb-aacip-08bb9719d4c)
+[![Chernobyl Disaster](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail-2.png)](/catalog/cpb-aacip-fbc75b3c14f)
+[![End of the USSR](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail-2.png)](/catalog/cpb-aacip-9cf8e5bfd21)
+[![Black Americans](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail-2.png)](/catalog/cpb-aacip-882295338b6)
+[![Bosnian War](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail-2.png)](/catalog/cpb-aacip-35d0786be67)
+[![Hong Kong Handover](https://s3.amazonaws.com/americanarchive.org/special-collections/monitor-asset-thumbnail-2.png)](/catalog/cpb-aacip-d199684e32a ) 
 
 ## Resources
 
