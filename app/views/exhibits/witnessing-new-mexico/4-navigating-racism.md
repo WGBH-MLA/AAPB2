@@ -16,7 +16,7 @@ The *Witnessing New Mexico* exhibit provides a critical exploration of communiti
 
 ## Main
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Environment, Race, and Class-1280x1280.png">
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Environment, Race, and Class-1280x1280.png" />
 
 &emsp;
 
@@ -178,7 +178,7 @@ Seventy thousand people in the Navajo Nation live without easy access to one of 
 **[*At Week's End*, "New Mexico Groundwater"](/catalog/cpb-aacip-191-10wpzhzb) (KNME-TV, Albuquerque, NM, April 27, 1990)**     
 Thousands of Albuquerqueans have, for years, had to deal with the fear and reality of drinking contaminated water. *At Week's End*, "New Mexico Groundwater" tells all. 
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Erase the Hate-1280x1280.png">
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Erase the Hate-1280x1280.png" />
 
 &emsp;
 
@@ -293,7 +293,7 @@ COVID-19 has laid bare many systemic failures here in New Mexico, often revolvin
 
 ## Cover
 
-<img title="Cover Image" alt="Navigating Racism" src="https://s3.amazonaws.com/americanarchive.org/exhibits/navigating-racism-thumbnail.jpg">
+<img title="Cover Image" alt="Navigating Racism" src="https://s3.amazonaws.com/americanarchive.org/exhibits/navigating-racism-thumbnail.jpg" />
 
 ## Gallery
 
