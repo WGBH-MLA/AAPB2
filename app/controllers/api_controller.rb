@@ -2,6 +2,8 @@ require_relative '../../lib/solr'
 require 'nokogiri'
 
 class ApiController < ApplicationController
+  include PBCore::ToJSON
+
   skip_before_action :verify_authenticity_token
   # TODO: There is nothing we have that is worth a CSRF, but CORS is a better way to do this.
 
@@ -10,7 +12,10 @@ class ApiController < ApplicationController
   def index
     @solr = Solr.instance.connect
     callback = params.delete('callback') || 'callback'
+
     rows = [params.delete('rows').to_i, 100].min
+    # rows = params.delete('rows')
+
     data = begin
       @solr.get('select', params: params.except(:action, :format, :controller).merge(rows: rows))
     rescue => e
@@ -52,13 +57,9 @@ class ApiController < ApplicationController
       end
 
       format.json do
-        # escape double quotes (because they may appear in node values)
-        xml = xml.gsub(%(\"), %(\\\"))
-
-        json = pbcore_xml_to_json_xsl_doc.transform(Nokogiri::XML(xml))
-        render json: JSON.pretty_generate(
-          JSON.parse(json)
-        )
+        # PBCore::ToJSON method
+        output = pbxml_to_json(xml)
+        render json: output
       end
     end
   end
@@ -83,6 +84,17 @@ class ApiController < ApplicationController
 
   def render_not_found(guid)
     render json: { status: '404 Not Found', code: '404', message: "Record #{guid} not found" }, status: :not_found
+  end
+
+  def arrayify_node(node)
+    # if truthy and not already array, wrap in array
+    if node
+      if node.is_a?(Array)
+        node
+      else
+        [node]
+      end
+    end
   end
 
   private

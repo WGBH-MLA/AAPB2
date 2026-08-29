@@ -91,5 +91,5 @@ gem 'nokogiri', '~> 1.10.4'
 gem 'bigdecimal', '1.4.4'
 gem 'httparty'
 
-gem 'pbcore', '~> 0.2.0'
+gem 'pbcore', git: 'https://github.com/WGBH-MLA/pbcore.git'
 gem 'json-schema', '~> 2.8.0'
