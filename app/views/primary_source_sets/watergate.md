@@ -23,7 +23,7 @@ The cover-up started to unravel after the conviction of the Watergate burglars i
 
 ## Teachingtips
 
-This source set consists of video clips which document the Watergate scandal as it unfolded between 1972 and 1974, as well as one documentary and a retrospective appraisal on the 50th anniversary of the break-in. The sources cover issues germane to the scandal: freedom of the press, the oversight role of Congress and the separation of powers, the concept of executive privilege and the legal battles over access to the White House tapes, and first-person perspectives on the relationship between Watergate and democracy.  
+This source set consists of video clips which document the Watergate scandal as it unfolded between 1972 and 1974, as well as one documentary and a retrospective appraisal on the 50th anniversary of the break-in. The sources cover issues germane to the scandal: freedom of the press, the oversight role of Congress and the separation of powers, the concept of executive privilege and the legal battles over access to the White House tapes, and first-person perspectives on the relationship between Watergate and democracy.
 
 #### Background Information
 
@@ -32,14 +32,14 @@ Before engaging with this resource set, students should be familiar with the fol
 - The conservative resurgence of 1968
 - The conspiracy theories of Richard Nixon
 - The Committee to Re-Elect the President and Nixon administration officials
-- The timeline of the Watergate scandal 
+- The timeline of the Watergate scandal
 - The media coverage of the Watergate hearings
-- The constitutional concept of separation of powers 
+- The constitutional concept of separation of powers
 
 
 <hr>
 
-#### Essential Question 
+#### Essential Question
 
 To what extent did the Watergate scandal represent the subversion of democracy or the resilience of democracy?
 
@@ -73,26 +73,26 @@ How did the members of the House Judiciary Committee approach the impeachment he
 Ask students to read this NPR [article](https://www.npr.org/2022/06/06/1103098399/watergate-committee-hearings-may-be-both-an-inspiration-and-a-hard-act-to-follow) on the January 6 Committee and to compare it to the Watergate hearings in terms of its process and the political make-up of the committees. Identify the factors that differentiated the House of Representatives investigation into the January 6th, 2021, attack on the U.S. Capitol from the Watergate investigations.
 
 **2) The Lessons of Watergate**
-     
-Ask students to watch the following sources: 
+
+Ask students to watch the following sources:
 
 - [An Ordinary Citizen Discusses the Morality of Watergate (1974)](/primary_source_sets/watergate/6-512-3f4kk95f7h)
 - [Congresswoman Barbara Jordan Reflects on Watergate (1975)](/primary_source_sets/watergate/8-512-ms3jw87z64)
 - [Garrett Graff Discusses His Book, Watergate: A New History (2022)](/primary_source_sets/watergate/9-065273f33da)
-   
+
 Rep. Barbara Jordan (D, Texas) and Grace Crawley agree that Watergate exposed the lack of integrity and morality in government, but they disagree when it comes to preventing future scandals. What solutions does Jordan endorse?  What does Crawley see as the answer? Garrett Graff, writing on the 50th anniversary of the Watergate break-in, also weighs in. What lesson does he draw from the Watergate scandal?  What lessons do you think should be drawn?
 
 Ask students to put themselves in Crawley’s place: As a citizen in 1974, what would they say in a letter to the editor of Time magazine? What points would they make about political integrity, accountability, and upholding the Constitution?
 
 **3) The Judiciary v. the Executive**
-      
+
 Ask students to watch the following sources:
 
 - [The President and the Courts (1973)](/primary_source_sets/watergate/5-9a47dc598f3)
 - [Threatened With Impeachment, Nixon Resigns (1983)](/primary_source_sets/watergate/7-512-gm81j9840b)
 
-What role did the Special Prosecutor and the Senate Select Committee play in getting key evidence released? Why did Nixon refuse to surrender the tapes and what specific arguments did he make? Do you find these persuasive? 
- 
+What role did the Special Prosecutor and the Senate Select Committee play in getting key evidence released? Why did Nixon refuse to surrender the tapes and what specific arguments did he make? Do you find these persuasive?
+
 Imagine you are a lawyer arguing on behalf of the United States in the 1974 [United States v. Nixon](https://www.oyez.org/cases/1973/73-1766) case: What points would you make in order to convince the Supreme Court that President Nixon should surrender all the White House tapes?
 
 **4) Interpreting Watershed Moments**
@@ -134,9 +134,6 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Watergate_
 - special collection,watergate
 - exhibit,watergate
 
-## Citation
-
-Weidner, Catherine Sardo. "The Watergate Scandal." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/watergate.
-
+## References
 ## Guid
 ## Cliptime

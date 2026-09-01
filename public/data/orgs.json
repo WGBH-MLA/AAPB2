@@ -2143,15 +2143,6 @@
     "Name": "PBS Hawaii (KHET)",
     "location": [21.327916, -157.8868464]
   },
-  "NCSG55155": {
-    "Name": "East Tennessee PBS",
-    "Short name": "East Tennessee PBS",
-    "State": "Tennessee",
-    "City": "Sneedville",
-    "Url": "https://www.easttennesseepbs.org/",
-    "About": "",
-    "location": [35.979, -83.9086]
-  },
   "NCSG55164": {
     "Name": "Legros Family",
     "Short name": "Legros Family",
@@ -2434,7 +2425,7 @@
     "City": "New Orleans",
     "Logo": "whiv-logo.png",
     "Url": "https://whivfm.org/",
-    "Name": "102.3 FM WHIV-LP",
+    "Name": "WHIV-FM",
     "About": "102.3 FM WHIV-LP is a program of The New Orleans Society for Infectious Disease Awareness (NOSIDA), which was established in 2009 by local activist and infectious diseases physician Dr. MarkAlain Dery. NOSIDA's focus is to raise awareness about HIV and other infectious diseases through music. Such illnesses are completely preventable, yet disproportionately affect disadvantaged and marginalized populations. NOSIDA received its non-profit status in 2010. Expanding its impact locally, NOSIDA was awarded an FCC license for a 100 watt lower power FM community radio station in 2014. On World AIDS Day 2014, WHIV was officially launched, featuring local music, protest songs, and programming dedicated to human rights and social justice. Our AIM has always been Advocacy through Innovative Messaging. As of 2019, 102.3 FM WHIV-LP features more than 70 hosts and DJs, broadcasting over 12 hours of daily and original content throughout New Orleans, and streaming online in all 50 states and 85 countries worldwide. The majority of WHIV's listeners and supporters are from the greater New Orleans metropolitan area, and all of our shows, music, and content is run by a determined group of local volunteers. Topics on this grassroots radio station range from health as a human right to workers rights to reproductive justice and from Islam in the Crescent City to the Haitian community in New Orleans. There are also many local musicians that showcase a wide array of eclectic sounds. We are WHIV. We honor independent voices. We are human rights and social justice radio.",
     "location": [29.9719, -90.0843]
   },
@@ -2533,6 +2524,94 @@
     "Name": "PBS",
     "About": "PBS is a membership organization that, in partnership with its member stations, serves the American public with programming and services of the highest quality, using media to educate, inspire, entertain and express a diversity of perspectives. PBS empowers individuals to achieve their potential and strengthen the social, democratic, and cultural health of the U.S.",
     "location": [38.8623, -77.0503]
+   },
+    "NCSG55204": {
+    "Short name": "Shaw University",
+    "State": "North Carolina",
+    "City": "Raleigh",
+    "Logo": "shaw-org-logo.png",
+    "Url": [
+      "https://live365.com/station/WSHA-Shaw-University-Radio-a29868",
+      "https://shawu.libguides.com/archives"
+    ],
+    "Name": "Shaw University",
+    "About": "Shaw University, the first HBCU in the south, was founded in 1865 by Rev. Henry Martin Tupper and his wife Sarah Tupper. Shaw University is known for many of its firsts including the first HBCU owned radio station, WSHA. WSHA-FM was established as part of the Shaw University School of Communications and made its first broadcast in November 1968. The primary function of WSHA was to serve as an extension of the radio teaching lab through which students could put into practical use what they were taught in class. WSHA studios were planned by Professor James E. Lynch, an Ohio State University consultant engaged for this purpose. Originally operating at 10 watts, later to be approved to operate at a higher power, the equipment was of top professional quality and was ordered and installed under the supervision of Al Boggioni, consulting engineer also from Ohio State University. Mrs. Elizabeth Shimer Czech was appointed supervisor of the radio station WSHA as well as head of the new Radio-TV-Film Department in 1968. Under her guidance, some 50 students were prepared for the initial broadcast and to operate the station, through non-credit workshops. Except for the supervisor, receptionist, and a part-time engineer, the WSHA staff was entirely made up of students majoring in Radio-TV-Film. Students were also required to have their FCC third-class licenses before being accepted as regular operators of WSHA. As an educational, non-commercial station, WSHA programming was established to serve the entire Raleigh community. Programming was set up in three different blocks in order to reach three different types of audience which included a cultural and informational emphasis, community involvement such as news, public affairs, and minority viewpoints, and Contemporary sound- mainly music geared towards young adults. Since WSHA was operated by students in a predominantly Black university, and area stations did not cover Black news in depth, the students were encouraged to discover and air stories which would fill the existing gaps and could lead to a better understanding between the races. Programs would later increase to include jazz, blues, reggae, soul, R&B, and gospel as well as various talk shows such as Traces of Faces and Places, and Shaw University sports broadcasts. After petitions were filed by students, alumni, and community members, WSHA-FM was ultimately sold in 2018.",
+    "location": [35.7712, -78.6379]
+   },
+   "NCSG55205": {
+    "Short name": "CENTRO, The Center for Puerto Rican Studies at Hunter College",
+    "State": "New York",
+    "City": "New York City",
+    "Logo": "centro-logo.png",
+    "Url": "https://centropr.hunter.cuny.edu/",
+    "Name": "CENTRO, The Center for Puerto Rican Studies at Hunter College",
+    "About": "CENTRO, The Center for Puerto Rican Studies at Hunter College, is the largest university-based research institute, library, and archive dedicated to the Puerto Rican experience in the United States.",
+    "location": [40.7999, -73.9388]
+   },
+    "NCSG55206": {
+    "Short name": "Private Donor",
+    "State": "Massachusetts",
+    "City": "Boston",
+    "Name": "Private Donor",
+    "About": "",  
+    "location": [42.3571, -71.1481]
+   },
+    "NCSG55207": {
+    "Short name": "WPSU",
+    "State": "Pennsylvania",
+    "City": "State College",
+    "Logo": "wpsu-logo.png",
+    "Url": "https://wpsu.org",
+    "Name": "WPSU",
+    "About": "",  
+    "location": [40.7983, -77.8597]
+   },
+    "NCSG55208": {
+    "Short name": "KEDT-TV & KEDT-FM",
+    "State": "Texas",
+    "City": "Corpus Christi",
+    "Logo": "kedt-logo.png",
+    "Url": "https://www.kedt.org/",
+    "Name": "KEDT-TV & KEDT-FM",
+    "About": "KEDT-TV has been dedicated to educating, enlightening and inspiring South Texans since we first went on the air in October 1972. KEDT-FM signed on in March 1984. As a dual-licensed public broadcasting station, KEDT is the vessel that helps deliver free PBS and NPR educational and cultural programming to our region, which covers South Texas from Victoria to the Rio Grande Valley — that's 27 counties and over 2 million Texans!",  
+    "location": [27.7520, -97.3969]
+    },
+    "NCSG55209": {
+    "Short name": "Center for New American Media",
+    "State": "New York",
+    "City": "Brooklyn",
+    "Logo": "cnam-logo.png",
+    "Url": "https://cnam.com/",
+    "Name": "Center for New American Media",
+    "About": "The Center for New American Media (CNAM) was founded in 1979 to produce documentaries for public television that center on American society and culture. Its films have received some of the field's highest honors, including two Peabody Awards and two Columbia-Dupont Awards. CNAM's work is characterized by a skillful mixing of serious topics with humor and rich storytelling, and several of its films continue to resonate with audiences around the world: the acclaimed [PEOPLE LIKE US](https://www.cnam.com/project/people-like-us), the first American documentary explicitly about the American class system; [VOTE FOR ME](https://www.cnam.com/project/vote-for-me), a four-hour examination of politics, politicians and voters; and [AMERICAN TONGUES](https://www.cnam.com/project/american-tongues), a celebratory and provocative look at America via the way Americans speak that was the premiere offering on PBS’ [POV](https://www.pbs.org/pov/) series.. Most recently CNAM created [CONFLUENCE](https://www.cnam.com/project/confluence/), a 3-hour examination of art, science, and creativity. CNAM's principal creative partners are Louis Alvarez and Andrew Kolker. More information at [cnam.com](https://cnam.com/). ",  
+    "location": [40.6798, -73.9757]
+   },
+    "NCSG55210": {
+    "Short name": "Indiana University Libraries",
+    "State": "Indiana",
+    "City": "Bloomington",
+    "Url": "https://libraries.indiana.edu/",
+    "Name": "Indiana University Libraries",
+    "About": "",  
+    "location": [39.1687, -86.5229]
+   },
+    "NCSG55211": {
+    "Short name": "KPBS",
+    "State": "California",
+    "City": "San Diego",
+    "Url": "https://www.kpbs.org/",
+    "Name": "KPBS",
+    "About": "For more than 65 years KPBS has been San Diego’s storyteller, providing locally and nationally-produced news, entertainment, educational, and lifestyle programming on television, radio, and digital media, as well as events and resources that help San Diegans build strong and vibrant communities. As San Diego’s NPR and PBS station, KPBS provides stories that make us think, help us dream, and keep us connected. News: With a team of more than 65 journalists, videographers, reporters, editors, and anchors, KPBS provides in-depth, trustworthy coverage on issues of high importance to San Diegans with local voices and perspective. Podcasts: Locally, KPBS produces and presents 17 podcasts that offer unique insight and perspective from diverse voices in the arts, science, film, and more. Twelve podcasts are produced by KPBS, and another five come from local producers in collaboration with the station under the KPBS Explore project. Explore Local Content Project: Every two years the KPBS Explore Local Content Project sends out a community-wide call for the next big content idea and will pledge seed funding to the most promising proposals. In the last 13 years we’ve collaborated with local producers to bring more than 40 programs in the form of podcasts, ongoing TV series, documentaries, and limited specials.",  
+    "location": [32.7722, -117.0726]
+   },
+    "NCSG55212": {
+    "Short name": "David Grubin Productions, Inc.",
+    "State": "New York",
+    "City": "New York City",
+    "Url": "https://www.grubin.com/",
+    "Name": "David Grubin Productions, Inc.",
+    "About": "David Grubin is a director, writer, producer, and cinematographer who has produced over 100 films, ranging across history, art, poetry, and science, winning every award in the field of documentary television, including two Alfred I. Dupont awards, three George Foster Peabody prizes, five Writers Guild prizes, and ten Emmys. His biographies for the PBS series *American Experience - Abraham and Mary Lincoln: A House Divided; LBJ; Truman; TR: The Story of Theodore Roosevelt; and FDR - have set the standard for television biography. His five-part series - Healing and the Mind with Bill Moyers - has won many awards, and the companion book, for which he was executive editor, rose to number one on The New York Times Best Sellers list, remaining on the list for 32 weeks. Grubin has received a Guggenheim Fellowship, been a Montgomery Fellow at Dartmouth College, and is the recipient of an honorary doctorate from his alma mater, Hamilton College. A former chairman of the board of directors of The Film Forum, he is currently a member of the Society of American Historians, and serves on the board at Poets House. Grubin has taught documentary film producing in Columbia University's Graduate Film Program, and has lectured on filmmaking across the country. In 2025, he graduated with a Master of Fine Arts in poetry from Pacific University. Grubin says about his work: For me, documentary filmmaking is a process of discovery, an opportunity to wander along some unmarked shore with my mind open and my senses alert. Tolerance for the disquieting limbo of uncertainty in the midst of chaos is at the center of my creative process. Making documentaries requires comfort with disorder – being at ease with what seems like an infinite number of brute, meaningless facts and knowing that only the empathetic imagination can infuse them with meaning.",  
+    "location": [42.7466, -75.7700]
    }
 }
   

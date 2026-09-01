@@ -11,7 +11,7 @@ cpb-aacip-15-gt5fb4xm7n
 
 ## Introduction
 
-In this retrospective interview for the _American Experience_ documentary _Freedom Riders_, Pauline Edythe Knight-Ofuso, who participated in the Freedom Rides as a student at Tennessee State University, describes what the Freedom Rides accomplished. 
+In this retrospective interview for the _American Experience_ documentary _Freedom Riders_, Pauline Edythe Knight-Ofuso, who participated in the Freedom Rides as a student at Tennessee State University, describes what the Freedom Rides accomplished.
 
 <b>Interview with Pauline Edythe Knight-Ofuso, 2 of 2 | American Experience</b>
 <b>WGBH | February 10, 2009</b>
@@ -19,7 +19,7 @@ In this retrospective interview for the _American Experience_ documentary _Freed
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

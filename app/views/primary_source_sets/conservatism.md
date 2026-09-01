@@ -111,9 +111,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Reagan_Rev
 - exhibit,conservatism
 - special collection,firing-line
 
-## Citation
-
-Leff, Ben. "The Roots of the ‘Reagan Revolution’." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/conservatism.
+## References
 
 ## Guid
 ## Cliptime

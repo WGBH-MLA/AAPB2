@@ -5,6 +5,7 @@ class CatalogController < ApplicationController
   include ApplicationHelper
   include BlacklightGUIDFetcher
 
+  before_action :reject_abusive_queries, only: [:index]
   before_action :require_turnstile, only: [:index]
 
   # allows usage of default_processor_chain v
@@ -252,6 +253,10 @@ class CatalogController < ApplicationController
         @skip_orr_terms = can? :skip_tos, @pbcore
 
         @captions = CaptionFile.retrieve_captions(@pbcore.id)
+        @audio_description_file = AudioDescriptionFile.new(@pbcore.id)
+        if @audio_description_file.file_present?
+          @audio_description_url = @audio_description_file.url
+        end
 
         if can? :play, @pbcore
           # can? play because we're inside this block
@@ -296,6 +301,15 @@ class CatalogController < ApplicationController
   def require_turnstile
     return if cookies.encrypted[:turnstile_verified] || !Rails.env.production?
     redirect_to turnstile_challenge_path(return_to: request.fullpath)
+  end
+
+  def reject_abusive_queries
+    query_string = request.query_string
+
+    if query_string.length > 1000 || query_string.scan(/\bOR\b/).count > 10
+      Rails.logger.warn("Rejected abusive catalog query from #{request.remote_ip}: #{query_string.truncate(200)}")
+      render plain: "Bad Request: please submit a valid query", status: :bad_request
+    end
   end
 
   def redirect_to_proxy_start_time?(pbcore, params)

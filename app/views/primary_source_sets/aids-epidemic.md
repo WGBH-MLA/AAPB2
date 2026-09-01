@@ -18,7 +18,7 @@ Ben Leff, Teaching Associate, University Laboratory High School (Urbana, Illinoi
 
 ## Introduction
 
-In the early 1980s, a new disease ravaged the United States and the world, unleashing numerous social challenges and controversies.  The Human Immunodeficiency Virus (HIV) is a bloodborne pathogen that spreads in various ways, including sexual activity and sharing of needles for intravenous drug use. The virus wreaks havoc on a person’s immune system, leading to Acquired Immune Deficiency Syndrome (AIDS), a condition that can leave patients without defense against disease. Before any treatments were developed, an AIDS diagnosis was a virtual death sentence, and the disease devastated the communities it struck. 
+In the early 1980s, a new disease ravaged the United States and the world, unleashing numerous social challenges and controversies.  The Human Immunodeficiency Virus (HIV) is a bloodborne pathogen that spreads in various ways, including sexual activity and sharing of needles for intravenous drug use. The virus wreaks havoc on a person’s immune system, leading to Acquired Immune Deficiency Syndrome (AIDS), a condition that can leave patients without defense against disease. Before any treatments were developed, an AIDS diagnosis was a virtual death sentence, and the disease devastated the communities it struck.
 
 Initial outbreaks in the United States centered in communities of gay men, where HIV had spread through sexual contact. However, by the decade’s end, AIDS cases could be found throughout American society, especially among poor black and brown communities.  Because the disease was so new and its victims were drawn disproportionately from already stigmatized groups, people with AIDS were subject to discrimination and prejudice.  Government agencies researched the disease, launched education campaigns, and worked with pharmaceutical companies to develop treatments. Still, many people with AIDS (PWA) criticized what they saw as an insufficient government response and organized to bring political pressure. In turn, AIDS activism often sparked a backlash, particularly from the Religious Right. Thus, the AIDS crisis was both a human tragedy and a flashpoint of controversy over the healthcare system, discrimination, sexuality, race and class disparities, intravenous drug use, and the responsibility of the government to help its citizens.
 
@@ -48,7 +48,7 @@ What social and political challenges and debates emerged as Americans grappled w
 - What were some of the challenges faced by people with AIDS?
 - One might think that victims of a novel, deadly disease would receive widespread public sympathy.  While many Americans did express compassion for people with AIDS, a large number of Americans treated AIDS patients with fear, prejudice, and even condemnation.  Why did people with AIDS sometimes receive this less sympathetic treatment?
 - What political fights and controversies emerged regarding how to properly respond to the AIDS crisis? How can we relate these political debates to broader political conflicts of the era?
-- What were the goals and tactics of activists who fought for a more robust, effective, and humane response to the AIDS epidemic?  What were some controversies associated with this activism? 
+- What were the goals and tactics of activists who fought for a more robust, effective, and humane response to the AIDS epidemic?  What were some controversies associated with this activism?
 
 <hr>
 
@@ -60,7 +60,7 @@ You might only have time for a brief treatment of the AIDS crisis in a survey co
 
 Show [“Screaming, Yelling, Making a Fuss”: ACT UP Grabs America’s Attention (1990)](https://americanarchive.org/primary_source_sets/aids-epidemic/8-507-3b5w669q4c) and ask students to identify the organization’s goals and strategies.  Students could also discuss whether they think the confrontational tactics would have been effective in achieving the group’s goals.
 
-Show [The AIDS Crisis and the Gay Rights Backlash in Houston (1991)](https://americanarchive.org/primary_source_sets/aids-epidemic/5-507-k35m902w8g) and use it as an opportunity to discuss the impact of the AIDS crisis on the Gay Rights Movement.  In what ways did the crisis mark a setback for the Gay Rights Movement? But at the same time, how might the AIDS crisis have had a galvanizing effect on gay political mobilization? 
+Show [The AIDS Crisis and the Gay Rights Backlash in Houston (1991)](https://americanarchive.org/primary_source_sets/aids-epidemic/5-507-k35m902w8g) and use it as an opportunity to discuss the impact of the AIDS crisis on the Gay Rights Movement.  In what ways did the crisis mark a setback for the Gay Rights Movement? But at the same time, how might the AIDS crisis have had a galvanizing effect on gay political mobilization?
 
 For many other clips in this collection, students could analyze the different “sides” of an AIDS-related disagreement and try to relate these conflicts to broader political themes and trends from the period as well as from more recent history.
 
@@ -120,9 +120,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_AIDS-Crisi
 - special collection,ucla-inthelife
 - special collection,lgbt
 
-## Citation
-
-Leff, Ben. "The AIDS Crisis, 1981-1993." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/aids-epidemic.
+## References
 
 ## Guid
 ## Cliptime

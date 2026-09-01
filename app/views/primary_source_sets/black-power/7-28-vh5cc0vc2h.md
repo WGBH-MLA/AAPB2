@@ -9,7 +9,7 @@ cpb-aacip-28-vh5cc0vc2h
 
 ## Introduction
 
-In this sound clip, Angela Davis addresses a crowd at a Black Panther rally held at Bobby Hutton Memorial Park on November 12, 1969. The first speaker of the rally, she discusses African Americans’ relationship to the Vietnam War and the role of police in Black people’s lives.  
+In this sound clip, Angela Davis addresses a crowd at a Black Panther rally held at Bobby Hutton Memorial Park on November 12, 1969. The first speaker of the rally, she discusses African Americans’ relationship to the Vietnam War and the role of police in Black people’s lives.
 
 <b>Black Panther Rally: Oakland</b>
 <b>| KPFA - Pacifica Radio | November 12, 1969 </b>
@@ -17,7 +17,7 @@ In this sound clip, Angela Davis addresses a crowd at a Black Panther rally held
 
 ## Teachingtips
 
-## Citation
+## References
 
 ## Cliptime
 

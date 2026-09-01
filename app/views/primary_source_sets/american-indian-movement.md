@@ -18,7 +18,7 @@ Brenna Wynn Greer, Wellesley College
 
 ## Introduction
 
-In 1968, Native Americans in Minneapolis, Minnesota, launched the American Indian Movement (AIM), which was an activist group that grew into a larger movement centered on tribal sovereignty and self-governance. The founding of AIM occurred within the context of what is often referred to as the “social revolution” of the 1960s, which involved grassroots activism across multiple groups and issues, including civil and labor rights, sexual identity and freedom, and opposition to the Vietnam War. AIM grew out of Native Americans’ opposition to and experience of federal Indian policy that pushed Indians to assimilate and dislocated them from tribal lands. AIM garnered national attention for its high-profile, lengthy protests, often characterized as militant. As a result of AIM’s principles and protests, the Federal Bureau of Investigation (FBI) targeted the movement and its members through COINTELPRO, its counterintelligence program that used covert and illegal actions to eliminate groups the FBI deemed subversive. However, AIM protests also moved the federal government to recognize certain tribal land rights and support Indian education. 
+In 1968, Native Americans in Minneapolis, Minnesota, launched the American Indian Movement (AIM), which was an activist group that grew into a larger movement centered on tribal sovereignty and self-governance. The founding of AIM occurred within the context of what is often referred to as the “social revolution” of the 1960s, which involved grassroots activism across multiple groups and issues, including civil and labor rights, sexual identity and freedom, and opposition to the Vietnam War. AIM grew out of Native Americans’ opposition to and experience of federal Indian policy that pushed Indians to assimilate and dislocated them from tribal lands. AIM garnered national attention for its high-profile, lengthy protests, often characterized as militant. As a result of AIM’s principles and protests, the Federal Bureau of Investigation (FBI) targeted the movement and its members through COINTELPRO, its counterintelligence program that used covert and illegal actions to eliminate groups the FBI deemed subversive. However, AIM protests also moved the federal government to recognize certain tribal land rights and support Indian education.
 
 ## Teachingtips
 
@@ -29,13 +29,13 @@ This resource set is composed completely of excerpts from public radio programs,
 Before engaging with this resource set, students should be familiar with the following:
 
 - The Wounded Knee massacre of 1890
-- The Dawes Act and the 1924 Immigration Act 
-- The concept of sovereignty 
+- The Dawes Act and the 1924 Immigration Act
+- The concept of sovereignty
 - The timeline of the American Indian Movement
 
 <hr>
 
-#### Essential Question 
+#### Essential Question
 
 What do the voices of AIM members and their supporters contribute to our understanding of how Native Americans became a minority group within the United States and how that affected their lived experience?
 
@@ -53,7 +53,7 @@ What do the voices of AIM members and their supporters contribute to our underst
 
 Ask students to engage in group work around specific topics, then come together to discuss.
 
-1) Divide the class into four topic groups as outlined below. Ask each group to watch or listen to the sources assigned to their topic. They should take notes on their topic and prepare to share their findings with the whole class. 
+1) Divide the class into four topic groups as outlined below. Ask each group to watch or listen to the sources assigned to their topic. They should take notes on their topic and prepare to share their findings with the whole class.
 
 ##### Group 1: Origins
 - [The State of Indians in 1968](/primary_source_sets/american-indian-movement/1-28-rb6vx06h40) (1968)
@@ -70,12 +70,12 @@ Ask students to engage in group work around specific topics, then come together 
 - [Pine Ridge Reservation Residents Discuss AIM](/primary_source_sets/american-indian-movement/6-15-78gf28x2) (1973)
 - [AIM Takeover of Fairchild Camera and Instrument Corporation](/primary_source_sets/american-indian-movement/8-207-483j9qpk) (1975)
 
-##### Group 4: Federal Perspective and Policy 
+##### Group 4: Federal Perspective and Policy
 - [The State of Indians in 1968](/primary_source_sets/american-indian-movement/1-28-rb6vx06h40) (1968)
 - [*Radio Free Alcatraz* Episode, Hosted by John Trudell](/primary_source_sets/american-indian-movement/4-28-q23qv3cj2p) (1969)
 - [Pine Ridge Reservation Residents Discuss AIM](/primary_source_sets/american-indian-movement/6-15-78gf28x2) (1973)
 
-2)  Bring students back together and use the discussion questions below to organize and invite input from the four different groups. 
+2)  Bring students back together and use the discussion questions below to organize and invite input from the four different groups.
 
 - What do you identify as primary issues that fueled the American Indian Movement (recognizing that these varied across different tribes, regions, and reservations)?
 - What is the significance of reservations with respect to Native Americans’ experiences and rights?
@@ -100,9 +100,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_American-I
 - exhibit,native-narratives
 - special collection,vision-maker-media
 
-## Citation
-
-Greer, Brenna Wynn. "The American Indian Movement." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/american-indian-movement.
+## References
 
 ## Guid
 ## Cliptime

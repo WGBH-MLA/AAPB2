@@ -2,8 +2,8 @@
 
 ## Thumbnail
 
-![UCLA students walking arm in arm, others with picket signs during protest against National Guard actions at UC Berkeley, 1969, Courtesy The Regents of the University of California (CC BY) https://digital.library.ucla.edu/catalog/ark:/21198/zz0002vrhr. 
-.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_student-protests.jpg "UCLA students walking arm in arm, others with picket signs during protest against National Guard actions at UC Berkeley, 1969, Courtesy The Regents of the University of California (CC BY) https://digital.library.ucla.edu/catalog/ark:/21198/zz0002vrhr. 
+![UCLA students walking arm in arm, others with picket signs during protest against National Guard actions at UC Berkeley, 1969, Courtesy The Regents of the University of California (CC BY) https://digital.library.ucla.edu/catalog/ark:/21198/zz0002vrhr.
+.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_student-protests.jpg "UCLA students walking arm in arm, others with picket signs during protest against National Guard actions at UC Berkeley, 1969, Courtesy The Regents of the University of California (CC BY) https://digital.library.ucla.edu/catalog/ark:/21198/zz0002vrhr.
 .")
 
 ## Cover
@@ -20,7 +20,7 @@ Joel Breakstone, Stanford History Education Group
 
 ## Introduction
 
-During the 1960s, protest movements proliferated in high schools and college campuses across the United States. Among many causes, student activists sought to further the goals of the African American Civil Rights Movement, to end United States military involvement in Vietnam, to abolish ROTC programs on college campuses, and to protest police brutality. Protestors utilized a variety of tactics to achieve their goals, including sit-ins, mass protests, strikes, speeches, and even violence. These efforts often provoked harsh responses from university administrators and the police. Student activism reflected broader cultural conflicts surrounding issues such as Civil Rights, the Vietnam War, and the counterculture of the 1960s. As the decade progressed, these conflicts grew increasingly divisive and violent. 
+During the 1960s, protest movements proliferated in high schools and college campuses across the United States. Among many causes, student activists sought to further the goals of the African American Civil Rights Movement, to end United States military involvement in Vietnam, to abolish ROTC programs on college campuses, and to protest police brutality. Protestors utilized a variety of tactics to achieve their goals, including sit-ins, mass protests, strikes, speeches, and even violence. These efforts often provoked harsh responses from university administrators and the police. Student activism reflected broader cultural conflicts surrounding issues such as Civil Rights, the Vietnam War, and the counterculture of the 1960s. As the decade progressed, these conflicts grew increasingly divisive and violent.
 
 ## Teachingtips
 
@@ -28,7 +28,7 @@ This source set includes a series of audio and video clips detailing various asp
 
 #### Background Information
 
-Before engaging with this resource set, students should be familiar with the following: 
+Before engaging with this resource set, students should be familiar with the following:
 
 - The African American Civil Rights Movement
 - The Vietnam War
@@ -36,19 +36,19 @@ Before engaging with this resource set, students should be familiar with the fol
 
 <hr>
 
-#### Essential Question 
+#### Essential Question
 
-Why did students protest in the 1960s? 
+Why did students protest in the 1960s?
 
 <hr>
 
 #### General Discussion Questions
 
-- What did students protest against? 
-- How were the protest movements related? 
+- What did students protest against?
+- How were the protest movements related?
 - What protest strategies did student activists use?
 - How did authorities respond to the protests? What might have motivated their responses?
-- How were protests on college campuses related to other social and political events in the United States in the 1960s? 
+- How were protests on college campuses related to other social and political events in the United States in the 1960s?
 
 <hr>
 
@@ -57,17 +57,17 @@ Why did students protest in the 1960s?
 1) Ask students to watch/listen to the following sources:
 
 - [Bobby Seale Speaking at University of California, Berkeley Rally](https://americanarchive.org/primary_source_sets/student-protests/1-28-ft8df6kf9j ) (1968)
-- [Interview With Civil Rights Activist Adrienne Manns-Israel](https://americanarchive.org/primary_source_sets/student-protests/8-feb446b0de5) (1988) 
+- [Interview With Civil Rights Activist Adrienne Manns-Israel](https://americanarchive.org/primary_source_sets/student-protests/8-feb446b0de5) (1988)
 
-According to the speakers in each of these sources, how were different protest movements connected? How were the connections Seale and Manns-Israel described similar or different? Students should note the ways in which the speakers linked the goals of the Civil Rights movement, anti-draft activists, and opposition to the Vietnam War. 
+According to the speakers in each of these sources, how were different protest movements connected? How were the connections Seale and Manns-Israel described similar or different? Students should note the ways in which the speakers linked the goals of the Civil Rights movement, anti-draft activists, and opposition to the Vietnam War.
 
-2) Ask students to watch/listen to the following sources: 
+2) Ask students to watch/listen to the following sources:
 
 - [College Professor Discusses Causes of Student Protests](https://americanarchive.org/primary_source_sets/student-protests/4-305-56zw3x5p ) (1969)
 - [Documentary Excerpt Featuring Mario Savio](https://americanarchive.org/primary_source_sets/student-protests/3-516-gq6qz23f5j) (1968)
 - [Documentary Excerpt Featuring Stokely Carmichael](https://americanarchive.org/primary_source_sets/student-protests/6-516-gq6qz23f5j) (1968)
 
-According to the speakers in each of these sources, what motivated activists to protest? How do the explanations differ? Savio and Carmichael identify injustice and racism as prime motivating factors. In contrast, the professor provides a laundry list of possible contributing factors, such as changes in music, dress, and mass media. How might the backgrounds of each of the speakers have influenced what they said? Students should consider how the differences in the backgrounds of the speakers (activists vs. someone who works for a university) might have contributed to their differing views on what motivated activists to protest. 
+According to the speakers in each of these sources, what motivated activists to protest? How do the explanations differ? Savio and Carmichael identify injustice and racism as prime motivating factors. In contrast, the professor provides a laundry list of possible contributing factors, such as changes in music, dress, and mass media. How might the backgrounds of each of the speakers have influenced what they said? Students should consider how the differences in the backgrounds of the speakers (activists vs. someone who works for a university) might have contributed to their differing views on what motivated activists to protest.
 
 <hr>
 
@@ -93,9 +93,6 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Student-Pr
 ## Youmayalsolike
 - exhibit,first-amendment
 
-## Citation
-
-Breakstone, Joel. "Student Protests in the 1960s." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/student-protests.
-
+## References
 ## Guid
 ## Cliptime
