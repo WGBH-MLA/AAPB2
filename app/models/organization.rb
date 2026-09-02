@@ -57,13 +57,8 @@ class Organization < Cmless
   end
 
   def facet_url
-  params = {
-    'sort' => 'asset_title asc',
-    'f[contributing_organizations][]' => facet
-  }
-  query = params.map { |k, v| "#{CGI.escape(k)}=#{CGI.escape(v)}" }.join('&')
-
-  digitized_records? ? "/catalog?#{query}" : "/catalog?#{query}&#{CGI.escape('f[access_types][]')}=all"
+    base = "/catalog?sort=title+asc&f[contributing_organizations][]=" + CGI.escape(facet)
+    digitized_records? ? base : base + "&f[access_types][]=all"
   end
 
   def short_name
