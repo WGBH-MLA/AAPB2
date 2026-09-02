@@ -57,7 +57,7 @@ class Organization < Cmless
   end
 
   def facet_url
-    digitized_records? ? "/catalog?f[contributing_organizations][]=" + CGI.escape(facet) : "/catalog?f[contributing_organizations][]=" + CGI.escape(facet) + "&f[access_types[]=all"
+    digitized_records? ? "/catalog?sort=asset_title+asc&f[contributing_organizations][]=" + CGI.escape(facet) : "/catalog?sort=asset_title+asc&f[contributing_organizations][]=" + CGI.escape(facet) + "&f[access_types[]=all"
   end
 
   def short_name
