@@ -9,7 +9,7 @@ jobs:
 
     steps:
       - name: 📰 Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: 💪 Install libcurl4-openssl-dev for Curb Gem
         run: |
