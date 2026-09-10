@@ -1,0 +1,51 @@
+# FROM ruby:2.4.4 as base
+FROM ghcr.io/wgbh-mla/aapb2:master as base
+WORKDIR /usr/src/app
+
+EXPOSE 3000
+
+# Run several commmands to start the development server:
+# 1. bundle exec rake jetty:config
+#      Copies jetty configuration from config/jetty.yml to jetty instance,
+#      which is installed in the 'base' build stage.
+# 2. bundle exec rake jetty:start
+#      Starts jetty server
+# 3. bundle exec rake db:migrate
+#      Runs databae migrations, if any need to be run.
+# 4. bundle exec rails s -b 0.0.0.0
+#      Starts the Rails server.
+# CMD bundle exec rake jetty:config \
+#     bundle exec rake jetty:start && \
+#     bundle exec rake db:migrate && \
+#     bundle exec rails s -b 0.0.0.0
+
+
+############################
+# Production Build Stage
+############################
+# FROM base as production
+
+# Set the RAILS_ENV to production. This affects several things in Rails.
+ENV RAILS_ENV=production
+
+# TODO: is this needed?
+# RUN apt-get autoremove -y \
+#     && apt-get clean -y \
+#     && rm -rf /var/lib/apt/lists/*
+
+COPY Gemfile ./Gemfile
+# Update the bundle from Gemfile.lock (don't update the Bundle in production)
+RUN bundle install
+COPY . .
+
+# Run commands atomically to start production AAPB web application:
+# 1. bundle exec rake jetty:start
+#      Starts the jetty server
+# 2. bundle exec rails s -b 0.0.0.0
+#      Starts the Rails server.
+RUN bundle exec rake jetty:config
+CMD bundle exec rake jetty:start && bundle exec rails s -b 0.0.0.0
+
+
+# docker build . --tag aapb_apifix:latest --platform=linux/arm64 --target production
+# docker build . --tag aapb_apifix:latest
