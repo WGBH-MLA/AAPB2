@@ -6,6 +6,16 @@
 
 ## Summary 
 
+<table class="full-width">
+  <tbody>
+    <tr>
+      <td>
+        <iframe class="exhibit-small-iframe" src="https://www.youtube.com/embed/RHdoWqfDKo4?si=UcUeZhsQpehHQ5zb" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 The WHIV: Human Rights and Social Justice Radio special collection features two series produced by WHIV-FM in New Orleans: “PFLAG New Orleans – Expanding the Rainbow” and “NOLA Matters: Civil Rights Radio." The collection currently includes thirty-six episodes from both series produced between 2015 and 2024, with plans to expand the collection in late 2026 and beyond. 
 
 Hosted by Sally Michelle Jackson, Joshua “Adonis” Carcabasi, and Tyra Ellis, “PFLAG New Orleans – Expanding the Rainbow” covers topics of interest to members of the LGBTQ+ community and their allies. Several episodes feature interviews with queer writers, artists, and activists discussing their sexuality and gender identity, such as a 2017 episode with [Maxx Sizeler](https://americanarchive.org/catalog/cpb-aacip-04ce606ab7c), in which he reflects on his life and work as a gender-variant artist, and a 2018 interview with [August Steinkamp](https://americanarchive.org/catalog/cpb-aacip-a9797c44c14), who describes his experiences as a trans high school student and activist. Other episodes report on local activism, community organizing, the [impact of the COVID-19 pandemic](https://americanarchive.org/catalog/cpb-aacip-e5ccff9a5b1), and New Orleans cultural events, such as [Mardi Gras](https://americanarchive.org/catalog/cpb-aacip-07e1661f0d5). LGBTQ+ history is also a frequent topic, with episodes addressing the history of [International Transgender Day of Remembrance](https://americanarchive.org/catalog/cpb-aacip-fd2373b9641), the [1973 UpStairs Lounge arson attack](https://americanarchive.org/catalog/cpb-aacip-c39ec8b8493), and [LGBTQ+ activism in New York City](https://americanarchive.org/catalog/cpb-aacip-1b6b4a38a5f) before and during the AIDS crisis.
