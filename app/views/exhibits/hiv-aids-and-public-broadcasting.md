@@ -12,6 +12,23 @@ This project would not have been possible without the support of Mariah Marsden,
 
 A special thank you to Fabio Toblini, who granted the AAPB permission to add activist and filmmaker Robert Hilferty’s historic, award-winning documentary [*Stop the Church*](/catalog/cpb-aacip-526-8k74t6g61f?start=400.69&end=1779.12) to the Online Reading Room.  
 
+<table class="full-width">
+  <tbody>
+    <tr>
+      <td style="text-align: center;">
+        <iframe 
+         class="exhibit-small-iframe" 
+         src="https://www.youtube.com/embed/RHdoWqfDKo4?si=UcUeZhsQpehHQ5zb" 
+         width="640" height="360" 
+         frameborder="0" 
+         allow="autoplay; fullscreen; picture-in-picture" 
+         allowfullscreen>
+         </iframe>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Extended
 
 ## Authors
