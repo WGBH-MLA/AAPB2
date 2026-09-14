@@ -4,6 +4,25 @@
 
 ## Summary
 
+**Exhibit Trailer**
+
+<table class="full-width">
+  <tbody>
+    <tr>
+      <td>
+        <iframe 
+         class="exhibit-small-iframe" 
+         src="https://www.youtube.com/embed/RHdoWqfDKo4?si=UcUeZhsQpehHQ5zb" 
+         width="640" height="360" 
+         frameborder="0" 
+         allow="autoplay; fullscreen; picture-in-picture" 
+         allowfullscreen>
+         </iframe>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 The HIV/AIDS epidemic radically changed public health policy, social attitudes toward gay men, and the course of LGBTQ+ history in the United States. This collection includes public broadcasting archival materials that demonstrate attitudes toward and responses to the epidemic. A resource for anyone interested in understanding how public broadcasting has covered HIV/AIDS, this exhibit places featured programs within a contextualized history of the course of the HIV/AIDS epidemic in the United States and the U.S. response to AIDS in Africa following the decline of new cases in the U.S.
 
 The exhibit was devised and curated by Elizabeth Dinneny, a 2022 Library of Congress Junior Fellow and English PhD candidate at the University of Maryland. Sonia Prasad, an intern in the Library of Congress Archives, History, and Heritage Advanced Internship (AHHA) program and graduate of Williams College, curated the section on coverage of AIDS in Africa.
