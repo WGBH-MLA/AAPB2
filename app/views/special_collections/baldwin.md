@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Baldwin close-up](https://s3.amazonaws.com/americanarchive.org/special-collections/blackjournal.png "Baldwin close-up") 
+![Baldwin thumbnail](https://s3.amazonaws.com/americanarchive.org/special-collections/thumbnail-baldwin.png "Baldwin thumbnail images") 
 
 ## Summary 
 
@@ -23,14 +23,16 @@ Although Baldwin [eschewed labels](https://www.themarginalian.org/2017/05/09/jam
 
 The James Baldwin Collection brings together programming from stations and broadcast organizations from across the country, including WGBH, KQED, NET, WNYC, and Pacifica Radio Network. Due to copyright restrictions, some items in the collection are not available streaming from the AAPB’s site; however, they may be accessible through remote research access. To learn more, email aapb_notifications@wgbh.org. The James Baldwin Collection was added to the AAPB in September 2026. 
 
+Cover image collage includes ["Author James Baldwin, 1964”](https://commons.wikimedia.org/wiki/File:JamesBaldwin1964.jpg) by R. L. Oliver, *Los Angeles Times*, used under [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/) Modified from the original. 
+
 ## Featured
 
-[![The Negro and American Culture](https://s3.amazonaws.com/americanarchive.org/special-collections/tbd.jpg)](/catalog/cpb-aacip-526-901zc7ss52)
-[![Interview from Perspectives](https://s3.amazonaws.com/americanarchive.org/special-collections/tbd.jpg)](/catalog/cpb-aacip-15-9m03xx2p)
-[![Take This Hammer](https://s3.amazonaws.com/americanarchive.org/special-collections/tbd.jpg)](/catalog/cpb-aacip-512-2r3nv9b09w)
-[![Debate: Baldwin vs. Buckley](https://s3.amazonaws.com/americanarchive.org/special-collections/tbd.jpg)](/catalog/cpb-aacip-151-sn00z71m54)
-[![James Baldwin on Angela Davis](https://s3.amazonaws.com/americanarchive.org/special-collections/tbd.jpg)](/catalog/cpb-aacip-28-td9n29pp9j)
-[![James Baldwin and Maya Angelou](https://s3.amazonaws.com/americanarchive.org/special-collections/tbd.jpg)](/catalog/cpb-aacip-75-48sbchq4)
+[![The Negro and American Culture](https://s3.amazonaws.com/americanarchive.org/special-collections/negro-writer.png)](/catalog/cpb-aacip-526-901zc7ss52)
+[![Interview from Perspectives](https://s3.amazonaws.com/americanarchive.org/special-collections/perspectives.jpeg)](/catalog/cpb-aacip-15-9m03xx2p)
+[![Take This Hammer](https://s3.amazonaws.com/americanarchive.org/special-collections/takehammer-edited.jpeg)](/catalog/cpb-aacip-512-2r3nv9b09w)
+[![Debate: Baldwin vs. Buckley](https://s3.amazonaws.com/americanarchive.org/special-collections/buckley.jpeg)](/catalog/cpb-aacip-151-sn00z71m54)
+[![James Baldwin on Angela Davis](https://s3.amazonaws.com/americanarchive.org/special-collections/Angela_Davis_1974.jpg)](/catalog/cpb-aacip-28-td9n29pp9j)
+[![James Baldwin and Maya Angelou](https://s3.amazonaws.com/americanarchive.org/special-collections/angelou.jpeg)](/catalog/cpb-aacip-75-48sbchq4)
 
 ## Resources
 
