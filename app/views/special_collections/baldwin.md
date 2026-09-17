@@ -41,11 +41,12 @@ Cover image collage includes ["Author James Baldwin, 1964”](https://commons.wi
 - [Take This Hammer, Director’s Cut](https://diva.sfsu.edu/collections/sfbatv/bundles/216518)
 - [The Making of Take This Hammer](https://diva.sfsu.edu/collections/sfbatv/bundles/210522)
 - [Baldwin on Labels](https://www.themarginalian.org/2017/05/09/james-baldwin-richard-goldstein-village-voice-interview/)
-## Funders
 
 ## Help
 
 Records are described at an item level and all records contain brief descriptions. Search by keyword, or browse all episodes by clicking "View the Collection" below the search box.
+
+## Funders
 
 ## Terms
 
