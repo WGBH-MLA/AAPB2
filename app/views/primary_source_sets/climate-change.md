@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Fallout Shelter sign, Tifton County Georgia, by Michael Rivera (cropped) https://commons.wikimedia.org/wiki/File:Fallout_Shelter_sign,_Union_Depot,_Tifton.jpg, CC-BY-SA 4.0](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/climate-change-sq.jpg "Fallout Shelter sign, Tifton County Georgia, by Michael Rivera (cropped) https://commons.wikimedia.org/wiki/File:Fallout_Shelter_sign,_Union_Depot,_Tifton.jpg, CC-BY-SA 4.0")
+![Professor holding up climate change strike protest sign](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/climate-change-sq.jpg "Professor holding up climate change strike protest sign")
 
 
 ## Cover
