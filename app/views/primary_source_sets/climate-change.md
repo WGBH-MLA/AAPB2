@@ -2,10 +2,10 @@
 
 ## Thumbnail
 
-![Aerial view of a massive shipping-container yard in Charleston, South Carolina](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/globilization-thumbnail.jpeg "Aerial view of a massive shipping-container yard in Charleston, South Carolina")
+![Professor holding up Global Climate Strike protest poster](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/climate-change-sq.jpeg "Professor holding up Global Climate Strike protest poster")
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/globilization-16x9.jpeg
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/climate-change-16x9.jpeg
 
 ## Author
 
@@ -17,39 +17,49 @@ Ben Leff, University of Illinois Laboratory High School, Urbana, IL
 
 ## Introduction
 
-In the decades after World War II, the economies of the world became increasingly interconnected, and more and more economic activity crossed international boundaries. Between 1950 and 2024, the total inflation-adjusted value of global trade [increased by 4300%](https://www.wto.org/english/res_e/statis_e/trade_evolution_e/evolution_trade_wto_e.htm). In 1950, the value of imports to the United States represented 3.9% of the country’s gross domestic product (a measure of a country’s overall economic production). By 2024, that [proportion had more than tripled to 14%](https://fred.stlouisfed.org/series/B021RE1A156NBEA). U.S. exports also increased significantly during this time period. 
+Recent decades have witnessed growing concern about humanity’s impact on the climate as a result of the greenhouse effect, in which excess carbon dioxide, methane, and other gases trap heat in the atmosphere. Humans have driven the increase of greenhouse gases by burning coal, driving cars, clearing forests, making goods in factories, and using fossil fuels to produce the electricity that powers so much of modern life. Temperatures have risen as a result. According to NASA, the 11 years between 2015 and 2025 were the 11 hottest on record. Climate change has resulted in an increased likelihood and intensity of droughts, heat waves, hurricanes, wildfires, and flooding.
 
-These developments were driven, in significant part, by technological change. Improved communication (via satellites, and eventually the internet) made it easy to conduct business and orchestrate complex logistical endeavors over long distances. Advances in maritime technology and the transformative adoption of the rectangular shipping container allowed for cheaper, quicker ocean transportation of massive amounts of goods. But globalization was also a product of policy. In the postwar period, the U.S. led a charge towards free trade, a political approach in which governments lowered or removed various barriers to international commerce (such as tariffs and import quotas). Advocates believed that by opening trade between nations, a country could gain a market for their exports while benefiting from the importation of desirable goods from other countries.
+While greenhouse theory dates to the 1800s, it wasn't until recently that rising temperatures and sophisticated computer modeling caused growing concern among climate scientists. By the 21st century, the reality of anthropogenic, or human-induced, climate change became a consensus view among scientists. However, that doesn't mean they all agree on the specifics. Some skeptics challenge the validity of computer modeling, while others question the wisdom of enduring economic costs to mitigate climate change. It has proven difficult to forge political consensus around policy solutions to climate change, as most efforts to reduce carbon emissions involve economic sacrifice and could displace workers in certain industries. Some hope that new technological advancements that reduce global carbon emissions (such as solar panels, wind turbines, and electric cars) could address global warming without as much economic pain. Nevertheless, climate change mitigation policies often face resistance from fossil fuel industries and significant segments of the general public.
 
-Many Americans, including most leading politicians, celebrated global trade as a key component of American prosperity in the 1950s and 1960s. But by the 1970s, the growth of imports into the U.S. led to social and political challenges. Companies in industrialized countries like Japan and Germany increasingly outcompeted American businesses in the automobile, steel, and home electronics industries. Later in the 20th century, the import challenge came from developing countries with lower labor costs.  Firms in these countries produced manufactured goods such as toys and clothing at lower prices than American companies. While consumers benefited from the opportunity to buy cheaper or more desirable goods from other countries, certain American industries suffered, leading to job layoffs and economic hardship. In particular, communities that relied heavily on industrial jobs struggled when local companies lost to foreign companies (or when those local companies moved operations out of the country to take advantage of lower labor costs).
+The goal of alleviating climate change also poses an international challenge. Climate change has global causes and impacts—it requires global solutions. But reaching international agreements to address climate change has proven difficult because of a fundamental collective action problem. Many countries are reluctant to enact carbon mitigation policies that could also hinder their own economic growth—particularly if they lack trust in other countries to make the same sacrifices. As a result, successive attempts to reach agreements at international summits have not yet succeeded in placing global carbon emissions on a safe trajectory. Given climate change’s significant negative impact and the difficulty of reversing carbon emission trends, anthropogenic climate change is one of the most important and difficult problems of our time.
 
-These economic changes led to political disagreements about the merits of global trade and the desirability of free trade policies. Critics pointed to lost jobs, stagnating working-class wages, and crumbling communities. Defenders argued that global trade optimized overall economic growth, provided export opportunities for American firms, and benefited consumers by giving them the opportunity to buy cheaper goods. Resulting political debates forced Americans to grapple with difficult questions: In the balance, did the benefits of global trade outweigh the costs? Should the U.S. government establish trade restrictions on imported goods to protect American businesses and workers? To the extent some Americans were harmed by global competition, what responsibilities did the government have to those communities? Disagreements over these questions led to fierce fights over trade policy and divided (and ultimately reshaped) political coalitions.
 
 ## Teachingtips
 
-These clips are divided into three modules: (1) The first four clips trace a historical narrative documenting important stages of the rise of globalization in the second half of the twentieth century; (2) The next four clips provide differing perspectives on the costs and benefits of global trade and free trade arrangements; (3) The last four clips are related to the rise of Donald Trump, and how trade policy and critiques of globalization informed his 2016 campaign and presidency. There is an associated classroom activity for each module, as well as a debate activity that would work well with the set as a whole. 
+The sources in this set introduce students to a scientific understanding of climate change and its impact, but ultimately focus on the political challenge posed by climate change. The first four clips provide students with important scientific and historical context, introducing students to an explanation of the greenhouse effect and exploring how climate change could contribute to rising temperatures, flooding, droughts, and wildfires. The next four clips explore different political and technological approaches to reducing carbon emissions and mitigating the impact of climate change. While the strategies presented are not inherently in conflict—for instance, a government could both allow greater use of nuclear power while also taxing carbon—it is fair to say that each clip explores a distinct political approach that is informed by different beliefs, priorities, and theories of political change. The final four sources focus on the challenge of international cooperation in the fight against climate change. The clips proceed chronologically, starting with the aspirations for coordinated international climate action as shown in a 1990 documentary, followed by three examples of PBS news coverage of global climate conferences in 1997, 2015, and 2019. 
+
+Collectively, the set allows students to grapple with a central political challenge of climate change. Even though scientists have demonstrated the potentially devastating impact of climate change, many countries are reluctant to incur expenditures and make economic sacrifices to mitigate its threat. In such a world, how can citizens and governments collaborate and compromise to respond to what many believe to be an existential challenge for humanity?  
+
 
 #### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
 
-- The rise and maturation of an industrialized economy in the U.S. by the mid-20th Century
-- General background about policies that can either promote or restrict international trade (e.g. tariffs, quotas)
+- Scientific views regarding the causes and impact of climate change.
+- The United Nations as a site for international deliberation and cooperation.
 
 <hr>
 
 #### Essential Question 
 
-In the balance, has the increase in global trade since World War II harmed or benefited Americans?
+How should governments respond to climate change?
 
 <hr>
 
 #### General Discussion Questions
 
-- What arguments would a defender of free trade make about the benefits of globalization?
-- What arguments would a critic of free trade make about the costs of globalization?
-- What policies should the U.S. government pursue with respect to trade with companies in other countries? For example, should the U.S. place tariffs on imported goods?
-- When considering the impact of global trade on people in the United States, economists commonly argue that global trade provides an overall economic benefit to American society as a whole, but a subset of Americans will be worse off as a result. What should the government do if a given policy would provide a net benefit to society but would harm a specific sub-group in that society?
+
+Have students watch the following clips:
+Clip 1
+Clip 2
+Clip 3
+Clip 4
+
+Discuss the following questions with students:
+
+- Explain the greenhouse effect in your own words. What kinds of human activities increase the emission of greenhouse gases, and why do those rising emissions result in climate change?
+- Why might some people express skepticism about the prevailing scientific consensus surrounding human-influenced climate change? 
+- At first glance, a global rise in temperature by just a few degrees might seem insignificant. What problems could emerge or intensify if climate change continues in the future? 
 
 <hr>
 
