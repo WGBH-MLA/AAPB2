@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Professor holding up climate change strike protest sign](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/climate-change-sq.jpg "Professor holding up climate change strike protest sign")
+![Picture of protestor at 2019 Climate Action Summit](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/climate-change-sq.jpg "Picture of protestor at 2019 Climate Action Summit")
 
 
 ## Cover
@@ -113,7 +113,7 @@ As an extension activity, you could assign students the roles of different count
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Globalization_Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Climaate_Change_Teaching-Tips.pdf
 
 ## Additionalresources
 
