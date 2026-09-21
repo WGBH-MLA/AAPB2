@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Professor holding up Global Climate Strike protest poster](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/climate-change-sq.jpeg "Professor holding up Global Climate Strike protest poster")
+[](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/climate-change-sq.jpeg)
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/climate-change-16x9.jpeg
