@@ -6,7 +6,7 @@
 
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/climate-change-16x9.jpeg
+[https://s3.amazonaws.com/americanarchive.org/primary_source_sets/climate-change-16x9.jpg]
 
 ## Author
 
