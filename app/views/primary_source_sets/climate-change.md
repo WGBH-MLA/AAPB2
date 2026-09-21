@@ -49,70 +49,65 @@ How should governments respond to climate change?
 
 #### General Discussion Questions
 
+- What dangers does climate change pose, and how might human societies be negatively affected by its effects, such as global increases in temperature and extreme weather?
+- What policies could most effectively reduce carbon emissions? 
+- Why might it be hard to sustain political support for some policies that would reduce carbon emissions? 
+- What factors can make it challenging for different countries to reach international agreements on global climate policies?
+- What policies do you think should be adopted to address climate change? What policies shouldn’t? 
 
+#### Classroom Activities
+
+##### 1) The Impact of Climate Change 
 Have students watch the following clips:
-Clip 1
-Clip 2
-Clip 3
-Clip 4
+
+- Clip 1
+- Clip 2
+- Clip 3
+- Clip 4
 
 Discuss the following questions with students:
 
 - Explain the greenhouse effect in your own words. What kinds of human activities increase the emission of greenhouse gases, and why do those rising emissions result in climate change?
 - Why might some people express skepticism about the prevailing scientific consensus surrounding human-influenced climate change? 
-- At first glance, a global rise in temperature by just a few degrees might seem insignificant. What problems could emerge or intensify if climate change continues in the future? 
+- At first glance, a global rise in temperature by just a few degrees might seem insignificant. What problems could emerge or intensify if climate change continues in the future? ?
 
-<hr>
+##### 2) Policy Solutions to Climate Change
 
-#### Classroom Activities
-
-1) Watch the following clips:
+Ask students to watch the following clips:
    
-- [Postwar Optimism about the Economic Benefits of International Trade (1965)](https://americanarchive.org/primary_source_sets/globalization/1-postwar-optimism)
-- [The Growing “Threat” of Imported Goods in the 1970s (1977)](https://americanarchive.org/primary_source_sets/globalization/2-growing-threat)
-- [NAFTA Promotes U.S. Trade with Mexico and Canada (1995)](https://americanarchive.org/primary_source_sets/globalization/3-nafta-trade)
-- [Ocean Trade and the Explosion of Global Commerce (1994)](https://americanarchive.org/primary_source_sets/globalization/4-ocean-trade)
+- Clip 5
+- Clip 6
+- Clip 7
+- Clip 8
 
-Then show students [the following chart](https://fred.stlouisfed.org/series/B021RE1A156NBEA) showing the rise of imports starting in the 1970s. Discuss the following questions:
+In these clips, students hear proponents of various approaches to climate change. For each approach, ask students”
 
-- What kinds of goods became increasingly likely to be imported into the United States in the late 20th and early 21st centuries?
-- What are some reasons that certain imported goods might be more desirable to American consumers?
-- What social, economic, or political factors help explain the rise in international trade over this timeframe?
+- What are the benefits of this approach?
+- What are the drawbacks of this approach?
 
-2) Ask students to watch the following clips:
-   
-- [Walmart, Sweatshops, and the Price of Cheap Clothes (2004)](https://americanarchive.org/primary_source_sets/globalization/5-walmart-sweatshops)
-- [Organized Labor’s Critique of Globalization and Free Trade (1999)](https://americanarchive.org/primary_source_sets/globalization/6-organized-labors)
-- [Defending Free Trade Against its Critics (2004)](https://americanarchive.org/primary_source_sets/globalization/7-free-trade)
-- [The Complex Impact of Globalization on Alabama Communities (2005)](https://americanarchive.org/primary_source_sets/globalization/8-globalization-impact)
+Then ask students: 
 
-These sources collectively illuminate some of the complex pros and cons of global trade. Then have students discuss the following questions:
+- In different ways, the speakers in all of these clips express an awareness that there might be various forces of resistance to efforts to address climate change. What are some reasons that certain people or groups might oppose certain climate policies? 
+- Which approach, or combination of approaches, do you think would be both politically popular and effective at addressing climate change?
+- If you have more time, you could divide students into small groups and have each group decide on a set of policies and then explain to the class why they think their approach would be both effective and politically viable.
 
-- What are some ways that people benefit from global trade?
-- What are some ways that people are harmed by global trade?
-- What are some examples of specific people or groups that might benefit from global trade? Specific people and groups that are harmed?
-- What do *you* think? In the balance, are Americans better or worse off as a result of global trade? What actions do you think the government should (or shouldn’t) take to restrain or restrict international commerce?
+##### 3) Global Climate Policy
 
-3) During his ultimately successful 2016 presidential campaign, Donald Trump railed against the impact that free trade deals and the rise of China had had on American businesses and workers. In this regard, Trump was far more critical of globalization and free trade than most Republican political leaders in recent U.S. History. Ask students to watch the following clips:
-   
-- [The Lessons of the “Elephant Chart” (2017)](https://americanarchive.org/primary_source_sets/globalization/9-elephant-chart)
-- [Debating Global Trade in the Age of Trump (2017)](https://americanarchive.org/primary_source_sets/globalization/10-debating-global-trade)
-- [Trump’s Trade Policy and Criticism of China (2018)](https://americanarchive.org/primary_source_sets/globalization/11-trump-trade-policy)
-- [The Biden Administration’s Combative Stance with China (2024)](https://americanarchive.org/primary_source_sets/globalization/12-biden-china)
+Have students watch the following clips:
 
-These sources revolve around the views and policies around trade of then-President Donald Trump and his Democratic successor, Joe Biden. Then discuss the following questions:
+- Clip 9
+- Clip 10
+- Clip 11
+- Clip 12
 
-- Donald Trump performed meaningfully better than other recent Republican candidates among certain demographic groups, including white voters without college degrees, labor union members, and residents of certain “Rust Belt” counties. Do you think Trump’s views on trade help explain that political appeal? Why or why not?
-- The Trump administration increased tariffs on a wide range of goods at various points during his first presidency. Based on the clips, what seem to be the potential benefits of raising tariffs? What are the potential drawbacks?
-- Invite students to view this [longitudinal public opinion data](https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/POLL/bxlljipy1ks0n2vkbxthmw.png) about whether Americans view global trade as an opportunity or a threat. Ask them: what trends do you notice? How can you relate them to what you learned about the political developments starting in the mid-2010s? What explanations can you give for why members of both parties became more optimistic about global trade while Trump was in office in the late 2010s? The change after Biden’s election in 2020? 
+Then ask students: 
 
-4)  Divide students into three groups for a free trade debate.
+- What kinds of climate commitments do countries seem to make at these kinds of conferences?
+- What factors might shape what climate policies a given country would be willing to support? How might industrialized versus developing countries approach the issue of climate change mitigation differently?
+- What role did domestic politics seem to play in the decisions made by the United States?
+- In general, what is difficult about reaching international agreements at these kinds of summits?
 
-- Group 1: supporters of free trade. Using evidence and arguments from the clips in this set (and perhaps from supplemental research), students in this group explain the benefits of global trade and why protectionist policies would be misguided.
-- Group 2: opponents of free trade. Using evidence and arguments from the clips in this set (and perhaps from supplemental research), students in this group argue for the harms that emanate from global trade and argue for policies that more forcefully restrain or restrict trade.
-- Group 3: a jury of Americans. Members of this group are each assigned a role (e.g., a worker at German-owned car factory in Alabama, the owner of a small business that uses imported materials, the leader of a steelworkers’ union, a farmer from the Great Plains, etc.) and they ultimately assess which side’s views are more compelling.
-
-The members of Group 1 (pro-free trade) and Group 2 (free trade skeptics) start by giving some short, pre-written speeches, followed by extemporaneous debate where students provide unscripted rebuttals to opposing arguments. Then members of Group 3 (jury) pose questions to the debaters. The debate ends with each jury member explaining which side’s arguments their character would agree with, and why. Afterwards, have an “out of character” debrief in which students can explore what they really believe.
+As an extension activity, you could assign students the roles of different countries (a wealthy, industrialized country like the U.S. or Sweden; a large, growing industrializing country like China or India; an oil rich country like Russia or Saudi Arabia; a developing country like Bangladesh or Ghana; a small island nation like Fiji or Mauritius). Students could research questions like: How could this country be impacted by climate change? What greenhouse emissions policies would they be willing to enact? What political and economic dynamics within the country might shape their climate policy decisions? Students could either report on their findings to the rest of the class, or take part in some kind of mock climate conference.
 
 <hr>
 
@@ -122,10 +117,14 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Globalizat
 
 ## Additionalresources
 
-- [**Modern Globalization and its Effects**](https://cptv.pbslearningmedia.org/resource/ush22-soc-globalization/modern-globalization-and-its-effects-interactive-lesson/us-history-collection/) (PBS Learning Media)
-- [**Globalization: A Resource Guide**](https://guides.loc.gov/globalization) (Library of Congress)
-- [**The Backlash Against Globalization: What’s Next**](https://niehaus.princeton.edu/sites/g/files/toruqf451/files/documents/Backlash%20Conference%20Report%206-28%20905pm.pdf) (Princeton School of Public and International Affairs, Niehaus Center for Globalization and Governance)
-
+- The United Nations Website on Climate Change (United Nations)
+- NASA on Climate Change (National Aeronautics and Space Administration)
+- EPA on Climate Change (Environmental Protection Agency)
+- Our World in Data on Climate Change (Our World in Data)
+- Climate Change Explainers on MIT Climate Portal (Massachusetts Institute of Technology)
+- OECD Climate Action Dashboard (Organisation for Economic Co-operation and Development)
+- Country Comparisons on Climate Action Tracker (Climate Action Tracker)
+  
 ## Youmayalsolike
 - special collection,newshour
 - special collection,focus-580
