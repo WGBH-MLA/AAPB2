@@ -62,8 +62,8 @@ Have students watch the following clips:
 
 - [A NASA Scientist Explains the Greenhouse Effect (1990)](/primary_source_sets/climate-change/1-507-kd1qf8k78t)
 - [A Skeptic Criticizes the Theory of Climate Change (1997)](primary_source_sets/climate-change/2-507-bk16m33s07)
-- Clip 3
-- Clip 4
+- [The Impact of Rising Sea Levels on Coastal Cities (2018)](primary_source_sets/climate-change/3-525-8k74t6gb63)
+- [Climate Change and the Threat of Wildfires (2017)](primary_source_sets/climate-change/4-525-d50ft8fk4d)
 
 Discuss the following questions with students:
 
@@ -75,10 +75,10 @@ Discuss the following questions with students:
 
 Ask students to watch the following clips:
    
-- Clip 5
-- Clip 6
-- Clip 7
-- Clip 8
+- [The Carbon Tax and Dividend Strategy to Address Climate Change(2010)](primary_source_sets/climate-change/5-15-rj48p5vm8b)
+- [Encouraging Green Energy Adoption with Subsidies and Tax Breaks(2022)](primary_source_sets/climate-change/6-b12b427f2de)
+- [The Call for Profound Political Transformation to Stop Climate Change(2015)](primary_source_sets/climate-change/7-90f78789a86)
+- [An “Eco-Pragmatist” Case for Technological Solutions to Climate Change(2015)](primary_source_sets/climate-change/8-90f78789a86)
 
 In these clips, students hear proponents of various approaches to climate change. For each approach, ask students”
 
@@ -95,10 +95,10 @@ Then ask students:
 
 Have students watch the following clips:
 
-- Clip 9
-- Clip 10
-- Clip 11
-- Clip 12
+- [Imagining a Solution to Global Warming(1990)](primary_source-sets/climate-change/9-394-65h9wd4r)
+- [The Promise and Limits of the Kyoto Protocol (1997)](primary-source-sets/climate-change/10-507-154dn40b4j)
+- [A Landmark International Agreement at the Paris Climate Conference (2015)](primary-source-sets/climate-change/11-525-hh6c24rr07)
+- [Frustration and Activism at the United Nations Climate Action Summit (2019)](primary-source-sets/climate-change/525-kw57d2rm4v)
 
 Then ask students: 
 
@@ -113,21 +113,20 @@ As an extension activity, you could assign students the roles of different count
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Climaate_Change_Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Climate_Change_Teaching-Tips.pdf
 
 ## Additionalresources
 
-- The United Nations Website on Climate Change (United Nations)
-- NASA on Climate Change (National Aeronautics and Space Administration)
-- EPA on Climate Change (Environmental Protection Agency)
-- Our World in Data on Climate Change (Our World in Data)
-- Climate Change Explainers on MIT Climate Portal (Massachusetts Institute of Technology)
-- OECD Climate Action Dashboard (Organisation for Economic Co-operation and Development)
-- Country Comparisons on Climate Action Tracker (Climate Action Tracker)
+- [The United Nations Website on Climate Change (United Nations)](https://unfccc.int/)
+- [NASA on Climate Change (National Aeronautics and Space Administration)](https://science.nasa.gov/climate-change/)
+- [EPA on Climate Change (Environmental Protection Agency)](https://www.epa.gov/climate-change)
+- [Our World in Data on Climate Change (Our World in Data)](https://ourworldindata.org/climate-change?)
+- [Climate Change Explainers on MIT Climate Portal (Massachusetts Institute of Technology)](https://climate.mit.edu/explainers)
+- [OECD Climate Action Dashboard (Organisation for Economic Co-operation and Development)](https://www.oecd.org/en/data/dashboards/climate-action-dashboard.html)
+- [Country Comparisons on Climate Action Tracker (Climate Action Tracker)](https://climateactiontracker.org/)
   
 ## Youmayalsolike
-- special collection,newshour
-- special collection,focus-580
+- exhibit,climate-change
 
 ## References
 
