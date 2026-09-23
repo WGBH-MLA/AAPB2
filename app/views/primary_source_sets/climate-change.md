@@ -60,8 +60,8 @@ How should governments respond to climate change?
 ##### 1) The Impact of Climate Change 
 Have students watch the following clips:
 
-- Clip 1
-- Clip 2
+- [A NASA Scientist Explains the Greenhouse Effect (1990)](/primary_source_sets/climate-change/1-507-kd1qf8k78t)
+- [A Skeptic Criticizes the Theory of Climate Change (1997)](primary_source_sets/climate-change/2-507-bk16m33s07)
 - Clip 3
 - Clip 4
 
