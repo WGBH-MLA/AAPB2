@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Picture of protestor at 2019 Climate Action Summit](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/climate-change-sq.jpg "Picture of protestor at 2019 Climate Action Summit")
+![Picture of glacier erosion](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/climate-change-sq.jpg "Picture of glacier erosion")
 
 
 ## Cover
