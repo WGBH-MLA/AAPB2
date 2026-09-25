@@ -2,11 +2,11 @@
 
 ## Thumbnail
 
-![Picture of glacier erosion](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/.jpg "Picture of glacier erosion")
+![Picture of glacier erosion](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/climate-change-sq.jpg "Picture of glacier erosion")
 
 
 ## Cover
-[https://s3.amazonaws.com/americanarchive.org/primary_source_sets/.jpg]
+[https://s3.amazonaws.com/americanarchive.org/primary_source_sets/climate-change-16x9.jpg]
 
 ## Author
 
