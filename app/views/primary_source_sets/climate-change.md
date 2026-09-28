@@ -130,7 +130,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Climate_Ch
 
 ## References
 
-Cover image: Hubbard Glacier Calving" by kylewest is licensed under [CC BY 2.0.](https://creativecommons.org/licenses/by/2.0/?ref=openverse)
+Cover image: "Hubbard Glacier Calving" by kylewest is licensed under [CC BY 2.0.](https://creativecommons.org/licenses/by/2.0/?ref=openverse)
 
 ## Guid
 ## Cliptime
