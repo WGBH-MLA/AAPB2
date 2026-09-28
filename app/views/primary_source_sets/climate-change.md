@@ -130,7 +130,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Climate_Ch
 
 ## References
 
-Cover image by Carol M. Highsmith. Aerial view of a massive shipping-container yard in Charleston, South Carolina. United States Charleston South Carolina, 2017-05-02. Photograph (cropped). [https://www.loc.gov/item/2017879833/](https://www.loc.gov/item/2017879833/).
+Cover image: Hubbard Glacier Calving" by kylewest is licensed under [CC BY 2.0.](https://creativecommons.org/licenses/by/2.0/?ref=openverse)
 
 ## Guid
 ## Cliptime
