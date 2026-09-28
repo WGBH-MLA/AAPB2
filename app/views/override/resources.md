@@ -9,35 +9,31 @@ This resource list is evolving, so please check back often.
 
 Do you have specific questions on how to proceed with your preservation efforts? AAPB’s Project Manager is just an email or phone call away! Contact the AAPB at [aapb_notifications@wgbh.org](mailto:aapb_notifications@wgbh.org).
 
-### 2. Archival Management System (AMS)
-
-Participating organizations have exclusive access to the Archival Management System (AMS), where you can search and access your metadata, export records, watch/listen to your digital files, and download low-res files at [ams.americanarchive.org](http://ams.americanarchive.org). Contact the AAPB’s Project Manager at [aapb_notifications@wgbh.org](mailto:aapb_notifications@wgbh.org) to update or add your organization users.
-
-### 3. Customize Your Organization Page on the AAPB Website
+### 2. Customize Your Organization Page on the AAPB Website
 
 Each organization has a landing page on AAPB’s website, and we encourage adding a logo and org summary to provide more background on your programs! Find your page: http://americanarchive.org/participating-orgs Please forward any updates to Miranda Villesvik at [Miranda_Villesvik@wgbh.org](mailto:miranda_villesvik@wgbh.org).
 
-### 4. Grant Writing Assistance
+### 3. Grant Writing Assistance
 
 Are you interested in applying for a digitization grant? Let’s collaborate! We can point you to a few grant programs and provide you with our digitization grant writing toolkit of materials that you can incorporate into your proposal. Contact the AAPB’s Project Manager at [aapb_notifications@wgbh.org](mailto:aapb_notifications@wgbh.org).
 
-### 5. AAPB's Preservation Wiki
+### 4. AAPB's Preservation Wiki
 
 For preservation resources and workflows used for managing audiovisual assets in all their possible formats and environments, check out our wiki at [wiki.americanarchive.org](http://wiki.americanarchive.org).
 
-### 6. Participating Organizations Communication Toolkit
+### 5. Participating Organizations Communication Toolkit
 
 The AAPB Participating Organizations Communications Kit provides guidance for spreading the word about how your community can access your historic programming that is preserved in the AAPB. Let your local community know about your archival content, and where they can access it online! Access the toolkit: http://americanarchive.org/help/station-communications-toolkit.
 
-### 7. Transcripts
+### 6. Transcripts
 
 With funding from the Institute of Museum and Library Services (IMLS), the AAPB has created computer-generated transcripts for every item in the AAPB. Contact the AAPB’s Project Manager at [aapb_notifications@wgbh.org](mailto:aapb_notifications@wgbh.org) for more details.
 
-### 8. Referring Licensing Inquiries
+### 7. Referring Licensing Inquiries
 
 We often get requests from producers seeking to license content they found in the AAPB. We refer them back to the contributing organization, and we can also provide licensing information on your records and organization page. Feel free to send us some language and contact details, and we can update it on the website. Contact the AAPB’s Project Manager at [aapb_notifications@wgbh.org](mailto:aapb_notifications@wgbh.org) for more information.
 
-### 9. Connect with us!
+### 8. Connect with us!
 
 If you would like to learn more about the AAPB, what your organization contributed, and where you can go from here, [email us](mailto:aapb_notifications@wgbh.org)! You can also locate your organization's content on the Participating Organizations page at http://americanarchive.org/participating-orgs.
 

@@ -24,7 +24,7 @@ class TurnstileController < ApplicationController
       # Server sets the cookie in the response
       cookies.encrypted[:turnstile_verified] = {
         value: true,
-        expires: 24.hours.from_now,
+        expires: 2.hours.from_now,
         secure: Rails.env.production?,
         httponly: true,
         same_site: :strict
