@@ -69,7 +69,7 @@ Discuss the following questions with students:
 
 - Explain the greenhouse effect in your own words. What kinds of human activities increase the emission of greenhouse gases, and why do those rising emissions result in climate change?
 - Why might some people express skepticism about the prevailing scientific consensus surrounding human-influenced climate change? 
-- At first glance, a global rise in temperature by just a few degrees might seem insignificant. What problems could emerge or intensify if climate change continues in the future? ?
+- At first glance, a global rise in temperature by just a few degrees might seem insignificant. What problems could emerge or intensify if climate change continues in the future? 
 
 ##### 2) Policy Solutions to Climate Change
 
