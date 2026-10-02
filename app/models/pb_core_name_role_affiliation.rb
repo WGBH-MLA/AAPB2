@@ -41,14 +41,15 @@ class PBCoreNameRoleAffiliation
       node ? node.value : nil
     end
   end
-
+    
   def role_annotation
-    @role_annotation ||= begin
-      node = REXML::XPath.match(@rexml, "#{@stem}Role/@annotation").first
-      value = node ? node.value.to_s.strip : nil
-      value.nil? || value.empty? ? nil : value
-    end
+    return @role_annotation if @role_annotation || @rexml.nil?
+    
+    node = REXML::XPath.match(@rexml, "#{@stem}Role/@annotation").first
+    value = node ? node.value.to_s.strip : nil
+    @role_annotation = value.nil? || value.empty? ? nil : value
   end
+end
 
   def to_a
     [name, role, affiliation].select { |x| x }
