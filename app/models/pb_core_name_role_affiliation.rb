@@ -21,7 +21,7 @@ class PBCoreNameRoleAffiliation
       affiliation == other.affiliation &&
       role_annotation == other.role_annotation
   end
-  
+
   attr_reader :stem
 
   def name
@@ -41,15 +41,14 @@ class PBCoreNameRoleAffiliation
       node ? node.value : nil
     end
   end
-    
+
   def role_annotation
     return @role_annotation if @role_annotation || @rexml.nil?
-    
+
     node = REXML::XPath.match(@rexml, "#{@stem}Role/@annotation").first
     value = node ? node.value.to_s.strip : nil
     @role_annotation = value.nil? || value.empty? ? nil : value
   end
-end
 
   def to_a
     [name, role, affiliation].select { |x| x }
