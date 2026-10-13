@@ -38,6 +38,8 @@ Rails.application.routes.draw do
 
   get "/turnstile_challenge", to: "turnstile#challenge"
   post "/turnstile_verify", to: "turnstile#verify"
+  # Route for checking cookie, redirecting if not found
+  get "/turnstile_check", to: "turnstile#check"
 
   get 'logs', to: 'logs#index'
   get 'logs/:log_file_name', to: 'logs#show', log_file_name: /.*/

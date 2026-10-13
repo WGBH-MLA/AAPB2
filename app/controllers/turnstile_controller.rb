@@ -23,7 +23,8 @@ class TurnstileController < ApplicationController
     if result["success"]
       # Server sets the cookie in the response
       cookies.encrypted[:turnstile_verified] = {
-        value: true,
+        # Unique, opaque ID so Traefik can rate limit per verified human
+        value: SecureRandom.uuid,
         expires: 2.hours.from_now,
         secure: Rails.env.production?,
         httponly: true,
@@ -33,6 +34,20 @@ class TurnstileController < ApplicationController
       render json: { success: true }, status: :ok
     else
       render json: { success: false }, status: :unprocessable_entity
+    end
+  end
+
+  # Target of the Traefik forwardAuth middleware; runs on every request, so keep it cheap.
+  # Responds 200 with the Human ID in a header, or redirects to the challenge page.
+  def check
+    human_id = cookies.encrypted[:turnstile_verified]
+    # Cookies issued before the Human ID change hold `true`, not a String
+    if human_id.is_a?(String) && human_id.present?
+      response.headers["X-Aapb-Human-Id"] = human_id
+      head :ok
+    else
+      original = "#{request.headers['X-Forwarded-Proto']}://#{request.headers['X-Forwarded-Host']}#{request.headers['X-Forwarded-Uri']}"
+      redirect_to turnstile_challenge_path(return_to: original)
     end
   end
 
