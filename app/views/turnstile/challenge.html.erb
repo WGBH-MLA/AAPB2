@@ -7,7 +7,7 @@ window.onloadTurnstileCallback = function() {
   const returnTo = urlParams.get('return_to');
 
   turnstile.render('#cf-turnstile', {
-    sitekey: <%= ENV["CLOUDFLARE_TURNSTILE_SITE_KEY"] || '0x4AAAAAABAxrgLM4Ad1f_lk' %>,
+    sitekey: "<%= ENV["CLOUDFLARE_TURNSTILE_SITE_KEY"] || '0x4AAAAAABAxrgLM4Ad1f_lk' %>",
     callback: function(cf_turnstile_token) {
       fetch('/turnstile_verify', {
         method: 'POST',
