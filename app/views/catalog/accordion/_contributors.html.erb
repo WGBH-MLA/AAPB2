@@ -2,9 +2,13 @@
   <dl>
     <% @pbcore.all_parties.each do |party| %>
       <% if party.role %>
-        <b><%= party.role %>:</b> 
+        <b><%= party.role %>:</b>
       <% end %>
-      <%= party.name %><br>
+      <%= party.name %>
+      <% if party.role_annotation %>
+        (<%= party.role_annotation %>)
+      <% end %>
+      <br>
     <% end %>
   </dl>
 </dd>
