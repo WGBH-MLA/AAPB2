@@ -38,6 +38,8 @@ Rails.application.routes.draw do
 
   get "/turnstile_challenge", to: "turnstile#challenge"
   post "/turnstile_verify", to: "turnstile#verify"
+  # Route for checking cookie, redirecting if not found
+  get "/turnstile_check", to: "turnstile#check"
 
   get 'logs', to: 'logs#index'
   get 'logs/:log_file_name', to: 'logs#show', log_file_name: /.*/
@@ -47,7 +49,7 @@ Rails.application.routes.draw do
   match 'api/:id/transcript', to: 'api#transcript', via: [:get, :options], defaults: { format: :json }
   # 'via' only makes a difference when server is in production or test modes.
 
-  %w(404 500).each do |status_code|
+  %w(404 429 500).each do |status_code|
     get status_code, to: 'errors#show', status_code: status_code
   end
 
