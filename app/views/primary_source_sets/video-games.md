@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Barack Obama addresses a crowd in downtown Des Moines, Iowa, October 31, 2008.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/video-games.jpg "Photograph of Barack Obama addressing a crowd in downtown Des Moines, Iowa, October 31, 2008.")
+![Video game arcade](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/video-games.jpg "Video game arcade.")
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/video-games-16x9-2.jpg
