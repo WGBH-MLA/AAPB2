@@ -5,7 +5,7 @@
 ![Video game arcade](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/video-games.jpg "Video game arcade.")
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/video-games-16x9-2.jpg
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/video-games-16x9.jpg
 
 ## Author
 
