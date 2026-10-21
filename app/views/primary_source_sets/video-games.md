@@ -86,7 +86,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Video_Game
 
 ## References
 
-Cover image:
+Cover image: “Retrovolt Arcade 2017 – Arcade Machines 2” by Arcade Perfect, via Wikimedia Commons, licensed under CC BY 2.0. [View original image.](https://commons.wikimedia.org/wiki/File:Retrovolt_Arcade_2017_-_Arcade_Machines_2.jpg)
 
 ## Guid
 ## Cliptime
