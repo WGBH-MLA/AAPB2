@@ -25,7 +25,7 @@ class TurnstileController < ApplicationController
       cookies.encrypted[:turnstile_verified] = {
         # Unique, opaque ID so Traefik can rate limit per verified human
         value: SecureRandom.uuid,
-        expires: 2.hours.from_now,
+        expires: 12.hours.from_now,
         secure: Rails.env.production?,
         httponly: true,
         same_site: :strict
