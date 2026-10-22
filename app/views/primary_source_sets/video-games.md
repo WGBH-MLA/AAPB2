@@ -52,7 +52,7 @@ How were video games understood technologically, economically, and socially as a
 1) Ask students to listen to/watch the following sources: 
 
 - [Video Games Replacing Pinball Machines (1980)](/primary_source_sets/video-games/1-16st7dr2pt8z)
-- [Video Game Arcades and Parental Concerns in New Jersey (1982)](/primary_source_sets/video-games/2-507-j09w08x41n)
+- [Video Game Arcades and Parental Concerns in New Jersey (1982)](/primary_source_sets/video-games/2-259-np1whh1n)
 
 What major changes occurred to entertainment arcades in the early 1980s? Why were adults so concerned about them? Ask students to think of how video game arcades have evolved since then. What does the modern day equivalent look like (i.e. Dave & Buster’s, local retro arcades)? Are there the same concerns from adults about arcades today? Why or why not?
 
