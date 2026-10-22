@@ -1,6 +1,7 @@
 require_relative '../../lib/markdowner'
 
 class PlainOverrideController < ApplicationController
+  include PublicCache
   layout 'plain'
 
   def show
