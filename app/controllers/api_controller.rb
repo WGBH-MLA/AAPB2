@@ -2,8 +2,6 @@ require_relative '../../lib/solr'
 require 'nokogiri'
 
 class ApiController < ApplicationController
-  include PublicCache
-  skip_after_action :cache_publicly, only: :transcript # behind basic auth
   skip_before_action :verify_authenticity_token
   # TODO: There is nothing we have that is worth a CSRF, but CORS is a better way to do this.
 
