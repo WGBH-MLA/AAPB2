@@ -1,6 +1,8 @@
 # Only allow crawling of record details pages, i.e. /catalog/{id}
 # and not search results pages, i.e /catalog?params, or catalog.html?params
 User-agent: *
-Disallow: /catalog
 Allow: /catalog/
+Disallow: /catalog
 Disallow: /logs
+Disallow: /site-ui/
+Disallow: /thumbs/
