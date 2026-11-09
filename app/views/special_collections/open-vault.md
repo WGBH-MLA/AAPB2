@@ -6,6 +6,8 @@
 
 ## Summary
 
+**Celebrating 75 years of GBH:** This collection brings together highlights from GBH’s archives, reflecting the people, programs, and stories that have shaped 75 years of Boston public media.
+
 <table class="full-width">
   <tbody>
     <tr>

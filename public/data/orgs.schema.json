@@ -33,7 +33,7 @@
           ]
         }
       },
-      "required": ["Name", "Short name", "State", "City", "About", "location"],
+      "required": ["Name", "Short name", "State"],
       "additionalProperties": false
     }
   },

@@ -1,5 +1,6 @@
 class CaptionsController < ApplicationController
   include Blacklight::Catalog
+  include PublicCache
   # include BlacklightGUIDFetcher
 
   def show

@@ -1,7 +1,8 @@
 FROM ruby:2.4.4 as base
 WORKDIR /usr/src/app
 
-RUN /bin/echo -e "deb http://archive.debian.org/debian stretch main\ndeb http://archive.debian.org/debian-security stretch/updates main\n" > /etc/apt/sources.list
+RUN echo "deb [trusted=yes check-valid-until=no] http://archive.debian.org/debian stretch main" > /etc/apt/sources.list \
+ && echo "deb [trusted=yes check-valid-until=no] http://archive.debian.org/debian-security stretch/updates main" >> /etc/apt/sources.list
 
 # Install non-ruby dependencies
 RUN apt update && apt install -y --allow-unauthenticated nodejs curl libcurl3 libcurl3-openssl-dev openjdk-8-jdk
@@ -18,9 +19,11 @@ FROM base as development
 # Set the RAILS_ENV to production. This affects several things in Rails.
 ENV RAILS_ENV=development
 
-# Update the bundle from Gemfile to pull in any newer versions not committed to
-# Gemfile.lock yet.
-RUN bundle update
+# Run bundle install to install all dependencies from Gemfile.lock.
+# NOTE: This was changed from `bundle update` to `bundle install` to avoid updating the bundle in development
+# because our dependencies are so old that tryin to update will slurp up newer gems that need newer dependencies
+# that do not ship with Debian Stretch, and we can't upgrade from stretch because of more dependency avalanche.
+RUN bundle install
 
 # Install fresh jetty instance
 RUN bundle exec rake jetty:clean
@@ -37,7 +40,7 @@ EXPOSE 3000
 #      Runs databae migrations, if any need to be run.
 # 4. bundle exec rails s -b 0.0.0.0
 #      Starts the Rails server.
-CMD bundle exec rake jetty:config \
+CMD bundle exec rake jetty:config && \
     bundle exec rake jetty:start && \
     bundle exec rake db:migrate && \
     bundle exec rails s -b 0.0.0.0

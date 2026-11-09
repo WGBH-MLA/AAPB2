@@ -1,4 +1,6 @@
 class OrganizationsController < ApplicationController
+  include PublicCache
+
   def index
     @states = State.all.sort_by(&:name)
     @page_title = 'Participating Organizations'

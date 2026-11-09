@@ -1,4 +1,6 @@
 class OaiController < ApplicationController
+  include PublicCache
+
   Record = Struct.new(:id, :date, :pbcore)
   ROWS = 100
 

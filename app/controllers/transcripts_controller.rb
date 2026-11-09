@@ -1,5 +1,6 @@
 class TranscriptsController < ApplicationController
   include Blacklight::Catalog
+  include PublicCache
 
   layout 'transcript'
   caches_page :show
