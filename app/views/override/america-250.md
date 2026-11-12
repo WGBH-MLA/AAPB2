@@ -436,7 +436,7 @@
       <span></span>
       <a href="/special_collections/new-mexico-public-media-collection">
         <img src="https://s3.amazonaws.com/americanarchive.org/special-collections/NM_riochama_withcaption.png" />
-        <div class="tv-scroller-title"> 580</div>
+        <div class="tv-scroller-title">New Mexico Public Media</div>
       </a>
     </div>
 
