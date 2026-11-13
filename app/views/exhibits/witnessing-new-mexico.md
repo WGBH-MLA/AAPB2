@@ -4,7 +4,7 @@
 
 ## Summary
 
- <img title="Banner Image" alt="Title card that reads Witnessing New Mexico: The New Mexico Public Media Digitization Project" src="https://s3.amazonaws.com/americanarchive.org/exhibits/witnessing-nm-exhibit-title-graphic.png">
+ <img title="Banner Image" alt="Title card that reads Witnessing New Mexico: The New Mexico Public Media Digitization Project" src="https://s3.amazonaws.com/americanarchive.org/exhibits/witnessing-nm-exhibit-title-graphic.png" />
 
  &emsp;
  
@@ -69,8 +69,10 @@ NMPM Digitization Project fellows David P. Saiz and Dr. Rachel Snow have created
 - ["Voices of Espejos de Aztlán: Listening to Chicana/o Culture, History, and Political Mobilization in New Mexico" by David P. Saiz](https://www.newmexicopbs.org/new-mexico-public-media-digitization-project/)
 
 ## Main
+  
+&emsp;
 
-  <img title="NM Map" alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/NM Map with Logos.png">
+  <img title="NM Map" alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/NM Map with Logos.png" />
   
 &emsp;
 
@@ -89,7 +91,7 @@ This project would not have been possible without the support of Angelica Bernae
 #### Next: [Reclaiming Histories](/exhibits/witnessing-new-mexico/2-reclaiming-histories.md)
 
 ## Cover
-  <img title="Cover Image" alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/nm_storymap_cover.png">
+  <img title="Cover Image" alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/nm_storymap_cover.png" />
 
 ## Gallery 
 

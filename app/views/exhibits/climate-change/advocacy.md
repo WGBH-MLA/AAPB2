@@ -2,14 +2,6 @@
 
 4
 
--	[Bill McKibben: The End of Nature](/catalog/cpb-aacip_16-p843r0qc0z)
--	[Interview with Bill McKibben](/catalog/cpb-aacip_46-65h9w6z2)
--	[Role of Citizen Action in Solving Global Warming)](/catalog/cpb-aacip_15-7940r9m78p)
--	[Bill McKibben: Eaarth](/catalog/cpb-aacip_15-8s4jm23h6q)
--	[John Francis: Planetwalker](/catalog/cpb-aacip_15-2f7jq0sw07)
--	[Elizabeth Kolbert: The Climate of Man](/catalog/cpb-aacip_16-9c6rx93p51)
--	[Global Warming / SCETV](/catalog/cpb-aacip_41-51vdnpkz)
-
 ## Summary
 
 ## Extended
@@ -36,3 +28,11 @@ Since the late 1980s, writer and climate change activist Bill McKibben has been 
     <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_15-8s4jm23h6q"></a>
 
 ## Records
+
+-	[Bill McKibben: The End of Nature](/catalog/cpb-aacip_16-p843r0qc0z)
+-	[Interview with Bill McKibben](/catalog/cpb-aacip_46-65h9w6z2)
+-	[Role of Citizen Action in Solving Global Warming)](/catalog/cpb-aacip_15-7940r9m78p)
+-	[Bill McKibben: Eaarth](/catalog/cpb-aacip_15-8s4jm23h6q)
+-	[John Francis: Planetwalker](/catalog/cpb-aacip_15-2f7jq0sw07)
+-	[Elizabeth Kolbert: The Climate of Man](/catalog/cpb-aacip_16-9c6rx93p51)
+-	[Global Warming / SCETV](/catalog/cpb-aacip_41-51vdnpkz)
