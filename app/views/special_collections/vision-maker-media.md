@@ -6,7 +6,7 @@
 
 ## Summary
 
-The Vision Maker Media Documentaries Collection includes over 40 documentary films featuring Native voices from Native producers, created between 1982 and 2012. These films, created by independent Native producers and broadcast on PBS, inspire people to look at the world through Indigenous eyes and encourage youth to embrace their rich culture as part of their identity. The films document the people, society and culture of Native tribes including, but not limited to, the Navajo (Dine), Lakota, Choctaw, and various other tribes. Topics include art, music, language, and many others.
+The Vision Maker Media Documentaries collection includes over 40 documentary films featuring Native voices from Native producers, created between 1982 and 2012. These films, created by independent Native producers and broadcast on PBS, inspire people to look at the world through Indigenous eyes and encourage youth to embrace their rich culture as part of their identity. The films document the people, society and culture of Native tribes including, but not limited to, the Navajo (Dine), Lakota, Choctaw, and various other tribes. Topics include art, music, language, and many others.
 
 ## Background
 
@@ -35,7 +35,7 @@ In 2016, Vision Maker Media celebrated its 40th anniversary by collaborating wit
 
 ## Help
 
-Most of the films in this collection are available in the Online Reading Room, and the entire collection is accessible on location at the Library of Congress and WGBH. Records are described at an item level and all records contain brief descriptions. Search by keyword or browse all episodes by clicking “Explore the Collection” below the search box.
+Records are described at an item level and all records contain brief descriptions. Search by keyword or browse all episodes by clicking “View the Collection” below the search box.
 
 ## Terms
 
