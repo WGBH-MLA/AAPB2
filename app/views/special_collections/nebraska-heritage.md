@@ -35,12 +35,12 @@ The Nebraska Heritage Collection was added to the AAPB in November 2026.
 
 ## Featured
 
-[![Land of Their Own](https://s3.amazonaws.com/americanarchive.org/special-collections/land-of-their-own.png)](/catalog/cpb-aacip-526-901zc7ss52)
-[![Backyard Farmer](https://s3.amazonaws.com/americanarchive.org/special-collections/bfarmer.png)](/catalog/cpb-aacip-15-9m03xx2p)
-[![A Portrait of Jamie](https://s3.amazonaws.com/americanarchive.org/special-collections/jamie.png)](/catalog/cpb-aacip-512-2r3nv9b09w)
-[![Interview with Truman Dailey](https://s3.amazonaws.com/americanarchive.org/special-collections/dailey.png)](/catalog/cpb-aacip-151-sn00z71m54)
-[![Ernie Chambers](https://s3.amazonaws.com/americanarchive.org/special-collections/ernie-2-light.jpeg)](/catalog/cpb-aacip-75-48sbchq4)
-[![Oregon Trail](https://s3.amazonaws.com/americanarchive.org/special-collections/oregon-trail.png)](/catalog/cpb-aacip-85cd582f11e)
+[![Land of Their Own](https://s3.amazonaws.com/americanarchive.org/special-collections/land-of-their-own.png)](/catalog/cpb-aacip-a3237cedd65)
+[![Backyard Farmer](https://s3.amazonaws.com/americanarchive.org/special-collections/bfarmer.png)](/catalog/cpb-aacip-b16a9515d64)
+[![A Portrait of Jamie](https://s3.amazonaws.com/americanarchive.org/special-collections/jamie.png)](/catalog/cpb-aacip-930980074cc)
+[![Interview with Truman Dailey](https://s3.amazonaws.com/americanarchive.org/special-collections/dailey.png)](/catalog/cpb-aacip-73a311fd41a)
+[![Ernie Chambers](https://s3.amazonaws.com/americanarchive.org/special-collections/ernie-2-light.jpeg)](/catalog/cpb-aacip-a7f3eccfa89)
+[![The Oregon Trail](https://s3.amazonaws.com/americanarchive.org/special-collections/oregon-trail.png)](/catalog/cpb-aacip-85cd582f11e)
 
 ## Resources
 
