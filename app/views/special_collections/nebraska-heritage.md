@@ -16,7 +16,7 @@ Other programs in the collection highlight the importance of farming and agricul
 
 The Nebraska Heritage Collection showcases a wealth of unique literary and arts programming, including a [seven-part series on creative writing](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Mari+Sandoz+Discusses+Creative+Writing&sort=episode_number_sort+asc) produced by Hull and presented by Mari Sandoz, one of the foremost chroniclers of the American West. [*Anyone for Tennyson?*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Anyone+for+Tennyson%3F&sort=episode_number_sort+asc) (1976–1978) was a celebrated series of poetry-in-performance programs featuring famous guest stars, including Henry Fonda, Vincent Price, William Shatner, and Irene Worth. [*Is It Art?*](https://americanarchive.org/catalog/cpb-aacip-8230ce546e4) (1992) takes viewers behind the scenes into artists’ studios, museums, and galleries, while [*A Sense of Place*](https://americanarchive.org/catalog/cpb-aacip-293b7387daa) (1980) explores artists’ relationship to the American landscape.
 
-The collection also includes profiles of artists and public figures, such as [*Portrait of Jamie*](https://americanarchive.org/catalog/cpb-aacip-930980074cc) (1977), profiling realist painter Jamie Wyeth, and [*A View from the Standpipe*](https://americanarchive.org/catalog/cpb-aacip-273c06f9f3b) (1982), about Nebraska native John Falter, whom Norman Rockwell deemed “America’s most gifted illustrator.” Ernie Chambers—the first African American in Nebraska to run for U.S. Senate and the only African American to run for governor in the state’s history—is the subject of [*Ernie Chambers: Still Militant After All These Years*](https://americanarchive.org/catalog/cpb-aacip-a7f3eccfa89) (1997). 
+The collection also includes profiles of artists and public figures, such as [*A Portrait of Jamie*](https://americanarchive.org/catalog/cpb-aacip-930980074cc) (1977), profiling realist painter Jamie Wyeth, and [*A View from the Standpipe*](https://americanarchive.org/catalog/cpb-aacip-273c06f9f3b) (1982), about Nebraska native John Falter, whom Norman Rockwell deemed “America’s most gifted illustrator.” Ernie Chambers—the first African American in Nebraska to run for U.S. Senate and the only African American to run for governor in the state’s history—is the subject of [*Ernie Chambers: Still Militant After All These Years*](https://americanarchive.org/catalog/cpb-aacip-a7f3eccfa89) (1997). 
 
 Spanning almost fifty years, The Nebraska Heritage Collection brings together many of Nebraska public television’s most acclaimed, unique, and historically noteworthy programs.
 
@@ -31,7 +31,7 @@ The Nebraska Heritage Collection features television programming selected by Hul
 
 The Nebraska Heritage Collection was added to the AAPB in November 2026.
 
-*Cover image courtesy of Nebraska Public Media. Modified from the original.* 
+*Cover image of Ron Hull courtesy of Nebraska Public Media. Modified from the original.* 
 
 ## Featured
 
@@ -39,8 +39,8 @@ The Nebraska Heritage Collection was added to the AAPB in November 2026.
 [![Backyard Farmer](https://s3.amazonaws.com/americanarchive.org/special-collections/bfarmer.png)](/catalog/cpb-aacip-15-9m03xx2p)
 [![A Portrait of Jamie](https://s3.amazonaws.com/americanarchive.org/special-collections/jamie.png)](/catalog/cpb-aacip-512-2r3nv9b09w)
 [![Interview with Truman Dailey](https://s3.amazonaws.com/americanarchive.org/special-collections/dailey.png)](/catalog/cpb-aacip-151-sn00z71m54)
-[![After the Last Harvest](https://s3.amazonaws.com/americanarchive.org/special-collections/after-harvest.png)](/catalog/cpb-aacip-28-td9n29pp9j)
 [![Ernie Chambers](https://s3.amazonaws.com/americanarchive.org/special-collections/ernie-2-light.jpeg)](/catalog/cpb-aacip-75-48sbchq4)
+[![Oregon Trail](https://s3.amazonaws.com/americanarchive.org/special-collections/oregon-trail.png)](/catalog/cpb-aacip-85cd582f11e)
 
 ## Resources
 
