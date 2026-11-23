@@ -6,22 +6,22 @@
 
 ## Summary
 
-The Vision Maker Media Documentaries Collection includes 40 documentary films featuring Native voices from Native producers, created between 1982 and 2012. These films, created by independent Native producers and broadcast on PBS, inspire people to look at the world through Indigenous eyes and encourage youth to embrace their rich culture as part of their identity. The films document the people, society and culture of Native tribes including, but not limited to, the Navajo (Dine), Lakota, Choctaw and various other tribes. Topics include art, music, language and many others.
+The Vision Maker Media Documentaries Collection includes over 40 documentary films featuring Native voices from Native producers, created between 1982 and 2012. These films, created by independent Native producers and broadcast on PBS, inspire people to look at the world through Indigenous eyes and encourage youth to embrace their rich culture as part of their identity. The films document the people, society and culture of Native tribes including, but not limited to, the Navajo (Dine), Lakota, Choctaw, and various other tribes. Topics include art, music, language, and many others.
 
 ## Background
 
 The same year the United States celebrated its bicentennial and President Ford proclaimed a week in October as "Native American Awareness Week," six Native producers in public television met to charter the Native American Public Broadcasting Consortium (NAPBC), later known as Native American Public Telecommunications (NAPT) and now Vision Maker Media. In 1976 these Native producers began to cultivate interest among Native American tribes to participate in developing their own media, which led to the initiation of several tribal media projects. Since its founding, Vision Maker Media and its predecessor organizations have created more than 500 films, awarded $11 million to independent producers and held hundreds of film-screening events across the nation.
 
-In 2016, Vision Maker Media celebrated its 40th anniversary by collaborating with the American Archive of Public Broadcasting to preserve these films as part of their 40 Years, 40 Films, 40 Weeks campaign. With funding from the Corporation for Public Broadcasting, these 40 films were digitized and preserved in the AAPB. Most of the films are available in the Online Reading Room, and the entire collection is available for research on location at WGBH and the Library of Congress. Vision Maker Media plans to have their whole collection preserved in the AAPB, WGBH and the Library of Congress.
+In 2016, Vision Maker Media celebrated its 40th anniversary by collaborating with the American Archive of Public Broadcasting to preserve these films as part of their 40 Years, 40 Films, 40 Weeks campaign. With funding from the Corporation for Public Broadcasting, 40 films were digitized and preserved in the AAPB. Thirteen of the films are available streaming from the AAPB website, and the entire collection is available for remote research access and on location at GBH and the Library of Congress. Vision Maker Media plans to have their whole collection preserved in the AAPB.
 
 ## Featured
 
-[![Surviving Columbus](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_508-td9n29q276.jpg)](/catalog/cpb-aacip_508-td9n29q276)
-[![Injunuity](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_508-nv9959d319.jpg)](/catalog/cpb-aacip_508-nv9959d319)
-[![Apache 8](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_508-125q815826.jpg)](/catalog/cpb-aacip_508-125q815826)
+[![Jaune Quick-To-See Smith](https://s3.amazonaws.com/americanarchive.org/special-collections/jaune.png)](/catalog/cpb-aacip-508-222r49gs11)
+[![Harold of Orange](https://s3.amazonaws.com/americanarchive.org/special-collections/harold.png)](/catalog/cpb-aacip-508-j38kd1rb1k)
 [![Hand Game](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_508-w66930ps8b.jpg)](/catalog/cpb-aacip_508-w66930ps8b)
-[![Smokin' Fish](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_508-jw86h4dj2b.jpg)](/catalog/cpb-aacip_508-jw86h4dj2b)
-[![The Medicine Game](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_508-pn8x922951.jpg)](/catalog/cpb-aacip_508-pn8x922951)
+[![Choctaw Code Talkers](https://s3.amazonaws.com/americanarchive.org/special-collections/code-talkers.jpeg)](/catalog/cpb-aacip-508-x639z91993)
+[![Apache 8](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_508-125q815826.jpg)](/catalog/cpb-aacip_508-125q815826)
+[![Sousa on the Rez](https://s3.amazonaws.com/americanarchive.org/special-collections/sousa.png)](/catalog/cpb-aacip-508-3t9d50gh3n)
 
 ## Resources
 
