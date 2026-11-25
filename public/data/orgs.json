@@ -1736,15 +1736,15 @@
   },
   "NCSG55112": {
     "Short name": "BirdNote",
-    "State": "North Carolina",
-    "City": "Asheville",
+    "State": "Washington",
+    "City": "Seattle",
     "Logo": "Birdnote_Logo1.jpg",
     "Url": "https://www.birdnote.org/",
     "About": "",
     "Name": "BirdNote",
     "location": [
-      35.594826122538855,
-      -82.55592125912412
+      47.60535637915008,
+      -122.3247026110904
     ]
   },
   "NCSG55143": {
