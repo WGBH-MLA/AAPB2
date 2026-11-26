@@ -16,7 +16,7 @@ This section features programs about communities, institutions, and movements th
 
 ## Main
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Surviving Columbus-1280x1280.png">
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Surviving Columbus-1280x1280.png" />
 
 &emsp;
 
@@ -148,7 +148,7 @@ In *New Mexico in Focus* "Luminarios," Nadine and Patsy Cordova were teaching Hi
 
 In this episode of *Espejos de Aztlán*, José Rodríguez and Rudy Miera discuss the monumental musical drama "Nuevo Mexico, Sí," which brings to life New Mexico's complicated history. 
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Vado-1280x1280.png">
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Vado-1280x1280.png" />
 
 &emsp;
 
@@ -306,7 +306,7 @@ The U.S. is known for its high rate of incarceration, a trend that carries over 
 
 ## Cover
 
-<img title="Cover Image" alt="Reclaiming Histories" src="https://s3.amazonaws.com/americanarchive.org/exhibits/reclaiming-histories-thumbnail.jpg">
+<img title="Cover Image" alt="Reclaiming Histories" src="https://s3.amazonaws.com/americanarchive.org/exhibits/reclaiming-histories-thumbnail.jpg" />
 
 ## Gallery
 

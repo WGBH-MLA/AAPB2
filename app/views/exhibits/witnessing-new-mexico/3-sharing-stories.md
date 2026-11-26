@@ -16,7 +16,7 @@ Empowering people who have been labeled different or unimportant is a major feat
 
 ## Main
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Juane Quick-to-See Smith-1280x1280.png"> 
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Juane Quick-to-See Smith-1280x1280.png" /> 
 
 &emsp;
 
@@ -60,7 +60,7 @@ Maria Benitez's life as a Flamenco dancer is featured in *Notable New Mexicans*,
 
 *¡Colores!*, "One Who Stands In the Sun" captures the life and art of Native American painter T. C. Cannon, also known as Pai-doung-u-day (Caddo/Kiowa). 
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/LGBTQ Youth-1280x1280.png">
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/LGBTQ Youth-1280x1280.png" />
 
 &emsp;
 
@@ -128,7 +128,7 @@ The conversation continues with *¡Colores!*, "More! Albuquerque: Places of the 
 
 *¡Colores!*, "Albuquerque's Historic Neighborhoods" proves that Albuquerque's historic neighborhoods are key to understanding the uniqueness of the city. 
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Fabiola Cabeza de Baca-1280x1280.png">
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Fabiola Cabeza de Baca-1280x1280.png" />
 
 &emsp;
 
@@ -172,7 +172,7 @@ Experience sacred "alabados" of the Penitentes of Northern New Mexico in *¡Colo
 
 Experience the songs of corridistas: Antonio Martinez, Roberto Martinez, and Chuy Martinez in *¡Colores!*, "Una Lucha Por Mi Pueblo."
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Authors Enrique Lamadrid and Moises Gonzales-1280x1280.png">
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Authors Enrique Lamadrid and Moises Gonzales-1280x1280.png" />
 
 &emsp;
 
@@ -204,7 +204,7 @@ In *Espejos de Aztlán*, Tomás Atencio discusses "genízaros" in New Mexico and
 
 *New Mexico in Focus*, "Kellogg/Women's History Month" is a look back at the Spanish Inquisition and the life of Doña Teresa, the Governor’s wife and a target of the Inquisition. 
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/This Town is Not For Sale-1280x1280.png">
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/This Town is Not For Sale-1280x1280.png" />
 
 &emsp;
 
@@ -248,7 +248,7 @@ Listen to short stories about the lives of girls and women in New Mexico history
 
 *New Mexico in Focus*, "Women in Science" is a profile on Margaret Werner-Washburne, a nationally recognized research biologist making breakthroughs in understanding the cell. 
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Golden Dawn-1280x1280.png">
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Golden Dawn-1280x1280.png" />
 
 &emsp;
 
@@ -288,7 +288,7 @@ In *New Mexico Women in Music 2*, Bonnie Blum talks about her life as a singer/s
 
 In *New Mexico Women in Music 3*, classical pianist and composer Magdaline Luki performs while percussionist Robyn Schulkowsky discusses her music. 
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Atomic Veterans-1280x1280.png">
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Atomic Veterans-1280x1280.png" />
 
 &emsp;
 
@@ -328,7 +328,7 @@ Almost 280,000 women have served post-9/11 in Afghanistan and Iraq. *New Mexico 
 
 In *We Are the Historians*, "The GI Revolt," service members work to raise awareness about the realities of war, including post-traumatic syndrome. 
 
-<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/New Mexico’s Nuclear Enchantment-1280x1280.png">
+<img title="INSIGHT" alt="Insight" src="https://s3.amazonaws.com/americanarchive.org/exhibits/New Mexico’s Nuclear Enchantment-1280x1280.png" />
 
 &emsp;
 
@@ -382,7 +382,7 @@ Peace Pilgrim (Mildred Lisette Norman) walked across the United States for 28 ye
 
 ## Cover
 
-<img title="Cover Image" alt="Sharing Stories" src="https://s3.amazonaws.com/americanarchive.org/exhibits/sharing-stories-thumbnail.png">
+<img title="Cover Image" alt="Sharing Stories" src="https://s3.amazonaws.com/americanarchive.org/exhibits/sharing-stories-thumbnail.png" />
 
 ## Gallery
 
